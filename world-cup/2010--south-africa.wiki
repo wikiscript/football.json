@@ -1,0 +1,1067 @@
+<!-- 
+     source: en.wikipedia.org/wiki/2010_FIFA_World_Cup_squads
+     added:  Jun/6 2014
+  -->
+
+{{Use dmy dates|date=September 2012}}
+The [[2010 FIFA World Cup]] was an international [[association football|football]] tournament held in South Africa from 11 June until 11 July 2010. The 32 national teams involved in the tournament were required to register a squad of 23 players; only players in these squads were eligible to take part in the tournament.
+
+Before announcing their final squad for the tournament, teams were required to name a preliminary squad of 30 players by 11 May 2010, 30 days before the start of the tournament. With the exception of those involved in the [[2010 UEFA Champions League Final]], the players listed in the preliminary squad were then subjected to a mandatory rest period from 17 to 23 May 2010. The preliminary squad would then have to be cut to a final 23 by 1 June 2010 (midnight [[Central European Time|CET]]).<ref>{{cite news |title=FIFA releases information on squad lists for South Africa 2010 |url=http://www.fifa.com/worldcup/news/newsid=1206808/index.html |work=FIFA.com |date=7 May 2010 |accessdate=1 June 2010 |archiveurl=http://web.archive.org/web/20100528094003/http://www.fifa.com/worldcup/news/newsid=1206808/index.html |archivedate=28 May 2010 <!--DASHBot--> |deadurl=no }}</ref><ref>{{cite web|url=http://www.worldcup2010southafrica.com/world-cup/2010-news/world-cup-2010-prelim-squad-list/ |title=World Cup 2014 Brazil &#124; World Cup 2010 complete preliminary squad list |publisher=Worldcup2010southafrica.com |date=14 May 2010 |accessdate=18 September 2012}}</ref> Replacement of seriously injured players is permitted until 24 hours before the team in question's first World Cup game, though replacement players do not have to be drawn from the preliminary squad.<ref>{{cite web |url=http://www.fifa.com/mm/document/tournament/competition/56/42/69/fifawcsouthafrica2010inhalt_e.pdf |title=Regulations 2010 FIFA World Cup South Africa |work=FIFA.com |publisher=Fédération Internationale de Football Association |location=Zürich |pages=33–35 |format=PDF |accessdate=9 June 2010 |archiveurl=http://web.archive.org/web/20100614213414/http://www.fifa.com/mm/document/tournament/competition/56/42/69/fifawcsouthafrica2010inhalt%5fe.pdf |archivedate=14 June 2010 <!--DASHBot--> |deadurl=no |date=February 2010}}</ref>
+
+Players marked ([[Captain (association football)|c]]) were named as captain for their national squad. Number of caps, players' club teams and players' age as of 11 June 2010, the tournament's opening day.
+
+For the first time in World Cup history, all teams had at least one player from a European club ([[Korea DPR national football team|Korea DPR]] being the only team with just one, [[Hong Yong-Jo]]). Three national squads were made up entirely of players from domestic clubs: [[England national football team|England]], [[Italy national football team|Italy]] and [[Germany national football team|Germany]]. [[Nigeria national football team|Nigeria]] was the only team with no players from domestic clubs.
+
+==Group A==
+===South Africa===
+Coach: {{flagicon|BRA}} [[Carlos Alberto Parreira]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Moeneeb Josephs]]|age={{Birth date and age2|2010|6|11|1980|5|19|df=y}}|caps=17|club=[[Orlando Pirates FC|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs player|no=2|pos=DF|name=[[Siboniso Gaxa]]|age={{Birth date and age2|2010|6|11|1984|4|6|df=y}}|caps=37|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs player|no=3|pos=DF|name=[[Tsepo Masilela]]|age={{Birth date and age2|2010|6|11|1985|5|5|df=y}}|caps=31|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=ISR}}
+{{nat fs player|no=4|pos=DF|name=[[Aaron Mokoena]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1980|11|25|df=y}}|caps=101|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Anele Ngcongca]]|age={{Birth date and age2|2010|6|11|1987|10|20|df=y}}|caps=5|club=[[K.R.C. Genk|Racing Genk]]|clubnat=BEL}}
+{{nat fs player|no=6|pos=MF|name=[[MacBeth Sibaya]]|age={{Birth date and age2|2010|6|11|1977|11|25|df=y}}|caps=58|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs player|no=7|pos=MF|name=[[Lance Davids]]|age={{Birth date and age2|2010|6|11|1985|4|11|df=y}}|caps=22|club=[[Ajax Cape Town FC|Ajax Cape Town]]|clubnat=RSA}}
+{{nat fs player|no=8|pos=MF|name=[[Siphiwe Tshabalala]]|age={{Birth date and age2|2010|6|11|1984|9|25|df=y}}|caps=48|club=[[Kaizer Chiefs FC|Kaizer Chiefs]]|clubnat=RSA}}
+{{nat fs player|no=9|pos=FW|name=[[Katlego Mphela]]|age={{Birth date and age2|2010|6|11|1984|11|29|df=y}}|caps=31|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs player|no=10|pos=MF|name=[[Steven Pienaar]]|age={{Birth date and age2|2010|6|11|1982|3|17|df=y}}|caps=50|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=MF|name=[[Teko Modise]]|age={{Birth date and age2|2010|6|11|1982|12|22|df=y}}|caps=52||club=[[Orlando Pirates FC|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs player|no=12|pos=MF|name=[[Reneilwe Letsholonyane]]|age={{Birth date and age2|2010|6|11|1982|6|9|df=y}}|caps=13|club=[[Kaizer Chiefs FC|Kaizer Chiefs]]|clubnat=RSA}}
+{{nat fs player|no=13|pos=MF|name=[[Kagisho Dikgacoi]]|age={{Birth date and age2|2010|6|11|1984|11|24|df=y}}|caps=37|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=DF|name=[[Matthew Booth (soccer)|Matthew Booth]]|age={{Birth date and age2|2010|6|11|1977|3|14|df=y}}|caps=27|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs player|no=15|pos=DF|name=[[Lucas Thwala]]|age={{Birth date and age2|2010|6|11|1981|10|19|df=y}}|caps=24|club=[[Orlando Pirates FC|Orlando Pirates]]|clubnat=RSA}}
+{{nat fs player|no=16|pos=GK|name=[[Itumeleng Khune]]|age={{Birth date and age2|2010|6|11|1987|6|20|df=y}}|caps=27|club=[[Kaizer Chiefs FC|Kaizer Chiefs]]|clubnat=RSA}}
+{{nat fs player|no=17|pos=FW|name=[[Bernard Parker]]|age={{Birth date and age2|2010|6|11|1986|3|16|df=y}}|caps=28|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=18|pos=FW|name=[[Siyabonga Nomvethe]]|age={{Birth date and age2|2010|6|11|1977|12|2|df=y}}|caps=76|club=[[Moroka Swallows F.C.|Moroka Swallows]]|clubnat=RSA}}
+{{nat fs player|no=19|pos=MF|name=[[Surprise Moriri]]|age={{Birth date and age2|2010|6|11|1980|3|20|df=y}}|caps=34|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=RSA}}
+{{nat fs player|no=20|pos=DF|name=[[Bongani Khumalo]]|age={{Birth date and age2|2010|6|11|1987|1|6|df=y}}|caps=14|club=[[Supersport United F.C.|Supersport United]]|clubnat=RSA}}
+{{nat fs player|no=21|pos=DF|name=[[Siyabonga Sangweni]]|age={{Birth date and age2|2010|6|11|1981|9|29|df=y}}|caps=8|club=[[Golden Arrows]]|clubnat=RSA}}
+{{nat fs player|no=22|pos=GK|name=[[Shu-Aib Walters]]|age={{Birth date and age2|2010|6|11|1981|12|26|df=y}}|caps=0|club=[[Maritzburg United F.C.|Maritzburg United]]|clubnat=RSA}}
+{{nat fs player|no=23|pos=MF|name=[[Thanduyise Khuboni]]|age={{Birth date and age2|2010|6|11|1986|5|23|df=y}}|caps=9|club=[[Golden Arrows]]|clubnat=RSA}}
+{{nat fs end}}
+
+===Mexico===
+Coach: [[Javier Aguirre]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Óscar Pérez Rojas|Óscar Pérez]]|age={{birth date and age2|2010|6|11|1973|2|1|df=y}}|caps=52|club=[[Chiapas F.C.|Chiapas]]|clubnat=MEX}} 
+{{nat fs player|no=2|pos=DF|name=[[Francisco Javier Rodríguez|Francisco Rodríguez]]|age={{birth date and age2|2010|6|11|1981|10|20|df=y}}|caps=48|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs player|no=3|pos=DF|name=[[Carlos Salcido]]|age={{birth date and age2|2010|6|11|1980|4|2|df=y}}|caps=73|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs player|no=4|pos=DF|name=[[Rafael Márquez]] ([[Captain (association football)|c]])|age={{birth date and age2|2010|6|11|1979|2|13|df=y}}|caps=91|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=5|pos=DF|name=[[Ricardo Osorio]]|age={{birth date and age2|2010|6|11|1980|3|30|df=y}}|caps=76|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=6|pos=MF|name=[[Gerardo Torrado]]|age={{birth date and age2|2010|6|11|1979|4|30|df=y}}|caps=114|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs player|no=7|pos=MF|name=[[Pablo Barrera]]|age={{birth date and age2|2010|6|11|1987|6|21|df=y}}|caps=21|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs player|no=8|pos=MF|name=[[Israel Castro]]|age={{birth date and age2|2010|6|11|1980|12|29|df=y}}|caps=31|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs player|no=9|pos=FW|name=[[Guillermo Franco]]|age={{birth date and age2|2010|6|11|1976|11|3|df=y}}|caps=21|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Cuauhtémoc Blanco]]|age={{birth date and age2|2010|6|11|1973|1|17|df=y}}|caps=115|club=[[Tiburones Rojos de Veracruz|Veracruz]]|clubnat=MEX}}
+{{nat fs player|no=11|pos=FW|name=[[Carlos Vela]]|age={{birth date and age2|2010|6|11|1989|3|1|df=y}}|caps=28|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=DF|name=[[Paul Aguilar]]|age={{birth date and age2|2010|6|11|1986|3|6|df=y}}|caps=10|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs player|no=13|pos=GK|name=[[Guillermo Ochoa]]|age={{birth date and age2|2010|6|11|1985|7|13|df=y}}|caps=37|club=[[Club América|América]]|clubnat=MEX}} 
+{{nat fs player|no=14|pos=FW|name=[[Javier Hernández Balcázar|Javier Hernández]]|age={{birth date and age2|2010|6|11|1988|6|1|df=y}}|caps=12|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs player|no=15|pos=DF|name=[[Héctor Moreno (footballer)|Héctor Moreno]]|age={{birth date and age2|2010|6|11|1988|1|17|df=y}}|caps=10|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs player|no=16|pos=DF|name=[[Efraín Juárez]]|age={{birth date and age2|2010|6|11|1988|2|22|df=y}}|caps=19|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs player|no=17|pos=FW|name=[[Giovani dos Santos]]|age={{birth date and age2|2010|6|11|1989|5|11|df=y}}|caps=26|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=18|pos=MF|name=[[Andrés Guardado]]|age={{birth date and age2|2010|6|11|1986|9|28|df=y}}|caps=56|club=[[Deportivo de La Coruña|Deportivo La Coruña]]|clubnat=ESP}}
+{{nat fs player|no=19|pos=DF|name=[[Jonny Magallón]]|age={{birth date and age2|2010|6|11|1981|11|21|df=y}}|caps=52|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs player|no=20|pos=DF|name=[[Jorge Torres Nilo]]|age={{birth date and age2|2010|6|11|1988|1|16|df=y}}|caps=8|club=[[Club Atlas|Atlas]]|clubnat=MEX}}
+{{nat fs player|no=21|pos=FW|name=[[Adolfo Bautista]]|age={{birth date and age2|2010|6|11|1979|5|15|df=y}}|caps=37|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs player|no=22|pos=MF|name=[[Alberto Medina]]|age={{birth date and age2|2010|6|11|1983|5|29|df=y}}|caps=56|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs player|no=23|pos=GK|name=[[Luis Ernesto Michel]]|age={{birth date and age2|2010|6|11|1979|7|21|df=y}}|caps=4|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}} 
+{{nat fs end}}
+
+===Uruguay===
+Coach: [[Óscar Tabárez]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Fernando Muslera]]|age={{Birth date and age2|2010|6|11|1986|6|16|df=y}}|caps=6|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=2|pos=DF|name=[[Diego Lugano]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1980|11|2|df=y}}|caps=42|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=3|pos=DF|name=[[Diego Godín]]|age={{Birth date and age2|2010|6|11|1986|2|16|df=y}}|caps=38|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=DF|name=[[Jorge Fucile]]|age={{Birth date and age2|2010|6|11|1984|11|19|df=y}}|caps=24|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=5|pos=MF|name=[[Walter Gargano]]|age={{Birth date and age2|2010|6|11|1984|7|23|df=y}}|caps=28|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=DF|name=[[Mauricio Victorino]]|age={{Birth date and age2|2010|6|11|1982|10|11|df=y}}|caps=4|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs player|no=7|pos=FW|name=[[Edinson Cavani]]|age={{Birth date and age2|2010|6|11|1987|2|14|df=y}}|caps=14|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{nat fs player|no=8|pos=MF|name=[[Sebastián Eguren]]|age={{Birth date and age2|2010|6|11|1981|1|8|df=y}}|caps=27|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs player|no=9|pos=FW|name=[[Luis Suárez]]|age={{Birth date and age2|2010|6|11|1987|1|24|df=y}}|caps=30|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=10|pos=FW|name=[[Diego Forlán]]|age={{Birth date and age2|2010|6|11|1979|5|19|df=y}}|caps=62|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Álvaro Pereira]]|age={{Birth date and age2|2010|6|11|1985|11|28|df=y}}|caps=15|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=12|pos=GK|name=[[Juan Guillermo Castillo|Juan Castillo]]|age={{Birth date and age2|2010|6|11|1978|4|17|df=y}}|caps=11|club=[[Deportivo Cali]]|clubnat=COL}}
+{{nat fs player|no=13|pos=FW|name=[[Sebastián Abreu]]|age={{Birth date and age2|2010|6|11|1976|10|17|df=y}}|caps=56|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=BRA}}
+{{nat fs player|no=14|pos=MF|name=[[Nicolás Lodeiro]]|age={{Birth date and age2|2010|6|11|1989|3|21|df=y}}|caps=4|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=15|pos=MF|name=[[Diego Pérez (footballer)|Diego Pérez]]|age={{Birth date and age2|2010|6|11|1980|5|18|df=y}}|caps=50|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=16|pos=DF|name=[[Maximiliano Pereira|Maxi Pereira]]|age={{Birth date and age2|2010|6|11|1984|6|8|df=y}}|caps=37|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=17|pos=MF|name=[[Egidio Arévalo|Egidio Arévalo Ríos]]|age={{Birth date and age2|2010|6|11|1982|1|1|df=y}}|caps=6|club=[[C.A. Peñarol|Peñarol]]|clubnat=URU}}
+{{nat fs player|no=18|pos=MF|name=[[Ignacio María González|Ignacio González]]|age={{Birth date and age2|2010|6|11|1982|5|14|df=y}}|caps=17|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=19|pos=DF|name=[[Andrés Scotti]]|age={{Birth date and age2|2010|6|11|1974|12|14|df=y}}|caps=26|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs player|no=20|pos=MF|name=[[Álvaro Fernández]]|age={{Birth date and age2|2010|6|11|1985|10|11|df=y}}|caps=7|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs player|no=21|pos=FW|name=[[Sebastián Fernández]]|age={{Birth date and age2|2010|6|11|1985|5|23|df=y}}|caps=6|club=[[Club Atlético Banfield|Banfield]]|clubnat=ARG}}
+{{nat fs player|no=22|pos=DF|name=[[Martín Cáceres]]|age={{Birth date and age2|2010|6|11|1987|4|7|df=y}}|caps=19|club=[[FC Sevilla|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=23|pos=GK|name=[[Martín Silva]]|age={{Birth date and age2|2010|6|11|1983|3|25|df=y}}|caps=1|club=[[Defensor Sporting]]|clubnat=URU}}
+{{nat fs end}}
+
+===France===
+Coach: [[Raymond Domenech]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Hugo Lloris]]|age={{Birth date and age2|2010|6|11|1986|12|26|df=y}}|caps=11|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=2|pos=DF|name=[[Bacary Sagna]]|age={{Birth date and age2|2010|6|11|1983|2|14|df=y}}|caps=20|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Éric Abidal]]|age={{Birth date and age2|2010|6|11|1979|9|11|df=y}}|caps=54|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=DF|name=[[Anthony Réveillère]]|age={{Birth date and age2|2010|6|11|1979|11|10|df=y}}|caps=6|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=5|pos=DF|name=[[William Gallas]]|age={{Birth date and age2|2010|6|11|1977|8|17|df=y}}|caps=81|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=DF|name=[[Marc Planus]]|age={{Birth date and age2|2010|6|11|1982|3|7|df=y}}|caps=1|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{nat fs player|no=7|pos=MF|name=[[Franck Ribéry]]|age={{Birth date and age2|2010|6|11|1983|4|7|df=y}}|caps=45|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Yoann Gourcuff]]|age={{Birth date and age2|2010|6|11|1986|7|11|df=y}}|caps=20|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=FW|name=[[Djibril Cissé]]|age={{Birth date and age2|2010|6|11|1981|8|12|df=y}}|caps=39|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=10|pos=FW|name=[[Sidney Govou]]|age={{Birth date and age2|2010|6|11|1979|7|27|df=y}}|caps=46|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[André-Pierre Gignac]]|age={{Birth date and age2|2010|6|11|1985|12|5|df=y}}|caps=13|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=12|pos=FW|name=[[Thierry Henry]]|age={{Birth date and age2|2010|6|11|1977|8|17|df=y}}|caps=121|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=13|pos=DF|name=[[Patrice Evra]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1981|5|15|df=y}}|caps=30|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=MF|name=[[Jérémy Toulalan]]|age={{Birth date and age2|2010|6|11|1983|9|10|df=y}}|caps=34|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=15|pos=MF|name=[[Florent Malouda]]|age={{Birth date and age2|2010|6|11|1980|6|13|df=y}}|caps=54|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=GK|name=[[Steve Mandanda]]|age={{Birth date and age2|2010|6|11|1985|3|28|df=y}}|caps=13|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=17|pos=DF|name=[[Sébastien Squillaci]]|age={{Birth date and age2|2010|6|11|1980|8|11|df=y}}|caps=20|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=MF|name=[[Alou Diarra]]|age={{Birth date and age2|2010|6|11|1981|7|15|df=y}}|caps=25|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{nat fs player|no=19|pos=MF|name=[[Abou Diaby]]|age={{Birth date and age2|2010|6|11|1986|5|11|df=y}}|caps=5|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=MF|name=[[Mathieu Valbuena]]|age={{Birth date and age2|2010|6|11|1984|9|28|df=y}}|caps=2|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=21|pos=FW|name=[[Nicolas Anelka]]|age={{Birth date and age2|2010|6|11|1979|3|14|df=y}}|caps=67|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=DF|name=[[Gaël Clichy]]|age={{Birth date and age2|2010|6|11|1985|7|26|df=y}}|caps=4|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=GK|name=[[Cédric Carrasso]]|age={{Birth date and age2|2010|6|11|1981|12|30|df=y}}|caps=0|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{nat fs end}}
+
+==Group B==
+
+===Argentina===
+Coach: [[Diego Maradona]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Diego Pozo]]|age={{Birth date and age2|2010|6|11|1978|2|16|df=y}}|caps=3|club=[[Club Atlético Colón|Colón]]|clubnat=ARG}}
+{{nat fs player|no=2|pos=DF|name=[[Martín Demichelis]]|age={{Birth date and age2|2010|6|11|1980|12|20|df=y}}|caps=25|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Clemente Rodríguez]]|age={{Birth date and age2|2010|6|11|1981|7|31|df=y}}|caps=11|club=[[Estudiantes de La Plata|Estudiantes]]|clubnat=ARG}}
+{{nat fs player|no=4|pos=DF|name=[[Nicolás Burdisso]]|age={{Birth date and age2|2010|6|11|1981|4|12|df=y}}|caps=28|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=MF|name=[[Mario Bolatti]]|age={{Birth date and age2|2010|6|11|1985|2|17|df=y}}|caps=4|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=DF|name=[[Gabriel Heinze]]|age={{Birth date and age2|2010|6|11|1978|4|19|df=y}}|caps=63|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=7|pos=MF|name=[[Ángel di María]]|age={{Birth date and age2|2010|6|11|1988|2|14|df=y}}|caps=7|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=8|pos=MF|name=[[Juan Sebastián Verón]]|age={{Birth date and age2|2010|6|11|1975|3|9|df=y}}|caps=69|club=[[Estudiantes de La Plata|Estudiantes]]|clubnat=ARG}}
+{{nat fs player|no=9|pos=FW|name=[[Gonzalo Higuaín]]|age={{Birth date and age2|2010|6|11|1987|12|10|df=y}}|caps=4|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=10|pos=FW|name=[[Lionel Messi]]|age={{Birth date and age2|2010|6|11|1987|6|24|df=y}}|caps=44|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=FW|name=[[Carlos Tévez]]|age={{Birth date and age2|2010|6|11|1984|2|5|df=y}}|caps=51|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=DF|name=[[Ariel Garcé]]|age={{Birth date and age2|2010|6|11|1979|7|14|df=y}}|caps=3|club=[[Club Atlético Colón|Colón]]|clubnat=ARG}}
+{{nat fs player|no=13|pos=DF|name=[[Walter Samuel]]|age={{Birth date and age2|2010|6|11|1978|3|23|df=y}}|caps=54|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=MF|name=[[Javier Mascherano]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1984|6|8|df=y}}|caps=56|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=DF|name=[[Nicolás Otamendi]]|age={{Birth date and age2|2010|6|11|1988|2|12|df=y}}|caps=6|club=[[Club Atlético Vélez Sársfield|Vélez Sársfield]]|clubnat=ARG}}
+{{nat fs player|no=16|pos=FW|name=[[Sergio Agüero]]|age={{Birth date and age2|2010|6|11|1988|6|2|df=y}}|caps=20|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=17|pos=MF|name=[[Jonás Gutiérrez]]|age={{Birth date and age2|2010|6|11|1983|7|5|df=y}}|caps=15|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=FW|name=[[Martín Palermo]]|age={{Birth date and age2|2010|6|11|1973|11|7|df=y}}|caps=14|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs player|no=19|pos=FW|name=[[Diego Milito]]|age={{Birth date and age2|2010|6|11|1979|6|12|df=y}}|caps=20|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=MF|name=[[Maxi Rodríguez]]|age={{Birth date and age2|2010|6|11|1981|1|2|df=y}}|caps=35|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=GK|name=[[Mariano Andújar]]|age={{Birth date and age2|2010|6|11|1983|7|30|df=y}}|caps=4|club=[[Calcio Catania|Catania]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=GK|name=[[Sergio Romero]]|age={{Birth date and age2|2010|6|11|1987|2|22|df=y}}|caps=5|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs player|no=23|pos=MF|name=[[Javier Pastore]]|age={{Birth date and age2|2010|6|11|1989|6|20|df=y}}|caps=0|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Nigeria===
+Coach: {{flagicon|Sweden}} [[Lars Lagerbäck]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Vincent Enyeama]]|age={{Birth date and age2|2010|6|11|1982|8|29|df=y}}|caps=51|club=[[Hapoel Tel Aviv F.C.|Hapoel Tel Aviv]]|clubnat=ISR}}
+{{nat fs player|no=2|pos=DF|name=[[Joseph Yobo]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1980|9|6|df=y}}|caps=64|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Taye Taiwo]]|age={{Birth date and age2|2010|6|11|1985|4|16|df=y}}|caps=35|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=FW|name=[[Nwankwo Kanu]]|age={{Birth date and age2|2010|6|11|1976|8|1|df=y}}|caps=72|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Rabiu Afolabi]]|age={{Birth date and age2|2010|6|11|1980|4|18|df=y}}|caps=12|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs player|no=6|pos=DF|name=[[Danny Shittu]]|age={{Birth date and age2|2010|6|11|1980|9|2|df=y}}|caps=23|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=FW|name=[[John Utaka]]|age={{Birth date and age2|2010|6|11|1982|1|8|df=y}}|caps=41|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=FW|name=[[Yakubu Aiyegbeni]]|age={{Birth date and age2|2010|6|11|1982|11|22|df=y}}|caps=47|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Obafemi Martins]]|age={{Birth date and age2|2010|6|11|1984|10|28|df=y}}|caps=27|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=10|pos=FW|name=[[Brown Ideye]]<ref>[[John Obi Mikel]] replaced by [[Brown Ideye]] after he was ruled out due to injury.<br />{{cite web |title=Ideye replaces Mikel |url=http://www.fifa.com/worldcup/news/newsid=1229093/index.html |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=5 June 2010 |accessdate=6 June 2010 |archiveurl=http://web.archive.org/web/20100607043052/http://www.fifa.com/worldcup/news/newsid=1229093/index.html |archivedate=7 June 2010 <!--DASHBot--> |deadurl=no }}</ref>|age={{Birth date and age2|2010|6|11|1988|10|10|df=y}}|caps=0|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[Peter Odemwingie]]|age={{Birth date and age2|2010|6|11|1981|7|15|df=y}}|caps=43|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs player|no=12|pos=FW|name=[[Kalu Uche]]|age={{Birth date and age2|2010|6|11|1982|11|15|df=y}}|caps=18|club=[[UD Almería|Almería]]|clubnat=ESP}} 
+{{nat fs player|no=13|pos=MF|name=[[Ayila Yussuf]]|age={{Birth date and age2|2010|6|11|1984|11|4|df=y}}|caps=24|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=14|pos=MF|name=[[Sani Kaita]]|age={{Birth date and age2|2010|6|11|1986|5|2|df=y}}|caps=16|club=[[FC Alania Vladikavkaz|Alania Vladikavkaz]]|clubnat=RUS}}
+{{nat fs player|no=15|pos=MF|name=[[Lukman Haruna]]|age={{Birth date and age2|2010|6|11|1990|4|12|df=y}}|caps=5|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=16|pos=GK|name=[[Austin Ejide]]|age={{Birth date and age2|2010|6|11|1984|4|8|df=y}}|caps=16|club=[[Hapoel Petah Tikva F.C.|Hapoel Petah Tikva]]|clubnat=ISR}}
+{{nat fs player|no=17|pos=DF|name=[[Chidi Odiah]]|age={{Birth date and age2|2010|6|11|1983|12|17|df=y}}|caps=21|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs player|no=18|pos=FW|name=[[Victor Nsofor Obinna|Victor Obinna]]|age={{Birth date and age2|2010|6|11|1987|3|25|df=y}}|caps=30|club=[[Málaga CF|Málaga]]|clubnat=ESP}}
+{{nat fs player|no=19|pos=FW|name=[[Chinedu Obasi]]|age={{Birth date and age2|2010|6|11|1986|6|1|df=y}}|caps=17|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs player|no=20|pos=MF|name=[[Dickson Etuhu]]|age={{Birth date and age2|2010|6|11|1982|6|8|df=y}}|caps=11|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=DF|name=[[Uwa Elderson Echiéjilé|Uwa Echiéjilé]]|age={{Birth date and age2|2010|6|11|1988|1|20|df=y}}|caps=9|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs player|no=22|pos=DF|name=[[Dele Adeleye]]|age={{Birth date and age2|2010|6|11|1988|12|25|df=y}}|caps=5|club=[[Sparta Rotterdam]]|clubnat=NED}}
+{{nat fs player|no=23|pos=GK|name=[[Dele Aiyenugba]]|age={{Birth date and age2|2010|6|11|1983|11|20|df=y}}|caps=9|club=[[Bnei Yehuda Tel Aviv F.C.|Bnei Yehuda]]|clubnat=ISR}}
+{{nat fs end}}
+
+===Korea Republic===
+Coach: [[Huh Jung-Moo]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Lee Woon-Jae]]|age={{Birth date and age2|2010|6|11|1973|4|26|df=y}}|caps=130|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{nat fs player|no=2|pos=DF|name=[[Oh Beom-Seok]]|age={{Birth date and age2|2010|6|11|1984|7|29|df=y}}|caps=37|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=3|pos=DF|name=[[Kim Hyung-Il]]|age={{Birth date and age2|2010|6|11|1984|4|27|df=y}}|caps=2|club=[[Pohang Steelers]]|clubnat=KOR}}
+{{nat fs player|no=4|pos=MF|name=[[Cho Yong-Hyung]]|age={{Birth date and age2|2010|6|11|1983|11|3|df=y}}|caps=31|club=[[Jeju United FC|Jeju United]]|clubnat=KOR}}
+{{nat fs player|no=5|pos=MF|name=[[Kim Nam-Il]]|age={{Birth date and age2|2010|6|11|1977|3|14|df=y}}|caps=92|club=[[FC Tom Tomsk|Tom Tomsk]]|clubnat=RUS}}
+{{nat fs player|no=6|pos=MF|name=[[Kim Bo-Kyung]]|age={{Birth date and age2|2010|6|11|1989|10|6|df=y}}|caps=6|club=[[Oita Trinita]]|clubnat=JPN}}
+{{nat fs player|no=7|pos=MF|name=[[Park Ji-Sung]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1981|2|25|df=y}}|caps=88|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=FW|name=[[Kim Jung-Woo]]|age={{Birth date and age2|2010|6|11|1982|5|9|df=y}}|caps=54|club=[[Sangju Sangmu Phoenix|Gwangju Sangmu]]|clubnat=KOR}}
+{{nat fs player|no=9|pos=FW|name=[[Ahn Jung-Hwan]]|age={{Birth date and age2|2010|6|11|1976|1|27|df=y}}|caps=70|club=[[Dalian Shide F.C.|Dalian Shide]]|clubnat=CHN}}
+{{nat fs player|no=10|pos=FW|name=[[Park Chu-Young]]|age={{Birth date and age2|2010|6|11|1985|7|10|df=y}}|caps=40|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[Lee Seung-Yeoul]]|age={{Birth date and age2|2010|5|2|1989|3|6|df=y}}|caps=8|club=[[FC Seoul]]|clubnat=KOR}}
+{{nat fs player|no=12|pos=DF|name=[[Lee Young-Pyo]]|age={{Birth date and age2|2010|6|11|1977|4|23|df=y}}|caps=112|club=[[Al-Hilal Riyadh|Al-Hilal]]|clubnat=KSA}}
+{{nat fs player|no=13|pos=MF|name=[[Kim Jae-Sung]]|age={{Birth date and age2|2010|6|11|1983|10|3|df=y}}|caps=7|club=[[Pohang Steelers]]|clubnat=KOR}}
+{{nat fs player|no=14|pos=DF|name=[[Lee Jung-Soo]]|age={{Birth date and age2|2010|6|11|1980|1|8|df=y}}|caps=24|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{nat fs player|no=15|pos=DF|name=[[Kim Dong-Jin]]|age={{Birth date and age2|2010|6|11|1982|1|29|df=y}}|caps=61|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=16|pos=MF|name=[[Ki Sung-Yong]]|age={{Birth date and age2|2010|6|11|1989|1|24|df=y}}|caps=21|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=17|pos=MF|name=[[Lee Chung-Yong]]|age={{Birth date and age2|2010|6|11|1988|7|2|df=y}}|caps=23|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=GK|name=[[Jung Sung-Ryong]]|age={{Birth date and age2|2010|6|11|1985|1|4|df=y}}|caps=15|club=[[Seongnam Ilhwa Chunma]]|clubnat=KOR}}
+{{nat fs player|no=19|pos=FW|name=[[Yeom Ki-Hun]]|age={{Birth date and age2|2010|6|11|1983|3|30|df=y}}|caps=33|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{nat fs player|no=20|pos=FW|name=[[Lee Dong-Gook]]|age={{Birth date and age2|2010|6|11|1979|4|29|df=y}}|caps=83|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{nat fs player|no=21|pos=GK|name=[[Kim Young-Kwang]]|age={{Birth date and age2|2010|6|11|1983|6|28|df=y}}|caps=14|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=22|pos=DF|name=[[Cha Du-Ri]]|age={{Birth date and age2|2010|6|11|1980|7|25|df=y}}|caps=46|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs player|no=23|pos=DF|name=[[Kang Min-Soo]]|age={{Birth date and age2|2010|6|11|1986|2|14|df=y}}|caps=31|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{nat fs end}}
+
+===Greece===
+Coach: {{flagicon|GER}} [[Otto Rehhagel]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Kostas Chalkias]]|age={{Birth date and age2|2010|6|11|1974|5|30|df=y}}|caps=27|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=2|pos=DF|name=[[Giourkas Seitaridis]]|age={{Birth date and age2|2010|6|11|1981|6|4|df=y}}|caps=67|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=3|pos=DF|name=[[Christos Patsatzoglou]]|age={{Birth date and age2|2010|6|11|1979|3|19|df=y}}|caps=41|club=[[AC Omonia|Omonia]]|clubnat=CYP}}
+{{nat fs player|no=4|pos=MF|name=[[Nikos Spiropoulos]]|age={{Birth date and age2|2010|6|11|1983|10|10|df=y}}|caps=17|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=5|pos=DF|name=[[Vangelis Moras]]|age={{Birth date and age2|2010|6|11|1981|8|18|df=y}}|caps=10|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=MF|name=[[Alexandros Tziolis]]|age={{Birth date and age2|2010|6|11|1985|2|13|df=y}}|caps=17|club=[[A.C. Siena|Siena]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=FW|name=[[Georgios Samaras]]|age={{Birth date and age2|2010|6|11|1985|2|21|df=y}}|caps=32|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=8|pos=DF|name=[[Avraam Papadopoulos]]|age={{Birth date and age2|2010|6|11|1984|1|3|df=y}}|caps=12|club=[[Olympiacos F.C.|Olympiakos]]|clubnat=GRE}}
+{{nat fs player|no=9|pos=FW|name=[[Angelos Charisteas]]|age={{Birth date and age2|df=yes|2010|6|11|1980|2|9}}|caps=82|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[Giorgos Karagounis]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|3|11|1977|3|6|df=y}}|caps=91|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=11|pos=DF|name=[[Loukas Vyntra]]|age={{Birth date and age2|2010|6|11|1981|2|5|df=y}}|caps=27|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=12|pos=GK|name=[[Alexandros Tzorvas]]|age={{Birth date and age2|2010|6|11|1982|8|12|df=y}}|caps=6|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=13|pos=GK|name=[[Michalis Sifakis]]|age={{Birth date and age2|2010|6|11|1984|9|9|df=y}}|caps=1|club=[[Aris Thessaloniki F.C.|Aris]]|clubnat=GRE}}
+{{nat fs player|no=14|pos=FW|name=[[Dimitris Salpingidis]]|age={{Birth date and age2|2010|6|11|1981|8|18|df=y}}|caps=34|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=15|pos=DF|name=[[Vasilis Torosidis]]|age={{Birth date and age2|2010|6|11|1985|6|10|df=y}}|caps=25|club=[[Olympiacos F.C.|Olympiakos]]|clubnat=GRE}}
+{{nat fs player|no=16|pos=DF|name=[[Sotirios Kyrgiakos]]|age={{Birth date and age2|2010|6|11|1979|7|23|df=y}}|caps=56|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=FW|name=[[Theofanis Gekas]]|age={{Birth date and age2|2010|6|11|1980|5|23|df=y}}|caps=46|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Sotiris Ninis]]|age={{Birth date and age2|2010|6|11|1990|4|3|df=y}}|caps=3|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=19|pos=DF|name=[[Sokratis Papastathopoulos]]|age={{Birth date and age2|2010|6|11|1988|6|9|df=y}}|caps=10|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=FW|name=[[Pantelis Kapetanos]]|age={{Birth date and age2|2010|6|11|1983|6|8|df=y}}|caps=3|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROM}}
+{{nat fs player|no=21|pos=MF|name=[[Kostas Katsouranis]]|age={{Birth date and age2|2010|6|11|1979|6|21|df=y}}|caps=67|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=22|pos=DF|name=[[Stelios Malezas]]|age={{Birth date and age2|2010|6|11|1985|3|11|df=y}}|caps=0|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=23|pos=MF|name=[[Athanassios Prittas|Sakis Prittas]]|age={{Birth date and age2|df=yes|2010|6|11|1979|1|9}}|caps=0|club=[[Aris Thessaloniki F.C.|Aris]]|clubnat=GRE}}
+{{nat fs end}}
+
+==Group C==
+
+===England===
+Coach: {{flagicon|ITA}} [[Fabio Capello]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[David James (footballer)|David James]]|age={{Birth date and age2|2010|6|11|1970|8|1|df=y}}|caps=50|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Glen Johnson (English footballer)|Glen Johnson]]|age={{Birth date and age2|2010|6|11|1984|8|23|df=y}}|caps=22|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Ashley Cole]]|age={{Birth date and age2|2010|6|11|1980|12|20|df=y}}|caps=78|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=MF|name=[[Steven Gerrard]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1980|5|30|df=y}}|caps=80|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Michael Dawson (footballer)|Michael Dawson]]<ref>[[Rio Ferdinand]] was initially part of the final squad as captain but withdrew due to injury, replaced by [[Michael Dawson (footballer)|Michael Dawson]].<br />{{cite web |title=Dawson arrives in South Africa |url=http://www.thefa.com/England/News/2010/dawson-050610 |work=TheFA.com |publisher=The Football Association |date=5 June 2010 |accessdate=6 June 2010 }}</ref>|age={{Birth date and age2|2010|6|11|1983|11|18|df=y}}|caps=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=DF|name=[[John Terry]]|age={{Birth date and age2|2010|6|11|1980|12|7|df=y}}|caps=60|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Aaron Lennon]]|age={{Birth date and age2|2010|6|11|1987|4|16|df=y}}|caps=17|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=MF|name=[[Frank Lampard]]|age={{Birth date and age2|2010|6|11|1978|6|20|df=y}}|caps=78|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Peter Crouch]]|age={{Birth date and age2|2010|6|11|1981|1|30|df=y}}|caps=38|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Wayne Rooney]]|age={{Birth date and age2|2010|6|11|1985|10|24|df=y}}|caps=60|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=MF|name=[[Joe Cole]]|age={{Birth date and age2|2010|6|11|1981|11|8|df=y}}|caps=54|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Robert Green]]|age={{Birth date and age2|2010|6|11|1980|1|18|df=y}}|caps=10|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=DF|name=[[Stephen Warnock]]|age={{Birth date and age2|2010|6|11|1981|12|12|df=y}}|caps=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=MF|name=[[Gareth Barry]]|age={{Birth date and age2|2010|6|11|1981|2|23|df=y}}|caps=36|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=DF|name=[[Matthew Upson]]|age={{Birth date and age2|2010|6|11|1979|4|18|df=y}}|caps=19|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=MF|name=[[James Milner]]|age={{Birth date and age2|2010|6|11|1986|1|4|df=y}}|caps=8|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=MF|name=[[Shaun Wright-Phillips]]|age={{Birth date and age2|2010|6|11|1981|10|25|df=y}}|caps=31|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=DF|name=[[Jamie Carragher]]|age={{Birth date and age2|2010|6|11|1978|1|28|df=y}}|caps=36|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=FW|name=[[Jermain Defoe]]|age={{Birth date and age2|2010|6|11|1982|10|7|df=y}}|caps=39|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=DF|name=[[Ledley King]]|age={{Birth date and age2|2010|6|11|1980|10|12|df=y}}|caps=20|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=FW|name=[[Emile Heskey]]|age={{Birth date and age2|2010|6|11|1978|1|11|df=y}}|caps=58|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=MF|name=[[Michael Carrick]]|age={{Birth date and age2|2010|6|11|1981|7|28|df=y}}|caps=22|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=GK|name=[[Joe Hart]]|age={{Birth date and age2|2010|6|11|1987|4|19|df=y}}|caps=3|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}
+{{nat fs end}}
+
+===United States===
+Coach: [[Bob Bradley]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Tim Howard]]|age={{Birth date and age2|2010|6|11|1979|3|6|df=y}}|caps=51|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Jonathan Spector]]|age={{Birth date and age2|2010|6|11|1986|3|1|df=y}}|caps=25|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Carlos Bocanegra]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1979|5|25|df=y}}|caps=79|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=MF|name=[[Michael Bradley (soccer)|Michael Bradley]]|age={{Birth date and age2|2010|6|11|1987|7|31|df=y}}|caps=43|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Oguchi Onyewu]]|age={{Birth date and age2|2010|6|11|1982|5|13|df=y}}|caps=54|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=DF|name=[[Steve Cherundolo]]|age={{Birth date and age2|2010|6|11|1979|2|19|df=y}}|caps=60|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs player|no=7|pos=MF|name=[[DaMarcus Beasley]]|age={{Birth date and age2|2010|6|11|1982|5|24|df=y}}|caps=92|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs player|no=8|pos=MF|name=[[Clint Dempsey]]|age={{Birth date and age2|2010|6|11|1983|3|9|df=y}}|caps=62|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Herculez Gomez]]|age={{Birth date and age2|2010|6|11|1982|4|6|df=y}}|caps=4|club=[[Puebla F.C.|Puebla]]|clubnat=MEX}}
+{{nat fs player|no=10|pos=MF|name=[[Landon Donovan]]|age={{Birth date and age2|2010|6|11|1982|3|4|df=y}}|caps=123|club=[[Los Angeles Galaxy]]|clubnat=USA}}
+{{nat fs player|no=11|pos=MF|name=[[Stuart Holden]]|age={{Birth date and age2|2010|6|11|1985|8|1|df=y}}|caps=14|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=DF|name=[[Jonathan Bornstein]]|age={{Birth date and age2|2010|6|11|1984|11|7|df=y}}|caps=32|club=[[C.D. Chivas USA|Chivas USA]]|clubnat=USA}}
+{{nat fs player|no=13|pos=MF|name=[[Ricardo Clark]]|age={{Birth date and age2|2010|6|11|1983|3|10|df=y}}|caps=29|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=14|pos=FW|name=[[Edson Buddle]]|age={{Birth date and age2|2010|6|11|1981|5|21|df=y}}|caps=3|club=[[Los Angeles Galaxy]]|clubnat=USA}}
+{{nat fs player|no=15|pos=DF|name=[[Jay DeMerit]]|age={{Birth date and age2|2010|6|11|1979|12|4|df=y}}|caps=19|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=MF|name=[[José Francisco Torres]]|age={{Birth date and age2|2010|6|11|1987|10|29|df=y}}|caps=10|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs player|no=17|pos=FW|name=[[Jozy Altidore]]|age={{Birth date and age2|2010|6|11|1989|11|6|df=y}}|caps=25|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=GK|name=[[Brad Guzan]]|age={{Birth date and age2|2010|6|11|1984|9|9|df=y}}|caps=16|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=MF|name=[[Maurice Edu]]|age={{Birth date and age2|2010|6|11|1986|4|18|df=y}}|caps=13|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs player|no=20|pos=FW|name=[[Robbie Findley]]|age={{Birth date and age2|2010|6|11|1985|8|4|df=y}}|caps=6|club=[[Real Salt Lake]]|clubnat=USA}}
+{{nat fs player|no=21|pos=DF|name=[[Clarence Goodson]]|age={{Birth date and age2|2010|6|11|1982|5|17|df=y}}|caps=14|club=[[IK Start|Start]]|clubnat=NOR}}
+{{nat fs player|no=22|pos=MF|name=[[Benny Feilhaber]]|age={{Birth date and age2|2010|6|11|1985|1|19|df=y}}|caps=32|club=[[Aarhus Gymnastikforening|AGF]]|clubnat=DEN}}
+{{nat fs player|no=23|pos=GK|name=[[Marcus Hahnemann]]|age={{Birth date and age2|2010|6|11|1972|6|15|df=y}}|caps=7|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g end}}
+
+===Algeria===
+Coach: [[Rabah Saâdane]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Lounès Gaouaoui]]|age={{birth date and age2|2010|6|11|1977|9|28|df=y}}|caps=48|club=[[ASO Chlef]]|clubnat=ALG}}
+{{nat fs player|no=2|pos=DF|name=[[Madjid Bougherra]]|age={{birth date and age2|2010|6|11|1982|10|7|df=y}}|caps=40|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs player|no=3|pos=DF|name=[[Nadir Belhadj]]|age={{birth date and age2|2010|6|11|1982|6|18|df=y}}|caps=44|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Antar Yahia]] ([[Captain (association football)|c]])|age={{birth date and age2|2010|6|11|1982|3|21|df=y}}|caps=43|club=[[VfL Bochum]]|clubnat=GER}} 
+{{nat fs player|no=5|pos=DF|name=[[Rafik Halliche]]|age={{birth date and age2|2010|6|11|1986|9|2|df=y}}|caps=15|club=[[C.D. Nacional|Nacional]]|clubnat=POR}}
+{{nat fs player|no=6|pos=MF|name=[[Yazid Mansouri]]|age={{birth date and age2|2010|6|11|1978|2|25|df=y}}|caps=66|club=[[FC Lorient|Lorient]]|clubnat=FRA}}
+{{nat fs player|no=7|pos=MF|name=[[Ryad Boudebouz]]|age={{birth date and age2|2010|6|11|1990|2|19|df=y}}|caps=1|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA}}
+{{nat fs player|no=8|pos=MF|name=[[Medhi Lacen]]|age={{birth date and age2|2010|6|11|1984|15|5|df=y}}|caps=2|club=[[Racing de Santander|Racing Santander]]|clubnat=ESP}}
+{{nat fs player|no=9|pos=FW|name=[[Abdelkader Ghezzal]]|age={{birth date and age2|2010|6|11|1984|12|5|df=y}}|caps=18|club=[[A.C. Siena|Siena]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=FW|name=[[Rafik Saïfi]]|age={{birth date and age2|2010|6|11|1975|2|7|df=y}}|caps=59|club=[[FC Istres|Istres]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[Rafik Djebbour]]|age={{birth date and age2|2010|6|11|1984|3|8|df=y}}|caps=15|club=[[AEK Athens F.C.|AEK]]|clubnat=GRE}}
+{{nat fs player|no=12|pos=DF|name=[[Habib Bellaïd]]|age={{birth date and age2|2010|6|11|1986|3|28|df=y}}|caps=1|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=13|pos=FW|name=[[Karim Matmour]]|age={{birth date and age2|2010|6|11|1984|6|25|df=y}}|caps=21|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs player|no=14|pos=DF|name=[[Abdelkader Laïfaoui]]|age={{birth date and age2|2010|6|11|1981|7|29|df=y}}|caps=6|club=[[ES Sétif]]|clubnat=ALG}}
+{{nat fs player|no=15|pos=MF|name=[[Karim Ziani]]|age={{birth date and age2|2010|6|11|1982|8|17|df=y}}|caps=54|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=16|pos=GK|name=[[Faouzi Chaouchi]]|age={{birth date and age2|2010|6|11|1984|12|5|df=y}}|caps=9|club=[[ES Sétif]]|clubnat=ALG}}
+{{nat fs player|no=17|pos=MF|name=[[Adlène Guedioura]]|age={{birth date and age2|2010|6|11|1985|11|12|df=y}}|caps=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=DF|name=[[Carl Medjani]]|age={{birth date and age2|2010|6|11|1985|5|15|df=y}}|caps=0|club=[[AC Ajaccio|Ajaccio]]|clubnat=FRA}}
+{{nat fs player|no=19|pos=MF|name=[[Hassan Yebda]]|age={{birth date and age2|2010|6|11|1984|4|14|df=y}}|caps=9|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=DF|name=[[Djamel Mesbah]]|age={{birth date and age2|2010|6|11|1984|10|9|df=y}}|caps=1|club=[[U.S. Lecce|Lecce]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=MF|name=[[Foued Kadir]]|age={{birth date and age2|2010|6|11|1983|12|5|df=y}}|caps=1|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=22|pos=MF|name=[[Djamel Abdoun]]|age={{birth date and age2|2010|6|11|1986|2|14|df=y}}|caps=6|club=[[FC Nantes|Nantes]]|clubnat=FRA}}
+{{nat fs player|no=23|pos=GK|name=[[Raïs M'Bohli]]|age={{birth date and age2|2010|6|11|1986|4|25|df=y}}|caps=1|club=[[PFC Slavia Sofia|Slavia Sofia]]|clubnat=BUL}}
+{{nat fs end}}
+
+===Slovenia===
+Coach: [[Matjaž Kek]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Samir Handanović]]|age={{Birth date and age2|2010|6|11|1984|7|14|df=y}}|caps=38|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=2|pos=DF|name=[[Mišo Brečko]]|age={{Birth date and age2|2010|6|11|1984|5|1|df=y}}|caps=30|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Elvedin Džinić]]|age={{Birth date and age2|2010|6|11|1985|8|25|df=y}}|caps=0|club=[[NK Maribor|Maribor]]|clubnat=SVN}}
+{{nat fs player|no=4|pos=DF|name=[[Marko Šuler]]|age={{Birth date and age2|2010|6|11|1983|3|9|df=y}}|caps=16|club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs player|no=5|pos=DF|name=[[Boštjan Cesar]]|age={{Birth date and age2|2010|6|11|1982|7|9|df=y}}|caps=41|club=[[Grenoble Foot 38|Grenoble]]|clubnat=FRA}}
+{{nat fs player|no=6|pos=DF|name=[[Branko Ilič]]|age={{Birth date and age2|2010|6|11|1983|2|6|df=y}}|caps=36|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs player|no=7|pos=FW|name=[[Nejc Pečnik]]|age={{Birth date and age2|2010|6|11|1986|1|3|df=y}}|caps=7|club=[[C.D. Nacional|Nacional]]|clubnat=POR}}
+{{nat fs player|no=8|pos=MF|name=[[Robert Koren]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1980|9|20|df=y}}|caps=45|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Zlatan Ljubijankič]]|age={{Birth date and age2|2010|6|11|1983|12|15|df=y}}|caps=16|club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs player|no=10|pos=FW|name=[[Valter Birsa]]|age={{Birth date and age2|2010|6|11|1986|8|7|df=y}}|caps=33|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[Milivoje Novakovič]]|age={{Birth date and age2|2010|6|11|1979|5|18|df=y}}|caps=37|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs player|no=12|pos=GK|name=[[Jasmin Handanovič]]|age={{Birth date and age2|2010|6|11|1978|1|28|df=y}}|caps=3|club=[[A.C. Mantova|Mantova]]|clubnat=ITA}}
+{{nat fs player|no=13|pos=DF|name=[[Bojan Jokić]]|age={{Birth date and age2|2010|6|11|1986|5|17|df=y}}|caps=33|club=[[A.C. Chievo Verona|Chievo]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=FW|name=[[Zlatko Dedič]]|age={{Birth date and age2|2010|6|11|1984|5|10|df=y}}|caps=23|club=[[VfL Bochum]]|clubnat=GER}}
+{{nat fs player|no=15|pos=MF|name=[[Rene Krhin]]|age={{Birth date and age2|2010|6|11|1990|5|21|df=y}}|caps=3|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=GK|name=[[Aleksander Šeliga]]|age={{Birth date and age2|2010|6|11|1980|2|1|df=y}}|caps=1|club=[[Sparta Rotterdam]]|clubnat=NED}}
+{{nat fs player|no=17|pos=MF|name=[[Andraž Kirm]]|age={{Birth date and age2|2010|6|11|1984|9|6|df=y}}|caps=25|club=[[Wisła Kraków]]|clubnat=POL}}
+{{nat fs player|no=18|pos=MF|name=[[Aleksandar Radosavljević (footballer born 1979)|Aleksandar Radosavljević]]|age={{Birth date and age2|2010|6|11|1979|4|25|df=y}}|caps=14|club=[[Larissa F.C.|Larissa]]|clubnat=GRE}}
+{{nat fs player|no=19|pos=DF|name=[[Suad Filekovič]]|age={{Birth date and age2|2010|6|11|1978|9|16|df=y}}|caps=14|club=[[NK Maribor|Maribor]]|clubnat=SVN}}
+{{nat fs player|no=20|pos=MF|name=[[Andrej Komac]]|age={{Birth date and age2|2010|6|11|1979|12|4|df=y}}|caps=40|club=[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]|clubnat=ISR}}
+{{nat fs player|no=21|pos=MF|name=[[Dalibor Stevanovič]]|age={{Birth date and age2|2010|6|11|1984|9|27|df=y}}|caps=15|club=[[Vitesse]]|clubnat=NED}}
+{{nat fs player|no=22|pos=DF|name=[[Matej Mavrič]]|age={{Birth date and age2|2010|6|11|1979|1|29|df=y}}|caps=32|club=[[TuS Koblenz]]|clubnat=GER}}
+{{nat fs player|no=23|pos=FW|name=[[Tim Matavž]]|age={{Birth date and age2|2010|6|11|1989|1|13|df=y}}|caps=0|club=[[FC Groningen|Groningen]]|clubnat=NED}}
+{{nat fs end}}
+
+==Group D==
+
+===Germany===
+Coach: [[Joachim Löw]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Manuel Neuer]]|age={{Birth date and age2|2010|6|11|1986|3|27|df=y}}|caps=5|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=2|pos=DF|name=[[Marcell Jansen]]|age={{Birth date and age2|2010|6|11|1985|11|4|df=y}}|caps=31|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Arne Friedrich]]|age={{Birth date and age2|2010|6|11|1979|5|29|df=y}}|caps=72|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=4|pos=DF|name=[[Dennis Aogo]]|age={{Birth date and age2|2010|6|11|1987|1|14|df=y}}|caps=2|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Serdar Tasci]]|age={{Birth date and age2|2010|6|11|1987|4|24|df=y}}|caps=12|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=6|pos=MF|name=[[Sami Khedira]]|age={{Birth date and age2|2010|6|11|1987|4|4|df=y}}|caps=5|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=7|pos=MF|name=[[Bastian Schweinsteiger]]|age={{Birth date and age2|2010|6|11|1984|8|1|df=y}}|caps=74|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Mesut Özil]]|age={{Birth date and age2|2010|6|11|1988|10|15|df=y}}|caps=10|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=9|pos=FW|name=[[Stefan Kießling]]|age={{Birth date and age2|2010|6|11|1984|1|25|df=y}}|caps=4|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[Lukas Podolski]]|age={{Birth date and age2|2010|6|11|1985|6|4|df=y}}|caps=73|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs player|no=11|pos=FW|name=[[Miroslav Klose]]|age={{Birth date and age2|2010|6|11|1978|6|9|df=y}}|caps=96|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=12|pos=GK|name=[[Tim Wiese]]|age={{Birth date and age2|2010|6|11|1981|12|17|df=y}}|caps=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=13|pos=MF|name=[[Thomas Müller]]|age={{Birth date and age2|2010|6|11|1989|9|13|df=y}}|caps=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=14|pos=DF|name=[[Holger Badstuber]]|age={{Birth date and age2|2010|6|11|1989|3|13|df=y}}|caps=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=15|pos=MF|name=[[Piotr Trochowski]]|age={{Birth date and age2|2010|6|11|1984|3|22|df=y}}|caps=31|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=16|pos=DF|name=[[Philipp Lahm]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1983|11|11|df=y}}|caps=65|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=17|pos=DF|name=[[Per Mertesacker]]|age={{Birth date and age2|2010|6|11|1984|9|29|df=y}}|caps=62|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Toni Kroos]]|age={{Birth date and age2|2010|6|11|1990|1|4|df=y}}|caps=4|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=19|pos=FW|name=[[Cacau]]|age={{Birth date and age2|2010|6|11|1981|3|27|df=y}}|caps=8|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=20|pos=DF|name=[[Jérôme Boateng]]|age={{Birth date and age2|2010|6|11|1988|9|3|df=y}}|caps=5|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=21|pos=MF|name=[[Marko Marin]]|age={{Birth date and age2|2010|6|11|1989|3|13|df=y}}|caps=9|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=22|pos=GK|name=[[Hans-Jörg Butt]]|age={{Birth date and age2|2010|6|11|1974|5|28|df=y}}|caps=3|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=23|pos=FW|name=[[Mario Gómez]]|age={{Birth date and age2|2010|6|11|1985|7|10|df=y}}|caps=34|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs end}}
+
+===Australia===
+Coach: {{flagicon|Netherlands}} [[Pim Verbeek]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Mark Schwarzer]]|age={{Birth date and age2|2010|6|11|1972|10|6|df=y}}|caps=75|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Lucas Neill]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1978|3|9|df=y}}|caps=56|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=3|pos=DF|name=[[Craig Moore]]|age={{Birth date and age2|2010|6|11|1975|12|12|df=y}}|caps=50|club=''[[Free agent (football)|Unattached]]''|clubnat=}}
+{{nat fs player|no=4|pos=MF|name=[[Tim Cahill]]|age={{Birth date and age2|2010|6|11|1979|12|6|df=y}}|caps=40|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=MF|name=[[Jason Čulina]]|age={{Birth date and age2|2010|6|11|1980|8|5|df=y}}|caps=49|club=[[Gold Coast United FC|Gold Coast United]]|clubnat=AUS}}
+{{nat fs player|no=6|pos=DF|name=[[Michael Beauchamp]]|age={{Birth date and age2|2010|6|11|1981|3|8|df=y}}|caps=21|club=[[Al-Jazira Club|Al-Jazira]]|clubnat=UAE}}
+{{nat fs player|no=7|pos=MF|name=[[Brett Emerton]]|age={{Birth date and age2|2010|6|11|1979|2|22|df=y}}|caps=72|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=DF|name=[[Luke Wilkshire]]|age={{Birth date and age2|2010|6|11|1981|10|1|df=y}}|caps=42|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs player|no=9|pos=FW|name=[[Joshua Kennedy]]|age={{Birth date and age2|2010|6|11|1982|8|20|df=y}}|caps=19|club=[[Nagoya Grampus]]|clubnat=JPN}}
+{{nat fs player|no=10|pos=FW|name=[[Harry Kewell]]|age={{Birth date and age2|2010|6|11|1978|9|22|df=y}}|caps=45|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=11|pos=DF|name=[[Scott Chipperfield]]|age={{Birth date and age2|2010|6|11|1975|12|30|df=y}}|caps=65|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=12|pos=GK|name=[[Adam Federici]]|age={{Birth date and age2|2010|6|11|1985|1|31|df=y}}|caps=1|club=[[Reading F.C.|Reading]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=MF|name=[[Vince Grella]]|age={{Birth date and age2|2010|6|11|1979|10|5|df=y}}|caps=45|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=FW|name=[[Brett Holman]]|age={{Birth date and age2|2010|6|11|1984|3|27|df=y}}|caps=31|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs player|no=15|pos=MF|name=[[Mile Jedinak]]|age={{Birth date and age2|2010|6|11|1984|8|3|df=y}}|caps=11|club=[[Antalyaspor]]|clubnat=TUR}}
+{{nat fs player|no=16|pos=MF|name=[[Carl Valeri]]|age={{Birth date and age2|2010|6|11|1984|8|14|df=y}}|caps=22|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs player|no=17|pos=FW|name=[[Nikita Rukavytsya]]|age={{Birth date and age2|2010|6|11|1987|6|22|df=y}}|caps=3|club=|club=[[K.S.V. Roeselare|Roeselare]]|clubnat=BEL}}
+{{nat fs player|no=18|pos=GK|name=[[Eugene Galeković]]<ref>[[Brad Jones (footballer)|Brad Jones]] replaced by [[Eugene Galeković]] after he returned home due to family illness.<br />{{cite web |title=Galekovic drafted in to replace Jones |url=http://www.the-afc.com/en/tournaments/men-a-youth/fifa-world-cup-2010/29338-galekovic-drafted-in-to-replace-jones |work=the-afc.com |publisher=Asian Football Confederation |date=12 June 2010 |accessdate=12 June 2010 }}</ref>|age={{Birth date and age2|2010|6|11|1981|6|12|df=y}}|caps=4|club=[[Adelaide United FC|Adelaide United]]|clubnat=AUS}}
+{{nat fs player|no=19|pos=MF|name=[[Richard Garcia]]|age={{Birth date and age2|2010|6|11|1981|9|4|df=y}}|caps=7|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=DF|name=[[Mark Milligan]]|age={{Birth date and age2|2010|6|11|1985|9|4|df=y}}|caps=10|club=[[JEF United Ichihara Chiba|JEF United]]|clubnat=JPN}}
+{{nat fs player|no=21|pos=DF|name=[[David Carney]]|age={{Birth date and age2|2010|6|11|1983|11|3|df=y}}|caps=25|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=22|pos=MF|name=[[Dario Vidošić]]|age={{Birth date and age2|2010|6|11|1987|4|12|df=y}}|caps=7|club=[[MSV Duisburg]]|clubnat=GER}}
+{{nat fs player|no=23|pos=MF|name=[[Mark Bresciano]]|age={{Birth date and age2|2010|6|11|1980|2|11|df=y}}|caps=55|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Serbia===
+Coach: [[Radomir Antić]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Vladimir Stojković]]|age={{Birth date and age2|2010|6|11|1983|7|29|df=y}}|caps=33|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Antonio Rukavina]]|age={{Birth date and age2|2010|6|11|1984|1|26|df=y}}|caps=20|club=[[TSV 1860 München|1860 Munich]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Aleksandar Kolarov]]|age={{Birth date and age2|2010|6|11|1985|11|10|df=y}}|caps=13|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=MF|name=[[Gojko Kačar]]|age={{Birth date and age2|2010|6|11|1987|1|26|df=y}}|caps=17|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Nemanja Vidić]]|age={{Birth date and age2|2010|6|11|1981|10|21|df=y}}|caps=45|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=DF|name=[[Branislav Ivanović]]|age={{Birth date and age2|2010|6|11|1984|2|22|df=y}}|caps=31|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Zoran Tošić]]|age={{Birth date and age2|2010|6|11|1987|4|28|df=y}}|caps=21|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs player|no=8|pos=FW|name=[[Danko Lazović]]|age={{Birth date and age2|2010|6|11|1983|5|17|df=y}}|caps=37|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=9|pos=FW|name=[[Marko Pantelić]]|age={{Birth date and age2|2010|6|11|1978|9|15|df=y}}|caps=32|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=10|pos=MF|name=[[Dejan Stanković]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1978|9|11|df=y}}|caps=88|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=MF|name=[[Nenad Milijaš]]|age={{Birth date and age2|2010|6|11|1983|4|30|df=y}}|caps=17|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Bojan Isailović]]|age={{Birth date and age2|2010|6|11|1980|3|25|df=y}}|caps=4|club=[[Zagłębie Lubin]]|clubnat=POL}}
+{{nat fs player|no=13|pos=DF|name=[[Aleksandar Luković]]|age={{Birth date and age2|2010|6|11|1982|10|23|df=y}}|caps=21|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=MF|name=[[Milan Jovanović (footballer born 1981)|Milan Jovanović]]|age={{Birth date and age2|2010|6|11|1981|4|18|df=y}}|caps=26|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs player|no=15|pos=FW|name=[[Nikola Žigić]]|age={{Birth date and age2|2010|6|11|1980|9|25|df=y}}|caps=45|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=DF|name=[[Ivan Obradović]]|age={{Birth date and age2|2010|6|11|1988|7|25|df=y}}|caps=12|club=[[Real Zaragoza]]|clubnat=ESP}}
+{{nat fs player|no=17|pos=MF|name=[[Miloš Krasić]]|age={{Birth date and age2|2010|6|11|1984|11|1|df=y}}|caps=31|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs player|no=18|pos=MF|name=[[Miloš Ninković]]|age={{Birth date and age2|2010|6|11|1984|12|25|df=y}}|caps=9|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=19|pos=MF|name=[[Radosav Petrović]]|age={{Birth date and age2|2010|6|11|1989|3|8|df=y}}|caps=9|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{nat fs player|no=20|pos=DF|name=[[Neven Subotić]]|age={{Birth date and age2|2010|6|11|1988|12|10|df=y}}|caps=13|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs player|no=21|pos=FW|name=[[Dragan Mrđa]]|age={{Birth date and age2|df=yes|2010|6|11|1984|1|23|df=y}}|caps=6|club=[[FK Vojvodina|Vojvodina]]|clubnat=SRB}}
+{{nat fs player|no=22|pos=MF|name=[[Zdravko Kuzmanović]]|age={{Birth date and age2|2010|6|11|1987|9|22|df=y}}|caps=27|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=23|pos=GK|name=[[Anđelko Đuričić]]|age={{Birth date and age2|2010|6|11|1980|11|21|df=y}}|caps=1|club=[[U.D. Leiria|União Leiria]]|clubnat=POR}}
+{{nat fs end}}
+
+===Ghana===
+Coach: {{flagicon|Serbia}} [[Milovan Rajevac]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Daniel Adjei]]|age={{Birth date and age2|2010|6|11|1989|11|10|df=y}}|caps=2|club=[[Liberty Professionals F.C.|Liberty Professionals]]|clubnat=GHA}}
+{{nat fs player|no=2|pos=DF|name=[[Hans Sarpei]]|age={{Birth date and age2|2010|6|11|1976|6|28|df=y}}|caps=23|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=3|pos=FW|name=[[Asamoah Gyan]]|age={{Birth date and age2|2010|6|11|1985|11|22|df=y}}|caps=32|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=DF|name=[[John Paintsil]]|age={{Birth date and age2|2010|6|11|1981|6|15|df=y}}|caps=65|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[John Mensah]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1982|11|29|df=y}}|caps=58|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=MF|name=[[Anthony Annan]]|age={{Birth date and age2|2010|6|11|1986|7|21|df=y}}|caps=38|club=[[Rosenborg BK|Rosenborg]]|clubnat=NOR}}
+{{nat fs player|no=7|pos=DF|name=[[Samuel Inkoom]]|age={{Birth date and age2|2010|6|11|1989|8|22|df=y}}|caps=15|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=8|pos=DF|name=[[Jonathan Mensah]]|age={{Birth date and age2|2010|6|11|1990|7|13|df=y}}|caps=3|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs player|no=9|pos=MF|name=[[Derek Boateng]]|age={{Birth date and age2|2010|6|11|1983|4|2|df=y}}|caps=19|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs player|no=10|pos=MF|name=[[Stephen Appiah]]|age={{Birth date and age2|2010|6|11|1980|12|24|df=y}}|caps=56|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=MF|name=[[Sulley Muntari]]|age={{Birth date and age2|2010|6|11|1984|8|27|df=y}}|caps=52|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=FW|name=[[Prince Tagoe]]|age={{Birth date and age2|2010|6|11|1986|11|9|df=y}}|caps=17|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs player|no=13|pos=MF|name=[[André Ayew]]|age={{Birth date and age2|2010|6|11|1989|12|17|df=y}}|caps=15|club=[[AC Arles-Avignon|Arles-Avignon]]|clubnat=FRA}}
+{{nat fs player|no=14|pos=FW|name=[[Matthew Amoah]]|age={{Birth date and age2|2010|6|11|1980|10|24|df=y}}|caps=31|club=[[NAC Breda|NAC]]|clubnat=NED}}
+{{nat fs player|no=15|pos=DF|name=[[Isaac Vorsah]]|age={{Birth date and age2|2010|6|11|1988|6|21|df=y}}|caps=6|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs player|no=16|pos=GK|name=[[Stephen Ahorlu]]|age={{Birth date and age2|2010|6|11|1989|5|10|df=y}}|caps=0|club=[[Heart of Lions]]|clubnat=GHA}}
+{{nat fs player|no=17|pos=DF|name=[[Abdul Rahim Ayew]]|age={{Birth date and age2|2010|6|11|1988|4|16|df=y}}|caps=6|club=[[Zamalek SC|Zamalek]]|clubnat=EGY}}
+{{nat fs player|no=18|pos=FW|name=[[Dominic Adiyiah]]|age={{Birth date and age2|2010|6|11|1989|11|29|df=y}}|caps=4|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=DF|name=[[Lee Addy]]|age={{Birth date and age2|2010|6|11|1985|9|26|df=y}}|caps=3|club=[[Bechem Chelsea]]|clubnat=GHA}}
+{{nat fs player|no=20|pos=MF|name=[[Quincy Owusu-Abeyie]]|age={{Birth date and age2|2010|6|11|1986|4|15|df=y}}|caps=12|club=[[Al-Sadd Sports Club|Al-Sadd]]|clubnat=QAT}}
+{{nat fs player|no=21|pos=MF|name=[[Kwadwo Asamoah]]|age={{Birth date and age2|2010|56|11|1988|9|9|df=y}}|caps=29|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=GK|name=[[Richard Kingson]]|age={{Birth date and age2|2010|6|11|1978|6|13|df=y}}|caps=58|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=MF|name=[[Kevin-Prince Boateng]]|age={{Birth date and age2|2010|6|11|1987|3|6|df=y}}|caps=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs end}}
+
+==Group E==
+
+===Netherlands===
+Coach: [[Bert van Marwijk]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Maarten Stekelenburg]]|age={{Birth date and age2|2010|6|11|1982|9|22|df=y}}|caps=25|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=2|pos=DF|name=[[Gregory van der Wiel]]|age={{Birth date and age2|2010|6|11|1988|2|3|df=y}}|caps=8|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=3|pos=DF|name=[[John Heitinga]]|age={{Birth date and age2|2010|6|11|1983|11|15|df=y}}|caps=51|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Joris Mathijsen]]|age={{Birth date and age2|2010|6|11|1980|4|5|df=y}}|caps=53|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Giovanni van Bronckhorst]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1975|2|5|df=y}}|caps=97|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs player|no=6|pos=MF|name=[[Mark van Bommel]]|age={{Birth date and age2|2010|6|11|1977|4|22|df=y}}|caps=54|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=7|pos=FW|name=[[Dirk Kuyt]]|age={{Birth date and age2|2010|6|11|1980|7|22|df=y}}|caps=60|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=MF|name=[[Nigel de Jong]]|age={{Birth date and age2|2010|6|11|1984|11|30|df=y}}|caps=40|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Robin van Persie]]|age={{Birth date and age2|2010|6|11|1983|8|6|df=y}}|caps=41|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Wesley Sneijder]]|age={{Birth date and age2|2010|6|11|1984|6|9|df=y}}|caps=59|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=FW|name=[[Arjen Robben]]|age={{Birth date and age2|2010|6|11|1984|1|23|df=y}}|caps=46|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=12|pos=DF|name=[[Khalid Boulahrouz]]|age={{Birth date and age2|2010|6|11|1981|12|28|df=y}}|caps=28|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=13|pos=DF|name=[[André Ooijer]]|age={{Birth date and age2|2010|6|11|1974|7|11|df=y}}|caps=53|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs player|no=14|pos=MF|name=[[Demy de Zeeuw]]|age={{Birth date and age2|2010|6|11|1983|5|26|df=y}}|caps=23|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=15|pos=DF|name=[[Edson Braafheid]]|age={{Birth date and age2|2010|6|11|1983|4|8|df=y}}|caps=5|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=16|pos=GK|name=[[Michel Vorm]]|age={{Birth date and age2|2010|6|11|1983|10|20|df=y}}|caps=3|club=[[FC Utrecht|Utrecht]]||clubnat=NED|clubnat=NED}}
+{{nat fs player|no=17|pos=FW|name=[[Eljero Elia]]|age={{Birth date and age2|2010|6|11|1987|2|13|df=y}}|caps=5|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Stijn Schaars]]|age={{Birth date and age2|2010|6|11|1984|1|11|df=y}}|caps=11|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs player|no=19|pos=FW|name=[[Ryan Babel]]|age={{Birth date and age2|2010|6|11|1986|12|19|df=y}}|caps=38|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=MF|name=[[Ibrahim Afellay]]|age={{Birth date and age2|2010|6|11|1986|4|2|df=y}}|caps=20|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs player|no=21|pos=FW|name=[[Klaas-Jan Huntelaar]]|age={{Birth date and age2|2010|6|11|1983|8|12|df=y}}|caps=30|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=GK|name=[[Sander Boschker]]|age={{Birth date and age2|2010|6|11|1970|10|20|df=y}}|caps=1<ref>{{cite web|url=http://totalfootballnl.blogspot.com/2011/03/unlikely-internationals-10-sander.html |title=TotalfootballNL: Unlikely internationals 10: Sander Boschker |publisher=Totalfootballnl.blogspot.com |date=3 March 1968 |accessdate=18 September 2012}}</ref>|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=23|pos=MF|name=[[Rafael van der Vaart]]|age={{Birth date and age2|2010|6|11|1983|2|11|df=y}}|caps=75|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Denmark===
+Coach: [[Morten Olsen]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Thomas Sørensen]]|age={{Birth date and age2|2010|6|11|1976|6|12|df=y}}|caps=86|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=MF|name=[[Christian Poulsen]]|age={{Birth date and age2|2010|6|11|1980|2|28|df=y}}|caps=72|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Simon Kjær]]|age={{Birth date and age2|2010|6|11|1989|3|26|df=y}}|caps=9|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Daniel Agger]]|age={{Birth date and age2|2010|6|11|1984|12|12|df=y}}|caps=30|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[William Kvist]]|age={{Birth date and age2|2010|6|11|1985|2|24|df=y}}|caps=13|club=[[F.C. Copenhagen|København]]|clubnat=DEN}}
+{{nat fs player|no=6|pos=DF|name=[[Lars Jacobsen]]|age={{Birth date and age2|2010|6|11|1979|9|20|df=y}}|caps=29|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Daniel Jensen]]|age={{Birth date and age2|2010|6|11|1979|6|25|df=y}}|caps=47|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Jesper Grønkjær]]|age={{Birth date and age2|2010|6|11|1977|8|12|df=y}}|caps=76|club=[[F.C. Copenhagen|København]]|clubnat=DEN}}
+{{nat fs player|no=9|pos=FW|name=[[Jon Dahl Tomasson]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1976|8|29|df=y}}|caps=108|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs player|no=10|pos=MF|name=[[Martin Jørgensen]]|age={{Birth date and age2|2010|6|11|1975|10|6|df=y}}|caps=94|club=[[Aarhus Gymnastikforening|AGF]]|clubnat=DEN}}
+{{nat fs player|no=11|pos=FW|name=[[Nicklas Bendtner]]|age={{Birth date and age2|2010|6|11|1988|1|16|df=y}}|caps=32|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=MF|name=[[Thomas Kahlenberg]]|age={{Birth date and age2|2010|6|11|1983|3|20|df=y}}|caps=30|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=13|pos=DF|name=[[Per Krøldrup]]|age={{Birth date and age2|2010|6|11|1979|7|31|df=y}}|caps=28|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=MF|name=[[Jakob Poulsen]]|age={{Birth date and age2|2010|6|11|1983|7|7|df=y}}|caps=11|club=[[Aarhus Gymnastikforening|AGF]]|clubnat=DEN}}
+{{nat fs player|no=15|pos=DF|name=[[Simon Poulsen]]|age={{Birth date and age2|2010|6|11|1984|10|7|df=y}}|caps=4|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs player|no=16|pos=GK|name=[[Stephan Andersen]]|age={{Birth date and age2|2010|6|11|1981|11|26|df=y}}|caps=5|club=[[Brøndby IF|Brøndby]]|clubnat=DEN}}
+{{nat fs player|no=17|pos=MF|name=[[Mikkel Beckmann]]|age={{Birth date and age2|2010|6|11|1983|10|24|df=y}}|caps=3|club=[[Randers FC|Randers]]|clubnat=DEN}}
+{{nat fs player|no=18|pos=FW|name=[[Søren Larsen]]|age={{Birth date and age2|2010|6|11|1981|9|6|df=y}}|caps=17|club=[[MSV Duisburg]]|clubnat=GER}}
+{{nat fs player|no=19|pos=MF|name=[[Dennis Rommedahl]]|age={{Birth date and age2|2010|6|11|1978|7|22|df=y}}|caps=94|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=20|pos=MF|name=[[Thomas Enevoldsen]]|age={{Birth date and age2|2010|6|11|1987|7|27|df=y}}|caps=4|club=[[FC Groningen|Groningen]]|clubnat=NED}}
+{{nat fs player|no=21|pos=MF|name=[[Christian Eriksen]]|age={{Birth date and age2|2010|6|11|1992|2|14|df=y}}|caps=2|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=22|pos=GK|name=[[Jesper Christiansen]]|age={{Birth date and age2|2010|6|11|1978|4|24|df=y}}|caps=11|club=[[F.C. Copenhagen|København]]|clubnat=DEN}}
+{{nat fs player|no=23|pos=DF|name=[[Patrick Mtiliga]]|age={{Birth date and age2|2010|6|11|1981|1|28|df=y}}|caps=2|club=[[Málaga CF|Málaga]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Japan===
+Coach: [[Takeshi Okada]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Seigo Narazaki]]|age={{Birth date and age2|2010|6|11|1976|4|15|df=y}}|caps=76|club=[[Nagoya Grampus]]|clubnat=JPN}}
+{{nat fs player|no=2|pos=MF|name=[[Yuki Abe]]|age={{Birth date and age2|2010|6|11|1981|9|6|df=y}}|caps=45|club=[[Urawa Red Diamonds]]|clubnat=JPN}}
+{{nat fs player|no=3|pos=DF|name=[[Yūichi Komano]]|age={{Birth date and age2|2010|6|11|1981|7|25|df=y}}|caps=53|club=[[Júbilo Iwata]]|clubnat=JPN}}
+{{nat fs player|no=4|pos=DF|name=[[Marcus Tulio Tanaka]]|age={{Birth date and age2|2010|6|11|1981|4|24|df=y}}|caps=39|club=[[Nagoya Grampus]]|clubnat=JPN}}
+{{nat fs player|no=5|pos=DF|name=[[Yuto Nagatomo]]|age={{Birth date and age2|2010|6|11|1986|9|12|df=y}}|caps=26|club=[[FC Tokyo]]|clubnat=JPN}}
+{{nat fs player|no=6|pos=DF|name=[[Atsuto Uchida]]|age={{Birth date and age2|2010|6|11|1988|3|27|df=y}}|caps=31|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{nat fs player|no=7|pos=MF|name=[[Yasuhito Endō]]|age={{Birth date and age2|2010|6|11|1980|1|28|df=y}}|caps=94|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{nat fs player|no=8|pos=FW|name=[[Daisuke Matsui]]|age={{Birth date and age2|2010|6|11|1981|5|11|df=y}}|caps=23|club=[[Grenoble Foot 38|Grenoble]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=FW|name=[[Shinji Okazaki]]|age={{Birth date and age2|2010|6|11|1986|4|16|df=y}}|caps=28|club=[[Shimizu S-Pulse]]|clubnat=JPN}}
+{{nat fs player|no=10|pos=MF|name=[[Shunsuke Nakamura]]|age={{Birth date and age2|2010|6|11|1978|6|24|df=y}}|caps=97|club=[[Yokohama F. Marinos]]|clubnat=JPN}}
+{{nat fs player|no=11|pos=FW|name=[[Keiji Tamada]]|age={{Birth date and age2|2010|6|11|1980|4|11|df=y}}|caps=70|club=[[Nagoya Grampus]]|clubnat=JPN}}
+{{nat fs player|no=12|pos=FW|name=[[Kisho Yano]]|age={{Birth date and age2|2010|6|11|1984|4|5|df=y}}|caps=18|club=[[Albirex Niigata]]|clubnat=JPN}}
+{{nat fs player|no=13|pos=DF|name=[[Daiki Iwamasa]]|age={{Birth date and age2|2010|6|11|1982|1|30|df=y}}|caps=2|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{nat fs player|no=14|pos=MF|name=[[Kengo Nakamura]]|age={{Birth date and age2|2010|6|11|1980|10|31|df=y}}|caps=47|club=[[Kawasaki Frontale]]|clubnat=JPN}}
+{{nat fs player|no=15|pos=DF|name=[[Yasuyuki Konno]]|age={{Birth date and age2|2010|6|11|1983|1|25|df=y}}|caps=37|club=[[FC Tokyo]]|clubnat=JPN}}
+{{nat fs player|no=16|pos=FW|name=[[Yoshito Ōkubo]]|age={{Birth date and age2|2010|6|11|1982|6|9|df=y}}|caps=49|club=[[Vissel Kobe]]|clubnat=JPN}}
+{{nat fs player|no=17|pos=MF|name=[[Makoto Hasebe]] ([[Captain (association football)|vc]])|age={{Birth date and age2|2010|6|11|1984|1|18|df=y}}|caps=31|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Keisuke Honda]]|age={{Birth date and age2|2010|6|11|1986|6|13|df=y}}|caps=15|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs player|no=19|pos=FW|name=[[Takayuki Morimoto]]|age={{Birth date and age2|2010|6|11|1988|5|7|df=y}}|caps=6|club=[[Calcio Catania|Catania]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=MF|name=[[Junichi Inamoto]]|age={{Birth date and age2|2010|6|11|1979|9|18|df=y}}|caps=80|club=[[Kawasaki Frontale]]|clubnat=JPN}}
+{{nat fs player|no=21|pos=GK|name=[[Eiji Kawashima]]|age={{Birth date and age2|2010|6|11|1983|3|20|df=y}}|caps=10|club=[[Kawasaki Frontale]]|clubnat=JPN}}
+{{nat fs player|no=22|pos=DF|name=[[Yuji Nakazawa]]|age={{Birth date and age2|2010|6|11|1978|2|25|df=y}}|caps=105|club=[[Yokohama F. Marinos]]|clubnat=JPN}}
+{{nat fs player|no=23|pos=GK|name=[[Yoshikatsu Kawaguchi]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1975|8|15|df=y}}|caps=116|club=[[Júbilo Iwata]]|clubnat=JPN}}
+{{nat fs end}}
+
+===Cameroon===
+Coach: {{flagicon|France}} [[Paul Le Guen]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Idriss Carlos Kameni|Carlos Kameni]]|age={{Birth date and age2|2010|6|11|1984|2|18|df=y}}|caps=58|club=[[RCD Espanyol|Espanyol]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Benoît Assou-Ekotto]]|age={{Birth date and age2|2010|6|11|1984|3|24|df=y}}|caps=4|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Nicolas N'Koulou]]|age={{Birth date and age2|2010|6|11|1990|3|27|df=y}}|caps=6|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=DF|name=[[Rigobert Song]]|age={{Birth date and age2|2010|6|11|1976|7|1|df=y}}|caps=133|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs player|no=5|pos=DF|name=[[Sébastien Bassong]]|age={{Birth date and age2|2010|6|11|1986|7|9|df=y}}|caps=3|club=[[Tottenham Hotspur F.C|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=MF|name=[[Alex Song]]|age={{Birth date and age2|2010|6|11|1987|9|9|df=y}}|caps=20|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Landry N'Guémo]] |age={{Birth date and age2|2010|6|11|1985|11|28|df=y}}|caps=17|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=8|pos=DF|name=[[Geremi Njitap|Geremi]]|age={{Birth date and age2|2010|6|11|1978|12|20|df=y}}|caps=109|club=[[Ankaragücü]]|clubnat=TUR}}
+{{nat fs player|no=9|pos=FW|name=[[Samuel Eto'o]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1981|3|10|df=y}}|caps=92|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=MF|name=[[Achille Emana]]|age={{Birth date and age2|2010|6|11|1982|6|5|df=y}}|caps=32|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Jean Makoun]]|age={{Birth date and age2|2010|6|11|1983|5|29|df=y}}|caps=46|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=12|pos=DF|name=[[Gaëtan Bong]]|age={{Birth date and age2|2010|6|11|1988|4|25|df=y}}|caps=0|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=13|pos=FW|name=[[Eric Maxim Choupo-Moting|Eric Choupo-Moting]]|age={{Birth date and age2|2010|6|11|1989|3|23|df=y}}|caps=0|goals=0|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=14|pos=DF|name=[[Aurélien Chedjou]]|age={{Birth date and age2|2010|6|11|1985|6|20|df=y}}|caps=8|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=15|pos=FW|name=[[Pierre Webó]]|age={{Birth date and age2|2010|6|11|1982|1|20|df=y}}|caps=39|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=GK|name=[[Souleymanou Hamidou]]|age={{Birth date and age2|2010|6|11|1973|11|22|df=y}}|caps=40|club=[[Kayserispor]]|clubnat=TUR}}
+{{nat fs player|no=17|pos=FW|name=[[Mohammadou Idrissou]]|age={{Birth date and age2|2010|6|11|1980|3|8|df=y}}|caps=28|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Eyong Enoh]]|age={{Birth date and age2|2010|6|11|1986|3|23|df=y}}|caps=12|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=19|pos=DF|name=[[Stéphane Mbia]]|age={{Birth date and age2|2010|6|11|1986|5|20|df=y}}|caps=29|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=20|pos=MF|name=[[Georges Mandjeck]]|age={{Birth date and age2|2010|6|11|1988|12|9|df=y}}|caps=4|club=[[1. FC Kaiserslautern]]|clubnat=GER}}
+{{nat fs player|no=21|pos=MF|name=[[Joël Matip]]|age={{Birth date and age2|2010|6|11|1991|8|8|df=y}}|caps=1|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=22|pos=GK|name=[[Guy N'dy Assembé]]|age={{Birth date and age2|2010|6|11|1986|2|28|df=y}}|caps=0|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=23|pos=FW|name=[[Vincent Aboubakar]]|age={{Birth date and age2|2010|6|11|1992|1|22|df=y}}|caps=0|club=[[Cotonsport Garoua]]|clubnat=CMR}}
+{{nat fs end}}
+
+==Group F==
+
+===Italy===
+Coach: [[Marcello Lippi]]
+{{nat fs start}}	
+{{nat fs player|no=1|pos=GK|name=[[Gianluigi Buffon]]|age={{Birth date and age2|2010|6|11|1978|1|28|df=y}}|caps=101|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=2|pos=DF|name=[[Christian Maggio]]|age={{Birth date and age2|2010|6|11|1982|2|11|df=y}}|caps=5|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Domenico Criscito]]|age={{Birth date and age2|2010|6|11|1986|12|30|df=y}}|caps=7|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Giorgio Chiellini]]|age={{Birth date and age2|2010|6|11|1984|8|14|df=y}}|caps=29|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=DF|name=[[Fabio Cannavaro]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1973|9|13|df=y}}|caps=133|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=MF|name=[[Daniele De Rossi]]|age={{Birth date and age2|2010|6|11|1983|7|24|df=y}}|caps=54|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=MF|name=[[Simone Pepe]]|age={{Birth date and age2|2010|6|11|1983|8|30|df=y}}|caps=15|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=8|pos=MF|name=[[Gennaro Gattuso]]|age={{Birth date and age2|2010|6|11|1978|1|9|df=y}}|caps=72|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Vincenzo Iaquinta]]|age={{Birth date and age2|2010|6|11|1979|11|21|df=y}}|caps=37|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=FW|name=[[Antonio Di Natale]]|age={{Birth date and age2|2010|6|11|1977|10|13|df=y}}|caps=33|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=FW|name=[[Alberto Gilardino]]|age={{Birth date and age2|2010|6|11|1982|7|5|df=y}}|caps=41|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=GK|name=[[Federico Marchetti]]|age={{Birth date and age2|2010|6|11|1983|2|7|df=y}}|caps=5|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs player|no=13|pos=DF|name=[[Salvatore Bocchetti]]|age={{Birth date and age2|2010|6|11|1986|11|30|df=y}}|caps=5|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=GK|name=[[Morgan De Sanctis]]|age={{Birth date and age2|2010|6|11|1977|3|26|df=y}}|caps=3|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}	
+{{nat fs player|no=15|pos=MF|name=[[Claudio Marchisio]]|age={{Birth date and age2|2010|6|11|1986|1|19|df=y}}|caps=4|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=MF|name=[[Mauro Camoranesi]]|age={{Birth date and age2|2010|6|11|1976|10|4|df=y}}|caps=53|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}	
+{{nat fs player|no=17|pos=MF|name=[[Angelo Palombo]]|age={{Birth date and age2|2010|6|11|1981|9|25|df=y}}|caps=17|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=FW|name=[[Fabio Quagliarella]]|age={{Birth date and age2|2010|6|11|1983|1|31|df=y}}|caps=20|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=DF|name=[[Gianluca Zambrotta]]|age={{Birth date and age2|2010|6|11|1977|2|19|df=y}}|caps=94|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=FW|name=[[Giampaolo Pazzini]]|age={{Birth date and age2|2010|6|11|1984|8|2|df=y}}|caps=8|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=MF|name=[[Andrea Pirlo]]|age={{Birth date and age2|2010|6|11|1979|5|19|df=y}}|caps=66|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=MF|name=[[Riccardo Montolivo]]|age={{Birth date and age2|2010|6|11|1985|1|18|df=y}}|caps=13|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=23|pos=DF|name=[[Leonardo Bonucci]]|age={{Birth date and age2|2010|6|11|1987|5|1|df=y}}|caps=2|club=[[A.S. Bari|Bari]]|clubnat=ITA}}		
+{{nat fs end}}
+
+===Paraguay===
+Coach: {{flagicon|ARG}} [[Gerardo Martino]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Justo Villar]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1977|6|30|df=y}}|caps=71|club=[[Real Valladolid]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Darío Verón]]|age={{Birth date and age2|2010|6|11|1979|6|26|df=y}}|caps=27|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs player|no=3|pos=DF|name=[[Claudio Morel Rodríguez|Claudio Morel]]|age={{Birth date and age2|2010|6|11|1978|2|2|df=y}}|caps=25|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs player|no=4|pos=DF|name=[[Denis Caniza]]|age={{Birth date and age2|df=yes|2010|6|11|1974|8|29|df=y}}|caps=95|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs player|no=5|pos=DF|name=[[Julio César Cáceres]]|age={{Birth date and age2|2010|6|11|1979|10|5|df=y}}|caps=59|club=[[Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs player|no=6|pos=DF|name=[[Carlos Bonet]]|age={{Birth date and age2|2010|6|11|1977|10|2|df=y}}|caps=60|club=[[Club Olimpia|Olimpia]]|clubnat=PAR|natvar=1990}}
+{{nat fs player|no=7|pos=FW|name=[[Óscar Cardozo]]|age={{Birth date and age2|2010|6|11|1983|5|20|df=y}}|caps=29|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=8|pos=MF|name=[[Édgar Barreto]]|age={{Birth date and age2|2010|6|11|1984|7|15|df=y}}|caps=47|club=[[Atalanta Calcio|Atalanta]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Roque Santa Cruz]]|age={{Birth date and age2|2010|6|11|1981|8|16|df=y}}|caps=66|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Édgar Benítez]]|age={{Birth date and age2|2010|6|11|1987|11|8|df=y}}|caps=12|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs player|no=11|pos=MF|name=[[Jonathan Santana]]|age={{Birth date and age2|2010|6|11|1981|10|19|df=y}}|caps=21|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=12|pos=GK|name=[[Diego Barreto]]|age={{Birth date and age2|2010|6|11|1981|7|16|df=y}}|caps=2|club=[[Cerro Porteño]]|clubnat=PAR|natvar=1990}}
+{{nat fs player|no=13|pos=MF|name=[[Enrique Vera]]|age={{Birth date and age2|2010|6|11|1979|3|10|df=y}}|caps=25|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs player|no=14|pos=DF|name=[[Paulo da Silva]]|age={{Birth date and age2|2010|6|11|1980|2|1|df=y}}|caps=67|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=MF|name=[[Víctor Cáceres]]|age={{Birth date and age2|2010|6|11|1985|3|25|df=y}}|caps=25|club=[[Club Libertad|Libertad]]|clubnat=PAR|natvar=1990}}
+{{nat fs player|no=16|pos=MF|name=[[Cristian Riveros]]|age={{Birth date and age2|2010|6|11|1982|10|16|df=y}}|caps=45|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs player|no=17|pos=DF|name=[[Aureliano Torres]]|age={{Birth date and age2|2010|6|11|1982|6|16|df=y}}|caps=25|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs player|no=18|pos=FW|name=[[Nelson Haedo Valdez|Nelson Valdez]]|age={{Birth date and age2|2010|6|11|1983|11|28|df=y}}|caps=38|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs player|no=19|pos=FW|name=[[Lucas Barrios]]|age={{Birth date and age2|2010|6|11|1984|11|13|df=y}}|caps=3|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs player|no=20|pos=MF|name=[[Néstor Ortigoza]]|age={{Birth date and age2|2010|6|11|1984|10|7|df=y}}|caps=3|club=[[Argentinos Juniors]]|clubnat=ARG}}
+{{nat fs player|no=21|pos=DF|name=[[Antolín Alcaraz]]|age={{Birth date and age2|2010|6|11|1982|7|30|df=y}}|caps=5|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs player|no=22|pos=GK|name=[[Aldo Bobadilla]]|age={{Birth date and age2|2010|6|11|1976|4|20|df=y}}|caps=18|club=[[Independiente Medellín]]|clubnat=COL}}
+{{nat fs player|no=23|pos=FW|name=[[Rodolfo Gamarra]]|age={{Birth date and age2|2010|6|11|1988|12|10|df=y}}|caps=2|club=[[Club Libertad|Libertad]]|clubnat=PAR|natvar=1990}}
+{{nat fs end}}
+
+===New Zealand===
+Coach: [[Ricki Herbert]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Mark Paston]]|age={{birth date and age2|2010|6|11|1976|12|13|df=y}}|caps=23|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs player|no=2|pos=DF|name=[[Ben Sigmund]]|age={{birth date and age2|2010|6|11|1981|2|3|df=y}}|caps=14|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs player|no=3|pos=DF|name=[[Tony Lochhead]]|age={{birth date and age2|2010|6|11|1982|1|12|df=y}}|caps=30|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs player|no=4|pos=DF|name=[[Winston Reid (footballer)|Winston Reid]]|age={{birth date and age2|2010|6|11|1988|7|3|df=y}}|caps=3|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs player|no=5|pos=DF|name=[[Ivan Vicelich]]|age={{birth date and age2|2010|6|11|1976|9|3|df=y}}|caps=66|club=[[Auckland City FC|Auckland City]]|clubnat=NZL}}
+{{nat fs player|no=6|pos=DF|name=[[Ryan Nelsen]] ([[Captain (association football)|c]])|age={{birth date and age2|2010|6|11|1977|10|18|df=y}}|caps=41|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Simon Elliott]]|age={{birth date and age2|2010|6|11|1974|6|10|df=y}}|caps=63|club=''[[Free agent (football)|Unattached]]''}}
+{{nat fs player|no=8|pos=MF|name=[[Tim Brown (footballer)|Tim Brown]]|age={{birth date and age2|2010|6|11|1981|3|6|df=y}}|caps=25|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs player|no=9|pos=FW|name=[[Shane Smeltz]]|age={{birth date and age2|2010|6|11|1981|9|29|df=y}}|caps=30|club=[[Gold Coast United FC|Gold Coast United]]|clubnat=AUS}}
+{{nat fs player|no=10|pos=FW|name=[[Chris Killen]]|age={{birth date and age2|2010|6|11|1981|10|8|df=y}}|caps=31|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=MF|name=[[Leo Bertos]]|age={{birth date and age2|2010|6|11|1981|12|20|df=y}}|caps=34|club=[[Wellington Phoenix FC|Wellington Phoenix]]|clubnat=NZL}}
+{{nat fs player|no=12|pos=GK|name=[[Glen Moss]]|age={{birth date and age2|2010|6|11|1983|1|19|df=y}}|caps=15|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs player|no=13|pos=MF|name=[[Andrew Barron|Andy Barron]]|age={{birth date and age2|2010|6|11|1980|12|24|df=y}}|caps=11|club=[[Team Wellington]]|clubnat=NZL}}
+{{nat fs player|no=14|pos=FW|name=[[Rory Fallon]]|age={{birth date and age2|2010|6|11|1982|3|20|df=y}}|caps=7|club=[[Plymouth Argyle F.C.|Plymouth Argyle]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=MF|name=[[Michael McGlinchey]]|age={{birth date and age2|2010|6|11|1987|1|7|df=y}}|caps=5|club=[[Motherwell F.C.|Motherwell]]|clubnat=SCO}}
+{{nat fs player|no=16|pos=MF|name=[[Aaron Clapham]]|age={{birth date and age2|2010|6|11|1987|1|1|df=y}}|caps=0|club=[[Canterbury United]]|clubnat=NZL}}
+{{nat fs player|no=17|pos=MF|name=[[David Mulligan]]|age={{birth date and age2|2010|6|11|1982|3|24|df=y}}|caps=25|club=''[[Free agent (football)|Unattached]]''}}
+{{nat fs player|no=18|pos=DF|name=[[Andrew Boyens]]|age={{birth date and age2|2010|6|11|1983|9|18|df=y}}|caps=15|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs player|no=19|pos=DF|name=[[Tommy Smith (footballer born 1990)|Tommy Smith]]|age={{birth date and age2|2010|6|11|1990|3|31|df=y}}|caps=4|club=[[Ipswich Town F.C.|Ipswich Town]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=FW|name=[[Chris Wood (footballer born 1991)|Chris Wood]]|age={{birth date and age2|2010|6|11|1991|12|7|df=y}}|caps=9|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=MF|name=[[Jeremy Christie]]|age={{birth date and age2|2010|6|11|1983|5|22|df=y}}|caps=22|club=[[FC Tampa Bay|Tampa Bay]]|clubnat=USA}}
+{{nat fs player|no=22|pos=MF|name=[[Jeremy Brockie]]|age={{birth date and age2|2010|6|11|1987|10|7|df=y}}|caps=18|club=[[Newcastle United Jets FC|Newcastle Jets]]|clubnat=AUS}}
+{{nat fs player|no=23|pos=GK|name=[[James Bannatyne]]|age={{birth date and age2|2010|6|11|1975|6|30|df=y}}|caps=3|club=[[Team Wellington]]|clubnat=NZL}}
+{{nat fs end}}
+
+===Slovakia===
+Coach: [[Vladimír Weiss (footballer born 1964)|Vladimír Weiss]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ján Mucha]]|age={{Birth date and age2|2010|6|11|1982|12|5|df=y}}|caps=14|club=[[Legia Warszawa]]|clubnat=POL}}
+{{nat fs player|no=2|pos=DF|name=[[Peter Pekarík]]|age={{Birth date and age2|2010|6|11|1986|10|30|df=y}}|caps=21|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Martin Škrtel]]|age={{Birth date and age2|2010|6|11|1984|12|15|df=y}}|caps=37|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Marek Čech (Slovak footballer)|Marek Čech]]|age={{Birth date and age2|2010|6|11|1983|1|26|df=y}}|caps=38|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Radoslav Zabavník]]|age={{Birth date and age2|2010|6|11|1980|9|16|df=y}}|caps=42|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=6|pos=MF|name=[[Zdeno Štrba]]|age={{Birth date and age2|2010|6|11|1976|6|9|df=y}}|caps=20|club=[[Skoda Xanthi F.C.|Skoda Xanthi]]|clubnat=GRE}}
+{{nat fs player|no=7|pos=MF|name=[[Vladimír Weiss (footballer born 1989)|Vladimír Weiss]]|age={{Birth date and age2|2010|6|11|1989|11|30|df=y}}|caps=7|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=MF|name=[[Ján Kozák (footballer born 1980)|Ján Kozák]]|age={{Birth date and age2|2010|6|11|1980|4|22|df=y}}|caps=22|club=[[FC Timişoara|Timişoara]]|clubnat=ROU}}
+{{nat fs player|no=9|pos=MF|name=[[Stanislav Šesták]]|age={{Birth date and age2|2010|6|11|1982|12|16|df=y}}|caps=29|club=[[VfL Bochum]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[Marek Sapara]]|age={{Birth date and age2|2010|6|11|1982|7|31|df=y}}|caps=24|club=[[Ankaragücü]]|clubnat=TUR}}
+{{nat fs player|no=11|pos=FW|name=[[Róbert Vittek]]|age={{Birth date and age2|2010|6|11|1982|4|1|df=y}}|caps=69|club=[[Ankaragücü]]|clubnat=TUR}}
+{{nat fs player|no=12|pos=GK|name=[[Dušan Perniš]]|age={{Birth date and age2|2010|6|11|1984|11|28|df=y}}|caps=1|club=[[Dundee United F.C.|Dundee United]]|clubnat=SCO}}
+{{nat fs player|no=13|pos=FW|name=[[Filip Hološko]]|age={{Birth date and age2|2010|6|11|1984|1|17|df=y}}|caps=37|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs player|no=14|pos=FW|name=[[Martin Jakubko]]|age={{Birth date and age2|2010|6|11|1980|2|26|df=y}}|caps=21|club=[[FC Saturn Moscow Oblast (1946-2011)|Saturn Moscow Oblast]]|clubnat=RUS}}
+{{nat fs player|no=15|pos=MF|name=[[Miroslav Stoch]]|age={{Birth date and age2|2010|6|11|1989|10|19|df=y}}|caps=10|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=16|pos=DF|name=[[Ján Ďurica]]|age={{Birth date and age2|2010|6|11|1981|12|10|df=y}}|caps=35|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs player|no=17|pos=MF|name=[[Marek Hamšík]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1987|7|27|df=y}}|caps=30|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=FW|name=[[Erik Jendrišek]]|age={{Birth date and age2|2010|6|11|1986|10|26|df=y}}|caps=13|club=[[1. FC Kaiserslautern]]|clubnat=GER}}
+{{nat fs player|no=19|pos=MF|name=[[Juraj Kucka]]|age={{Birth date and age2|2010|6|11|1987|2|26|df=y}}|caps=5|club=[[Sparta Prague]]|clubnat=CZE}}
+{{nat fs player|no=20|pos=MF|name=[[Kamil Kopúnek]]|age={{Birth date and age2|2010|6|11|1984|5|18|df=y}}|caps=7|club=[[FC Spartak Trnava|Spartak Trnava]]|clubnat=SVK}}
+{{nat fs player|no=21|pos=DF|name=[[Kornel Saláta]]|age={{Birth date and age2|2010|6|11|1985|1|4|df=y}}|caps=3|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs player|no=22|pos=DF|name=[[Martin Petráš]]|age={{Birth date and age2|2010|6|11|1979|11|2|df=y}}|caps=38|club=[[A.C. Cesena|Cesena]]|clubnat=ITA}}
+{{nat fs player|no=23|pos=GK|name=[[Dušan Kuciak]]|age={{Birth date and age2|2010|6|11|1985|5|21|df=y}}|caps=2|club=[[FC Vaslui]]|clubnat=ROU}}
+{{nat fs end}}
+
+==Group G==
+
+===Brazil===
+Coach: [[Dunga]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Júlio César Soares Espíndola|Júlio César]]|age={{Birth date and age2|2010|6|11|1979|9|3|df=y}}|caps=47|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=2|pos=DF|name=[[Maicon Sisenando|Maicon]]|age={{Birth date and age2|2010|6|11|1981|7|26|df=y}}|caps=56|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Lúcio]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1978|5|8|df=y}}|caps=89|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Juan Silveira dos Santos|Juan]]|age={{Birth date and age2|2010|6|11|1979|2|1|df=y}}|caps=73|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=MF|name=[[Felipe Melo]]|age={{Birth date and age2|2010|6|11|1983|8|26|df=y}}|caps=16|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=DF|name=[[Michel Bastos]]|age={{Birth date and age2|2010|6|11|1983|8|2|df=y}}|caps=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=7|pos=MF|name=[[Elano]]|age={{Birth date and age2|2010|6|11|1981|6|14|df=y}}|caps=41|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=8|pos=MF|name=[[Gilberto Silva]]|age={{Birth date and age2|2010|6|11|1976|10|7|df=y}}|caps=86|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=9|pos=FW|name=[[Luís Fabiano]]|age={{Birth date and age2|2010|6|11|1980|11|8|df=y}}|caps=36|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=10|pos=MF|name=[[Kaká]]|age={{Birth date and age2|2010|6|11|1982|4|22|df=y}}|caps=76|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=FW|name=[[Robinho]]|age={{Birth date and age2|2010|6|11|1984|1|25|df=y}}|caps=73|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{nat fs player|no=12|pos=GK|name=[[Heurelho Gomes|Gomes]]|age={{Birth date and age2|2010|6|11|1981|2|15|df=y}}|caps=9|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=DF|name=[[Daniel Alves]]|age={{Birth date and age2|2010|6|11|1983|5|6|df=y}}|caps=33|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=DF|name=[[Luisão]]|age={{Birth date and age2|2010|6|11|1981|2|13|df=y}}|caps=40|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=15|pos=DF|name=[[Thiago Silva (footballer)|Thiago Silva]]|age={{Birth date and age2|2010|6|11|1984|9|22|df=y}}|caps=4|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=DF|name=[[Gilberto da Silva Melo|Gilberto]]|age={{Birth date and age2|2010|6|11|1976|4|25|df=y}}|caps=32|club=[[Cruzeiro Esporte Clube|Cruzeiro]]|clubnat=BRA}}
+{{nat fs player|no=17|pos=MF|name=[[Josué Anunciado de Oliveira|Josué]]|age={{Birth date and age2|2010|6|11|1979|7|19|df=y}}|caps=26|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Ramires]]|age={{Birth date and age2|2010|6|11|1987|3|24|df=y}}|caps=11|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=19|pos=MF|name=[[Júlio Baptista]]|age={{Birth date and age2|2010|6|11|1981|10|1|df=y}}|caps=45|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=MF|name=[[José Kléberson|Kléberson]]|age={{Birth date and age2|2010|6|11|1979|6|19|df=y}}|caps=31|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs player|no=21|pos=FW|name=[[Nilmar]]|age={{Birth date and age2|2010|6|11|1984|7|14|df=y}}|caps=15|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs player|no=22|pos=GK|name=[[Doniéber Alexander Marangon|Doni]]|age={{Birth date and age2|2010|6|11|1979|10|22|df=y}}|caps=10|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=23|pos=FW|name=[[Grafite]]|age={{Birth date and age2|2010|6|11|1979|4|2|df=y}}|caps=2|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs end}}
+
+===Korea DPR===
+Coach: [[Kim Jong-Hun]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ri Myong-Guk]]|age={{Birth date and age2|2010|6|11|1986|9|9|df=y}}|caps=28|club=[[Pyongyang City Sports Club|Pyongyang City]]|clubnat=PRK}}
+{{nat fs player|no=2|pos=DF|name=[[Cha Jong-Hyok]]|age={{Birth date and age2|2010|6|11|1985|9|25|df=y}}|caps=31|club=[[Amrokgang Sports Club|Amrokgang]]|clubnat=PRK}}
+{{nat fs player|no=3|pos=DF|name=[[Ri Jun-Il]]|age={{Birth date and age2|2010|6|11|1987|8|24|df=y}}|caps=26|club=[[Sobaeksu Sports Club|Sobaeksu]]|clubnat=PRK}}
+{{nat fs player|no=4|pos=MF|name=[[Pak Nam-Chol (footballer born 1985)|Pak Nam-Chol]]|age={{Birth date and age2|2010|6|11|1985|7|2|df=y}}|caps=35|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=5|pos=DF|name=[[Ri Kwang-Chon]]|age={{Birth date and age2|2010|6|11|1985|9|4|df=y}}|caps=41|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=6|pos=MF|name=[[Kim Kum-Il]]|age={{Birth date and age2|2010|6|11|1987|10|10|df=y}}|caps=11|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=7|pos=FW|name=[[An Chol-Hyok]]|age={{Birth date and age2|2010|6|11|1985|6|27|df=y}}|caps=16|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs player|no=8|pos=DF|name=[[Ji Yun-Nam]]|age={{Birth date and age2|2010|6|11|1976|11|20|df=y}}|caps=23|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=9|pos=FW|name=[[Jong Tae-Se]]|age={{Birth date and age2|2010|6|11|1984|3|2|df=y}}|caps=20|club=[[Kawasaki Frontale]]|clubnat=JPN}}
+{{nat fs player|no=10|pos=FW|name=[[Hong Yong-Jo]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1982|5|22|df=y}}|caps=40|club=[[FC Rostov|Rostov]]|clubnat=RUS}}
+{{nat fs player|no=11|pos=MF|name=[[Mun In-Guk]]|age={{Birth date and age2|2010|6|11|1978|9|29|df=y}}|caps=42|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=12|pos=FW|name=[[Choe Kum-Chol]]|age={{Birth date and age2|2010|6|11|1987|2|9|df=y}}|caps=16|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=13|pos=DF|name=[[Pak Chol-Jin]]|age={{Birth date and age2|2010|6|11|1985|9|5|df=y}}|caps=34|club=[[Amrokgang Sports Club|Amrokgang]]|clubnat=PRK}}
+{{nat fs player|no=14|pos=DF|name=[[Pak Nam-Chol (footballer born 1988)|Pak Nam-Chol]]|age={{Birth date and age2|2010|6|11|1988|10|3|df=y}}|caps=12|club=[[Amrokgang Sports Club|Amrokgang]]|clubnat=PRK}}
+{{nat fs player|no=15|pos=MF|name=[[Kim Yong-Jun]]|age={{Birth date and age2|2010|6|11|1983|7|19|df=y}}|caps=52|club=[[Pyongyang City Sports Club|Pyongyang City]]|clubnat=PRK}}
+{{nat fs player|no=16|pos=DF|name=[[Nam Song-Chol]]|age={{Birth date and age2|2010|6|11|1982|5|7|df=y}}|caps=41|club=[[April 25 Sports Club|April 25]]|clubnat=PRK}}
+{{nat fs player|no=17|pos=MF|name=[[An Yong-Hak]]|age={{Birth date and age2|2010|6|11|1978|10|25|df=y}}|caps=24|club=[[Omiya Ardija]]|clubnat=JPN}}
+{{nat fs player|no=18|pos=GK|name=[[Kim Myong-Gil]]|age={{Birth date and age2|2010|6|11|1984|10|16|df=y}}|caps=10|club=[[Amrokgang Sports Club|Amrokgang]]|clubnat=PRK}}
+{{nat fs player|no=19|pos=MF|name=[[Ri Chol-Myong]]|age={{Birth date and age2|2010|6|11|1988|2|18|df=y}}|caps=10|club=[[Pyongyang City Sports Club|Pyongyang City]]|clubnat=PRK}}
+{{nat fs player|no=20|pos=GK|name=[[Kim Myong-Won]]<ref>[[Kim Myong-Won]], a [[Striker (association football)|striker]], has been registered as one of three required [[Goalkeeper (association football)|goalkeepers]] and will only be allowed to play as a [[Goalkeeper (association football)|goalkeeper]] during the tournament.<br />{{cite web |title=Selection blow for Korea DPR |url=http://www.fifa.com/worldcup/news/newsid=1223602/index.html |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=3 June 2010 |accessdate=9 June 2010 }}</ref>|age={{Birth date and age2|2010|6|11|1983|7|15|df=y}}|caps=9|club=[[Amrokgang Sports Club|Amrokgang]]|clubnat=PRK}}
+{{nat fs player|no=21|pos=DF|name=[[Ri Kwang-Hyok]]|age={{Birth date and age2|2010|6|11|1987|8|17|df=y}}|caps=15|club=[[Kyonggongop Sports Club|Kyonggongop]]|clubnat=PRK}}
+{{nat fs player|no=22|pos=MF|name=[[Kim Kyong-Il]]|age={{Birth date and age2|2010|6|11|1988|12|11|df=y}}|caps=7|club=[[Rimyongsu Sports Club|Rimyongsu]]|clubnat=PRK}}
+{{nat fs player|no=23|pos=MF|name=[[Pak Sung-Hyok]]|age={{Birth date and age2|2010|6|11|1990|5|30|df=y}}|caps=3|club=[[Sobaeksu Sports Club|Sobaeksu]]|clubnat=PRK}}
+{{nat fs end}}
+
+===Côte d'Ivoire===
+Coach: {{flagicon|SWE}} [[Sven-Göran Eriksson]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Boubacar Barry]]|age={{Birth date and age2|2010|6|11|1979|12|30|df=y}}|caps=45|club=[[K.S.C. Lokeren Oost-Vlaanderen|Lokeren]]|clubnat=BEL}}
+{{nat fs player|no=2|pos=DF|name=[[Benjamin Angoua]]|age={{Birth date and age2|2010|6|11|1986|11|28|df=y}}|caps=7|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=3|pos=DF|name=[[Arthur Boka]]|age={{Birth date and age2|2010|6|11|1983|4|2|df=y}}|caps=54|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=4|pos=DF|name=[[Kolo Touré]]|age={{Birth date and age2|2010|6|11|1981|3|19|df=y}}|caps=76|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=MF|name=[[Didier Zokora]]|age={{Birth date and age2|2010|6|11|1980|12|14|df=y}}|caps=80|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=DF|name=[[Steve Gohouri]]|age={{Birth date and age2|2010|6|11|1981|2|8|df=y}}|caps=11|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=FW|name=[[Seydou Doumbia]]|age={{Birth date and age2|2010|6|11|1987|12|31|df=y}}|caps=5|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs player|no=8|pos=FW|name=[[Salomon Kalou]]|age={{Birth date and age2|2010|6|11|1985|8|5|df=y}}|caps=28|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=MF|name=[[Cheick Tioté]]|age={{Birth date and age2|2010|6|11|1986|6|21|df=y}}|caps=8|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=10|pos=FW|name=[[Gervais Yao Kouassi|Gervinho]]|age={{Birth date and age2|2010|6|11|1987|5|27|df=y}}|caps=15|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=FW|name=[[Didier Drogba]] ([[Captain (association football)|c]]) |age={{Birth date and age2|2010|6|11|1978|3|11|df=y}}|caps=68|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=MF|name=[[Jean-Jacques Gosso]]|age={{Birth date and age2|2010|6|11|1983|3|15|df=y}}|caps=6|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=13|pos=MF|name=[[Romaric (footballer)|Romaric]]|age={{Birth date and age2|2010|6|11|1983|6|4|df=y}}|caps=38|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=MF|name=[[Emmanuel Koné]]|age={{Birth date and age2|2010|6|11|1986|12|31|df=y}}|caps=12|club=[[FC Internaţional Curtea de Argeş|International]]|clubnat=ROU}}
+{{nat fs player|no=15|pos=FW|name=[[Aruna Dindane]]|age={{Birth date and age2|2010|6|11|1980|11|26|df=y}}|caps=54|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=GK|name=[[Aristide Benoît Zogbo|Aristide Zogbo]]|age={{Birth date and age2|2010|6|11|1981|12|30|df=y}}|caps=6|club=[[Maccabi Netanya F.C.|Maccabi Netanya]]|clubnat=ISR}}
+{{nat fs player|no=17|pos=DF|name=[[Siaka Tiéné]]|age={{Birth date and age2|2010|6|11|1982|3|22|df=y}}|caps=55|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=18|pos=MF|name=[[Abdul Kader Keïta|Kader Keïta]]|age={{Birth date and age2|2010|6|11|1981|8|6|df=y}}|caps=55|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=19|pos=MF|name=[[Yaya Touré]]|age={{Birth date and age2|2010|6|11|1983|5|13|df=y}}|caps=47|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=20|pos=DF|name=[[Guy Demel]]|age={{Birth date and age2|2010|6|11|1981|6|13|df=y}}|caps=26|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=21|pos=DF|name=[[Emmanuel Eboué]]|age={{Birth date and age2|2010|6|11|1983|6|4|df=y}}|caps=52|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=DF|name=[[Sol Bamba]]|age={{Birth date and age2|2010|6|11|1985|1|13|df=y}}|caps=16|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO}}
+{{nat fs player|no=23|pos=GK|name=[[Daniel Yeboah]]|age={{Birth date and age2|2010|6|11|1984|11|13|df=y}}|caps=4|club=[[ASEC Mimosas]]|clubnat=CIV}}
+{{nat fs end}}
+
+===Portugal===
+Coach: [[Carlos Queiroz]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Eduardo dos Reis Carvalho|Eduardo]]|age={{Birth date and age2|2010|6|11|1982|9|19|df=y}}|caps=12|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs player|no=2|pos=DF|name=[[Bruno Alves]]|age={{Birth date and age2|2010|6|11|1981|11|27|df=y}}|caps=28|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=3|pos=DF|name=[[Paulo Ferreira]]|age={{Birth date and age2|2010|6|11|1979|1|18|df=y}}|caps=59|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Rolando (Portuguese footballer)|Rolando]]|age={{Birth date and age2|2010|6|11|1985|8|31|df=y}}|caps=7|goals=0|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=5|pos=DF|name=[[Duda (Portuguese footballer)|Duda]]|age={{Birth date and age2|2010|6|11|1980|6|27|df=y}}|caps=14|club=[[Málaga CF|Málaga]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=DF|name=[[Ricardo Carvalho]]|age={{Birth date and age2|2010|6|11|1978|5|18|df=y}}|caps=60|goals=4|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=FW|name=[[Cristiano Ronaldo]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1985|2|5|df=y}}|caps=69|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Pedro Miguel da Silva Mendes|Pedro Mendes]]|age={{Birth date and age2|2010|6|11|1979|2|26|df=y}}|caps=5|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs player|no=9|pos=FW|name=[[Liédson]]|age={{Birth date and age2|2010|6|11|1977|12|17|df=y}}|caps=7|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs player|no=10|pos=MF|name=[[Danny (footballer)|Danny]]|age={{Birth date and age2|2010|6|11|1983|8|7|df=y}}|caps=8|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=11|pos=MF|name=[[Simão Sabrosa|Simão]]|age={{Birth date and age2|2010|6|11|1979|10|31|df=y}}|caps=79|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[Beto (Portuguese footballer born 1982)|Beto]]|age={{Birth date and age2|2010|6|11|1982|5|1|df=y}}|caps=1|goals=0|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=13|pos=DF|name=[[Miguel Monteiro|Miguel]]|age={{Birth date and age2|2010|6|11|1980|1|4|df=y}}|caps=53|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=MF|name=[[Miguel Veloso]]|age={{Birth date and age2|2010|6|11|1986|5|11|df=y}}|caps=10|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs player|no=15|pos=DF|name=[[Pepe (footballer born 1983)|Pepe]]|age={{Birth date and age2|2010|6|11|1983|2|26|df=y}}|caps=24||club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=MF|name=[[Raul Meireles]]|age={{Birth date and age2|2010|6|11|1983|3|17|df=y}}|caps=31|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=17|pos=MF|name=[[Rúben Amorim]]<ref>[[Nani]] replaced by Rúben Amorim since Nani failed in medical tests.<br />{{cite web |url=http://www.fifa.com/worldcup/news/newsid=1231295/index.html |title=Nani injury dents Portugal hopes |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=8 June 2010 |accessdate=10 June 2010 }}</ref>|age={{Birth date and age2|2010|6|11|1985|01|27|df=y}}|caps=0||club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=18|pos=FW|name=[[Hugo Almeida]]|age={{Birth date and age2|2010|6|11|1984|5|23|df=y}}|caps=23|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs player|no=19|pos=MF|name=[[Tiago Mendes|Tiago]]|age={{Birth date and age2|2010|6|11|1981|5|2|df=y}}|caps=49|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=20|pos=MF|name=[[Deco]]|age={{Birth date and age2|2010|6|11|1977|8|27|df=y}}|caps=71|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=DF|name=[[Ricardo Costa (Portuguese footballer)|Ricardo Costa]]|age={{Birth date and age2|2010|6|11|1981|5|16|df=y}}|caps=6|club=[[OSC Lille|Lille]]|clubnat=FRA}}
+{{nat fs player|no=22|pos=GK|name=[[Daniel Fernandes (footballer)|Daniel Fernandes]]|age={{Birth date and age2|2010|6|11|1983|9|25|df=y}}|caps=2|goals=0|club=[[Iraklis Thessaloniki F.C.|Iraklis]]|clubnat=GRE}}
+{{nat fs player|no=23|pos=DF|name=[[Fábio Coentrão]]|age={{Birth date and age2|2010|6|11|1988|3|11|df=y}}|caps=3|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs end}}
+
+==Group H==
+
+===Spain===
+Coach: [[Vicente del Bosque]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Iker Casillas]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1981|5|20|df=y}}|caps=104|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Raúl Albiol]]|age={{Birth date and age2|2010|6|11|1985|9|4|df=y}}|caps=23|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=3|pos=DF|name=[[Gerard Piqué]]|age={{Birth date and age2|2010|6|11|1987|2|2|df=y}}|caps=16|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=DF|name=[[Carlos Marchena]]|age={{Birth date and age2|2010|6|11|1979|7|31|df=y}}|caps=59|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=5|pos=DF|name=[[Carles Puyol]]|age={{Birth date and age2|2010|6|11|1978|4|13|df=y}}|caps=83|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=MF|name=[[Andrés Iniesta]]|age={{Birth date and age2|2010|6|11|1984|5|11|df=y}}|caps=43|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=7|pos=FW|name=[[David Villa]]|age={{Birth date and age2|2010|6|11|1981|12|3|df=y}}|caps=58|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Xavi]]|age={{Birth date and age2|2010|6|11|1980|1|25|df=y}}|caps=87|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=9|pos=FW|name=[[Fernando Torres]]|age={{Birth date and age2|2010|6|11|1984|3|20|df=y}}|caps=73|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Cesc Fàbregas]]|age={{Birth date and age2|2010|6|11|1987|5|4|df=y}}|caps=49|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=DF|name=[[Joan Capdevila]]|age={{Birth date and age2|2010|6|11|1978|2|3|df=y}}|caps=46|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[Víctor Valdés]]|age={{Birth date and age2|2010|6|11|1982|1|14|df=y}}|caps=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=13|pos=MF|name=[[Juan Manuel Mata|Juan Mata]]|age={{Birth date and age2|2010|6|11|1988|4|28|df=y}}|caps=8|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=MF|name=[[Xabi Alonso]]|age={{Birth date and age2|2010|6|11|1981|11|25|df=y}}|caps=69|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=15|pos=DF|name=[[Sergio Ramos]]|age={{Birth date and age2|2010|6|11|1986|3|30|df=y}}|caps=60|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=MF|name=[[Sergio Busquets]]|age={{Birth date and age2|2010|6|11|1988|7|16|df=y}}|caps=13|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=17|pos=DF|name=[[Álvaro Arbeloa]]|age={{Birth date and age2|2010|6|11|1983|1|17|df=y}}|caps=15|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=18|pos=FW|name=[[Pedro Rodríguez Ledesma|Pedro]]|age={{Birth date and age2|2010|6|11|1987|7|28|df=y}}|caps=3|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=19|pos=FW|name=[[Fernando Llorente]]|age={{Birth date and age2|2010|6|11|1985|2|26|df=y}}|caps=7|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs player|no=20|pos=MF|name=[[Javi Martínez]]|age={{Birth date and age2|2010|6|11|1988|9|2|df=y}}|caps=2|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs player|no=21|pos=MF|name=[[David Silva]]|age={{Birth date and age2|2010|6|11|1986|1|8|df=y}}|caps=36|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=22|pos=MF|name=[[Jesús Navas]]|age={{Birth date and age2|2010|6|11|1985|11|21|df=y}}|caps=6|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=23|pos=GK|name=[[José Manuel Reina|Pepe Reina]]|age={{Birth date and age2|2010|6|11|1982|8|31|df=y}}|caps=20|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Switzerland===
+Coach: {{flagicon|GER}} [[Ottmar Hitzfeld]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Diego Benaglio]]|age={{Birth date and age2|2010|6|11|1983|9|8|df=y}}|caps=25|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=2|pos=DF|name=[[Stephan Lichtsteiner]]|age={{Birth date and age2|2010|6|11|1984|1|16|df=y}}|caps=26|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Ludovic Magnin]]|age={{Birth date and age2|2010|6|11|1979|4|20|df=y}}|caps=61|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{nat fs player|no=4|pos=DF|name=[[Philippe Senderos]]|age={{Birth date and age2|2010|6|11|1985|2|14|df=y}}|caps=38|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Steve von Bergen]]|age={{Birth date and age2|2010|6|11|1983|6|10|df=y}}|caps=10|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=6|pos=MF|name=[[Benjamin Huggel]]|age={{Birth date and age2|2010|6|11|1977|7|7|df=y}}|caps=36|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=7|pos=MF|name=[[Tranquillo Barnetta]]|age={{Birth date and age2|2010|6|11|1985|5|22|df=y}}|caps=50|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Gökhan Inler]]|age={{Birth date and age2|2010|6|11|1984|6|27|df=y}}|caps=34|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Alexander Frei]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1979|7|15|df=y}}|caps=73|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=10|pos=FW|name=[[Blaise Nkufo]]|age={{Birth date and age2|2010|6|11|1975|5|25|df=y}}|caps=29|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=11|pos=MF|name=[[Valon Behrami]]|age={{Birth date and age2|2010|6|11|1985|4|19|df=y}}|caps=26|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Marco Wölfli]]|age={{Birth date and age2|2010|6|11|1982|8|22|df=y}}|caps=4|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs player|no=13|pos=DF|name=[[Stéphane Grichting]]|age={{Birth date and age2|2010|6|11|1979|3|30|df=y}}|caps=33|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs player|no=14|pos=MF|name=[[Marco Padalino]]|age={{Birth date and age2|2010|6|11|1983|12|8|df=y}}|caps=7|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs player|no=15|pos=MF|name=[[Hakan Yakin]]|age={{Birth date and age2|2010|6|11|1977|2|22|df=y}}|caps=80|club=[[FC Luzern|Luzern]]|clubnat=SUI}}
+{{nat fs player|no=16|pos=MF|name=[[Gelson Fernandes]]|age={{Birth date and age2|2010|6|11|1986|9|2|df=y}}|caps=22|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs player|no=17|pos=DF|name=[[Reto Ziegler]]|age={{Birth date and age2|2010|6|11|1986|1|16|df=y}}|caps=10|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=FW|name=[[Albert Bunjaku (footballer)|Albert Bunjaku]]|age={{birth date and age2|2010|6|11|1983|11|29|df=y}}|caps=1|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=19|pos=FW|name=[[Eren Derdiyok]]|age={{Birth date and age2|2010|6|11|1988|6|12|df=y}}|caps=19|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=20|pos=MF|name=[[Pirmin Schwegler]]|age={{Birth date and age2|2010|6|11|1987|3|9|df=y}}|caps=3|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=21|pos=GK|name=[[Johnny Leoni]]|age={{Birth date and age2|2010|6|11|1984|6|30|df=y}}|caps=0|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{nat fs player|no=22|pos=DF|name=[[Mario Eggimann]]|age={{Birth date and age2|2010|6|11|1981|1|24|df=y}}|caps=8|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs player|no=23|pos=MF|name=[[Xherdan Shaqiri]]|age={{Birth date and age2|2010|6|11|1991|10|10|df=y}}|caps=1|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs end}}
+
+===Honduras===
+Coach: {{flagicon|COL}} [[Reinaldo Rueda]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ricardo Canales]]|age={{Birth date and age2|2010|6|11|1982|5|30|df=y}}|caps=2|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=2|pos=DF|name=[[Osman Chávez]]|age={{Birth date and age2|2010|6|11|1984|7|29|df=y}}|caps=26|club=[[C.D. Platense|Platense]]|clubnat=HON}}
+{{nat fs player|no=3|pos=DF|name=[[Maynor Figueroa]]|age={{Birth date and age2|2010|6|11|1983|5|2|df=y}}|caps=66|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Johnny Palacios]]|age={{Birth date and age2|2010|6|11|1986|12|20|df=y}}|caps=4|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=5|pos=DF|name=[[Víctor Bernárdez]]|age={{Birth date and age2|2010|6|11|1982|5|24|df=y}}|caps=40|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs player|no=6|pos=MF|name=[[Hendry Thomas]]|age={{Birth date and age2|2010|6|11|1985|2|23|df=y}}|caps=39|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Ramón Núñez]]|age={{Birth date and age2|2010|6|11|1984|11|14|df=y}}|caps=16|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=8|pos=MF|name=[[Wilson Palacios]]|age={{Birth date and age2|2010|6|11|1984|7|29|df=y}}|caps=69|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Carlos Pavón]]|age={{Birth date and age2|2010|6|11|1973|10|19|df=y}}|caps=98|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs player|no=10|pos=FW|name=[[Jerry Palacios]]<ref>[[Julio César de León]] replaced by Jerry Palacios due to injury.<br />{{cite web |url=http://www.concacaf.com/page/WCQ/NewsDetail/0,,12813~2071671,00.html |title=Injured De Leon out of World Cup |work=CONCACAF.com |publisher=CONCACAF |date=15 June 2010 |accessdate=15 June 2010 }}</ref>|age={{Birth date and age2|2010|6|11|1982|5|13|df=y}}|caps=11|club=[[Hangzhou Nabel Greentown F.C.|Hangzhou Greentown]]|clubnat=CHN}}
+{{nat fs player|no=11|pos=FW|name=[[David Suazo]]|age={{Birth date and age2|2010|6|11|1979|11|5|df=y}}|caps=50|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=FW|name=[[Georgie Welcome]]|age={{Birth date and age2|2010|6|11|1985|3|9|df=y}}|caps=11|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=13|pos=FW|name=[[Roger Espinoza]] |age={{Birth date and age2|2010|6|11|1986|10|25|df=y}}|caps=10|club=[[Kansas City Wizards]]|clubnat=USA}}
+{{nat fs player|no=14|pos=DF|name=[[Oscar Boniek García|Oscar García]]|age={{Birth date and age2|2010|6|11|1984|9|4|df=y}}|caps=42|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=15|pos=FW|name=[[Walter Julián Martínez|Walter Martínez]]|age={{Birth date and age2|2010|6|11|1982|3|29|df=y}}|caps=34|club=[[C.D. Marathón|Marathón]]|clubnat=HON}}
+{{nat fs player|no=16|pos=DF|name=[[Mauricio Sabillón]]|age={{Birth date and age2|2010|6|11|1978|11|11|df=y}}|caps=25|club=[[Hangzhou Nabel Greentown F.C.|Hangzhou Greentown]]|clubnat=CHN}}
+{{nat fs player|no=17|pos=MF|name=[[Edgar Álvarez]]|age={{Birth date and age2|2010|6|11|1980|1|9|df=y}}|caps=46|club=[[A.S. Bari|Bari]]|clubnat=Italy}}
+{{nat fs player|no=18|pos=GK|name=[[Noel Valladares]]|age={{Birth date and age2|2010|6|11|1977|5|3|df=y}}|caps=71|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=19|pos=MF|name=[[Danilo Turcios]]|age={{Birth date and age2|2010|6|11|1978|5|8|df=y}}|caps=82|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=20|pos=MF|name=[[Amado Guevara]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1976|5|2|df=y}}|caps=133|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=21|pos=DF|name=[[Emilio Izaguirre]]|age={{Birth date and age2|2010|6|11|1986|5|10|df=y}}|caps=39|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=22|pos=GK|name=[[Donis Escober]]|age={{Birth date and age2|2010|6|11|1980|2|3|df=y}}|caps=11|club=[[C.D. Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=23|pos=DF|name=[[Sergio Mendoza]]|age={{Birth date and age2|2010|6|11|1981|5|23|df=y}}|caps=46|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs end}}
+
+===Chile===
+Coach: {{flagicon|ARG}} [[Marcelo Bielsa]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Claudio Bravo (footballer)|Claudio Bravo]] ([[Captain (association football)|c]])|age={{Birth date and age2|2010|6|11|1983|4|13|df=y}}|caps=41|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Ismael Fuentes]]|age={{Birth date and age2|2010|6|11|1981|8|4|df=y}}|caps=25|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs player|no=3|pos=DF|name=[[Waldo Ponce]]|age={{Birth date and age2|2010|6|11|1982|12|4|df=y}}|caps=23|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs player|no=4|pos=MF|name=[[Mauricio Isla]]|age={{Birth date and age2|2010|6|11|1988|6|12|df=y}}|caps=10|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=DF|name=[[Pablo Contreras]]|age={{Birth date and age2|2010|6|11|1978|9|11|df=y}}|caps=49|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=6|pos=MF|name=[[Carlos Carmona]]|age={{Birth date and age2|2010|6|11|1987|2|21|df=y}}|caps=18|club=[[Reggina Calcio|Reggina]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=FW|name=[[Alexis Sánchez (footballer)|Alexis Sánchez]]|age={{Birth date and age2|2010|6|11|1988|12|19|df=y}}|caps=26|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=8|pos=DF|name=[[Arturo Vidal]]|age={{Birth date and age2|2010|6|11|1987|5|22|df=y}}|caps=21|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=9|pos=FW|name=[[Humberto Suazo]] |age={{Birth date and age2|2010|6|11|1981|5|10|df=y}}|caps=41|club=[[Real Zaragoza]]|clubnat=ESP}}
+{{nat fs player|no=10|pos=MF|name=[[Jorge Valdivia]]|age={{Birth date and age2|2010|6|11|1983|10|19|df=y}}|caps=36|club=[[Al Ain FC|Al-Ain]]|clubnat=UAE}}
+{{nat fs player|no=11|pos=FW|name=[[Mark González]]|age={{Birth date and age2|2010|6|11|1984|7|10|df=y}}|caps=38|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs player|no=12|pos=GK|name=[[Miguel Pinto]]|age={{Birth date and age2|2010|6|11|1983|7|4|df=y}}|caps=13|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs player|no=13|pos=MF|name=[[Marco Estrada (footballer)|Marco Estrada]]|age={{Birth date and age2|df=yes|2010|6|11|1983|5|28}}|caps=20|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs player|no=14|pos=MF|name=[[Matías Fernández]]|age={{Birth date and age2|2010|6|11|1986|5|15|df=y}}|caps=35|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs player|no=15|pos=FW|name=[[Jean Beausejour]]|age={{Birth date and age2|2010|6|11|1984|6|1|df=y}}|caps=23|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs player|no=16|pos=FW|name=[[Fabián Orellana]]|age={{Birth date and age2|2010|6|11|1986|1|27|df=y}}|caps=13|club=[[Xerez CD|Xerez]]|clubnat=ESP}}
+{{nat fs player|no=17|pos=DF|name=[[Gary Medel]]|age={{Birth date and age2|2010|6|11|1987|8|3|df=y}}|caps=23|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs player|no=18|pos=DF|name=[[Gonzalo Jara]]|age={{Birth date and age2|2010|6|11|1985|8|29|df=y}}|caps=31|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=MF|name=[[Gonzalo Fierro]]|age={{Birth date and age2|2010|6|11|1983|3|21|df=y}}|caps=16|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs player|no=20|pos=MF|name=[[Rodrigo Millar]]|age={{Birth date and age2|2010|6|11|1981|11|3|df=y}}|caps=19|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs player|no=21|pos=MF|name=[[Rodrigo Tello]]|age={{Birth date and age2|2010|6|11|1979|10|14|df=y}}|caps=32|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs player|no=22|pos=FW|name=[[Esteban Paredes]]|age={{Birth date and age2|2010|6|11|1980|8|1|df=y}}|caps=12|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs player|no=23|pos=GK|name=[[Luis Marín Baharona (footballer)|Luis Marín]]|age={{Birth date and age2|2010|6|11|1983|5|18|df=y}}|caps=2|club=[[Unión Española]]|clubnat=CHI}}
+{{nat fs end}}
+
+==Player statistics==
+===Player representation by club===
+{| class="wikitable"
+|-
+! Players !! {{flagicon|ENG}} England !! {{flagicon|ESP}} Spain !! {{flagicon|ITA}} Italy !! {{flagicon|GER}} Germany !! {{flagicon|FRA}} France !! {{flagicon|NED}} Netherlands !! Other UEFA !! Other regions
+|-
+|13 || || [[FC Barcelona|Barcelona]] || || || || || ||
+|-
+|12 || [[Chelsea F.C.|Chelsea]]<br />[[Liverpool F.C.|Liverpool]] || || || || || || ||
+|-
+|11 || || || || [[FC Bayern Munich|Bayern Munich]] || || || ||
+|-
+|10 || [[Arsenal F.C.|Arsenal]]<br />[[Tottenham Hotspur F.C.|Tottenham Hotspur]] || [[Real Madrid C.F.|Real Madrid]] || [[F.C. Internazionale Milano|Internazionale]] || || || ||{{flagicon|GRE}} [[Panathinaikos F.C.|Panathinaikos]] || 
+|-
+|9 || || || [[Juventus F.C.|Juventus]] || [[VfL Wolfsburg|Wolfsburg]] || || [[AFC Ajax|Ajax]] || ||
+|-
+|8 || [[Portsmouth F.C.|Portsmouth]] || || [[Udinese Calcio|Udinese]] || || || || ||
+|-
+|7 || [[Everton F.C.|Everton]]<br />[[Manchester City F.C.|Manchester City]] || [[Valencia CF|Valencia]] || [[A.C. Milan|Milan]] || [[Hamburger SV|Hamburg]]<br />[[VfB Stuttgart|Stuttgart]] || || || {{flagicon|POR}} [[S.L. Benfica|Benfica]] || {{flagicon|PRK}} [[4.25 Sports Group|April 25]]
+|-
+|6 || || || || [[Bayer 04 Leverkusen|Bayer Leverkusen]]<br />[[SV Werder Bremen|Werder Bremen]] || [[Olympique Lyonnais|Lyon]] || [[FC Twente|Twente]] || {{flagicon|POR}} [[F.C. Porto|Porto]] || {{flagicon|HON}} [[C.D. Olimpia|Olimpia]]
+|-
+|5 || [[Fulham F.C.|Fulham]]<br />[[West Ham United F.C.|West Ham United]]<br />[[Wigan Athletic F.C.|Wigan Athletic]]<br />[[Manchester United F.C.|Manchester United]] || [[Sevilla FC|Sevilla]] || [[S.S.C. Napoli|Napoli]]<br />[[A.S. Roma|Roma]]<br />|| || [[AS Monaco FC|AS Monaco]]<br />[[Olympique de Marseille|Marseille]]<br />[[Valenciennes FC|Valenciennes]] || [[AZ (football club)|AZ]] || {{flagicon|TUR}} [[Galatasaray S.K.|Galatasaray]]<br />{{flagicon|SUI}} [[FC Basel|Basel]] || {{flagicon|MEX}}[[C.D. Guadalajara|Guadalajara]]<br />{{flagicon|HON}} [[C.D. Motagua|Motagua]]<br />{{flagicon|NZL}} [[Wellington Phoenix FC|Wellington]]<br />{{flagicon|PRK}} [[Amrokgang Sports Group|Amrokgang]] 
+|}
+
+===Player representation by league===
+{| class="wikitable sortable"
+|-
+!Country!!Players||Percentage||Outside national squad 
+|-
+|Total||736|| ||
+|-
+|{{flagicon|ENG}} [[English football league system|England]]||117||16%||92 
+|-
+|{{flagicon|GER}} [[Bundesliga|Germany]]||84||11%||61
+|-
+|{{flagicon|ITA}} [[Italian football league system|Italy]]||80||11%||57
+|-
+|{{flagicon|ESP}} [[La Liga|Spain]]||59||8%||39
+|-
+|{{flagicon|FRA}} [[Ligue de Football Professionnel|France]]||45||6%||34
+|-
+|{{flagicon|NED}} [[Eredivisie|Netherlands]]||34||5%||25
+|-
+|{{flagicon|JPN}} [[J. League Division 1|Japan]]||25||3%||6
+|-
+|{{flagicon|GRE}} [[Super League Greece|Greece]]||21||3%||7
+|-
+|{{flagicon|MEX}} [[Mexican football league system|Mexico]]||21||3%||7
+|-
+|{{flagicon|POR}} [[Portuguese Liga|Portugal]]||21||3%||10
+|-
+|{{flagicon|PRK}} [[DPR Korea League|Korea DPR]]||20||3%||0
+|-
+|Others||209||28%||
+|}
+The [[England national football team|English]], [[Germany national football team|German]], and [[Italy national football team|Italian]] squads were made up entirely of players from the respective countries' domestic leagues. The [[Nigeria national football team|Nigerian]] squad was made up entirely of players employed by overseas clubs. 
+Although [[Russia national football team|Russia]], [[Turkey national football team|Turkey]], and [[Scotland national football team|Scotland]] failed to qualify for the finals, their domestic leagues were represented by 14, 14, and 10 players respectively. Altogether, there were 52 national leagues that had players in the tournament.
+
+===Average age of squads===
+{| class="wikitable"
+|-
+!Average age!!Countries
+|-
+|24||[[Germany national football team|Germany]], [[Ghana national football team|Ghana]], [[North Korea national football team|North Korea]]
+|-
+|25||[[Cameroon national football team|Cameroon]], [[Chile national football team|Chile]], [[Nigeria national football team|Nigeria]], [[Serbia national football team|Serbia]], [[Spain national football team|Spain]]
+|-
+|26||[[Algeria national football team|Algeria]], [[Ivory Coast national football team|Ivory Coast]], [[Slovakia national football team|Slovakia]], [[Slovenia national football team|Slovenia]], [[South Africa national football team|South Africa]], [[Switzerland national football team|Switzerland]], [[United States men's national soccer team|United States]], [[Uruguay national football team|Uruguay]]
+|-
+|27||[[Argentina national football team|Argentina]], [[Denmark national football team|Denmark]], [[France national football team|France]], [[Greece national football team|Greece]], [[Japan national football team|Japan]], [[South Korea national football team|South Korea]], [[Mexico national football team|Mexico]], [[Netherlands national football team|Netherlands]], [[New Zealand national football team|New Zealand]], [[Portugal national football team|Portugal]]
+|-
+|28||[[Australia national football team|Australia]], [[Brazil national football team|Brazil]], [[England national football team|England]], [[Honduras national football team|Honduras]], [[Italy national football team|Italy]], [[Paraguay national football team|Paraguay]]
+|}
+
+===Coaches representation by country===
+{| class="wikitable"
+|-
+!Nº!!Country!!Coaches
+|-
+|rowspan="2"|3||{{flagicon|ARG}} Argentina||[[Marcelo Bielsa]] (Chile), [[Diego Maradona]], [[Gerardo Martino]] (Paraguay)
+|-
+|{{flagicon|GER}} Germany||[[Ottmar Hitzfeld]] (Switzerland), [[Joachim Löw]], [[Otto Rehhagel]] (Greece)
+|-
+|rowspan="6"|2||{{flagicon|BRA}} Brazil||[[Dunga]], [[Carlos Alberto Parreira]] (South Africa)
+|-
+|{{flagicon|FRA}} France||[[Raymond Domenech]], [[Paul Le Guen]] (Cameroon)
+|-
+|{{flagicon|ITA}} Italy||[[Fabio Capello]] (England), [[Marcello Lippi]]
+|-
+|{{flagicon|NED}} Netherlands||[[Bert van Marwijk]], [[Pim Verbeek]] (Australia)
+|-
+|{{flagicon|SRB}} Serbia||[[Radomir Antić]], [[Milovan Rajevac]] (Ghana)
+|-
+|{{flagicon|SWE}} Sweden||[[Sven-Göran Eriksson]] (Côte d'Ivoire), [[Lars Lagerbäck]] (Nigeria)
+|-
+|rowspan="14"|1||{{flagicon|ALG}} Algeria||[[Rabah Saâdane]]
+|-
+|{{flagicon|COL}} Colombia||[[Reinaldo Rueda]] (Honduras)
+|-
+|{{flagicon|DEN}} Denmark||[[Morten Olsen]]
+|-
+|{{flagicon|JPN}} Japan||[[Takeshi Okada]]
+|-
+|{{flagicon|PRK}} Korea DPR||[[Kim Jong-Hun]]
+|-
+|{{flagicon|KOR}} Korea Republic||[[Huh Jung-Moo]]
+|-
+|{{flagicon|MEX}} Mexico||[[Javier Aguirre]]
+|-
+|{{flagicon|NZL}} New Zealand||[[Ricki Herbert]]
+|-
+|{{flagicon|POR}} Portugal||[[Carlos Queiroz]]
+|-
+|{{flagicon|SVK}} Slovakia||[[Vladimír Weiss (footballer born 1964)|Vladimír Weiss]]
+|-
+|{{flagicon|SVN}} Slovenia||[[Matjaž Kek]]
+|-
+|{{flagicon|ESP}} Spain||[[Vicente del Bosque]]
+|-
+|{{flagicon|USA}} United States||[[Bob Bradley]]
+|-
+|{{flagicon|URU}} Uruguay||[[Oscar Tabárez]]
+|}
+
+==References==
+*{{cite news |title=Official Players List |url=http://www.fifa.com/mm/document/tournament/competition/01/22/85/78/fwc_2010_squadlists.pdf |work=FIFA.com |publisher=Fédération Internationale de Football Association |date=4 June 2010 |accessdate=9 June 2010 }}
+{{reflist|2}}
+
+==External links==
+*[http://www.fifa.com/mm/document/tournament/competition/01/22/85/78/fwc_2010_squadlists.pdf Official Players List]
+*[http://www.fifa.com/mm/document/tournament/competition/01/20/86/87/provisional1305.pdf Preliminary Squads List]
+
+{{FIFA World Cup}}
+{{2010 FIFA World Cup}}
+
+{{DEFAULTSORT:2010 Fifa World Cup Squads}}
+[[Category:2010 FIFA World Cup|Squads]]
+[[Category:FIFA World Cup squads]]
+
+{{Link FL|no}}
+{{Link FL|ru}}

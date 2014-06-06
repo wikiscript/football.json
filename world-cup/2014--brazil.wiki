@@ -1,0 +1,1171 @@
+<!-- 
+     source: en.wikipedia.org/wiki/2014_FIFA_World_Cup_squads
+     added:  Jun/6 2014
+  -->
+
+The [[2014 FIFA World Cup]] is an upcoming international [[association football|football]] tournament held in Brazil from 12 June to 13 July 2014. The 32 national teams involved in the tournament will be required to register a squad of 23 players, three of whom must be goalkeepers.<ref name="regulations">{{cite web|title=Regulations - 2014 FIFA World Cup - Brazil |url=http://resources.fifa.com/mm/document/tournament/competition/01/47/38/17/regulationsfwcbrazil2014_update_e_neutral.pdf|publisher=FIFA|accessdate=5 May 2014}}</ref> Only players in these squads will be eligible to take part in the tournament.
+
+A provisional list of 30 players per national team was submitted to FIFA by 13 May 2014.<ref name="regulations"/> FIFA published the 30-player provisional lists on their website on 16 May 2014.<ref>{{cite web|url=http://resources.fifa.com/mm/document/tournament/competition/02/33/99/65/fifaworldcup2014-releaselist_neutral.pdf|title=Release list of Players|publisher=FIFA.com|date=16 May 2014}}</ref>
+
+The final lists of 23 players per national team were submitted to FIFA by 2 June 2014.<ref name="regulations"/> FIFA published the 23-player final lists, with the squad numbers, on their website, on 5 June 2014.<ref>{{cite web|url=http://www.fifa.com/worldcup/news/y=2014/m=6/news=world-cup-squads-officially-confirmed-2354847.html|title=World Cup squads officially confirmed|publisher=FIFA.com|date=5 June 2014}}</ref>
+
+Teams are permitted to make late replacements in the event of serious injury, at any time up to 24 hours before their first game.<ref name="regulations"/> 
+
+The age listed for each player is on 12 June 2014, the first day of the tournament. The number of caps listed for each player does not include any matches played after the start of the 2014 FIFA World Cup. The club listed is the club for which the player last played a competitive match prior to the tournament. The nationality for each club reflects the national association (not the league) to which the club is affiliated.
+
+==Group A==
+
+===Brazil===
+Coach: [[Luiz Felipe Scolari]]
+
+The final squad was announced on 7 May 2014.<ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27312691|title=World Cup 2014: Kaka and Robinho omitted from Brazil squad|date=7 May 2014|accessdate=7 May 2014|publisher=BBC Sport}}</ref> The squad numbers were revealed on 2 June.<ref>{{cite news|url=http://globoesporte.globo.com/futebol/selecao-brasileira/noticia/2014/06/cbf-divulga-numeracao-dos-jogadores-da-selecao-para-copa.html|title=CBF divulga numeração dos jogadores da seleção para a Copa do Mundo|date=2 June 2014|accessdate=2 June 2014|publisher=GloboEsporte|language=Portuguese}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Jefferson de Oliveira Galvão|Jefferson]]|age={{Birth date and age2|2014|6|12|1983|1|2|df=y}}|caps=9|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=BRA}}
+{{nat fs player|no=2|pos=DF|name=[[Dani Alves]]|age={{Birth date and age2|2014|6|12|1983|5|6|df=y}}|caps=74|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=3|pos=DF|name=[[Thiago Silva]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1984|9|22|df=y}}|caps=45|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=DF|name=[[David Luiz]]|age={{Birth date and age2|2014|6|12|1987|4|22|df=y}}|caps=35|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=MF|name=[[Fernando Luiz Roza|Fernandinho]]|age={{Birth date and age2|2014|6|12|1985|5|4|df=y}}|caps=6|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=DF|name=[[Marcelo Vieira|Marcelo]]|age={{Birth date and age2|2014|6|12|1988|5|12|df=y}}|caps=30|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=7|pos=FW|name=[[Hulk (footballer)|Hulk]]|age={{Birth date and age2|2014|6|12|1986|7|25|df=y}}|caps=34|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=8|pos=MF|name=[[Paulinho (footballer)|Paulinho]]|age={{Birth date and age2|2014|6|12|1988|7|25|df=y}}|caps=25|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Fred (footballer)|Fred]]|age={{Birth date and age2|2014|6|12|1983|10|3|df=y}}|caps=33|club=[[Fluminense Football Club|Fluminense]]|clubnat=BRA}}
+{{nat fs player|no=10|pos=FW|name=[[Neymar]]|age={{Birth date and age2|2014|6|12|1992|2|5|df=y}}|caps=48|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Oscar (footballer born 1991)|Oscar]]|age={{Birth date and age2|2014|6|12|1991|9|9|df=y}}|caps=30|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Júlio César (footballer)|Júlio César]]|age={{Birth date and age2|2014|6|12|1979|9|3|df=y}}|caps=79|club=[[Toronto FC|Toronto]]|clubnat=CAN}}
+{{nat fs player|no=13|pos=DF|name=[[Dante (footballer)|Dante]]|age={{Birth date and age2|2014|6|12|1983|10|18|df=y}}|caps=12|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=14|pos=DF|name=[[Maxwell Cabelino Andrade|Maxwell]]|age={{Birth date and age2|2014|6|12|1981|8|27|df=y}}|caps=8|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=15|pos=DF|name=[[Henrique Adriano Buss|Henrique]]|age={{Birth date and age2|2014|6|12|1986|10|14|df=y}}|caps=5|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=MF|name=[[Ramires]]|age={{Birth date and age2|2014|6|12|1987|3|24|df=y}}|caps=42|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=MF|name=[[Luiz Gustavo]]|age={{Birth date and age2|2014|6|12|1987|7|23|df=y}}|caps=18|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=18|pos=MF|name=[[Hernanes]]|age={{Birth date and age2|2014|6|12|1985|5|29|df=y}}|caps=24|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=MF|name=[[Willian Borges da Silva|Willian]]|age={{Birth date and age2|2014|6|12|1988|8|9|df=y}}|caps=6|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=FW|name=[[Bernard (footballer)|Bernard]]|age={{Birth date and age2|2014|6|12|1992|9|8|df=y}}|caps=10|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs player|no=21|pos=FW|name=[[Jô]]|age={{Birth date and age2|2014|6|12|1987|3|20|df=y}}|caps=16|club=[[Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs player|no=22|pos=GK|name=[[Victor Leandro Bagy|Victor]]|age={{Birth date and age2|2014|6|12|1983|1|21|df=y}}|caps=6|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs player|no=23|pos=DF|name=[[Maicon Sisenando|Maicon]]|age={{Birth date and age2|2014|6|12|1981|7|26|df=y}}|caps=71|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Cameroon===
+Coach: {{flagicon|GER}} [[Volker Finke]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.bbc.com/sport/0/football/27374746|title=World Cup 2014: Idrissou dropped from Cameroon|date=2 June 2014|accessdate=2 June 2014|publisher=BBC Sport}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Maxime Loïc Feudjou|Loïc Feudjou]]|age={{birth date and age2|2014|6|12|1992|4|14|df=y}}|caps=1|club=[[Coton Sport FC de Garoua|Coton Sport]]|clubnat=CMR}}
+{{nat fs player|no=2|pos=DF|name=[[Benoît Assou-Ekotto]]|age={{birth date and age2|2014|6|12|1984|3|24|df=y}}|caps=21|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Nicolas N'Koulou]]|age={{birth date and age2|2014|6|12|1990|3|27|df=y}}|caps=47|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=DF|name=[[Cédric Djeugoué]]|age={{birth date and age2|2014|6|12|1992|8|28|df=y}}|caps=3|club=[[Coton Sport FC de Garoua|Coton Sport]]|clubnat=CMR}}
+{{nat fs player|no=5|pos=DF|name=[[Dany Nounkeu]]|age={{birth date and age2|2014|6|12|1986|4|11|df=y}}|caps=15|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs player|no=6|pos=MF|name=[[Alex Song]]|age={{birth date and age2|2014|6|12|1987|9|9|df=y}}|caps=46|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=7|pos=MF|name=[[Landry N'Guémo]]|age={{birth date and age2|2014|6|12|1985|11|28|df=y}}|caps=39|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{nat fs player|no=8|pos=FW|name=[[Benjamin Moukandjo]]|age={{birth date and age2|2014|6|12|1988|11|12|df=y}}|caps=16|club=[[AS Nancy|Nancy]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=FW|name=[[Samuel Eto'o]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1981|3|10|df=y}}|caps=116|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Vincent Aboubakar]]|age={{birth date and age2|2014|6|12|1992|1|22|df=y}}|caps=23|club=[[FC Lorient|Lorient]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=MF|name=[[Jean Makoun]]|age={{birth date and age2|2014|6|12|1983|5|29|df=y}}|caps=66|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs player|no=12|pos=DF|name=[[Henri Bedimo]]|age={{birth date and age2|2014|6|12|1984|6|4|df=y}}|caps=30|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs player|no=13|pos=FW|name=[[Eric Maxim Choupo-Moting|Maxim Choupo-Moting]]|age={{birth date and age2|2014|6|12|1989|3|23|df=y}}|caps=26|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=14|pos=DF|name=[[Aurélien Chedjou]]|age={{birth date and age2|2014|6|12|1985|6|20|df=y}}|caps=30|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=15|pos=FW|name=[[Pierre Webó]]|age={{birth date and age2|2014|6|12|1982|1|20|df=y}}|caps=55|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=16|pos=GK|name=[[Charles Itandje]]|age={{birth date and age2|2014|6|12|1982|11|2|df=y}}|caps=9|club=[[Torku Konyaspor|Konyaspor]]|clubnat=TUR}}
+{{nat fs player|no=17|pos=MF|name=[[Stéphane Mbia]]|age={{birth date and age2|2014|6|12|1986|5|20|df=y}}|caps=49|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=18|pos=MF|name=[[Eyong Enoh]]|age={{birth date and age2|2014|6|12|1986|3|23|df=y}}|caps=37|club=[[Antalyaspor]]|clubnat=TUR}}
+{{nat fs player|no=19|pos=FW|name=[[Fabrice Olinga]]|age={{birth date and age2|2014|6|12|1996|5|12|df=y}}|caps=7|club=[[S.V. Zulte Waregem|Zulte Waregem]]|clubnat=BEL}}
+{{nat fs player|no=20|pos=MF|name=[[Edgar Salli]]|age={{birth date and age2|2014|6|12|1992|8|17|df=y}}|caps=8|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs player|no=21|pos=MF|name=[[Joël Matip]]|age={{birth date and age2|2014|6|12|1991|8|8|df=y}}|caps=22|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=22|pos=DF|name=[[Allan Nyom]]|age={{birth date and age2|2014|6|12|1988|5|10|df=y}}|caps=8|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs player|no=23|pos=GK|name=[[Sammy N'Djock]]|age={{birth date and age2|2014|6|12|1990|2|25|df=y}}|caps=2|club=[[Fethiyespor]]|clubnat=TUR}}
+{{nat fs end}}
+
+===Croatia===
+Coach: [[Niko Kovač]]
+
+The final squad announced on 31 May 2014:<ref>[http://www.index.hr/sp2014/clanak/kovac-objavio-putnike-za-brazil-otpali-cop-bubnjic-pasalic-i-badelj-mocinic-ide-na-sp-/750675.aspx]</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Stipe Pletikosa]]|age={{Birth date and age2|2014|6|12|1979|1|8|df=y}}|caps=110|club=[[FC Rostov|Rostov]]|clubnat=RUS }}
+{{nat fs player|no=2|pos=DF|name=[[Šime Vrsaljko]]|age={{birth date and age2|2014|6|12|1992|1|10|df=y}}|caps=6|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Danijel Pranjić]]|age={{birth date and age2|2014|6|12|1981|12|2|df=y}}|caps=48|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=4|pos=MF|name=[[Ivan Perišić]]|age={{Birth date and age2|2014|6|12|1989|2|2|df=y}}|caps=28|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Vedran Ćorluka]]|age={{Birth date and age2|2014|6|12|1986|2|5|df=y}}|caps=72|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs player|no=6|pos=DF|name=[[Dejan Lovren]]|age={{birth date and age2|2014|6|12|1989|07|5|df=y}}|caps=23|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Ivan Rakitić]]|age={{Birth date and age2|2014|6|12|1988|3|10|df=y}}|caps=61|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Ognjen Vukojević]]|age={{Birth date and age2|2014|6|12|1983|12|20|df=y}}|caps=55|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=9|pos=FW|name=[[Nikica Jelavić]]|age={{Birth date and age2|2014|6|12|1985|8|27|df=y}}|caps=33|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Luka Modrić]]|age={{Birth date and age2|2014|6|12|1985|9|9|df=y}}|caps=74|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=DF|name=[[Darijo Srna]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1982|5|1|df=y}}|caps=112|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs player|no=12|pos=GK|name=[[Oliver Zelenika]]|age={{Birth date and age2|2014|6|12|1993|5|14|df=y}}|caps=0|club=[[NK Lokomotiva|Lokomotiva]]|clubnat=CRO}}
+{{nat fs player|no=13|pos=DF|name=[[Gordon Schildenfeld]]|age={{birth date and age2|2014|6|12|1985|3|18|df=y}}|caps=21|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=14|pos=MF|name=[[Marcelo Brozović]]|age={{Birth date and age2|2014|6|12|1992|10|16|df=y}}|caps=0|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs player|no=15|pos=MF|name=[[Ivan Močinić]]|age={{Birth date and age2|2014|6|12|1993|4|30|df=y}}|caps=0|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs player|no=16|pos=FW|name=[[Ante Rebić]]|age={{birth date and age2|2014|6|12|1993|9|21|df=y}}|caps=4|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=17|pos=FW|name=[[Mario Mandžukić]]|age={{Birth date and age2|2014|6|12|1986|5|21|df=y}}|caps=49|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=18|pos=FW|name=[[Ivica Olić]]|age={{Birth date and age2|2014|6|12|1979|9|14|df=y}}|caps=91|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=19|pos=MF|name=[[Sammir]]|age={{Birth date and age2|2014|6|12|1987|4|23|df=y}}|caps=5|club=[[Getafe CF|Getafe]]|clubnat=SPA}}
+{{nat fs player|no=20|pos=MF|name=[[Mateo Kovačić]]|age={{birth date and age2|2014|6|12|1994|5|6|df=y}}|caps=9|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=DF|name=[[Domagoj Vida]]|age={{Birth date and age2|2014|6|12|1989|4|29|df=y}}|caps=23|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=22|pos=FW|name=[[Eduardo da Silva|Eduardo]]|age={{Birth date and age2|2014|6|12|1983|2|25|df=y}}|caps=63|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs player|no=23|pos=GK|name=[[Danijel Subašić]]|age={{Birth date and age2|2014|6|12|1984|10|27|df=y}}|caps=6|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Mexico===
+Coach: [[Miguel Herrera]]
+
+The final squad was announced on 9 May 2014.<ref>{{cite web |url=http://www.femexfut.org.mx/portalv2/aspx/WEB_DetalleNoticia.aspx?pnIDNtca=42359|title=Lista de Convocados de la Selección Mexicana Para Brasil 2014|date=9 May 2014|work= |publisher=femexfut.org.mx|accessdate=9 May 2014|language=Spanish}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27354508|title=World Cup 2014: Javier Hernandez in Mexico squad|date=10 May 2014|accessdate=10 May 2014|publisher=BBC Sport}}</ref> However, midfielders [[Luis Montes]] and [[Juan Carlos Medina]] sustained injuries afterwards and were replaced by [[Javier Aquino]] and [[Miguel Ángel Ponce]].<ref>{{cite web|url=http://www.femexfut.org.mx/portalv2/aspx/WEB_DetalleNoticia.aspx?pnIDNtca=42449|title=Luis Montes Será Operado en México|date=31 May 2014|accessdate=1 June 2014|publisher=femexfut.org.mx|language=Spanish}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[José de Jesús Corona]]|age={{birth date and age2|2014|6|12|1981|1|26|df=y}}|caps=33|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs player|no=2|pos=DF|name=[[Francisco Javier Rodríguez]]|age={{birth date and age2|2014|6|12|1981|10|20|df=y}}|caps=94|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs player|no=3|pos=DF|name=[[Carlos Salcido]]|age={{birth date and age2|2014|6|12|1980|4|2|df=y}}|caps=122|club=[[Tigres UANL|UANL]]|clubnat=MEX}}
+{{nat fs player|no=4|pos=DF|name=[[Rafael Márquez]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1979|2|13|df=y}}|caps=119|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs player|no=5|pos=DF|name=[[Diego Antonio Reyes|Diego Reyes]]|age={{birth date and age2|2014|6|12|1992|9|19|df=y}}|caps=14|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=6|pos=MF|name=[[Héctor Miguel Herrera|Héctor Herrera]]|age={{birth date and age2|2014|6|12|1990|4|19|df=y}}|caps=12|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=7|pos=DF|name=[[Miguel Layún]]|age={{birth date and age2|2014|6|12|1988|6|25|df=y}}|caps=14|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs player|no=8|pos=MF|name=[[Marco Fabián]]|age={{birth date and age2|2014|6|12|1989|7|21|df=y}}|caps=14|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs player|no=9|pos=FW|name=[[Raúl Jiménez]]|age={{birth date and age2|2014|6|12|1991|5|5|df=y}}|caps=25|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs player|no=10|pos=FW|name=[[Giovani dos Santos]]|age={{birth date and age2|2014|6|12|1989|05|11|df=y}}|caps=75|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=FW|name=[[Alan Pulido]]|age={{birth date and age2|2014|6|12|1991|3|8|df=y}}|caps=5|club=[[Tigres UANL|UANL]]|clubnat=MEX}}
+{{nat fs player|no=12|pos=GK|name=[[Alfredo Talavera]]|age={{birth date and age2|2014|6|12|1982|9|18|df=y}}|caps=14|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs player|no=13|pos=GK|name=[[Guillermo Ochoa]]|age={{birth date and age2|2014|6|12|1985|7|13|df=y}}|caps=58|club=[[AC Ajaccio|Ajaccio]]|clubnat=FRA}}
+{{nat fs player|no=14|pos=FW|name=[[Javier Hernández Balcázar|Javier Hernández]]|age={{birth date and age2|2014|6|12|1988|6|1|df=y}}|caps=61|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=DF|name=[[Héctor Moreno (footballer)|Héctor Moreno]]|age={{birth date and age2|2014|6|12|1988|1|17|df=y}}|caps=52|club=[[RCD Espanyol|Espanyol]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=DF|name=[[Miguel Ángel Ponce]]|age={{birth date and age2|2014|6|12|1989|4|12|df=y}}|caps=8|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs player|no=17|pos=MF|name=[[Isaác Brizuela]]|age={{birth date and age2|2014|6|12|1990|8|28|df=y}}|caps=7|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}} 
+{{nat fs player|no=18|pos=DF|name=[[Andrés Guardado]]|age={{birth date and age2|2014|6|12|1986|9|28|df=y}}|caps=103|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=19|pos=FW|name=[[Oribe Peralta]]|age={{birth date and age2|2014|6|12|1984|1|12|df=y}}|caps=32|club=[[Club Santos Laguna|Santos Laguna]]|clubnat=MEX}}
+{{nat fs player|no=20|pos=MF|name=[[Javier Aquino]]|age={{birth date and age2|2014|6|12|1990|2|11|df=y}}|caps=21|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs player|no=21|pos=MF|name=[[Carlos Alberto Peña|Carlos Peña]]|age={{birth date and age2|2014|6|12|1990|3|29|df=y}}|caps=16|club=[[Club León|León]]|clubnat=MEX}} 
+{{nat fs player|no=22|pos=DF|name=[[Paul Aguilar]]|age={{birth date and age2|2014|6|12|1986|3|6|df=y}}|caps=29|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs player|no=23|pos=MF|name=[[José Juan Vázquez]]|age={{birth date and age2|2014|6|12|1988|3|14|df=y}}|caps=4|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs end}}
+
+==Group B==
+
+===Australia===
+Coach: [[Ange Postecoglou]]
+
+The final squad announced on 3 June 2014:<ref>{{cite news|url=http://au.eurosport.com/football/australia-s-final-world-cup-squad_sto4272708/story.shtml|title=Australia's final World Cup squad|date=03 June 2014|accessdate=03 June 2014|publisher=EuroSport}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Mathew Ryan]]|age={{birth date and age2|2014|6|12|1992|4|8|df=y}}|caps=6|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs player|no=2|pos=DF|name=[[Ivan Franjić]]|age={{Birth date and age2|2014|6|12|1987|9|10|df=y}}|caps=8|club=[[Brisbane Roar FC|Brisbane Roar]]|clubnat=AUS}}
+{{nat fs player|no=3|pos=DF|name=[[Jason Davidson]]|age={{Birth date and age2|2014|6|12|1991|06|29|df=y}}|caps=6|club=[[Heracles Almelo]]|clubnat=NED}}
+{{nat fs player|no=4|pos=FW|name=[[Tim Cahill]]|age={{Birth date and age2|2014|6|12|1979|12|6|df=y}}|caps=68|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs player|no=5|pos=MF|name=[[Mark Milligan]]|age={{Birth date and age2|2014|6|12|1985|8|4|df=y}}|caps=28|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}
+{{nat fs player|no=6|pos=DF|name=[[Matthew Špiranović]]|age={{Birth date and age2|2014|6|12|1988|6|27|df=y}}|caps=17|club=[[Western Sydney Wanderers FC|Western Sydney Wanderers]]|clubnat=AUS}}
+{{nat fs player|no=7|pos=FW|name=[[Mathew Leckie]]|age={{Birth date and age2|2014|6|12|1991|2|4|df=y}}|caps=7|club=[[FSV Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=8|pos=DF|name=[[Bailey Wright]]|age={{Birth date and age2|2014|6|12|1992|7|28|df=y}}|caps=0|club=[[Preston North End F.C.|Preston North End]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Adam Taggart]]|age={{Birth date and age2|2014|6|12|1993|6|2|df=y}}|caps=4|club=[[Newcastle Jets FC|Newcastle Jets]]|clubnat=AUS}}
+{{nat fs player|no=10|pos=MF|name=[[Ben Halloran]]|age={{Birth date and age2|2014|6|12|1992|6|14|df=y}}|caps=1|club=[[Fortuna Düsseldorf]]|clubnat=GER}}
+{{nat fs player|no=11|pos=MF|name=[[Tommy Oar]]|age={{Birth date and age2|2014|6|12|1991|12|10|df=y}}|caps=14|club=[[FC Utrecht|Utrecht]]|clubnat=NED}}
+{{nat fs player|no=12|pos=GK|name=[[Mitchell Langerak]]|age={{birth date and age2|2014|6|12|1988|8|22|df=y}}|caps=3|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs player|no=13|pos=MF|name=[[Oliver Bozanić]]|age={{Birth date and age2|2014|6|12|1989|1|8|df=y}}|caps=3|club=[[FC Luzern|Luzern]]|clubnat=SUI}}
+{{nat fs player|no=14|pos=MF|name=[[James Troisi]]|age={{birth date and age2|2014|6|12|1988|7|3|df=y}}|caps=10|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs player|no=15|pos=MF|name=[[Mile Jedinak]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1984|8|3|df=y}}|caps=43|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=MF|name=[[James Holland (footballer)|James Holland]]|age={{Birth date and age2|2014|6|12|1989|05|15|df=y}}|caps=13|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{nat fs player|no=17|pos=MF|name=[[Matt McKay]]|age={{Birth date and age2|2014|6|12|1983|1|11|df=y}}|caps=46|club=[[Brisbane Roar FC|Brisbane Roar]]|clubnat=AUS}}
+{{nat fs player|no=18|pos=GK|name=[[Eugene Galeković]]|age={{birth date and age2|2014|6|12|1981|6|12|df=y}}|caps=8|club=[[Adelaide United FC|Adelaide United]]|clubnat=AUS}}
+{{nat fs player|no=19|pos=DF|name=[[Ryan McGowan]]|age={{Birth date and age2|2014|6|12|1989|08|15|df=y}}|caps=9|club=[[Shandong Luneng Taishan F.C.|Shandong Luneng Taishan]]|clubnat=CHN}}
+{{nat fs player|no=20|pos=MF|name=[[Dario Vidošić]]|age={{birth date and age2|2014|6|12|1987|4|8|df=y}}|caps=22|club=[[FC Sion|Sion]]|clubnat=SWI}}
+{{nat fs player|no=21|pos=MF|name=[[Massimo Luongo]]|age={{Birth date and age2|2014|6|12|1992|9|25|df=y}}|caps=1|club=[[Swindon Town F.C.|Swindon Town]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=DF|name=[[Alex Wilkinson]]|age={{Birth date and age2|2014|6|12|1984|8|13|df=y}}|caps=2|club=[[Jeonbuk Hyundai Motors]]|clubnat=South Korea}}
+{{nat fs player|no=23|pos=MF|name=[[Mark Bresciano]]|age={{birth date and age2|2014|6|12|1980|2|11|df=y}}|caps=73|club=[[Al-Gharafa Sports Club|Al-Gharafa]]|clubnat=QAT}}
+{{nat fs end}}
+
+===Chile===
+Coach: {{flagicon|ARG}} [[Jorge Sampaoli]]
+
+The final squad announced on 1 June 2014:<ref>{{cite web|url=http://anfp.cl/noticia/21170/nomina-de-23-jugadores-convocados-a-la-copa-mundial-de-la-fifa-brasil-2014|title=NÓMINA DE 23 JUGADORES CONVOCADOS A LA COPA MUNDIAL DE LA FIFA BRASIL 2014|date=1 June 2014|accessdate=1 June 2014|publisher=ANFP}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Claudio Bravo (footballer)|Claudio Bravo]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1983|4|13|df=y}}|caps=79|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Eugenio Mena]]|age={{birth date and age2|2014|6|12|1988|7|18|df=y}}|caps=24|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{nat fs player|no=3|pos=DF|name=[[Miiko Albornoz]]|age={{birth date and age2|2014|6|12|1990|11|3|df=y}}|caps=2|club=[[Malmö FF]]|clubnat=SWE}}
+{{nat fs player|no=4|pos=MF|name=[[Mauricio Isla]]|age={{birth date and age2|2014|6|12|1988|6|12|df=y}}|caps=46|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=MF|name=[[Francisco Silva]]|age={{birth date and age2|2014|6|12|1986|2|11|df=y}}|caps=11|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=MF|name=[[Carlos Carmona]]|age={{birth date and age2|2014|6|12|1987|2|21|df=y}}|caps=43|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=FW|name=[[Alexis Sánchez]]|age={{birth date and age2|2014|6|12|1988|12|19|df=y}}|caps=66|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Arturo Vidal]]|age={{birth date and age2|2014|6|12|1987|5|22|df=y}}|caps=53|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Mauricio Pinilla]]|age={{birth date and age2|2014|6|12|1984|2|4|df=y}}|caps=26|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=MF|name=[[Jorge Valdívia]]|age={{birth date and age2|2014|6|12|1983|10|3|df=y}}|caps=56|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs player|no=11|pos=FW|name=[[Eduardo Vargas]]|age={{birth date and age2|2014|6|12|1989|11|20|df=y}}|caps=29|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[Cristopher Toselli]]|age={{birth date and age2|2014|6|12|1988|6|22|df=y}}|caps=4|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs player|no=13|pos=DF|name=[[José Manuel Rojas|José Rojas]]|age={{birth date and age2|2014|6|12|1983|6|3|df=y}}|caps=18|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs player|no=14|pos=MF|name=[[Fabián Orellana]]|age={{birth date and age2|2014|6|12|1986|1|27|df=y}}|caps=25|club=[[Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs player|no=15|pos=MF|name=[[Jean Beausejour]]|age={{birth date and age2|2014|6|12|1984|6|3|df=y}}|caps=59|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=MF|name=[[Felipe Gutiérrez]]|age={{birth date and age2|2014|6|12|1990|10|8|df=y}}|caps=17|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs player|no=17|pos=DF|name=[[Gary Medel]]|age={{birth date and age2|2014|6|12|1987|8|3|df=y}}|caps=60|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs player|no=18|pos=DF|name=[[Gonzalo Jara]]|age={{birth date and age2|2014|6|12|1985|8|29|df=y}}|caps=65|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=MF|name=[[José Pedro Fuenzalida]]|age={{birth date and age2|2014|6|12|1985|2|22|df=y}}|caps=23|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs player|no=20|pos=MF|name=[[Charles Aránguiz]]|age={{birth date and age2|2014|6|12|1989|4|17|df=y}}|caps=20|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs player|no=21|pos=MF|name=[[Marcelo Díaz]]|age={{birth date and age2|2014|6|12|1986|12|30|df=y}}|caps=20|club=[[FC Basel|Basel]]|clubnat=SWI}}
+{{nat fs player|no=22|pos=FW|name=[[Esteban Paredes]]|age={{birth date and age2|2014|6|12|1980|8|1|df=y}}|caps=34|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs player|no=23|pos=GK|name=[[Johnny Herrera (goalkeeper)|Johnny Herrera]]|age={{birth date and age2|2014|6|12|1981|5|9|df=y}}|caps=7|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs end}}
+
+===Netherlands===
+Coach: [[Louis van Gaal]]
+
+The final squad was announced on 31 May 2014.<ref>{{cite web|url=http://www.bbc.com/sport/0/football/27402627|title=World Cup 2014: World Cup 2014: Netherlands announce final World Cup squad|date=31 May 2014|accessdate=31 May 2014|publisher=BBC Sport}}</ref> The squad numbers were revealed on 2 June, during a press conference with van Gaal.<ref>{{cite web|url=http://www.vi.nl/nieuws/de-rugnummers-van-de-23-wkgangers-van-oranje.htm|title=De rugnummers van de 23 WK-gangers van Oranje (The shirt numbers of the 23 WC-called from Oranje)|date=2 June 2014|accessdate=2 June 2014|publisher=Voetbal International}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Jasper Cillessen]]|age={{Birth date and age2|2014|6|12|1989|4|22|df=y}}|caps=7|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=2|pos=DF|name=[[Ron Vlaar]]|age={{Birth date and age2|2014|6|12|1985|2|16|df=y}}|caps=23|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Stefan de Vrij]]|age={{Birth date and age2|2014|6|12|1992|2|5|df=y}}|caps=11|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs player|no=4|pos=DF|name=[[Bruno Martins Indi]]|age={{Birth date and age2|2014|6|12|1992|2|8|df=y}}|caps=15|club=[[Feyenoord]]|clubnat=NED|}}
+{{nat fs player|no=5|pos=DF|name=[[Daley Blind]]|age={{Birth date and age2|2014|6|12|1990|3|9|df=y}}|caps=11|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=6|pos=MF|name=[[Jonathan de Guzmán]]|age={{Birth date and age2|2014|6|12|1987|9|13|df=y}}|caps=10|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs player|no=7|pos=DF|name=[[Daryl Janmaat]]|age={{Birth date and age2|2014|6|12|1989|7|22|df=y}}|caps=15|club=[[Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=8|pos=MF|name=[[Nigel de Jong]]|age={{Birth date and age2|2014|6|12|1984|11|13|df=y}}|caps=70|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Robin van Persie]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1983|8|6|df=y}}|caps=84|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Wesley Sneijder]]|age={{Birth date and age2|2014|6|12|1984|6|9|df=y}}|caps=98|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=11|pos=MF|name=[[Arjen Robben]]|age={{Birth date and age2|2014|6|12|1984|1|23|df=y}}|caps=74|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=12|pos=DF|name=[[Paul Verhaegh]]|age={{Birth date and age2|2014|6|12|1983|9|1|df=y}}|caps=2|club=[[FC Augsburg|Augsburg]]|clubnat=GER}}
+{{nat fs player|no=13|pos=DF|name=[[Joël Veltman]]|age={{Birth date and age2|2014|6|12|1992|1|15|df=y}}|caps=2|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs player|no=14|pos=DF|name=[[Terence Kongolo]]|age={{Birth date and age2|2014|6|12|1994|2|14|df=y}}|caps=1|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs player|no=15|pos=FW|name=[[Dirk Kuyt]]|age={{Birth date and age2|2014|6|12|1980|7|22|df=y}}|caps=98|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=16|pos=MF|name=[[Jordy Clasie]]|age={{Birth date and age2|2014|6|12|1991|6|27|df=y}}|caps=8|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs player|no=17|pos=FW|name=[[Jeremain Lens]]|age={{Birth date and age2|2014|6|12|1987|11|24|df=y}}|caps=21|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=18|pos=MF|name=[[Leroy Fer]]|age={{Birth date and age|1990|1|5|df=y}}|caps=5|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=FW|name=[[Klaas-Jan Huntelaar]]|age={{Birth date and age2|2014|6|12|1983|8|12|df=y}}|caps=61|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=20|pos=MF|name=[[Georginio Wijnaldum]]|age={{Birth date and age2|2014|6|12|1990|11|11|df=y}}|caps=4|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs player|no=21|pos=MF|name=[[Memphis Depay]]|age={{Birth date and age2|2014|6|12|1994|2|13|df=y}}|caps=6|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs player|no=22|pos=GK|name=[[Michel Vorm]]|age={{Birth date and age2|2014|6|12|1983|10|3|df=y}}|caps=14|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs player|no=23|pos=GK|name=[[Tim Krul]]|age={{Birth date and age2|2014|6|12|1988|4|3|df=y}}|caps=5|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Spain===
+Coach: [[Vicente del Bosque]]
+
+The final squad announced on 31 May 2014.<ref>{{cite web |url=http://www.ligabbva.com/2544_liga-bbva/2563018_los-23-elegidos-de-del-bosque-para-jugar-el-mundial.html|title=Los 23 elegidos de Del Bosque para jugar el Mundial|date=31 May 2014|work= |publisher=ligabbva.com|accessdate=31 May 2014}}</ref> The squad numbers were revealed on 3 June.<ref>{{cite web |url=http://www.sefutbol.com/oficial-estos-son-dorsales-oficiales-mundial|title=OFICIAL: Estos son los dorsales oficiales para el Mundial|date=3 June 2014|work= |publisher=sefutbol.com|accessdate=3 June 2014}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Iker Casillas]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1981|5|20|df=y}}|caps=153|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Raúl Albiol]]|age={{Birth date and age2|2014|6|12|1985|9|4|df=y}}|caps=46|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Gerard Piqué]]|age={{Birth date and age2|2014|6|12|1987|2|2|df=y}}|caps=60|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=MF|name=[[Javi Martínez]]|age={{Birth date and age2|2014|6|12|1988|9|2|df=y}}|caps=16|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Juanfran (footballer, born 1985)|Juanfran]]|age={{Birth date and age2|2014|6|12|1985|1|9|df=y}}|caps=6|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=MF|name=[[Andrés Iniesta]]|age={{Birth date and age2|2014|6|12|1984|5|11|df=y}}|caps=95|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=7|pos=FW|name=[[David Villa]]|age={{Birth date and age2|2014|6|12|1981|12|3|df=y}}|caps=94|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Xavi]]|age={{Birth date and age2|2014|6|12|1980|1|25|df=y}}|caps=131|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=9|pos=FW|name=[[Fernando Torres]]|age={{birth date and age2|2014|6|12|1984|3|20|df=y}}|caps=107|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Cesc Fàbregas]]|age={{Birth date and age2|2014|6|12|1987|5|4|df=y}}|caps=88|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=FW|name=[[Pedro Rodríguez Ledesma|Pedro]]|age={{Birth date and age2|2014|6|12|1987|7|28|df=y}}|caps=38|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[David de Gea]]|age={{Birth date and age2|2014|6|12|1990|11|7|df=y}}|caps=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=MF|name=[[Juan Mata]]|age={{Birth date and age2|2014|6|12|1988|4|28|df=y}}|caps=32|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=MF|name=[[Xabi Alonso]]|age={{Birth date and age2|2014|6|12|1981|11|25|df=y}}|caps=109|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=15|pos=DF|name=[[Sergio Ramos]]|age={{Birth date and age2|2014|6|12|1986|3|30|df=y}}|caps=115|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=MF|name=[[Sergio Busquets]]|age={{Birth date and age2|2014|6|12|1988|7|16|df=y}}|caps=64|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=17|pos=MF|name=[[Koke (footballer born 1992)|Koke]]|age={{birth date and age2|2014|6|12|1992|1|8|df=y}}|caps=7|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=18|pos=DF|name=[[Jordi Alba]]|age={{birth date and age2|2014|6|12|df=y|1989|3|21|df=y}}|caps=25|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=19|pos=FW|name=[[Diego Costa]]|age={{Birth date and age2|2014|6|12|1988|10|7|df=y}}|caps=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=20|pos=MF|name=[[Santi Cazorla]]|age={{Birth date and age2|2014|6|12|1984|12|13|df=y}}|caps=62|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=MF|name=[[David Silva]]|age={{Birth date and age2|2014|6|12|1986|1|8|df=y}}|caps=79|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=DF|name=[[César Azpilicueta]]|age={{Birth date and age2|2014|6|12|1989|8|28|df=y}}|caps=6|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=GK|name=[[Pepe Reina]]|age={{Birth date and age2|2014|6|12|1982|8|31|df=y}}|caps=31|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs end}}
+
+==Group C==
+
+===Colombia===
+Coach: {{flagicon|ARG}} [[José Pékerman]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.eltiempo.com/mundial-brasil-2014/multimedia/fotos/los-23-jugadores-de-colombia-para-brasil-2014/14065835|title=Conozca a los 23 futbolistas que representarán a Colombia en Brasil-2014|date=2 June 2014|accessdate=2 June 2014|publisher=El Tiempo}}</ref>
+{{nat fs start}}
+{{nat fs player|no= 1|pos=GK|name=[[David Ospina]]|age={{Birth date and age2|2014|6|12|1988|8|31|df=y}}|caps=42|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs player|no= 2|pos=DF|name=[[Cristián Zapata]]|age={{Birth date and age2|2014|6|12|1986|9|30|df=y}}|caps=21|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no= 3|pos=DF|name=[[Mario Yepes]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1976|1|13|df=y}}|caps=96|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs player|no= 4|pos=DF|name=[[Santiago Arias]]|age={{Birth date and age2|2014|6|12|1992|1|13|df=y}}|caps=5|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs player|no= 5|pos=MF|name=[[Aldo Leão Ramírez]]|age={{Birth date and age2|2014|6|12|1981|4|18|df=y}}|caps=29|club=[[Monarcas Morelia|Morelia]]|clubnat=MEX}}
+{{nat fs player|no= 6|pos=MF|name=[[Carlos Alberto Sánchez Moreno|Carlos Sánchez]]|age={{Birth date and age2|2014|6|12|1986|2|6|df=y}}|caps=44|club=[[Elche CF|Elche]]|clubnat=ESP}}
+{{nat fs player|no= 7|pos=DF|name=[[Pablo Armero]]|age={{Birth date and age2|2014|6|12|1986|11|2|df=y}}|caps=51|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs player|no= 8|pos=MF|name=[[Abel Aguilar]]|age={{Birth date and age2|2014|6|12|1985|1|6|df=y}}|caps=48|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs player|no= 9|pos=FW|name=[[Teófilo Gutiérrez]]|age={{Birth date and age2|2014|6|12|1985|5|28|df=y}}|caps=29|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs player|no=10|pos=MF|name=[[James Rodríguez]]|age={{Birth date and age2|2014|6|12|1991|7|12|df=y}}|caps=21|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=MF|name=[[Juan Guillermo Cuadrado]]|age={{Birth date and age2|2014|6|12|1988|5|26|df=y}}|caps=26|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=GK|name=[[Camilo Vargas]]|age={{Birth date and age2|2014|6|12|1989|9|1|df=y}}|caps=0|club=[[Corporación Deportiva Santa Fe|Santa Fe]]|clubnat=COL}}
+{{nat fs player|no=13|pos=MF|name=[[Fredy Guarín]]|age={{Birth date and age2|2014|6|12|1986|6|30|df=y}}|caps=48|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=MF|name=[[Víctor Ibarbo]]|age={{Birth date and age2|2014|6|12|1990|5|19|df=y}}|caps=8|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs player|no=15|pos=MF|name=[[Alexander Mejía]]|age={{Birth date and age2|2014|6|12|1988|9|7|df=y}}|caps=9|club=[[Atlético Nacional]]|clubnat=COL}}
+{{nat fs player|no=16|pos=DF|name=[[Éder Álvarez Balanta]]|age={{Birth date and age2|2014|6|12|1993|2|28|df=y}}|caps=2|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs player|no=17|pos=FW|name=[[Carlos Bacca]]|age={{Birth date and age2|2014|6|12|1986|9|8|df=y}}|caps=10|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=18|pos=DF|name=[[Juan Camilo Zúñiga]]|age={{Birth date and age2|2014|6|12|1985|12|14|df=y}}|caps=52|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=FW|name=[[Adrián Ramos]]|age={{Birth date and age2|2014|6|12|1986|1|22|df=y}}|caps=24|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=20|pos=MF|name=[[Juan Fernando Quintero]]|age={{Birth date and age2|2014|6|12|1993|1|18|df=y}}|caps=4|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=21|pos=FW|name=[[Jackson Martínez]]|age={{Birth date and age2|2014|6|12|1986|10|3|df=y}}|caps=27|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=22|pos=GK|name=[[Faryd Mondragón]]|age={{Birth date and age2|2014|6|12|1971|6|21|df=y}}|caps=55|club=[[Deportivo Cali]]|clubnat=COL}}
+{{nat fs player|no=23|pos=DF|name=[[Carlos Valdés (footballer)|Carlos Valdés]]|age={{Birth date and age2|2014|6|12|1985|5|22|df=y}}|caps=13|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs end}}
+
+===Greece===
+Coach: {{flagicon|POR}} [[Fernando Santos (Portuguese footballer)|Fernando Santos]]
+
+The final squad announced on 19 May 2014:<ref>{{cite web|url=http://www.epo.gr/News.aspx?a_id=44932&NewsType=22&Competition=3585&Season=99489&Country=7|title=Greek squad by Santos|date=19 May 2014|accessdate=19 May 2014|publisher=Hellenic Football Federation}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Orestis Karnezis]]|age={{Birth date and age2|2014|6|12|1985|07|11|df=y}}|caps=18|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Giannis Maniatis]]|age={{Birth date and age2|2014|6|12|1986|10|12|df=y}}|caps=29|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs player|no=3|pos=DF|name=[[Georgios Tzavellas|Giorgos Tzavellas]]|age={{Birth date and age2|2014|6|12|1987|11|26|df=y}}|caps=13|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=4|pos=DF|name=[[Kostas Manolas]]|age={{Birth date and age2|2014|6|12|1991|6|14|df=y}}|caps=8|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs player|no=5|pos=DF|name=[[Vangelis Moras]]|age={{Birth date and age2|2014|6|12|1981|8|26|df=y}}|caps=18|club=[[Hellas Verona F.C.|Verona]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=MF|name=[[Alexandros Tziolis]]|age={{Birth date and age2|2014|6|12|1985|2|13|df=y}}|caps=49|club=[[Kayserispor]]|clubnat=TUR}}
+{{nat fs player|no=7|pos=FW|name=[[Georgios Samaras|Giorgos Samaras]]|age={{Birth date and age2|2014|6|12|1985|2|21|df=y}}|caps=73|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=8|pos=MF|name=[[Panagiotis Kone]]|age={{Birth date and age2|2014|6|12|1987|7|26|df=y}}|caps=15|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Konstantinos Mitroglou|Kostas Mitroglou]]|age={{Birth date and age2|2014|6|12|1988|3|12|df=y}}|caps=31|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Giorgos Karagounis]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1977|3|6|df=y}}|caps=134|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=DF|name=[[Loukas Vyntra]]|age={{Birth date and age2|2014|6|12|1981|2|5|df=y}}|caps=49|club=[[Levante UD|Levante]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[Panagiotis Glikos|Panagiotis Glykos]]|age={{Birth date and age2|2014|6|12|1986|6|3|df=y}}|caps=2|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=13|pos=GK|name=[[Stefanos Kapino]]|age={{Birth date and age2|2014|6|12|1994|3|18|df=y}}|caps=2|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=GRE}}
+{{nat fs player|no=14|pos=FW|name=[[Dimitris Salpingidis]]|age={{Birth date and age2|2014|6|12|1981|8|18|df=y}}|caps=75|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=15|pos=DF|name=[[Vasilis Torosidis]]|age={{Birth date and age2|2014|6|12|1985|6|10|df=y}}|caps=65|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=MF|name=[[Lazaros Christodoulopoulos]]|age={{Birth date and age2|2014|6|12|1986|12|19|df=y}}|caps=18|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs player|no=17|pos=FW|name=[[Theofanis Gekas]]|age={{Birth date and age2|2014|6|12|1980|5|23|df=y}}|caps=71|club=[[Konyaspor]]|clubnat=TUR}}
+{{nat fs player|no=18|pos=MF|name=[[Ioannis Fetfatzidis|Giannis Fetfatzidis]]|age={{Birth date and age2|2014|6|12|1990|12|21|df=y}}|caps=18|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=DF|name=[[Sokratis Papastathopoulos]]|age={{Birth date and age2|2014|6|12|1988|6|9|df=y}}|caps=47|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs player|no=20|pos=DF|name=[[José Holebas]]|age={{Birth date and age2|2014|6|12|1984|6|27|df=y}}|caps=21|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs player|no=21|pos=MF|name=[[Kostas Katsouranis]]|age={{Birth date and age2|2014|6|12|1979|6|21|df=y}}|caps=110|club=[[PAOK F.C.|PAOK]]|clubnat=GRE}}
+{{nat fs player|no=22|pos=MF|name=[[Andreas Samaris]]|age={{Birth date and age2|2014|6|12|1989|6|13|df=y}}|caps=4|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs player|no=23|pos=MF|name=[[Panagiotis Tachtsidis]]|age={{Birth date and age2|2014|6|12|1991|2|15|df=y}}|caps=5|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Ivory Coast===
+Coach: {{flagicon|FRA}} [[Sabri Lamouchi]]
+
+The final squad announced on 1 June 2014:<ref>{{cite web|url=http://www.fif-ci.com/~v2/?q=article/mondial-2014-11|title=Les 23 Eléphants pour le Brésil|date=1 June 2014|accessdate=1 June 2014|publisher=Federation Ivoirienne de Football}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Boubacar Barry]]|age={{Birth date and age2|2014|6|12|1979|12|30|df=yes}}|caps=79|club=[[K.S.C. Lokeren Oost-Vlaanderen|Lokeren]]|clubnat=BEL}}
+{{nat fs player|no=2|pos=DF|name=[[Ousmane Viera]]|age={{Birth date and age2|2014|6|12|1986|12|21|df=y}}|caps=3|club=[[Çaykur Rizespor]]|clubnat=TUR}} 
+{{nat fs player|no=3|pos=DF|name=[[Arthur Boka]]|age={{Birth date and age2|2014|6|12|1983|4|2|df=y}}|caps=79|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=4|pos=DF|name=[[Kolo Touré]]|age={{Birth date and age2|2014|6|12|1981|3|19|df=y}}|caps=106|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Didier Zokora]]|age={{birth date and age2|2014|6|12|1980|12|14|df=y}}|caps=119|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs player|no=6|pos=FW|name=[[Mathis Bolly]]|age={{Birth date and age2|2014|6|12|1990|11|14|df=y}}|caps=3|club=[[Fortuna Düsseldorf]]|clubnat=GER}}
+{{nat fs player|no=7|pos=DF|name=[[Jean-Daniel Akpa-Akpro]]|age={{Birth date and age2|2014|6|12|1992|10|11|df=y}}|caps=1|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs player|no=8|pos=FW|name=[[Salomon Kalou]]|age={{Birth date and age2|2014|6|12|1985|8|5|df=y}}|caps=64|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=MF|name=[[Cheick Tioté]]|age={{birth date and age2|2014|6|12|1986|6|21|df=y}}|caps=44|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Gervinho]]|age={{Birth date and age2|2014|6|12|1987|05|27|df=y}}|caps=53|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=FW|name=[[Didier Drogba]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1978|3|11|df=y}}|caps=100|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=12|pos=FW|name=[[Wilfried Bony]]|age={{Birth date and age2|2014|6|12|1988|12|10|df=y}}|caps=24|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs player|no=13|pos=MF|name=[[Didier Ya Konan]]|age={{Birth date and age2|2014|6|12|1984|2|25|df=y}}|caps=25|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs player|no=14|pos=MF|name=[[Ismaël Diomandé]]|age={{Birth date and age2|2014|6|12|1992|8|28|df=y}}|caps=1|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs player|no=15|pos=FW|name=[[Max Gradel]]|age={{Birth date and age2|2014|6|12|1987|11|30|df=y}}|caps=25|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs player|no=16|pos=GK|name=[[Sylvain Gbohouo]]|age={{birth date and age2|2014|6|12|1988|10|29|df=y}}|caps=1|club=[[Séwé Sport de San-Pédro|Séwé Sport]]|clubnat=CIV}}
+{{nat fs player|no=17|pos=DF|name=[[Serge Aurier]]|age={{Birth date and age2|2014|6|12|1992|12|24|df=y}}|caps=8|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs player|no=18|pos=DF|name=[[Constant Djakpa]]|age={{Birth date and age2|2014|6|12|1986|10|17|df=y}}|caps=4|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=19|pos=MF|name=[[Yaya Touré]]|age={{Birth date and age2|2014|6|12|1983|5|13|df=y}}|caps=83|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=MF|name=[[Serey Die]]|age={{Birth date and age2|2014|6|12|1984|11|7|df=y}}|caps=6|club=[[FC Basel|Basel]]|clubnat=SWI}}
+{{nat fs player|no=21|pos=FW|name=[[Giovanni Sio]]|age={{Birth date and age2|2014|6|12|1989|3|31|df=y}}|caps=7|club=[[FC Basel|Basel]]|clubnat=SWI}}
+{{nat fs player|no=22|pos=DF|name=[[Sol Bamba]]|age={{Birth date and age2|2014|6|12|1985|1|13|df=y}}|caps=43|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs player|no=23|pos=GK|name=[[Sayouba Mandé]]|age={{birth date and age2|2014|6|12|1993|6|5|df=y}}|caps=1|club=[[Stabæk Fotball|Stabæk]]|clubnat=NOR}}
+{{nat fs end}}
+
+===Japan===
+Coach: {{flagicon|ITA}} [[Alberto Zaccheroni]]
+
+The final squad was announced on 12 May 2014.<ref>{{cite web|title=World Cup 2014: Kagawa and Yoshida in Japan squad|url=http://www.bbc.co.uk/sport/0/football/27370214|publisher=BBC Sport|accessdate=12 May 2014|date=12 May 2014}}</ref> The squad numbers were revealed on 25 May.<ref>{{cite news|url=http://www.jfa.jp/eng/national_team/news/00000866/|title=SAMURAI BLUE Squad numbers announced for 2014 FIFA World Cup Brazil|date=25 May 2014|accessdate=26 May 2014|publisher=Japan Football Association}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Eiji Kawashima]]|age={{Birth date and age2|2014|6|12|1983|3|20|df=y}}|caps=56|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs player|no=2|pos=DF|name=[[Atsuto Uchida]]|age={{Birth date and age2|2014|6|12|1988|3|27|df=y}}|caps=67|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=3|pos=DF|name=[[Gōtoku Sakai]]|age={{Birth date and age2|2014|6|12|1991|2|14|df=y}}|caps=12|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=4|pos=MF|name=[[Keisuke Honda]]|age={{Birth date and age2|2014|6|12|1986|6|13|df=y}}|caps=55|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=DF|name=[[Yuto Nagatomo]]|age={{Birth date and age2|2014|6|12|1986|9|12|df=y}}|caps=69|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=DF|name=[[Masato Morishige]]|age={{Birth date and age2|2014|6|12|1987|5|21|df=y}}|caps=9|club=[[F.C. Tokyo]]|clubnat=JPN}}
+{{nat fs player|no=7|pos=MF|name=[[Yasuhito Endō]]|age={{Birth date and age2|2014|6|12|1980|1|28|df=y}}|caps=143|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{nat fs player|no=8|pos=MF|name=[[Hiroshi Kiyotake]]|age={{Birth date and age2|2014|6|12|1989|11|12|df=y}}|caps=25|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=9|pos=FW|name=[[Shinji Okazaki]]|age={{Birth date and age2|2014|6|12|1986|4|16|df=y}}|caps=75|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[Shinji Kagawa]]|age={{Birth date and age2|2014|6|12|1989|3|17|df=y}}|caps=56|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=FW|name=[[Yoichiro Kakitani]]|age={{Birth date and age2|2014|6|12|1990|1|3|df=y}}|caps=11|club=[[Cerezo Osaka]]|clubnat=JPN}}
+{{nat fs player|no=12|pos=GK|name=[[Shusaku Nishikawa]]|age={{Birth date and age2|2014|6|12|1986|6|18|df=y}}|caps=12|club=[[Urawa Red Diamonds]]|clubnat=JPN}}
+{{nat fs player|no=13|pos=FW|name=[[Yoshito Ōkubo]]|age={{Birth date and age2|2014|6|12|1982|6|9|df=y}}|caps=56|club=[[Kawasaki Frontale]]|clubnat=JPN}}
+{{nat fs player|no=14|pos=MF|name=[[Toshihiro Aoyama]]|age={{Birth date and age2|2014|6|12|1986|2|22|df=y}}|caps=5|club=[[Sanfrecce Hiroshima]]|clubnat=JPN}}
+{{nat fs player|no=15|pos=DF|name=[[Yasuyuki Konno]]|age={{Birth date and age2|2014|6|12|1983|1|25|df=y}}|caps=80|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{nat fs player|no=16|pos=MF|name=[[Hotaru Yamaguchi]]|age={{Birth date and age2|2014|6|12|1990|10|6|df=y}}|caps=11|club=[[Cerezo Osaka]]|clubnat=JPN}}
+{{nat fs player|no=17|pos=MF|name=[[Makoto Hasebe]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1984|1|18|df=y}}|caps=78|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=18|pos=FW|name=[[Yuya Osako]]|age={{Birth date and age2|2014|6|12|1990|5|18|df=y}}|caps=8|club=[[TSV 1860 München|1860 München]]|clubnat=GER}}
+{{nat fs player|no=19|pos=DF|name=[[Masahiko Inoha]]|age={{birth date and age2|2014|6|12|1983|8|28|df=y}}|caps=21|club=[[Jubilo Iwata]]|clubnat=JPN}}
+{{nat fs player|no=20|pos=FW|name=[[Manabu Saitō]]|age={{Birth date and age2|2014|6|12|1990|4|4|df=y}}|caps=4|club=[[Yokohama F. Marinos]]|clubnat=JPN}}
+{{nat fs player|no=21|pos=DF|name=[[Hiroki Sakai]]|age={{Birth date and age2|2014|6|12|1990|4|12|df=y}}|caps=17|club=[[Hannover 96]]|clubnat=GER}}
+{{nat fs player|no=22|pos=DF|name=[[Maya Yoshida]]|age={{Birth date and age2|2014|6|12|1988|8|24|df=y}}|caps=40|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=GK|name=[[Shūichi Gonda]]|age={{Birth date and age2|2014|6|12|1989|3|3|df=y}}|caps=2|club=[[F.C. Tokyo]]|clubnat=JPN}}
+{{nat fs end}}
+
+==Group D==
+
+===Costa Rica===
+Coach: {{flagicon|COL}} [[Jorge Luis Pinto]]
+
+The final squad announced on 31 May 2014:<ref>{{cite web|url=http://fedefutbolcr.com/hernandez-waston-y-saborio-quedaron-excluidos-del-mundial/|title=Hernández, Waston y Saborio quedaron excluidos del Mundial|date=31 May 2014|accessdate=31 May 2014|publisher=Federacón Costarricense de Fútbol}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Keylor Navas]]|age={{Birth date and age2|2014|6|12|1986|12|15|df=y}}|caps=52|club=[[Levante UD|Levante]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Johnny Acosta]]|age={{Birth date and age2|2014|6|12|1983|7|21|df=y}}|caps=25|club=[[L.D. Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs player|no=3|pos=DF|name=[[Giancarlo González]]|age={{Birth date and age2|2014|6|12|1988|2|8|df=y}}|caps=34|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs player|no=4|pos=DF|name=[[Michael Umaña]]|age={{Birth date and age2|2014|6|12|1982|7|16|df=y}}|caps=82|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs player|no=5|pos=MF|name=[[Celso Borges]]|age={{Birth date and age2|2014|6|12|1988|5|27|df=y}}|caps=62|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs player|no=6|pos=DF|name=[[Óscar Duarte (Costa Rican footballer)|Óscar Duarte]]|age={{Birth date and age2|2014|6|12|1989|6|3|df=y}}|caps=10|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=BEL}}
+{{nat fs player|no=7|pos=MF|name=[[Christian Bolaños]]|age={{Birth date and age2|2014|6|12|1984|5|17|df=y}}|caps=54|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs player|no=8|pos=DF|name=[[Heiner Mora]]|age={{Birth date and age2|2014|6|12|1984|6|20|df=y}}|caps=21|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs player|no=9|pos=FW|name=[[Joel Campbell]]|age={{Birth date and age2|2014|6|12|1992|6|26|df=y}}|caps=32|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs player|no=10|pos=FW|name=[[Bryan Ruiz]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1985|8|18|df=y}}|caps=62|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs player|no=11|pos=MF|name=[[Michael Barrantes]]|age={{Birth date and age2|2014|6|12|1983|10|4|df=y}}|caps=50|club=[[Aalesunds FK|Aalesund]]|clubnat=NOR}}
+{{nat fs player|no=12|pos=DF|name=[[Waylon Francis]]|age={{Birth date and age2|2014|6|12|1990|9|20|df=y}}|caps=1|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs player|no=13|pos=MF|name=[[Esteban Granados]]|age={{Birth date and age2|2014|6|12|1985|10|25|df=y}}|caps=11|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs player|no=14|pos=FW|name=[[Randall Brenes]]|age={{Birth date and age2|2014|6|12|1983|8|13|df=y}}|caps=38|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{nat fs player|no=15|pos=DF|name=[[Júnior Díaz]]|age={{Birth date and age2|2014|6|12|1983|9|12|df=y}}|caps=61|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=16|pos=DF|name=[[Cristian Gamboa]]|age={{Birth date and age2|2014|6|12|1989|10|24|df=y}}|caps=25|club=[[Rosenborg BK|Rosenborg]]|clubnat=NOR}}
+{{nat fs player|no=17|pos=MF|name=[[Yeltsin Tejeda]]|age={{Birth date and age2|2014|6|12|1992|3|17|df=y}}|caps=22|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs player|no=18|pos=GK|name=[[Patrick Pemberton]]|age={{Birth date and age2|2014|6|12|1982|4|24|df=y}}|caps=20|club=[[L.D. Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs player|no=19|pos=DF|name=[[Roy Miller (footballer)|Roy Miller]]|age={{Birth date and age2|2014|6|12|1984|11|24|df=y}}|caps=48|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs player|no=20|pos=MF|name=[[Diego Calvo]]|age={{Birth date and age2|2014|6|12|1991|3|25|df=y}}|caps=9|club=[[Vålerenga Fotball|Vålerenga]]|clubnat=NOR}}
+{{nat fs player|no=21|pos=FW|name=[[Marco Ureña]]|age={{Birth date and age2|2014|6|12|1990|3|5|df=y}}|caps=23|club=[[FC Kuban Krasnodar|Kuban Krasnodar]]|clubnat=RUS}}
+{{nat fs player|no=22|pos=MF|name=[[José Miguel Cubero]]|age={{Birth date and age2|2014|6|12|1987|2|14|df=y}}|caps=34|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs player|no=23|pos=GK|name=[[Daniel Cambronero]]|age={{Birth date and age2|2014|6|12|1986|1|8|df=y}}|caps=4|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs end}}
+
+===England===
+Coach: [[Roy Hodgson]]
+
+England's final squad was announced on 12 May 2014, including seven standby squad members: [[John Ruddy]], [[Jon Flanagan]], [[John Stones]], [[Michael Carrick]], [[Tom Cleverley]], [[Andy Carroll]] and [[Jermain Defoe]].<ref>{{cite news |title=World Cup 2014: England name Ross Barkley in squad |url=http://www.bbc.co.uk/sport/0/football/27362447 |publisher=BBC Sport (British Broadcasting Corporation) |date=12 May 2014 |accessdate=22 May 2014 }}</ref> Of those seven, only Stones and Flanagan joined the rest of the squad at a training camp in Portugal, with Stones serving as a like-for-like replacement option for [[Phil Jones (footballer, born 1992)|Phil Jones]], who was still recovering from a shoulder injury.<ref>{{cite news |first=Nicholas |last=Veevers |title=Young Lions pair set for Portugal training trip |url=http://www.thefa.com/news/england/2014/may/hodgson-to-take-stones-flanagan-to-train-130514 |publisher=TheFA.com (The Football Association) |date=13 May 2014 |accessdate=3 June 2014 }}</ref> Both Stones and Flanagan travelled with the squad to their pre-tournament training base in [[Miami]], and are expected to remain with the team in Brazil should any injuries be suffered ahead of the opening game.<ref>{{cite news |first=Jason |last=Burt |title=World Cup 2014: England manager Roy Hodgson refuses to guarantee Wayne Rooney starting place in Brazil |url=http://www.telegraph.co.uk/sport/football/teams/england/10867352/World-Cup-2014-England-manager-Roy-Hodgson-refuses-to-guarantee-Wayne-Rooney-starting-place-in-Brazil.html |publisher=Telegraph.co.uk (Telegraph Media Group) |date=31 May 2014 |accessdate=3 June 2014 }}</ref> The squad numbers were revealed on 22 May.<ref>{{cite news |title=England hand Jack Wilshere number seven squad number |url=http://www.bbc.co.uk/sport/0/football/27526701 |publisher=BBC Sport (British Broadcasting Corporation) |date=12 May 2014 |accessdate=22 May 2014 }}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Joe Hart]]|age={{Birth date and age2|2014|6|12|1987|5|19|df=y}}|caps=40|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Glen Johnson (English footballer)|Glen Johnson]]|age={{Birth date and age2|2014|6|12|1984|8|23|df=y}}|caps=51|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Leighton Baines]]|age={{Birth date and age2|2014|6|12|1984|12|11|df=y}}|caps=23|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=MF|name=[[Steven Gerrard]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1980|5|30|df=y}}|caps=110|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Gary Cahill]]|age={{Birth date and age2|2014|6|12|1985|12|19|df=y}}|caps=23|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=DF|name=[[Phil Jagielka]]|age={{Birth date and age2|2014|6|12|1982|8|17|df=y}}|caps=25|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=MF|name=[[Jack Wilshere]]|age={{Birth date and age2|2014|6|12|1992|1|1|df=y}}|caps=16|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=8|pos=MF|name=[[Frank Lampard]]|age={{Birth date and age2|2014|6|12|1978|6|20|df=y}}|caps=103|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Daniel Sturridge]]|age={{Birth date and age2|2014|6|12|1989|9|1|df=y}}|caps=11|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Wayne Rooney]]|age={{Birth date and age2|2014|6|12|1985|10|24|df=y}}|caps=90|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=FW|name=[[Danny Welbeck]]|age={{Birth date and age2|2014|6|12|1990|11|26|df=y}}|caps=22|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=DF|name=[[Chris Smalling]]|age={{Birth date and age2|2014|6|12|1989|11|22|df=y}}|caps=11|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=GK|name=[[Ben Foster (footballer)|Ben Foster]]|age={{Birth date and age2|2014|6|12|1983|5|3|df=y}}|caps=6|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=14|pos=MF|name=[[Jordan Henderson]]|age={{Birth date and age2|2014|6|12|1990|6|17|df=y}}|caps=9|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=MF|name=[[Alex Oxlade-Chamberlain]]|age={{Birth date and age2|2014|6|12|1993|8|15|df=y}}|caps=14|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=DF|name=[[Phil Jones (footballer, born 1992)|Phil Jones]]|age={{Birth date and age2|2014|6|12|1992|2|21|df=y}}|caps=9|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=MF|name=[[James Milner]]|age={{Birth date and age2|2014|6|12|1986|1|4|df=y}}|caps=46|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=FW|name=[[Rickie Lambert]]|age={{Birth date and age2|2014|6|12|1982|02|16|df=y}}|caps=4|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=MF|name=[[Raheem Sterling]]|age={{Birth date and age2|2014|6|12|1994|12|8|df=y}}|caps=3|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=MF|name=[[Adam Lallana]]|age={{Birth date and age2|2014|6|12|1988|05|10|df=y}}|caps=4|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=MF|name=[[Ross Barkley]]|age={{Birth date and age2|2014|6|12|1993|12|5|df=y}}|caps=4|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=GK|name=[[Fraser Forster]]|age={{Birth date and age2|2014|6|12|1988|3|17|df=y}}|caps=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=23|pos=DF|name=[[Luke Shaw]]|age={{Birth date and age2|2014|6|12|1995|07|12|df=y}}|caps=1|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Italy===
+Coach: [[Cesare Prandelli]]
+
+The final squad was announced on 1 June 2014.<ref>{{cite web|url=http://www.figc.it/Assets/contentresources_2/ContenutoGenerico/95.$plit/C_2_ContenutoGenerico_2524459_StrilloAreaStampa_upfDownload.pdf|title=Convocazione nazional A|date=1 June 2014|accessdate=1 June 2014|publisher=http://www.figc.it}}</ref> The squad numbers were revealed the next day.<ref>{{cite news|url=http://www.gazzetta.it/Calcio/Mondiali/02-06-2014/nazionale-insigne-22-immobile-non-teme-17-80819281567.shtml|title=Nazionale, i numeri di maglia: il 9 a Balotelli, il 10 a Cassano|date=2 June 2014|accessdate=2 June 2014|publisher=La Gazzetta dello Sport|language=Italian}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Gianluigi Buffon]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|13|1978|1|28|df=y}}|caps=139|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=2|pos=DF|name=[[Mattia De Sciglio]]|age={{Birth date and age2|2014|6|13|1992|10|20|df=y}}|caps=10|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Giorgio Chiellini]]|age={{Birth date and age2|2014|6|13|1984|8|14|df=y}}|caps=67|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Matteo Darmian]]|age={{Birth date and age2|2014|6|13|1989|12|2|df=y}}|caps=1|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs player|no=5|pos=MF|name=[[Thiago Motta]]|age={{Birth date and age2|2014|6|13|1982|8|28|df=y}}|caps=20|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=6|pos=MF|name=[[Antonio Candreva]]|age={{Birth date and age2|2014|6|13|1987|2|28|df=y}}|caps=19|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=DF|name=[[Ignazio Abate]]|age={{Birth date and age2|2014|6|13|1986|11|12|df=y}}|caps=19|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=8|pos=MF|name=[[Claudio Marchisio]]|age={{Birth date and age2|2014|6|13|1986|1|19|df=y}}|caps=43|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Mario Balotelli]]|age={{Birth date and age2|2014|6|13|1990|8|12|df=y}}|caps=29|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=FW|name=[[Antonio Cassano]]|age={{Birth date and age2|2014|6|13|1982|7|12|df=y}}|caps=36|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs player|no=11|pos=FW|name=[[Alessio Cerci]]|age={{Birth date and age2|2014|6|13|1987|7|23|df=y}}|caps=11|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=GK|name=[[Salvatore Sirigu]]|age={{Birth date and age2|2014|6|13|1987|1|12|df=y}}|caps=8|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=13|pos=GK|name=[[Mattia Perin]]|age={{Birth date and age2|2014|6|13|1992|11|10|df=y}}|caps=0|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs player|no=14|pos=MF|name=[[Alberto Aquilani]]|age={{Birth date and age2|2014|6|13|1984|7|7|df=y}}|caps=34|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs player|no=15|pos=DF|name=[[Andrea Barzagli]]|age={{Birth date and age2|2014|6|13|1981|5|8|df=y}}|caps=47|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=MF|name=[[Daniele De Rossi]]|age={{Birth date and age2|2014|6|13|1983|7|24|df=y}}|caps=94|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=17|pos=FW|name=[[Ciro Immobile]]|age={{Birth date and age2|2014|6|13|1990|2|20|df=y}}|caps=2|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=MF|name=[[Marco Parolo]]|age={{Birth date and age2|2014|6|13|1985|1|25|df=y}}|caps=3|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=DF|name=[[Leonardo Bonucci]]|age={{Birth date and age2|2014|6|13|1987|5|1|df=y}}|caps=36|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=DF|name=[[Gabriel Paletta]]|age={{Birth date and age2|2014|6|13|1986|2|15|df=y}}|caps=2|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=MF|name=[[Andrea Pirlo]]|age={{Birth date and age2|2014|6|13|1979|5|19|df=y}}|caps=108|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=FW|name=[[Lorenzo Insigne]]|age={{Birth date and age2|2014|6|13|1991|6|4|df=y}}|caps=4|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=23|pos=MF|name=[[Marco Verratti]]|age={{Birth date and age2|2014|6|13|1992|11|5|df=y}}|caps=5|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Uruguay===
+Coach: [[Óscar Tabárez]]
+
+The final squad announced on 31 May 2014:<ref>{{cite web |url=http://www.auf.org.uy/Portal/NEWS/3941/|title=Plantel definitivo para Brasil 2014|date=31 May 2014|work= |publisher=auf.org.uy|accessdate=31 May 2014}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Fernando Muslera]]|age={{Birth date and age2|2014|6|12|1986|6|16|df=y}}|caps=57|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=2|pos=DF|name=[[Diego Lugano]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1980|11|2|df=y}}|caps=93|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Diego Godín]]|age={{Birth date and age2|2014|6|12|1986|2|16|df=y}}|caps=76|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=DF|name=[[Sebastián Coates]]|age={{Birth date and age2|2014|6|12|1990|10|7|df=y}}|caps=14|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs player|no=5|pos=MF|name=[[Walter Gargano]]|age={{Birth date and age2|2014|6|12|1984|7|23|df=y}}|caps=62|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=MF|name=[[Álvaro Pereira]]|age={{Birth date and age2|2014|6|12|1985|11|28|df=y}}|caps=56|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs player|no=7|pos=MF|name=[[Cristian Rodríguez]]|age={{Birth date and age2|2014|6|12|1985|09|30|df=y}}|caps=72|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=FW|name=[[Abel Hernández]]|age={{Birth date and age2|2014|6|12|1990|8|8|df=y}}|caps=12|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Luis Suárez]]|age={{Birth date and age2|2014|6|12|1987|1|24|df=y}}|caps=77|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Diego Forlán]]|age={{Birth date and age2|2014|6|12|1979|5|19|df=y}}|caps=109|club=[[Cerezo Osaka]]|clubnat=JPN}}
+{{nat fs player|no=11|pos=FW|name=[[Christian Stuani]]|age={{Birth date and age2|2014|6|12|1986|10|12|df=y}}|caps=9|club=[[RCD Espanyol|Espanyol]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=GK|name=[[Rodrigo Muñoz]]|age={{Birth date and age2|2014|6|12|1982|1|22|df=y}}|caps=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs player|no=13|pos=DF|name=[[Jorge Fucile]]|age={{Birth date and age2|2014|6|12|1984|11|19|df=y}}|caps=41|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=14|pos=MF|name=[[Nicolás Lodeiro]]|age={{Birth date and age2|2014|6|12|1989|3|21|df=y}}|caps=26|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=BRA}}
+{{nat fs player|no=15|pos=MF|name=[[Diego Pérez (footballer)|Diego Pérez]]|age={{Birth date and age2|2014|6|12|1980|5|18|df=y}}|caps=89|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=DF|name=[[Maximiliano Pereira|Maxi Pereira]]|age={{Birth date and age2|2014|6|12|1984|6|8|df=y}}|caps=89|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=17|pos=MF|name=[[Egidio Arévalo|Egidio Arévalo Ríos]]|age={{Birth date and age2|2014|6|12|1982|1|1|df=y}}|caps=54|club=[[Monarcas Morelia|Morelia]]|clubnat=MEX}}
+{{nat fs player|no=18|pos=MF|name=[[Gastón Ramírez]]|age={{Birth date and age2|2014|6|12|1990|12|2|df=y}}|caps=28|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=DF|name=[[José María Giménez]]|age={{Birth date and age2|2014|6|12|1995|01|20|df=y}}|caps=5|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=20|pos=MF|name=[[Álvaro Rafael González|Álvaro González]]|age={{Birth date and age2|2014|6|12|1984|10|29|df=y}}|caps=42|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=FW|name=[[Edinson Cavani]]|age={{Birth date and age2|2014|6|12|1987|2|14|df=y}}|caps=61|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=22|pos=DF|name=[[Martín Cáceres]]|age={{Birth date and age2|2014|6|12|1987|4|7|df=y}}|caps=56|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=23|pos=GK|name=[[Martín Silva]]|age={{Birth date and age2|2014|6|12|1983|3|25|df=y}}|caps=4|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=BRA}}
+{{nat fs end}}
+
+==Group E==
+
+===Ecuador===
+Coach: {{flagicon|COL}} [[Reinaldo Rueda]]
+
+The final squad was announced on 2 June 2014.<ref>{{cite web|url=http://www.ecuafutbol.org/web/noticia.php?idn=4853&idc=11#.U40DlnJ5OIg|title=Nuestros 23 seleccionados para el Mundial Brasil 2014.|date=2 June 2014|accessdate=2 June 2014|publisher=Federacion Ecuatoriana de Futbol}}</ref> The squad numbers were revealed the next day.<ref>{{cite web|url=http://www.ecuafutbol.org/web/noticia.php?idn=4861&idc=11#.U44YI3Lh2OM|title=La numeración oficial que utilizarán los jugadores de la Tri en el Mundial.|date=3 June 2014|accessdate=3 June 2014|publisher=Federacion Ecuatoriana de Futbol}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Máximo Banguera]]|age={{Birth date and age2|2014|6|12|1985|12|16|df=y}}|caps=24|club=[[Barcelona Sporting Club|Barcelona]]|clubnat=ECU}}
+{{nat fs player|no=2|pos=DF|name=[[Jorge Guagua]]|age={{birth date and age2|2014|6|12|1981|9|28|df=y}}|caps=58|club=[[Club Sport Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs player|no=3|pos=DF|name=[[Frickson Erazo]]|age={{birth date and age2|2014|6|12|1988|5|5|df=y}}|caps=36|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs player|no=4|pos=DF|name=[[Juan Carlos Paredes]]|age={{birth date and age2|2014|6|12|1987|7|8|df=y}}|caps=37|club=[[Barcelona Sporting Club|Barcelona]]|clubnat=ECU}}
+{{nat fs player|no=5|pos=MF|name=[[Renato Ibarra]]|age={{birth date and age2|2014|6|12|1991|1|20|df=y}}|caps=17|club=[[Vitesse]]|clubnat=NED}}
+{{nat fs player|no=6|pos=MF|name=[[Christian Noboa]]|age={{birth date and age2|2014|6|12|1985|4|9|df=y}}|caps=41|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs player|no=7|pos=MF|name=[[Jefferson Montero]]|age={{birth date and age2|2014|6|12|1989|9|1|df=y}}|caps=39|club=[[Monarcas Morelia|Morelia]]|clubnat=MEX}}
+{{nat fs player|no=8|pos=MF|name=[[Édison Méndez]]|age={{birth date and age2|2014|6|12|1979|3|15|df=y}}|caps=109|club=[[Independiente Santa Fe|Santa Fe]]|clubnat=COL}}
+{{nat fs player|no=9|pos=MF|name=[[Joao Rojas]]|age={{birth date and age2|2014|6|12|1989|06|14|df=y}}|caps=29|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs player|no=10|pos=DF|name=[[Walter Ayoví]]|age={{birth date and age2|2014|6|12|1979|8|11|df=y}}|caps=89|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs player|no=11|pos=FW|name=[[Felipe Caicedo]]|age={{birth date and age2|2014|6|12|1988|9|5|df=y}}|caps=49|club=[[Al Jazira Club|Al-Jazira]]|clubnat=UAE}}
+{{nat fs player|no=12|pos=GK|name=[[Adrián Bone]]|age={{Birth date and age2|2014|6|12|1988|9|8|df=y}}|caps=3|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}
+{{nat fs player|no=13|pos=FW|name=[[Enner Valencia]]|age={{birth date and age2|2014|6|12|1989|4|11|df=y}}|caps=9|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs player|no=14|pos=MF|name=[[Segundo Castillo]]|age={{birth date and age2|2014|6|12|1982|5|15|df=y}}|caps=81|club=[[Al-Hilal FC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs player|no=15|pos=MF|name=[[Michael Arroyo]]|age={{birth date and age2|2014|6|12|1987|4|23|df=y}}|caps=20|club=[[C.F. Atlante|Atlante]]|clubnat=MEX}}
+{{nat fs player|no=16|pos=MF|name=[[Antonio Valencia]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1985|8|4|df=y}}|caps=70|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=FW|name=[[Jaime Ayoví]]|age={{birth date and age2|2014|6|12|1988|2|21|df=y}}|caps=30|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs player|no=18|pos=DF|name=[[Óscar Bagüí]]|age={{birth date and age2|2014|6|12|1982|12|10|df=y}}|caps=21|club=[[Club Sport Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs player|no=19|pos=MF|name=[[Luis Saritama]]|age={{birth date and age2|2014|6|12|1983|10|20|df=y}}|caps=48|club=[[Barcelona Sporting Club|Barcelona]]|clubnat=ECU}}
+{{nat fs player|no=20|pos=MF|name=[[Fidel Martínez]]|age={{birth date and age2|2014|6|12|1990|2|15|df=y}}|caps=8|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs player|no=21|pos=DF|name=[[Gabriel Achilier]]|age={{birth date and age2|2014|6|12|1985|3|24|df=y}}|caps=22|club=[[Club Sport Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs player|no=22|pos=GK|name=[[Alexander Domínguez]]|age={{Birth date and age2|2014|6|12|1987|6|5|df=y}}|caps=18|club=[[LDU Quito]]|clubnat=ECU}}
+{{nat fs player|no=23|pos=MF|name=[[Carlos Armando Gruezo Arboleda|Carlos Gruezo]]|age={{birth date and age2|2014|6|12|1995|4|19|df=y}}|caps=2|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs end}}
+
+===France===
+Coach: [[Didier Deschamps]]
+
+The final squad announced on 13 May 2014:<ref>{{cite web|url=http://www.francefootball.fr/news/Une-liste-de-23-sans-surprise/464898|title=Une liste de 23 sans surprise|date=13 May 2014|accessdate=13 May 2014|publisher=France Football}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27401306|title=World Cup 2014: Samir Nasri and Gael Clichy not in France squad|date=13 May 2014|accessdate=14 May 2014|publisher=BBC Sport}}</ref> Though originally selected, Ribery was removed due to a back injury.<Ref>http://www.dw.de/injured-ribery-out-of-frances-brazil-world-cup-squad/a-17689985</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Hugo Lloris]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1986|12|26|df=y}}|caps=56|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Mathieu Debuchy]]|age={{Birth date and age2|2014|6|12|1985|7|28|df=y}}|caps=20|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Patrice Evra]]|age={{Birth date and age2|2014|6|12|1981|5|15|df=y}}|caps=57|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Raphaël Varane]]|age={{Birth date and age2|2014|6|12|1993|4|25|df=y}}|caps=5|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=5|pos=DF|name=[[Mamadou Sakho]]|age={{Birth date and age2|2014|6|12|1990|2|13|df=y}}|caps=18|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=MF|name=[[Yohan Cabaye]]|age={{Birth date and age2|2014|6|12|1986|1|14|df=y}}|caps=29|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=7|pos=FW|name=[[Rémy Cabella]]<ref>[[Franck Ribéry]] was originally named in the squad but sustained an injury before the tournament. He was replaced by Cabella. {{cite web|url=http://www.lequipe.fr/Football/Actualites/Ribery-forfait-pour-le-bresil/471480|title=Ribéry forfait pour la Coupe du monde !|date=6 June 2014|accessdate=6 June 2014|publisher=l'equipe.fr|language=French}}</ref>|age={{Birth date and age2|2014|6|12|1990|3|8|df=y}}|caps=1|club=[[Montpellier HSC|Montpellier]]|clubnat=FRA}}
+{{nat fs player|no=8|pos=MF|name=[[Mathieu Valbuena]]|age={{Birth date and age2|2014|6|12|1984|9|28|df=y}}|caps=33|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=FW|name=[[Olivier Giroud]]|age={{Birth date and age2|2014|6|12|1986|9|30|df=y}}|caps=29|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=FW|name=[[Karim Benzema]]|age={{Birth date and age2|2014|6|12|1987|12|19|df=y}}|caps=65|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Antoine Griezmann]]|age={{Birth date and age2|2014|6|12|1991|3|21|df=y}}|caps=3|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=MF|name=[[Rio Mavuba]]|age={{Birth date and age2|2014|6|12|1984|3|8|df=y}}|caps=11|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=13|pos=DF|name=[[Eliaquim Mangala]]|age={{Birth date and age2|2014|6|12|1991|2|13|df=y}}|caps=3|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=14|pos=MF|name=[[Blaise Matuidi]]|age={{Birth date and age2|2014|6|12|1987|4|9|df=y}}|caps=22|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=15|pos=DF|name=[[Bacary Sagna]]|age={{Birth date and age2|2014|6|12|1983|2|14|df=y}}|caps=40|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=GK|name=[[Stéphane Ruffier]]<ref>[[Steve Mandanda]] was originally named in the squad but sustained an injury before the tournament. He was replaced by Ruffier.</ref>|age={{Birth date and age|1986|9|27|df=y}}|caps=2|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs player|no=17|pos=DF|name=[[Lucas Digne]]|age={{Birth date and age2|2014|6|12|1993|7|20|df=y}}|caps=2|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=18|pos=MF|name=[[Moussa Sissoko]]|age={{Birth date and age2|2014|6|12|1989|8|16|df=y}}|caps=16|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs player|no=19|pos=MF|name=[[Paul Pogba]]|age={{Birth date and age2|2014|6|12|1993|3|15|df=y}}|caps=10|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=FW|name=[[Loïc Rémy]]|age={{Birth date and age2|2014|6|12|1987|1|2|df=y}}|caps=24|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=DF|name=[[Laurent Koscielny]]|age={{Birth date and age2|2014|6|12|1985|9|10|df=y}}|caps=17|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=MF|name=[[Morgan Schneiderlin]]<ref>[[Clément Grenier]] was originally named in the squad but sustained an injury before the tournament. He was replaced by Schneiderlin. {{cite web|url=http://www.lequipe.fr/Football/Actualites/Schneiderlin-rappele-aussi/471465|title=Schneiderlin rappelé aussi|date=6 June 2014|accessdate=6 June 2014|publisher=l'equipe.fr|language=French}}</ref>|age={{Birth date and age2|2014|6|12|1989|11|8|df=y}}|caps=0|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=GK|name=[[Mickaël Landreau]]|age={{Birth date and age2|2014|6|12|1979|5|14|df=y}}|caps=11|club=[[SC Bastia|Bastia]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Honduras===
+Coach: {{flagicon|COL}} [[Luis Fernando Suárez]]
+
+The final squad announced on 5 May 2014:<ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27290850|title=World Cup 2014: Six British-based players in Honduras squad|date=6 May 2014|accessdate=6 May 2014|publisher=BBC Sport}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Luis López Fernández|Luis López]]|age={{Birth date and age2|2014|6|12|1993|9|13|df=y}}|caps=0|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs player|no=2|pos=DF|name=[[Osman Chávez]]|age={{Birth date and age2|2014|6|12|1984|7|29|df=y}}|caps=54|club=[[Qingdao Jonoon F.C.|Qingdao Jonoon]]|clubnat=CHN}}
+{{nat fs player|no=3|pos=DF|name=[[Maynor Figueroa]]|age={{birth date and age2|2014|6|12|1983|5|2|df=y}}|caps=104|club=[[Hull City A.F.C.|Hull City]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Juan Pablo Montes]]|age={{Birth date and age2|2014|6|12|1985|10|26|df=y}}|caps=11|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=5|pos=DF|name=[[Víctor Bernárdez]]|age={{Birth date and age2|2014|6|12|1982|5|24|df=y}}|caps=77|club=[[San Jose Earthquakes]]|clubnat=USA}}
+{{nat fs player|no=6|pos=DF|name=[[Juan Carlos García (Honduran footballer)|Juan Carlos García]]|age={{Birth date and age2|2014|6|12|1988|3|8|df=y}}|caps=33|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=7|pos=DF|name=[[Emilio Izaguirre]]|age={{Birth date and age2|2014|6|12|1986|5|10|df=y}}|caps=67|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=8|pos=MF|name=[[Wilson Palacios]]|age={{Birth date and age2|2014|6|12|1984|7|29|df=y}}|caps=94|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Jerry Palacios]]|age={{Birth date and age2|2014|6|12|1981|11|1|df=y}}|caps=23|club=[[L.D. Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs player|no=10|pos=MF|name=[[Mario Martínez (footballer)|Mario Martínez]]|age={{Birth date and age2|2014|6|12|1989|7|30|df=y}}|caps=35|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs player|no=11|pos=FW|name=[[Jerry Bengtson]]|age={{Birth date and age2|2014|6|12|1987|4|8|df=y}}|caps=43|club=[[New England Revolution]]|clubnat=USA}}
+{{nat fs player|no=12|pos=MF|name=[[Edder Delgado]]<ref>[[Arnold Peralta]] was originally named in the squad but sustained an injury before the tournament. He was replaced by Delgado.</ref>|age={{Birth date and age2|2014|6|12|1986|11|20}}|caps=25|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs player|no=13|pos=FW|name=[[Carlo Costly]]|age={{Birth date and age2|2014|6|12|1982|7|18|df=y}}|caps=69|club=[[Real C.D. España|Real España]]|clubnat=HON}}
+{{nat fs player|no=14|pos=MF|name=[[Óscar Boniek García|Óscar García]]|age={{Birth date and age2|2014|6|12|1984|9|4|df=y}}|caps=92|club=[[Houston Dynamo]]|clubnat=USA}}
+{{nat fs player|no=15|pos=MF|name=[[Roger Espinoza]]|age={{Birth date and age2|2014|6|12|1986|10|25|df=y}}|caps=41|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=FW|name=[[Rony Martínez]]|age={{Birth date and age2|2014|6|12|1988|10|16|df=y}}|caps=12|club=[[C.D. Real Sociedad|Real Sociedad]]|clubnat=HON}}
+{{nat fs player|no=17|pos=MF|name=[[Marvin Chávez]]|age={{Birth date and age2|2014|6|12|1983|11|3|df=y}}|caps=41|club=[[Chivas USA]]|clubnat=USA}}
+{{nat fs player|no=18|pos=GK|name=[[Noel Valladares]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1977|5|3|df=y}}|caps=121|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=19|pos=MF|name=[[Luis Garrido]]|age={{Birth date and age2|2014|6|12|1990|11|5|df=y}}|caps=19|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}} 
+{{nat fs player|no=20|pos=MF|name=[[Jorge Claros]]|age={{Birth date and age2|2014|6|12|1986|1|8|df=y}}|caps=48|club=[[C.D. Motagua|Motagua]]|clubnat=HON}}
+{{nat fs player|no=21|pos=MF|name=[[Andy Najar]]|age={{Birth date and age2|2014|6|12|1993|3|16|df=y}}|caps=16|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs player|no=22|pos=GK|name=[[Donis Escober]]|age={{Birth date and age2|2014|6|12|1980|2|3|df=y}}|caps=26|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs player|no=23|pos=DF|name=[[Brayan Beckeles]]|age={{Birth date and age2|2014|6|12|1985|11|28|df=y}}|caps=22|club=[[Club Deportivo Olimpia|Olimpia]]|clubnat=HON}}
+{{nat fs end}}
+
+===Switzerland===
+Coach: {{flagicon|GER}} [[Ottmar Hitzfeld]]
+
+The final squad announced on 13 May 2014:<ref>{{cite web|url=http://www.football.ch/de/Portaldata/1/Resources/dokumente/brasilien/WMKader/kader-wm-30.pdf|title=Spielerliste / Liste des joueurs FIFA World Cup Brazil 2014TM|date=13 May 2014|accessdate=13 May 2014|publisher=SCHWEIZERISCHER FUSSBALLVERBAND}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27391728|title=World Cup 2014: Pajtim Kasami on standby for Switzerland|date=13 May 2014|accessdate=13 May 2014|publisher=BBC Sport}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Diego Benaglio]]|age={{birth date and age2|2014|6|12|1983|9|8|df=y}}|caps=56|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=2|pos=DF|name=[[Stephan Lichtsteiner]]|age={{birth date and age2|2014|6|12|1984|1|16|df=y}}|caps=62|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=3|pos=DF|name=[[Reto Ziegler]]|age={{birth date and age2|2014|6|12|1986|1|16|df=y}}|caps=35|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Philippe Senderos]]|age={{birth date and age2|2014|6|12|1985|2|14|df=y}}|caps=53|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=5|pos=DF|name=[[Steve von Bergen]]|age={{birth date and age2|2014|6|12|1983|6|10|df=y}}|caps=40|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs player|no=6|pos=DF|name=[[Michael Lang (footballer)|Michael Lang]]|age={{birth date and age2|2014|6|12|1991|2|8|df=y}}|caps=5|club=[[Grasshopper Club Zürich|Grasshopper]]|clubnat=SUI}}
+{{nat fs player|no=7|pos=MF|name=[[Tranquillo Barnetta]]|age={{birth date and age2|2014|6|12|1985|5|22|df=y}}|caps=73|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Gökhan Inler]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1984|6|27|df=y}}|caps=71|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Haris Seferović]]|age={{birth date and age2|2014|6|12|1992|2|22|df=y}}|caps=10|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs player|no=10|pos=MF|name=[[Granit Xhaka]]|age={{birth date and age2|2014|6|12|1992|9|27|df=y}}|caps=25|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs player|no=11|pos=MF|name=[[Valon Behrami]]|age={{birth date and age2|2014|6|12|1985|4|19|df=y}}|caps=47|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=GK|name=[[Yann Sommer]]|age={{birth date and age2|2014|6|12|1988|12|17|df=y}}|caps=6|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=13|pos=DF|name=[[Ricardo Rodríguez (footballer)|Ricardo Rodríguez]]|age={{birth date and age2|2014|6|12|1992|8|25|df=y}}|caps=20|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=14|pos=MF|name=[[Valentin Stocker]]|age={{birth date and age2|2014|6|12|1989|4|12|df=y}}|caps=23|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=15|pos=MF|name=[[Blerim Džemaili]]|age={{birth date and age2|2014|6|12|1986|4|12|df=y}}|caps=33|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=16|pos=MF|name=[[Gelson Fernandes]]|age={{birth date and age2|2014|6|12|1986|9|2|df=y}}|caps=47|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs player|no=17|pos=FW|name=[[Mario Gavranović]]|age={{birth date and age2|2014|6|12|1989|11|24|df=y}}|caps=10|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{nat fs player|no=18|pos=FW|name=[[Admir Mehmedi]]|age={{birth date and age2|2014|6|12|1991|3|16|df=y}}|caps=20|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs player|no=19|pos=FW|name=[[Josip Drmić]]|age={{birth date and age2|2014|6|12|1992|8|8|df=y}}|caps=6|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=20|pos=DF|name=[[Johan Djourou]]|age={{birth date and age2|2014|6|12|1987|1|18|df=y}}|caps=44|club=[[Hamburger SV]]|clubnat=GER}}
+{{nat fs player|no=21|pos=GK|name=[[Roman Bürki]]|age={{birth date and age2|2014|6|12|1990|11|14|df=y}}|caps=0|club=[[Grasshopper Club Zürich|Grasshopper]]|clubnat=SUI}}
+{{nat fs player|no=22|pos=DF|name=[[Fabian Schär]]|age={{birth date and age2|2014|6|12|1991|12|20|df=y}}|caps=5|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs player|no=23|pos=MF|name=[[Xherdan Shaqiri]]|age={{birth date and age2|2014|6|12|1991|10|10|df=y}}|caps=32|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs end}}
+
+==Group F==
+
+===Argentina===
+Coach: [[Alejandro Sabella]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.lequipe.fr/Football/Actualites/Banega-n-en-sera-pas/470561|title=Banega n'en sera pas|language=French|date=2 June 2014|accessdate=2 June 2014|publisher=L'Equipe}}</ref><ref>{{cite web|url=http://www.infobae.com/2014/06/02/1569633-los-dorsales-que-buscaran-la-copa-brasil-messi-encabeza-la-mitica-10|title=Los dorsales que buscarán la Copa en Brasil: Messi encabeza con la mítica 10|language= Spanish|date=2 June 2014|accessdate=2 June 2014|publisher=InfoBAE}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sergio Romero]]|age={{birth date and age2|2014|6|12|1987|2|22|df=y}}|caps=45|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}} 
+{{nat fs player|no=2|pos=DF|name=[[Ezequiel Garay]]|age={{birth date and age2|2014|6|12|1986|10|10|df=y}}|caps=18|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=3|pos=DF|name=[[Hugo Campagnaro]]|age={{birth date and age2|2014|6|12|1980|6|27|df=y}}|caps=13|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Pablo Zabaleta]]|age={{birth date and age2|2014|6|12|1985|1|16|df=y}}|caps=36|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=MF|name=[[Fernando Gago]]|age={{birth date and age2|2014|6|12|1986|4|10|df=y}}|caps=47|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs player|no=6|pos=MF|name=[[Lucas Biglia]]|age={{birth date and age2|2014|6|12|1986|1|30|df=y}}|caps=16|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=MF|name=[[Ángel di María]]|age={{birth date and age2|2014|6|12|1988|2|14|df=y}}|caps=45|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Enzo Pérez]]|age={{birth date and age2|2014|6|12|1986|2|22|df=y}}|caps=5|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=9|pos=FW|name=[[Gonzalo Higuaín]]|age={{birth date and age2|2014|6|12|1987|12|10|df=y}}|caps=36|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=10|pos=FW|name=[[Lionel Messi]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1987|6|24|df=y}}|caps=84|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Maxi Rodríguez]]|age={{birth date and age2|2014|6|12|1981|1|2|df=y}}|caps=53|club=[[Newell's Old Boys]]|clubnat=ARG}}
+{{nat fs player|no=12|pos=GK|name=[[Agustín Orión]]|age={{birth date and age2|2014|6|12|1981|7|26|df=y}}|caps=3|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs player|no=13|pos=MF|name=[[Augusto Fernández]]|age={{birth date and age2|2014|6|12|1986|4|10|df=y}}|caps=7|club=[[Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=MF|name=[[Javier Mascherano]]|age={{birth date and age2|2014|6|12|1984|6|8|df=y}}|caps=96|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs player|no=15|pos=DF|name=[[Martín Demichelis]]|age={{birth date and age2|2014|6|12|1980|12|20|df=y}}|caps=37|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=16|pos=DF|name=[[Marcos Rojo]]|age={{birth date and age2|2014|6|12|1990|3|20|df=y}}|caps=20|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=POR}}
+{{nat fs player|no=17|pos=DF|name=[[Federico Fernández (footballer)|Federico Fernández]]|age={{birth date and age2|2014|6|12|1989|2|21|df=y}}|caps=24|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=FW|name=[[Rodrigo Palacio]]|age={{birth date and age2|2014|6|12|1982|2|5|df=y}}|caps=15|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=19|pos=MF|name=[[Ricardo Gabriel Álvarez|Ricardo Álvarez]]|age={{birth date and age2|2014|6|12|1988|4|12|df=y}}|caps=5|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=FW|name=[[Sergio Agüero]]|age={{birth date and age2|2014|6|12|1988|6|2|df=y}}|caps=50|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=GK|name=[[Mariano Andújar]]|age={{birth date and age2|2014|6|12|1983|7|30|df=y}}|caps=10|club=[[Calcio Catania|Catania]]|clubnat=ITA}}
+{{nat fs player|no=22|pos=FW|name=[[Ezequiel Lavezzi]]|age={{birth date and age2|2014|6|12|1985|5|3|df=y}}|caps=29|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs player|no=23|pos=DF|name=[[José María Basanta]]|age={{birth date and age2|2014|6|12|1984|4|3|df=y}}|caps=8|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Bosnia and Herzegovina===
+Coach: [[Safet Sušić]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.nfsbih.ba/bih/vijest.php?id=10178|title=POTVRĐEN SPISAK OD 23 IGRAČA|date=2 June 2014|accessdate=2 June 2014|publisher=Nogometni/Fudbalski Savez Bosne i Hercegovine}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Asmir Begović]]|age={{Birth date and age2|2014|6|12|1987|6|20|df=y}}|caps=30|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[Avdija Vršajević]]|age={{Birth date and age2|2014|6|12|1986|3|6|df=y}}|caps=13|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO}}
+{{nat fs player|no=3|pos=DF|name=[[Ermin Bičakčić]]|age={{Birth date and age2|2014|6|12|1990|1|24|df=y}}|caps=7|club=[[Eintracht Braunschweig]]|clubnat=GER}}
+{{nat fs player|no=4|pos=DF|name=[[Emir Spahić]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1980|8|18|df=y}}|caps=74|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=5|pos=DF|name=[[Sead Kolašinac]]|age={{Birth date and age2|2014|6|12|1993|6|20|df=y}}|caps=4|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=6|pos=DF|name=[[Ognjen Vranješ]]|age={{Birth date and age2|2014|6|12|1989|10|24|df=y}}|caps=13|club=[[Elazığspor]]|clubnat=TUR}}
+{{nat fs player|no=7|pos=DF|name=[[Muhamed Bešić]]|age={{Birth date and age2|2014|6|12|1992|9|10|df=y}}|caps=9|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs player|no=8|pos=MF|name=[[Miralem Pjanić]]|age={{Birth date and age2|2014|6|12|1990|4|2|df=y}}|caps=48|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Vedad Ibišević]]|age={{Birth date and age2|2014|6|12|1984|8|6|df=y}}|caps=55|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[Zvjezdan Misimović]]|age={{Birth date and age2|2014|6|12|1982|6|5|df=y}}|caps=82|club=[[Guizhou Renhe F.C.|Guizhou Renhe]]|clubnat=CHN}}
+{{nat fs player|no=11|pos=FW|name=[[Edin Džeko]]|age={{Birth date and age2|2014|6|12|1986|3|17|df=y}}|caps=62|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Jasmin Fejzić]]|age={{Birth date and age2|2014|6|12|1986|5|15|df=y}}|caps=0|club=[[VfR Aalen]]|clubnat=GER}}
+{{nat fs player|no=13|pos=DF|name=[[Mensur Mujdža]]|age={{Birth date and age2|2014|6|12|1984|3|28|df=y}}|caps=24|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs player|no=14|pos=MF|name=[[Izet Hajrović]]|age={{Birth date and age2|2014|6|12|1991|8|4|df=y}}|caps=7|club=[[Galatasaray S.K.|Galatasaray]]|clubnat=TUR}}
+{{nat fs player|no=15|pos=DF|name=[[Toni Šunjić]]|age={{Birth date and age2|2014|6|12|1988|12|15|df=y}}|caps=7|club=[[FC Zorya Luhansk|Zorya Luhansk]]|clubnat=UKR}}
+{{nat fs player|no=16|pos=MF|name=[[Senad Lulić]]|age={{Birth date and age2|2014|6|12|1986|1|18|df=y}}|caps=33|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=17|pos=MF|name=[[Senijad Ibričić]]|age={{Birth date and age2|2014|6|12|1985|9|26|df=y}}|caps=42|club=[[Kayseri Erciyesspor]]|clubnat=TUR}}
+{{nat fs player|no=18|pos=MF|name=[[Haris Medunjanin]]|age={{Birth date and age2|2014|6|12|1985|3|8|df=y}}|caps=35|club=[[Gaziantepspor]]|clubnat=TUR}}
+{{nat fs player|no=19|pos=FW|name=[[Edin Višća]]|age={{Birth date and age2|2014|6|12|1990|2|17|df=y}}|caps=10|club=[[İstanbul Büyükşehir Belediyespor (football)|İstanbul BB]]|clubnat=TUR}}
+{{nat fs player|no=20|pos=MF|name=[[Anel Hadžić]]|age={{Birth date and age2|2014|6|12|1989|8|16|df=y}}|caps=2|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=AUT}}
+{{nat fs player|no=21|pos=MF|name=[[Tino-Sven Sušić]]|age={{Birth date and age2|2014|6|12|1992|2|13|df=y}}|caps=2|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO}}
+{{nat fs player|no=22|pos=GK|name=[[Asmir Avdukić]]|age={{Birth date and age2|2014|6|12|1981|5|13|df=y}}|caps=3|club=[[FK Borac Banja Luka|Borac Banja Luka]]|clubnat=BIH}}
+{{nat fs player|no=23|pos=MF|name=[[Sejad Salihović]]|age={{Birth date and age2|2014|6|12|1984|10|8|df=y}}|caps=42|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs end}}
+
+===Iran===
+Coach: {{flagicon|POR}} [[Carlos Queiroz]]
+
+The final squad announced on 1 June 2014, including [[Mohammad Reza Khanzadeh]] as the standby member.<ref>{{cite web|url=http://www.fifa.com/worldcup/news/y=2014/m=6/news=quieroz-trims-squad-to-24-2351854.html|title=Queiroz trims Iran squad to 24 |date=1 June 2014|accessdate=1 June 2014|publisher=FIFA.com}}</ref> The squad numbers were revealed on 5 June.<ref>{{cite web|url=http://www.varzesh3.com/news.do?itemid=1117480&title=%D8%B4%D9%85%D8%A7%D8%B1%D9%87%E2%80%8C%D9%8A_%D9%BE%D9%8A%D8%B1%D8%A7%D9%87%D9%86%E2%80%8C_%D8%A8%D8%A7%D8%B2%D9%8A%DA%A9%D9%86%D8%A7%D9%86_%D8%AA%D9%8A%D9%85%E2%80%8C%D9%85%D9%84%D9%8A_%D9%85%D8%B4%D8%AE%D8%B5_%D8%B4%D8%AF|title=شماره ی پیراهن بازیکنان تیم ملی مشخص شد |language=Persian |date=5 June 2014|accessdate=5 June 2014|publisher=Varzesh3.com}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Rahman Ahmadi]]|age={{Birth date and age2|2014|6|12|1980|7|30|df=y}}|caps=10|club=[[Sepahan F.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs player|no=2|pos=MF|name=[[Khosro Heydari]]|age={{Birth date and age2|2014|6|12|1983|9|14|df=y}}|caps=48|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs player|no=3|pos=MF|name=[[Ehsan Hajsafi]]|age={{Birth date and age2|2014|6|12|1990|2|25|df=y}}|caps=61|club=[[Sepahan F.C.|Sepahan]]|clubnat=IRN}}
+{{nat fs player|no=4|pos=DF|name=[[Jalal Hosseini]]|age={{Birth date and age2|2014|6|12|1982|2|3|df=y}}|caps=84|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs player|no=5|pos=DF|name=[[Amir Hossein Sadeghi]]|age={{Birth date and age2|2014|6|12|1981|9|6|df=y}}|caps=16|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs player|no=6|pos=MF|name=[[Javad Nekounam]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1980|10|7|df=y}}|caps=139|club=[[Kuwait SC|Al-Kuwait]]|clubnat=KUW}}
+{{nat fs player|no=7|pos=MF|name=[[Masoud Shojaei]]|age={{Birth date and age2|2014|6|12|1984|6|9|df=y}}|caps=49|club=[[UD Las Palmas|Las Palmas]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[Reza Haghighi]]|age={{Birth date and age2|2014|6|12|1989|2|1|df=y}}|caps=7|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs player|no=9|pos=FW|name=[[Alireza Jahanbakhsh]]|age={{Birth date and age2|2014|6|12|1993|8|11|df=y}}|caps=6|club=[[N.E.C. (football club)|NEC]]|clubnat=NED}}
+{{nat fs player|no=10|pos=FW|name=[[Karim Ansarifard]]|age={{Birth date and age2|2014|6|12|1990|4|3|df=y}}|caps=41|club=[[Tractor Sazi F.C.|Tractor Sazi]]|clubnat=IRN}}
+{{nat fs player|no=11|pos=MF|name=[[Ghasem Haddadifar]]|age={{Birth date and age2|2014|6|12|1983|7|12|df=y}}|caps=16|club=[[Zob Ahan F.C.|Zob Ahan]]|clubnat=IRN}}
+{{nat fs player|no=12|pos=GK|name=[[Alireza Haghighi]]|age={{Birth date and age2|2014|6|12|1988|5|2|df=y}}|caps=5|club=[[S.C. Covilhã|Sporting Covilhã]]|clubnat=POR}}
+{{nat fs player|no=13|pos=DF|name=[[Hossein Mahini]]|age={{Birth date and age2|2014|6|12|1986|9|16|df=y}}|caps=21|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs player|no=14|pos=MF|name=[[Andranik Teymourian]]|age={{Birth date and age2|2014|6|12|1983|3|6|df=y}}|caps=78|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs player|no=15|pos=DF|name=[[Pejman Montazeri]]|age={{Birth date and age2|2014|6|12|1983|9|6|df=y}}|caps=21|club=[[Umm Salal SC|Umm Salal]]|clubnat=QAT}}
+{{nat fs player|no=16|pos=FW|name=[[Reza Ghoochannejhad]]|age={{Birth date and age2|2014|6|12|1987|9|20|df=y}}|caps=13|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=DF|name=[[Ahmad Alenemeh]]|age={{Birth date and age2|2014|6|12|1982|10|10|df=y}}|caps=9|club=[[Naft Tehran F.C.|Naft Tehran]]|clubnat=IRN}}
+{{nat fs player|no=18|pos=MF|name=[[Bakhtiar Rahmani]]|age={{Birth date and age2|2014|6|12|1991|9|23|df=y}}|caps=4|club=[[Foolad F.C.|Foolad]]|clubnat=IRN}}
+{{nat fs player|no=19|pos=DF|name=[[Hashem Beikzadeh]]|age={{Birth date and age2|2014|6|12|1984|1|22|df=y}}|caps=17|club=[[Esteghlal F.C.|Esteghlal]]|clubnat=IRN}}
+{{nat fs player|no=20|pos=DF|name=[[Steven Beitashour]]|age={{Birth date and age2|2014|6|12|1987|2|1|df=y}}|caps=6|club=[[Vancouver Whitecaps FC|Vancouver Whitecaps]]|clubnat=CAN}}
+{{nat fs player|no=21|pos=MF|name=[[Ashkan Dejagah]]|age={{Birth date and age2|2014|6|12|1986|7|5|df=y}}|caps=13|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=GK|name=[[Daniel Davari]]|age={{Birth date and age2|2014|6|12|1988|1|6|df=y}}|caps=4|club=[[Eintracht Braunschweig]]|clubnat=GER}}
+{{nat fs player|no=23|pos=DF|name=[[Mehrdad Pouladi]]|age={{Birth date and age2|2014|6|12|1987|2|26|df=y}}|caps=19|club=[[Persepolis F.C.|Persepolis]]|clubnat=IRN}}
+{{nat fs end}}
+
+===Nigeria===
+Coach: [[Stephen Keshi]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.kickoffnigeria.com/news/45148/nigeria-name-final-23|title=Nigeria name final 23|date=2 June 2014|accessdate=2 June 2014|author=Colin Udoh|publisher=Kick Off Nigeria}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Vincent Enyeama]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|df=yes|1982|8|29|df=y}}|caps=90|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=2|pos=DF|name=[[Joseph Yobo]]|age={{birth date and age2|2014|6|12|df=yes|1980|9|6|df=y}}|caps=96|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs player|no=3|pos=DF|name=[[Uwa Elderson Echiéjilé]]|age={{birth date and age2|2014|6|12|df=yes|1988|1|20|df=y}}|caps=42|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=4|pos=MF|name=[[Reuben Gabriel]]|age={{birth date and age2|2014|6|12|df=yes|1990|9|25|df=y}}|caps=11|club=[[Waasland-Beveren]]|clubnat=BEL}}
+{{nat fs player|no=5|pos=DF|name=[[Efe Ambrose]]|age={{birth date and age2|2014|6|12|df=yes|1988|10|18|df=y}}|caps=36|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs player|no=6|pos=DF|name=[[Azubuike Egwuekwe]]|age={{birth date and age2|2014|6|12|df=yes|1989|7|16|df=y}}|caps=32|club=[[Warri Wolves F.C.|Warri Wolves]]|clubnat=NGA}}
+{{nat fs player|no=7|pos=FW|name=[[Ahmed Musa (footballer)|Ahmed Musa]]|age={{birth date and age2|2014|6|12|df=yes|1992|10|14|df=y}}|caps=35|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs player|no=8|pos=FW|name=[[Peter Odemwingie]]|age={{birth date and age2|2014|6|12|df=yes|1981|7|15|df=y}}|caps=60|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Emmanuel Emenike]]|age={{birth date and age2|2014|6|12|df=yes|1987|5|10|df=y}}|caps=22|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=10|pos=MF|name=[[John Obi Mikel]]|age={{birth date and age2|2014|6|12|df=yes|1987|4|22|df=y}}|caps=59|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=MF|name=[[Victor Moses]]|age={{birth date and age2|2014|6|12|df=yes|1990|12|12|df=y}}|caps=20|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=DF|name=[[Kunle Odunlami]]|age={{birth date and age2|2014|6|12|df=yes|1990|3|5|df=y}}|caps=10|club=[[Sunshine Stars F.C.|Sunshine Stars]]|clubnat=NGA}}
+{{nat fs player|no=13|pos=DF|name=[[Juwon Oshaniwa]]|age={{birth date and age2|2014|6|12|df=yes|1990|9|14|df=y}}|caps=10|club=[[F.C. Ashdod|Ashdod]]|clubnat=ISR}}
+{{nat fs player|no=14|pos=DF|name=[[Godfrey Oboabona]]|age={{birth date and age2|2014|6|12|df=yes|1990|8|16|df=y}}|caps=35|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs player|no=15|pos=MF|name=[[Ramon Azeez]]|age={{birth date and age2|2014|6|12|df=yes|1992|12|12|df=y}}|caps=1|club=[[UD Almería|Almería]]|clubnat=ESP}}
+{{nat fs player|no=16|pos=GK|name=[[Austin Ejide]]|age={{Birth date and age2|2014|6|12|df=yes|1984|4|8|df=y}}|caps=32|club=[[Hapoel Be'er Sheva F.C.|Hapoel Be'er Sheva]]|clubnat=ISR}}
+{{nat fs player|no=17|pos=MF|name=[[Ogenyi Onazi]]|age={{birth date and age2|2014|6|12|df=yes|1992|12|25|df=y}}|caps=20|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs player|no=18|pos=MF|name=[[Michael Babatunde]]|age={{birth date and age2|2014|6|12|df=yes|1992|12|24|df=y}}|caps=4|club=[[FC Volyn Lutsk|Volyn Lutsk]]|clubnat=UKR}}
+{{nat fs player|no=19|pos=FW|name=[[Uche Nwofor]]|age={{birth date and age2|2014|6|12|df=yes|1991|9|17|df=y}}|caps=6|club=[[SC Heerenveen|Heerenveen]]|clubnat=NED}}
+{{nat fs player|no=20|pos=FW|name=[[Michael Uchebo]]|age={{Birth date and age2|2014|6|12|df=yes|1990|2|2|df=y}}|caps=3|club=[[Cercle Brugge K.S.V.|Cercle Brugge]]|clubnat=BEL}}
+{{nat fs player|no=21|pos=GK|name=[[Chigozie Agbim]]|age={{birth date and age2|2014|6|12|df=yes|1984|11|28|df=y}}|caps=11|club=[[Gombe United F.C.|Gombe United]]|clubnat=NGA}}
+{{nat fs player|no=22|pos=DF|name=[[Kenneth Omeruo]]|age={{birth date and age2|2014|6|12|df=yes|1993|10|17|df=y}}|caps=17|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=FW|name=[[Shola Ameobi]]|age={{Birth date and age2|2014|6|12|df=yes|1981|10|12|df=y}}|caps=6|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs end}}
+
+==Group G==
+
+===Germany===
+Coach: [[Joachim Löw]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.fifa.com/worldcup/news/y=2014/m=6/news=low-finalises-germany-squad-2353140.html|title=Low finalises Germany squad|date=2 June 2014|accessdate=2 June 2014}}</ref><ref>{{cite web|title=Das Team|trans_title=The Team|language=German|accessdate=2 Janue 2014|publisher=[[DFB]]|url=http://www.dfb.de/index.php?id=513279&no_cache=1}}</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Manuel Neuer]]|age={{birth date and age2|2014|6|12|1986|3|27|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=45|df=y}}
+{{nat fs player|no=2|pos=DF|name=[[Kevin Großkreutz]]|age={{birth date and age2|2014|6|12|1988|7|19|df=y}}|clubnat=GER|club=[[Borussia Dortmund]]|caps=4|df=y}}
+{{nat fs player|no=3|pos=MF|name=[[Matthias Ginter]]|age={{birth date and age2|2014|6|12|1994|1|19|df=y}}|clubnat=GER|club=[[SC Freiburg]]|caps=2|df=y}}
+{{nat fs player|no=4|pos=DF|name=[[Benedikt Höwedes]]|age={{birth date and age2|2014|6|12|1988|2|29|df=y}}|clubnat=GER|club=[[FC Schalke 04|Schalke 04]]|caps=20|df=y}}
+{{nat fs player|no=5|pos=DF|name=[[Mats Hummels]]|age={{birth date and age2|2014|6|12|1988|12|16|df=y}}|clubnat=GER|club=[[Borussia Dortmund]]|caps=29|df=y}}
+{{nat fs player|no=6|pos=MF|name=[[Sami Khedira]]|age={{birth date and age2|2014|6|12|1987|4|4|df=y}}|clubnat=ESP|club=[[Real Madrid C.F.|Real Madrid]]|caps=45|df=y}}
+{{nat fs player|no=7|pos=MF|name=[[Bastian Schweinsteiger]]|age={{birth date and age2|2014|6|12|1984|8|1|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=101|df=y}}
+{{nat fs player|no=8|pos=MF|name=[[Mesut Özil]]|age={{birth date and age2|2014|6|12|1988|10|15|df=y}}|clubnat=ENG|club=[[Arsenal F.C.|Arsenal]]|caps=54|df=y}}
+{{nat fs player|no=9|pos=MF|name=[[André Schürrle]]|age={{birth date and age2|2014|6|12|1990|11|6|df=y}}|clubnat=ENG|club=[[Chelsea F.C.|Chelsea]]|caps=32|df=y}}
+{{nat fs player|no=10|pos=FW|name=[[Lukas Podolski]]|age={{birth date and age2|2014|6|12|1985|6|4|df=y}}|clubnat=ENG|club=[[Arsenal F.C.|Arsenal]]|caps=113|df=y}}
+{{nat fs player|no=11|pos=FW|name=[[Miroslav Klose]]|age={{birth date and age2|2014|6|12|1978|6|9|df=y}}|clubnat=ITA|club=[[S.S. Lazio|Lazio]]|caps=131|df=y}}
+{{nat fs player|no=12|pos=GK|name=[[Ron-Robert Zieler]]|age={{birth date and age2|2014|6|12|1989|2|12|df=y}}|clubnat=GER|club=[[Hannover 96]]|caps=3|df=y}}
+{{nat fs player|no=13|pos=MF|name=[[Thomas Müller]]|age={{birth date and age2|2014|6|12|1989|9|13|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=48|df=y}}
+{{nat fs player|no=14|pos=MF|name=[[Julian Draxler]]|age={{birth date and age2|2014|6|12|1993|9|20|df=y}}|clubnat=GER|club=[[FC Schalke 04|Schalke 04]]|caps=11|df=y}}
+{{nat fs player|no=15|pos=DF|name=[[Erik Durm]]|age={{birth date and age2|2014|6|12|1992|5|12|df=y}}|clubnat=GER|club=[[Borussia Dortmund]]|caps=1|df=y}}
+{{nat fs player|no=16|pos=DF|name=[[Philipp Lahm]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1983|11|11|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=105|df=y}}
+{{nat fs player|no=17|pos=DF|name=[[Per Mertesacker]]|age={{birth date and age2|2014|6|12|1984|9|29|df=y}}|clubnat=ENG|club=[[Arsenal F.C.|Arsenal]]|caps=97|df=y}}
+{{nat fs player|no=18|pos=MF|name=[[Toni Kroos]]|age={{birth date and age2|2014|6|12|1990|1|4|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=43|df=y}}
+{{nat fs player|no=19|pos=MF|name=[[Mario Götze]]|age={{birth date and age2|2014|6|12|1992|6|3|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=28|df=y}}
+{{nat fs player|no=20|pos=DF|name=[[Jérôme Boateng]]|age={{birth date and age2|2014|6|12|1988|9|3|df=y}}|clubnat=GER|club=[[FC Bayern Munich|Bayern Munich]]|caps=38|df=y}}
+{{nat fs player|no=21|pos=MF|name=[[Marco Reus]]|age={{birth date and age2|2014|6|12|1989|5|31|df=y}}|clubnat=GER|club=[[Borussia Dortmund]]|caps=20|}}
+{{nat fs player|no=22|pos=GK|name=[[Roman Weidenfeller]]|age={{birth date and age2|2014|6|12|1980|8|6|df=y}}|clubnat=GER|club=[[Borussia Dortmund]]|caps=2|df=y}}
+{{nat fs player|no=23|pos=MF|name=[[Christoph Kramer]]|age={{birth date and age2|2014|6|12|1991|2|12|df=y}}|clubnat=GER|club=[[Borussia Mönchengladbach]]|caps=2|df=y}}
+{{nat fs end}}
+
+===Ghana===
+Coach: [[James Kwesi Appiah]]
+
+The final squad announced on 1 June 2014:<ref>{{cite web|url=http://www.ghanafa.org/pages/blackstars/201406/9610.php|title=Appiah selects final 23 for World Cup|date=1 June 2014|accessdate=1 June 2014|author=|publisher=http://ghanafa.org/}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Steven Adams (footballer)|Steven Adams]]|age={{Birth date and age2|2014|6|12|1989|09|28|df=y}}|caps=7|club=[[Aduana Stars]]|clubnat=GHA}}
+{{nat fs player|no=2|pos=DF|name=[[Samuel Inkoom]]|age={{birth date and age2|2014|6|12|1989|6|1|df=y}}|caps=46|club=[[Platanias F.C.|Platanias]]|clubnat=GRE}}
+{{nat fs player|no=3|pos=FW|name=[[Asamoah Gyan]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1985|11|22|df=y}}|caps=78|club=[[Al Ain FC|Al-Ain]]|clubnat=UAE}}
+{{nat fs player|no=4|pos=DF|name=[[Daniel Opare]]|age={{Birth date and age2|2014|6|12|1990|10|18|df=y}}|caps=16|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs player|no=5|pos=MF|name=[[Michael Essien]]|age={{Birth date and age2|2014|6|12|1982|12|3|df=y}}|caps=57|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=6|pos=MF|name=[[Afriyie Acquah]]|age={{Birth date and age2|2014|6|12|1992|1|5|df=y}}|caps=4|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=MF|name=[[Christian Atsu]]|age={{Birth date and age2|2014|6|12|1992|1|10|df=y}}|caps=22|club=[[Vitesse]]|clubnat=NED}}
+{{nat fs player|no=8|pos=MF|name=[[Emmanuel Agyemang-Badu]]|age={{Birth date and age2|2014|6|12|1990|12|2|df=y}}|caps=48|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Kevin-Prince Boateng]]|age={{Birth date and age2|2014|6|12|1987|3|6|df=y}}|caps=12|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs player|no=10|pos=MF|name=[[André Ayew]]|age={{Birth date and age2|2014|6|12|1989|12|17|df=y}}|caps=48|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs player|no=11|pos=MF|name=[[Sulley Muntari]]|age={{Birth date and age2|2014|6|12|1984|8|27|df=y}}|caps=81|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs player|no=12|pos=GK|name=[[Adam Larsen Kwarasey|Adam Kwarasey]]|age={{Birth date and age2|2014|6|12|1987|12|12|df=y}}|caps=21|club=[[Strømsgodset IF|Strømsgodset]]|clubnat=NOR}}
+{{nat fs player|no=13|pos=FW|name=[[Jordan Ayew]]|age={{Birth date and age2|2014|6|12|df=yes|1991|9|11|df=y}}|caps=12|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA}}
+{{nat fs player|no=14|pos=MF|name=[[Albert Adomah]]|age={{Birth date and age2|2014|6|12|1987|12|13|df=y}}|caps=14|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=DF|name=[[Rashid Sumaila]]|age={{Birth date and age2|2014|6|12|1992|12|18|df=y}}|caps=6|club=[[Mamelodi Sundowns F.C.|Mamelodi Sundowns]]|clubnat=SAF}}
+{{nat fs player|no=16|pos=GK|name=[[Fatau Dauda]]|age={{Birth date and age2|2014|6|12|1985|4|6|df=y}}|caps=17|club=[[Orlando Pirates]]|clubnat=SAF}}
+{{nat fs player|no=17|pos=MF|name=[[Mohammed Rabiu]]|age={{Birth date and age2|2014|6|12|1989|12|31|df=y}}|caps=16|club=[[FC Kuban Krasnodar|Kuban Krasnodar]]|clubnat=RUS}}
+{{nat fs player|no=18|pos=FW|name=[[Abdul Majeed Waris|Majeed Waris]]|age={{Birth date and age2|2014|6|12|1991|9|19|df=y}}|caps=9|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=19|pos=DF|name=[[Jonathan Mensah]]|age={{birth date and age2|2014|6|12|1990|7|13|df=y}}|caps=26|club=[[Evian Thonon Gaillard F.C.|Évian]]|clubnat=FRA}}
+{{nat fs player|no=20|pos=MF|name=[[Kwadwo Asamoah]]|age={{Birth date and age2|2014|6|12|1988|12|9|df=y}}|caps=61|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs player|no=21|pos=DF|name=[[John Boye]]|age={{birth date and age2|2014|6|12|1987|4|23|df=y}}|caps=29|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs player|no=22|pos=MF|name=[[Wakaso Mubarak]]|age={{Birth date and age2|2014|6|12|1990|7|25|df=y}}|caps=16|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs player|no=23|pos=DF|name=[[Harrison Afful]]|age={{birth date and age2|2014|6|12|1986|6|24|df=y}}|caps=40|club=[[Espérance de Tunis|Espérance]]|clubnat=TUN}}
+{{nat fs end}}
+
+===Portugal===
+Coach: [[Paulo Bento]]
+
+The final squad was announced on 19 May 2014.<ref>{{cite web|url=http://www.fpf.pt/Not%C3%ADcias/Not%C3%ADcia/Id/4075/Cat/722/highlight/1/caller/56/Mundial-2014-os-23-convocados|title=Mundial-2014: os 23 convocados squad|date=19 May 2014|accessdate=19 May 2014|publisher=Federação Portuguesa de Futebol (FPF)}}</ref> The squad numbers were revealed on 24 May.<ref>{{cite web|url=http://www.fpf.pt/Not%C3%ADcias/Not%C3%ADcia/Id/4110/Cat/753/highlight/1/caller/56/Mundial-2014-numeracao-das-camisolas|title=Mundial-2014: numeração das camisolas|date=24 May 2014|accessdate=25 May 2014|publisher=Federação Portuguesa de Futebol (FPF)}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Eduardo Carvalho|Eduardo]]|age={{Birth date and age2|2014|6|12|1982|9|19|df=y}}|caps=33|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs player|no=2|pos=DF|name=[[Bruno Alves]]|age={{birth date and age2|2014|6|12|1981|11|27|df=y}}|caps=71|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=3|pos=DF|name=[[Pepe (footballer born 1983)|Pepe]]|age={{birth date and age2|2014|6|12|1983|2|26|df=y}}|caps=57|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=4|pos=MF|name=[[Miguel Veloso]]|age={{birth date and age2|2014|6|12|1986|5|11|df=y}}|caps=47|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs player|no=5|pos=DF|name=[[Fábio Coentrão]]|age={{birth date and age2|2014|6|12|1988|3|11|df=y}}|caps=43|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=6|pos=MF|name=[[William Carvalho]]|age={{Birth date and age2|2014|6|12|1992|4|7|df=y}}|caps=3|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=POR}}
+{{nat fs player|no=7|pos=FW|name=[[Cristiano Ronaldo]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1985|2|5|df=y}}|caps=110|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs player|no=8|pos=MF|name=[[João Moutinho]]|age={{birth date and age2|2014|6|12|1986|9|8|df=y}}|caps=66|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs player|no=9|pos=FW|name=[[Hugo Almeida]]|age={{birth date and age2|2014|6|12|1984|5|23|df=y}}|caps=54|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs player|no=10|pos=MF|name=[[Vieirinha]]|age={{birth date and age2|2014|6|12|1986|1|24|df=y}}|caps=7|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=11|pos=FW|name=[[Éderzito António Macedo Lopes|Éder]]|age={{birth date and age2|2014|6|12|1987|12|22|df=y}}|caps=7|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs player|no=12|pos=GK|name=[[Rui Patrício]]|age={{Birth date and age2|2014|6|12|1988|2|15|df=y}}|caps=29|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=POR}}
+{{nat fs player|no=13|pos=DF|name=[[Ricardo Costa (Portuguese footballer)|Ricardo Costa]]|age={{birth date and age2|2014|6|12|1981|5|16|df=y}}|caps=18|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=14|pos=DF|name=[[Luís Carlos Novo Neto|Luís Neto]]|age={{birth date and age2|2014|6|12|1988|5|26|df=y}}|caps=7|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=15|pos=MF|name=[[Rafael Ferreira Silva|Rafa Silva]]|age={{birth date and age2|2014|6|12|1993|5|17|df=y}}|caps=2|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs player|no=16|pos=MF|name=[[Raul Meireles]]|age={{birth date and age2|2014|6|12|1983|3|17|df=y}}|caps=73|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs player|no=17|pos=MF|name=[[Nani]]|age={{birth date and age2|2014|6|12|1986|11|17|df=y}}|caps=73|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=MF|name=[[Silvestre Varela]]|age={{birth date and age2|2014|6|12|1985|2|2|df=y}}|caps=22|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=19|pos=DF|name=[[André Almeida]]|age={{birth date and age2|2014|6|12|1990|9|10|df=y}}|caps=3|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=20|pos=MF|name=[[Rúben Amorim]]|age={{birth date and age2|2014|6|12|1985|1|27|df=y}}|caps=11|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs player|no=21|pos=DF|name=[[João Pereira (Portuguese footballer)|João Pereira]]|age={{birth date and age2|2014|6|12|1984|2|25|df=y}}|caps=35|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=22|pos=GK|name=[[Beto (Portuguese footballer born 1982)|Beto]]|age={{Birth date and age2|2014|6|12|1982|5|1|df=y}}|caps=7|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs player|no=23|pos=FW|name=[[Hélder Postiga]]|age={{birth date and age2|2014|6|12|1982|8|2|df=y}}|caps=67|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs end}}
+
+===United States===
+Coach: {{flagicon|GER}} [[Jürgen Klinsmann]]
+
+The final squad announced on 22 May 2014:<ref>{{cite web|first=CBS Sports|title=Landon Donovan left off USMNT roster for World Cup|url=http://www.cbssports.com/world-cup/eye-on-world-cup/24570202/landon-donovan-left-off-usmnt-roster-for-world-cup}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Tim Howard]]|age={{birth date and age2|2014|6|12|1979|3|6|df=y}}|caps=99|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=2|pos=DF|name=[[DeAndre Yedlin]]|age={{birth date and age2|2014|6|12|1993|7|9|df=y}}|caps=4|club=[[Seattle Sounders FC]]|clubnat=USA}}
+{{nat fs player|no=3|pos=DF|name=[[Omar Gonzalez]]|age={{birth date and age2|2014|6|12|1988|10|11|df=y}}|caps=19|club=[[Los Angeles Galaxy]]|clubnat=USA}}
+{{nat fs player|no=4|pos=MF|name=[[Michael Bradley (soccer)|Michael Bradley]]|age={{birth date and age2|2014|6|12|1987|7|31|df=y}}|caps=85|club=[[Toronto FC]]|clubnat=CAN}}
+{{nat fs player|no=5|pos=DF|name=[[Matt Besler]]|age={{birth date and age2|2014|6|12|1987|2|11|df=y}}|caps=16|club=[[Sporting Kansas City]]|clubnat=USA}}
+{{nat fs player|no=6|pos=DF|name=[[John Anthony Brooks|John Brooks]]|age={{birth date and age2|2014|6|12|1993|1|28|df=y}}|caps=4|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs player|no=7|pos=DF|name=[[DaMarcus Beasley]]|age={{birth date and age2|2014|6|12|1982|5|24|df=y}}|caps=115|club=[[Puebla F.C.|Puebla]]|clubnat=MEX}}
+{{nat fs player|no=8|pos=FW|name=[[Clint Dempsey]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1983|3|9|df=y}}|caps=104|club=[[Seattle Sounders FC]]|clubnat=USA}}
+{{nat fs player|no=9|pos=FW|name=[[Aron Jóhannsson]]|age={{birth date and age2|2014|6|12|1990|11|10|df=y}}|caps=8|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs player|no=10|pos=MF|name=[[Mikkel Diskerud]]|age={{birth date and age2|2014|6|12|1990|10|2|df=y}}|caps=19|club=[[Rosenborg BK|Rosenborg]]|clubnat=NOR}}
+{{nat fs player|no=11|pos=MF|name=[[Alejandro Bedoya]]|age={{birth date and age2|2014|6|12|1987|4|29|df=y}}|caps=27|club=[[FC Nantes|Nantes]]|clubnat=FRA}}
+{{nat fs player|no=12|pos=GK|name=[[Brad Guzan]]|age={{birth date and age2|2014|6|12|1984|9|9|df=y}}|caps=25|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=MF|name=[[Jermaine Jones]]|age={{birth date and age2|2014|6|12|1981|11|3|df=y}}|caps=41|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs player|no=14|pos=MF|name=[[Brad Davis (soccer)|Brad Davis]]|age={{birth date and age2|2014|6|12|1981|11|8|df=y}}|caps=16|club=[[Houston Dynamo]]|clubnat=USA}}
+{{nat fs player|no=15|pos=MF|name=[[Kyle Beckerman]]|age={{birth date and age2|2014|6|12|1982|4|23|df=y}}|caps=36|club=[[Real Salt Lake]]|clubnat=USA}}
+{{nat fs player|no=16|pos=MF|name=[[Julian Green]]|age={{birth date and age2|2014|6|12|1995|6|6|df=y}}|caps=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=17|pos=FW|name=[[Jozy Altidore]]|age={{birth date and age2|2014|6|12|1989|11|6|df=y}}|caps=69|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=FW|name=[[Chris Wondolowski]]|age={{birth date and age2|2014|6|12|1983|1|28|df=y}}|caps=20|club=[[San Jose Earthquakes]]|clubnat=USA}}
+{{nat fs player|no=19|pos=MF|name=[[Graham Zusi]]|age={{birth date and age2|2014|6|12|1986|8|18|df=y}}|caps=22|club=[[Sporting Kansas City]]|clubnat=USA}}
+{{nat fs player|no=20|pos=DF|name=[[Geoff Cameron]]|age={{birth date and age2|2014|6|12|1985|7|11|df=y}}|caps=26|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=DF|name=[[Timothy Chandler]]|age={{birth date and age2|2014|6|12|1990|3|29|df=y}}|caps=12|club=[[1. FC Nürnberg]]|clubnat=GER}}
+{{nat fs player|no=22|pos=GK|name=[[Nick Rimando]]|age={{birth date and age2|2014|6|12|1979|6|17|df=y}}|caps=14|club=[[Real Salt Lake]]|clubnat=USA}}
+{{nat fs player|no=23|pos=DF|name=[[Fabian Johnson]]|age={{birth date and age2|2014|6|12|1987|12|11|df=y}}|caps=21|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs end}}
+
+==Group H==
+
+===Algeria===
+Coach: {{flagicon|BIH}} [[Vahid Halilhodžić]]
+
+The final squad announced on 2 June 2014:<ref>{{cite web|url=http://www.faf.dz/article.php?a_id=5114|title=Coupe du monde, Brésil 2014: La liste des 23 algériens retenus|date=2 June 2014|accessdate=2 June 2014|publisher=http://www.faf.dz}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Cédric Si Mohamed]]|age={{birth date and age2|2014|6|12|1985|1|9|df=y}}|caps=1|club=[[CS Constantine]]|clubnat=ALG}}
+{{nat fs player|no=2|pos=DF|name=[[Madjid Bougherra]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1982|10|7|df=y}}|caps=61|club=[[Lekhwiya SC|Lekhwiya]]|clubnat=QAT}}
+{{nat fs player|no=3|pos=DF|name=[[Faouzi Ghoulam]]|age={{birth date and age2|2014|6|12|1991|2|1|df=y}}|caps=5|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=4|pos=DF|name=[[Essaïd Belkalem]]|age={{birth date and age2|2014|6|12|1989|1|1|df=y}}|caps=13|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Rafik Halliche]]|age={{birth date and age2|2014|6|12|1986|9|2|df=y}}|caps=28|club=[[Associação Académica de Coimbra – O.A.F.|Académica]]|clubnat=POR}}
+{{nat fs player|no=6|pos=DF|name=[[Djamel Mesbah]]|age={{birth date and age2|2014|6|12|1984|10|9|df=y}}|caps=26|club=[[A.S. Livorno Calcio|Livorno]]|clubnat=ITA}}
+{{nat fs player|no=7|pos=DF|name=[[Carl Medjani]]|age={{birth date and age2|2014|6|12|1985|5|15|df=y}}|caps=25|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{nat fs player|no=8|pos=MF|name=[[Hassan Yebda]]|age={{birth date and age2|2014|6|12|1984|5|14|df=y}}|caps=24|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs player|no=9|pos=FW|name=[[Nabil Ghilas]]|age={{birth date and age2|2014|6|12|1990|4|20|df=y}}|caps=5|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=10|pos=MF|name=[[Sofiane Feghouli]]|age={{birth date and age2|2014|6|12|1989|12|26|df=y}}|caps=18|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs player|no=11|pos=MF|name=[[Yacine Brahimi]]|age={{birth date and age2|2014|6|12|1990|2|8|df=y}}|caps=5|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs player|no=12|pos=MF|name=[[Medhi Lacen]]|age={{birth date and age2|2014|6|12|1984|5|15|df=y}}|caps=29|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs player|no=13|pos=FW|name=[[Islam Slimani]]|age={{birth date and age2|2014|6|12|1988|6|18|df=y}}|caps=19|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs player|no=14|pos=MF|name=[[Nabil Bentaleb]]|age={{birth date and age2|2014|6|12|1994|11|24|df=y}}|caps=2|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=15|pos=FW|name=[[El Arbi Hillel Soudani]]|age={{birth date and age2|2014|6|12|1987|11|25|df=y}}|caps=21|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs player|no=16|pos=GK|name=[[Mohamed Lamine Zemmamouche|Mohamed Zemmamouche]]|age={{birth date and age2|2014|6|12|1985|3|19|df=y}}|caps=7|club=[[USM Alger]]|clubnat=ALG}}
+{{nat fs player|no=17|pos=DF|name=[[Liassine Cadamuro-Bentaïba]]|age={{birth date and age2|2014|6|12|1988|3|5|df=y}}|caps=6|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs player|no=18|pos=MF|name=[[Abdelmoumene Djabou]]|age={{birth date and age2|2014|6|12|1987|01|31|df=y}}|caps=76|club=[[Club Africain]]|clubnat=TUN}}
+{{nat fs player|no=19|pos=MF|name=[[Saphir Sliti Taïder|Saphir Taïder]]|age={{birth date and age2|2014|6|12|1992|02|29|df=y}}|caps=10|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs player|no=20|pos=DF|name=[[Aïssa Mandi]]|age={{birth date and age2|2014|6|12|1991|10|22|df=y}}|caps=2|club=[[Stade de Reims|Reims]]|clubnat=FRA}}
+{{nat fs player|no=21|pos=MF|name=[[Riyad Mahrez]]|age={{birth date and age2|2014|6|12|1991|2|21|df=y}}|caps=1|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs player|no=22|pos=MF|name=[[Mehdi Mostefa]]|age={{birth date and age2|2014|6|12|1983|8|30|df=y}}|caps=22|club=[[AC Ajaccio|Ajaccio]]|clubnat=FRA}}
+{{nat fs player|no=23|pos=GK|name=[[Raïs M'Bolhi]]|age={{birth date and age2|2014|6|12|1986|4|25|df=y}}|caps=27|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=BUL}}
+{{nat fs end}}
+
+===Belgium===
+Coach: [[Marc Wilmots]]
+
+The final squad was announced on 2 June 2014.<ref>{{cite web|url=http://www.mundodeportivo.com/20140507/futbol/mundial/mira-las-listas-de-las-32-selecciones-participantes-en-el-mundial-de-brasil_54407666783.html|title=Mira las listas de las 32 selecciones participantes en el Mundial de Brasil|date=25 May 2014|accessdate=2 June 2014|publisher=Mundo Deportivo}}</ref> However, a medical test on 3 June showed goalkeeper [[Koen Casteels]] had not completely recovered from his tibia injury and he was replaced by [[Sammy Bossut]].<ref>[http://www.belgianfootball.be/fr/nouvelles/sammy-bossut-remplace-koen-casteels-%C3%A0-la-coupe-du-monde-au-br%C3%A9sil Sammy Bossut remplace Koen Casteels à la Coupe du Monde au Brésil]</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Thibaut Courtois]]|age={{birth date and age2|2014|6|12|1992|5|11|df=y}}|caps=16|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=2|pos=DF|name=[[Toby Alderweireld]]|age={{birth date and age2|2014|6|12|1989|3|2|df=y}}|caps=34|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs player|no=3|pos=DF|name=[[Thomas Vermaelen]]|age={{birth date and age2|2014|6|12|1985|11|14|df=y}}|caps=48|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Vincent Kompany]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1986|04|10|df=y}}|caps=59|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs player|no=5|pos=DF|name=[[Jan Vertonghen]]|age={{birth date and age2|2014|6|12|1987|4|24|df=y}}|caps=56|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=6|pos=MF|name=[[Axel Witsel]]|age={{birth date and age2|2014|6|12|1989|1|12|df=y}}|caps=48|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=7|pos=MF|name=[[Kevin De Bruyne]]|age={{birth date and age2|2014|6|12|1991|6|28|df=y}}|caps=22|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs player|no=8|pos=MF|name=[[Marouane Fellaini]]|age={{birth date and age2|2014|6|12|1987|11|22|df=y}}|caps=50|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=9|pos=FW|name=[[Romelu Lukaku]]|age={{birth date and age2|2014|6|12|1993|5|13|df=y}}|caps=29|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=10|pos=MF|name=[[Eden Hazard]]|age={{birth date and age2|2014|6|12|1991|1|7|df=y}}|caps=45|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=MF|name=[[Kevin Mirallas]]|age={{birth date and age2|2014|6|12|1987|10|5|df=y}}|caps=44|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs player|no=12|pos=GK|name=[[Simon Mignolet]]|age={{birth date and age|1988|8|6|df=y}}|caps=14|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs player|no=13|pos=GK|name=[[Sammy Bossut]]|age={{birth date and age|1985|8|11|df=y}}|caps=1|goals=0|club=[[SV Zulte Waregem|Zulte Waregem]]|clubnat=BEL}}
+{{nat fs player|no=14|pos=FW|name=[[Dries Mertens]]|age={{birth date and age2|2014|6|12|1987|5|6|df=y}}|caps=24|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs player|no=15|pos=DF|name=[[Daniel Van Buyten]]|age={{birth date and age2|2014|6|12|1978|2|7|df=y}}|caps=79|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs player|no=16|pos=MF|name=[[Steven Defour]]|age={{birth date and age2|2014|6|12|1988|4|15|df=y}}|caps=43|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs player|no=17|pos=FW|name=[[Divock Origi]]|age={{birth date and age2|2014|6|12|1995|4|18|df=y}}|caps=2|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs player|no=18|pos=DF|name=[[Nicolas Lombaerts]]|age={{birth date and age2|2014|6|12|1985|3|20|df=y}}|caps=26|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs player|no=19|pos=MF|name=[[Mousa Dembélé]]|age={{birth date and age2|2014|6|12|1987|7|16|df=y}}|caps=55|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=20|pos=MF|name=[[Adnan Januzaj]]|age={{birth date and age2|2014|6|12|1995|2|5|df=y}}|caps=1|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs player|no=21|pos=DF|name=[[Anthony Vanden Borre]]|age={{birth date and age2|2014|6|12|1987|10|24|df=y}}|caps=25|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs player|no=22|pos=MF|name=[[Nacer Chadli]]|age={{birth date and age2|2014|6|12|1989|10|2|df=y}}|caps=20|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs player|no=23|pos=DF|name=[[Laurent Ciman]]|age={{birth date and age2|2014|6|12|1985|8|5|df=y}}|caps=8|club=[[Standard Liège]]|clubnat=BEL}}
+{{nat fs end}}
+
+===Russia===
+Coach: {{flagicon|ITA}} [[Fabio Capello]]
+
+The final squad was announced on 2 June 2014. Midfielders [[Denis Cheryshev]] and [[Pavel Mogilevets]] are going to Brazil with the team as reserve players.<ref>[http://rfs.ru/main/news/national_teams/79349.html RFS.ru: Черышев и Могилевец полетят в Бразилию]</ref>
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Igor Akinfeev]]|age={{Birth date and age2|2014|6|12|1986|4|8|df=y}}|caps=67|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=2|pos=DF|name=[[Aleksei Anatolyevich Kozlov|Aleksei Kozlov]]|age={{Birth date and age2|2014|6|12|1986|11|16|df=y}}|caps=10|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=3|pos=DF|name=[[Georgi Shchennikov]]|age={{Birth date and age2|2014|6|12|1991|4|27|df=y}}|caps=3|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=4|pos=DF|name=[[Sergei Ignashevich]]|age={{Birth date and age2|2014|6|12|1979|7|14|df=y}}|caps=95|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=5|pos=DF|name=[[Andrei Sergeyevich Semyonov|Andrei Semyonov]]|age={{Birth date and age2|2014|6|12|1989|3|24|df=y}}|caps=1|club=[[FC Terek Grozny|Terek Grozny]]|clubnat=Russia}}
+{{nat fs player|no=6|pos=FW|name=[[Maksim Kanunnikov]]|age={{Birth date and age2|2014|6|12|1991|7|14|df=y}}|caps=2|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=Russia}}
+{{nat fs player|no=7|pos=MF|name=[[Igor Denisov]]|age={{Birth date and age2|2014|6|12|1984|5|17|df=y}}|caps=42|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=8|pos=MF|name=[[Denis Glushakov]]|age={{Birth date and age2|2014|6|12|1987|1|27|df=y}}|caps=26|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=Russia}}
+{{nat fs player|no=9|pos=FW|name=[[Aleksandr Kokorin]]|age={{Birth date and age2|2014|6|12|1991|3|19|df=y}}|caps=20|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=10|pos=MF|name=[[Alan Dzagoev]]|age={{Birth date and age2|2014|6|12|1990|6|17|df=y}}|caps=31|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=11|pos=FW|name=[[Aleksandr Kerzhakov]]|age={{Birth date and age2|2014|6|12|1982|11|27|df=y}}|caps=79|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=12|pos=GK|name=[[Yuri Lodygin]]|age={{Birth date and age2|2014|6|12|1990|5|26|df=y}}|caps=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=13|pos=DF|name=[[Vladimir Granat]]|age={{Birth date and age2|2014|6|12|1987|5|22|df=y}}|caps=4|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=14|pos=DF|name=[[Vasili Berezutski]]|age={{Birth date and age2|2014|6|12|1982|6|20|df=y}}|caps=77|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=15|pos=MF|name=[[Roman Shirokov]] ([[Captain (association football)|c]])|age={{Birth date and age2|2014|6|12|1981|7|6|df=y}}|caps=40|club=[[FC Krasnodar|Krasnodar]]|clubnat=Russia}}
+{{nat fs player|no=16|pos=GK|name=[[Sergey Viktorovich Ryzhikov|Sergey Ryzhikov]]|age={{Birth date and age2|2014|6|12|1980|9|19|df=y}}|caps=1|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=Russia}}
+{{nat fs player|no=17|pos=MF|name=[[Oleg Shatov]]|age={{Birth date and age2|2014|6|12|1990|7|29|df=y}}|caps=6|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=18|pos=FW|name=[[Yuri Zhirkov]]|age={{Birth date and age2|2014|6|12|1983|8|20|df=y}}|caps=59|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=19|pos=FW|name=[[Aleksandr Samedov]]|age={{Birth date and age2|2014|6|12|1984|7|19|df=y}}|caps=16|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=20|pos=MF|name=[[Viktor Fayzulin]]|age={{Birth date and age2|2014|6|12|1986|4|22|df=y}}|caps=18|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia|clubnat=Russia}}
+{{nat fs player|no=21|pos=FW|name=[[Aleksei Ionov]]|age={{Birth date and age2|2014|6|12|1989|2|18|df=y}}|caps=5|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=22|pos=DF|name=[[Andrey Yeshchenko]]|age={{Birth date and age2|2014|6|12|1984|2|9|df=y}}|caps=11|club=[[FC Anzhi Makhachkala|Anzhi Makhachkala]]|clubnat=Russia}}
+{{nat fs player|no=23|pos=DF|name=[[Dmitri Kombarov]]|age={{Birth date and age2|2014|6|12|1987|1|22|df=y}}|caps=21|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=Russia}}
+{{nat fs end}}
+
+'''Note:''' a 2012 friendly match against Lithuania, recognized by the Russian Football Union but not by FIFA,<ref>The match is not on the list of Russia's matches: [http://www.fifa.com/associations/association=rus/fixturesresults/gender=m/index.html# FIFA.com: Russia: Fixtures and Results], see April – June 2012.</ref><ref>[http://www.cissoccer.com/news/11647.html CISsoccer.com: ФИФА лишил сборную России одной игры]</ref> is not counted.
+
+===South Korea===
+Coach: [[Hong Myung-bo|Hong Myung-Bo]]
+
+The final squad announced on 8 May 2014:<ref>{{cite web|url=http://www.bbc.co.uk/sport/0/football/27321684|title=World Cup 2014: Premier League players in South Korea squad|date=8 May 2014|accessdate=8 May 2014|publisher=BBC Sport}}</ref>
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Jung Sung-ryong|Jung Sung-Ryong]]|age={{birth date and age2|2014|6|12|1985|1|4|df=y}}|caps=60|club=[[Suwon Samsung Bluewings|Suwon Bluewings]]|clubnat=KOR}}
+{{nat fs player|no=2|pos=DF|name=[[Kim Chang-soo|Kim Chang-Soo]]|age={{birth date and age2|2014|6|12|1985|9|12|df=y}}|caps=8|club=[[Kashiwa Reysol]]|clubnat=JPN}}
+{{nat fs player|no=3|pos=DF|name=[[Yun Suk-young|Yun Suk-Young]]|age={{birth date and age2|2014|6|12|1990|2|13|df=y}}|caps=3|club=[[Queens Park Rangers]]|clubnat=ENG}}
+{{nat fs player|no=4|pos=DF|name=[[Kwak Tae-hwi|Kwak Tae-Hwi]]|age={{birth date and age2|2014|6|12|1981|7|8|df=y}}|caps=34|club=[[Al-Hilal]]|clubnat=KSA}}
+{{nat fs player|no=5|pos=DF|name=[[Kim Young-gwon|Kim Young-Gwon]]|age={{birth date and age2|2014|6|12|1990|2|27|df=y}}|caps=20|club=[[Guangzhou Evergrande F.C.|Guangzhou Evergrande]]|clubnat=CHN}}
+{{nat fs player|no=6|pos=DF|name=[[Hwang Seok-ho|Hwang Seok-Ho]]|age={{birth date and age2|2014|6|12|1989|6|27|df=y}}|caps=3|club=[[Sanfrecce Hiroshima]]|clubnat=JPN}}
+{{nat fs player|no=7|pos=MF|name=[[Kim Bo-kyung|Kim Bo-Kyung]]|age={{birth date and age2|2014|6|12|1989|10|6|df=y}}|caps=27|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs player|no=8|pos=MF|name=[[Ha Dae-sung|Ha Dae-Sung]]|age={{birth date and age2|2014|6|12|1985|3|2|df=y}}|caps=13|club=[[Beijing Guoan F.C.|Beijing Guoan]]|clubnat=CHN}}
+{{nat fs player|no=9|pos=FW|name=[[Son Heung-min|Son Heung-Min]]|age={{birth date and age2|2014|6|12|1992|7|8|df=y}}|caps=24|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs player|no=10|pos=FW|name=[[Park Chu-young|Park Chu-Young]]|age={{birth date and age2|2014|6|12|1985|7|10|df=y}}|caps=63|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs player|no=11|pos=FW|name=[[Lee Keun-ho|Lee Keun-Ho]]|age={{birth date and age2|2014|6|12|1985|4|11|df=y}}|caps=63|club=[[Sangju Sangmu FC|Sangju Sangmu]]|clubnat=KOR}}
+{{nat fs player|no=12|pos=DF|name=[[Lee Yong (footballer born 1986)|Lee Yong]]|age={{birth date and age2|2014|6|12|1986|12|24|df=y}}|caps=11|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=13|pos=MF|name=[[Koo Ja-cheol|Koo Ja-Cheol]] ([[Captain (association football)|c]])|age={{birth date and age2|2014|6|12|1989|2|27|df=y}}|caps=36|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=14|pos=MF|name=[[Han Kook-young|Han Kook-Young]]|age={{birth date and age2|2014|6|12|1990|4|19|df=y}}|caps=9|club=[[Kashiwa Reysol]]|clubnat=JPN}}
+{{nat fs player|no=15|pos=MF|name=[[Park Jong-woo|Park Jong-Woo]]|age={{birth date and age2|2014|6|12|1989|3|10|df=y}}|caps=10|club=[[Guangzhou R&F F.C.|Guangzhou R&F]]|clubnat=CHN}}
+{{nat fs player|no=16|pos=MF|name=[[Ki Sung-yueng|Ki Sung-Yueng]]|age={{birth date and age2|2014|6|12|1989|1|24|df=y}}|caps=58|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=ENG}}
+{{nat fs player|no=17|pos=MF|name=[[Lee Chung-yong|Lee Chung-Yong]]|age={{birth date and age2|2014|6|12|1988|7|2|df=y}}|caps=54|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs player|no=18|pos=FW|name=[[Kim Shin-wook|Kim Shin-Wook]]|age={{birth date and age2|2014|6|12|1988|4|14|df=y}}|caps=26|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=19|pos=FW|name=[[Ji Dong-won|Ji Dong-Won]]|age={{birth date and age2|2014|6|12|1991|5|28|df=y}}|caps=27|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs player|no=20|pos=DF|name=[[Hong Jeong-ho|Hong Jeong-Ho]]|age={{birth date and age2|2014|6|12|1989|8|12|df=y}}|caps=24|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs player|no=21|pos=GK|name=[[Kim Seung-gyu|Kim Seung-Gyu]]|age={{birth date and age2|2014|6|12|1990|9|30|df=y}}|caps=5|club=[[Ulsan Hyundai FC|Ulsan Hyundai]]|clubnat=KOR}}
+{{nat fs player|no=22|pos=DF|name=[[Park Joo-ho|Park Joo-Ho]]<ref>[[Kim Jin-su|Kim Jin-Su]] was originally named in the squad but sustained an injury before the tournament. He was replaced by Park Joo-Ho. {{cite web|url=http://www.lequipe.fr/Football/Actualites/Kim-forfait-park-dans-les-23/469341|title=Kim forfait, Park dans les 23|date=29 May 2014|accessdate=30 May 2014|publisher=L'équipe|language=French}}</ref>|age={{birth date and age2|2014|6|12|1987|1|16|df=y}}|caps=13|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs player|no=23|pos=GK|name=[[Lee Bum-young|Lee Bum-Young]]|age={{birth date and age2|2014|6|12|1989|4|2|df=y}}|caps=0|club=[[Busan I'Park]]|clubnat=KOR}}
+{{nat fs end}}
+
+==Suspensions==
+The following players, if included in the final squad of their respective national teams, will be suspended for their team's first match of the tournament for infringements in their final [[2014 FIFA World Cup qualification|qualification matches]].
+
+Subject to FIFA disciplinary judgments, suspensions may be extended to more than one match.<ref>{{cite web |url=http://www.uefa.org/MultimediaFiles/Download/Tech/uefaorg/General/01/95/84/21/1958421_DOWNLOAD.pdf |title=FIFA disciplinary judgments {{en icon}}}}</ref>
+
+Should either player be omitted from their national squad, the suspension will still be considered 'served' at the tournament.<ref>[http://www.brazilworldcup2014live.com/ Suspension – FIFA {{en icon}}]</ref>{{Verify credibility|failed=y|date=May 2014}}
+
+*{{flagicon|IRN}} [[Sosha Makani]]: suspended for one match ([[2014 FIFA World Cup Group F#Iran v Nigeria|vs. Nigeria]]), for a [[Carlos Queiroz#Controversy|post-match altercation]] vs. [[South Korea national football team|South Korea]], 18 June 2013;<ref name="suspension">{{cite web|url=http://www.fifa.com/worldcup/news/newsid=2282433/index.html|title=Match suspensions to be served at the final competition of the FIFA World Cup |publisher=[[FIFA]]|date= |accessdate=24 February 2014}}</ref>
+*{{flagicon|COL}} [[Fredy Guarín]]: suspended for one match ([[2014 FIFA World Cup Group C#Colombia v Greece|vs. Greece]]), after being sent off vs. [[Paraguay national football team|Paraguay]], serious foul play (double yellow card), 15 October 2013;<ref name="suspension"/>
+*{{flagicon|CRO}} [[Mario Mandžukić]]: suspended for one match ([[2014 FIFA World Cup Group A#Brazil v Croatia|vs. Brazil]]), after being sent off vs. [[Iceland national football team|Iceland]], serious foul play, 19 November 2013;<ref name="suspension"/>
+
+==Statistics==
+===Player representation by league system===
+League systems with 20 or more players represented are listed. England includes two Premier League clubs based in Wales, [[Swansea City A.F.C.|Swansea City]] and [[Cardiff City F.C.|Cardiff City]]; the United States includes three MLS clubs based in Canada, [[Toronto FC]], [[Vancouver Whitecaps]] and [[Montreal Impact]]; and France includes one [[Ligue 1]] club based in Monaco, [[AS Monaco FC|AS Monaco]].
+
+{| class="wikitable sortable"
+|-
+!Country !! Players
+|-
+| {{flagicon|ENG}} [[English football league system|England]]|| align=center | 119
+|-
+| {{flagicon|ITA}} [[Italian football league system|Italy]] || align=center | 82
+|-
+| {{flagicon|GER}} [[German football league system|Germany]] || align=center | 79
+|-
+| {{flagicon|ESP}} [[Spanish football league system|Spain]] || align=center | 65
+|-
+| {{flagicon|FRA}} [[French football league system|France]] || align=center | 46
+|-
+| {{flagicon|RUS}} [[Russian football league system|Russia]] || align=center | 34
+|-
+| {{flagicon|MEX}} [[Mexican football league system|Mexico]]|| align=center | 26
+|-
+| {{flagicon|TUR}} [[Turkish football league system|Turkey]] || align=center | 26
+|-
+| {{flagicon|POR}} [[Portuguese football league system|Portugal]] || align=center | 22
+|-
+| {{Flagicon|USA}} [[United States soccer league system|United States]] || align=center | 21
+|-
+| {{flagicon|NED}} [[Dutch football league system|Netherlands]]|| align=center | 20 
+|}
+
+The [[Russia national football team|Russian]] squad is made up entirely of players from the country's domestic league. No country's squad was made up entirely of players employed by overseas clubs. Four squads have only one domestic-based player ([[Côte d'Ivoire national football team|Côte d'Ivoire]], [[Uruguay national football team|Uruguay]], [[Bosnia and Herzegovina national football team|Bosnia and Herzegovina]], and [[Ghana national football team|Ghana]]).
+
+===Player representation by club===
+Clubs with seven or more players represented are listed.
+{| class="wikitable sortable"
+|-
+!Club !! Players
+|-
+| {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]] || align=center | 15 
+|-
+| {{flagicon|ENG}} [[Manchester United F.C.|Manchester United]] || align=center | 14 
+|-
+| {{flagicon|ESP}} [[FC Barcelona|Barcelona]] || align=center | 13 
+|-
+| {{flagicon|ENG}} [[Chelsea F.C.|Chelsea]] || align=center | 12 
+|-
+| {{flagicon|ITA}} [[Juventus F.C.|Juventus]] || align=center | 12 
+|-
+| {{flagicon|ITA}} [[S.S.C. Napoli|Napoli]] || align=center | 12 
+|-
+| {{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]] || align=center | 12 
+|-
+| {{flagicon|ENG}} [[Arsenal F.C.|Arsenal]] || align=center | 10 
+|-
+| {{flagicon|ENG}} [[Liverpool F.C.|Liverpool]] || align=center | 10 
+|-
+| {{flagicon|ENG}} [[Manchester City F.C.|Manchester City]] || align=center | 10 
+|-
+| {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]] || align=center | 10 
+|-
+| {{flagicon|ESP}} [[Atlético Madrid]] || align=center | 9 
+|-
+| {{flagicon|POR}} [[F.C. Porto|Porto]] || align=center | 9 
+|-
+| {{flagicon|ITA}} [[Inter Milan|Internazionale]] || align=center | 8
+|-
+| {{flagicon|ITA}} [[A.C. Milan|Milan]] || align=center | 8
+|-
+| {{flagicon|RUS}} [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]] || align=center | 8
+|-
+| {{flagicon|GER}} [[Borussia Dortmund]] || align=center | 7
+|-
+| {{flagicon|RUS}} [[FC Dynamo Moscow|Dynamo Moscow]] || align=center | 7
+|-
+| {{flagicon|ITA}} [[S.S. Lazio|Lazio]] || align=center | 7
+|-
+| {{flagicon|GER}} [[FC Schalke 04|Schalke 04]] || align=center | 7
+|-
+| {{flagicon|ENG}} [[Southampton F.C.|Southampton]] || align=center | 7
+|-
+| {{flagicon|GER}} [[VfL Wolfsburg]] || align=center | 7
+
+|}
+
+===Coaches representation by country===
+Coaches in '''bold''' represent their own country.
+{| class="wikitable"
+|-
+!Nº!!Country!!Coaches
+|-
+|4||{{flagicon|GER}} Germany||[[Volker Finke]] (Cameroon), [[Ottmar Hitzfeld]] (Switzerland), [[Jürgen Klinsmann]] (United States), '''[[Joachim Löw]]'''
+|-
+|rowspan="4"|3||{{flagicon|ARG}} Argentina||[[José Pékerman]] (Colombia), '''[[Alejandro Sabella]]''', [[Jorge Sampaoli]] (Chile)
+|-
+|{{flagicon|COL}} Colombia||[[Jorge Luis Pinto]] (Costa Rica), [[Reinaldo Rueda]] (Ecuador), [[Luis Fernando Suárez]] (Honduras)
+|-
+|{{flagicon|ITA}} Italy||[[Fabio Capello]] (Russia), '''[[Cesare Prandelli]]''', [[Alberto Zaccheroni]] (Japan)
+|-
+|{{flagicon|POR}} Portugal||'''[[Paulo Bento]]''', [[Carlos Queiroz]] (Iran), [[Fernando Santos (Portuguese footballer)|Fernando Santos]] (Greece) 
+|-
+|rowspan="2"|2||{{flagicon|BIH}} Bosnia and Herzegovina||[[Vahid Halilhodžić]] (Algeria), '''[[Safet Sušić]]'''
+|-
+|{{flagicon|FRA}} France||'''[[Didier Deschamps]]''', [[Sabri Lamouchi]] (Côte d'Ivoire)
+|-
+|rowspan="12"|1||{{flagicon|AUS}} Australia||'''[[Ange Postecoglou]]'''
+|-
+|{{flagicon|BEL}} Belgium||'''[[Marc Wilmots]]'''
+|-
+|{{flagicon|BRA}} Brazil||'''[[Luiz Felipe Scolari]]'''
+|-
+|{{flagicon|CRO}} Croatia||'''[[Niko Kovač]]'''
+|-
+|{{flagicon|ENG}} England||'''[[Roy Hodgson]]'''
+|-
+|{{flagicon|GHA}} Ghana||'''[[James Kwesi Appiah]]'''
+|-
+|{{flagicon|KOR}} Korea Republic||'''[[Hong Myung-Bo]]'''
+|-
+|{{flagicon|MEX}} Mexico||'''[[Miguel Herrera]]'''
+|-
+|{{flagicon|NED}} Netherlands||'''[[Louis van Gaal]]'''
+|-
+|{{flagicon|NGA}} Nigeria||'''[[Stephen Keshi]]'''
+|-
+|{{flagicon|ESP}} Spain||'''[[Vicente del Bosque]]'''
+|-
+|{{flagicon|URU}} Uruguay||'''[[Óscar Tabárez]]'''
+|}
+
+==See also==
+* [[2010 FIFA World Cup squads]]
+
+==References==
+{{reflist|3}}
+
+==External links==
+* {{Official website|http://www.fifa.com/worldcup/index.html}}
+
+{{2014 FIFA World Cup}}
+{{FIFA World Cup}}
+
+[[Category:2014 FIFA World Cup|Squads]]
+[[Category:FIFA World Cup squads]]

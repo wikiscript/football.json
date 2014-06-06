@@ -1,0 +1,1088 @@
+<!-- 
+     source: en.wikipedia.org/wiki/2006_FIFA_World_Cup_squads
+     added:  Jun/6 2014
+  -->
+
+<!-- Before editing please refer to the talk page to check upon the agreement reached regarding players' clubs-->
+This article lists the confirmed national [[association football|football]] squads for the [[2006 FIFA World Cup]] tournament held in Germany, between 9 June and 9 July 2006. Before announcing their final squad, several teams named a provisional squad of 23 to 33 players, but each country's final squad of 23 players had to be submitted by 15 May 2006. Replacement of injured players was permitted until 24 hours before the team's first World Cup game. Players marked ([[Captain (association football)|c]]) were named as captain for their national squad. Number of caps counts until the start of the World Cup, including all pre-tournament friendlies. Club information is that used by FIFA.<ref>{{cite web |title=2006 FIFA World Cup Germany – Teams |url=http://www.fifa.com/worldcup/archive/germany2006/teams/index.html |work=FIFA.com |publisher=Fédération Internationale de Football Association |accessdate=24 May 2006 }}</ref> Players for whom this information changed during or in the run up to the tournament are indicated by footnotes.
+
+==Group A==
+
+===Costa Rica===
+Head coach: {{flagicon|BRA}} [[Alexandre Guimarães]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Álvaro Mesén]]|age={{birth date and age2|df=y|2006|6|9|1972|12|24}}|caps=38|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC}}
+{{National football squad player|no=2|pos=DF|name=[[Jervis Drummond]]|age={{birth date and age2|df=y|2006|6|9|1976|9|8}}|caps=56|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=3|pos=DF|name=[[Luis Marín]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1974|8|10}}|caps=120|club=[[LD Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{National football squad player|no=4|pos=DF|name=[[Michael Umaña]]|age={{birth date and age2|df=y|2006|6|9|1982|7|16}}|caps=18|club=[[Brujas F.C.|Brujas]]|clubnat=CRC}}
+{{National football squad player|no=5|pos=DF|name=[[Gilberto Martínez]]|age={{birth date and age2|df=y|2006|6|9|1979|10|1}}|caps=57|club=[[Brescia Calcio|Brescia]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=MF|name=[[Danny Fonseca]]|age={{birth date and age2|df=y|2006|6|9|1979|11|7}}|caps=22|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{National football squad player|no=7|pos=MF|name=[[Christian Bolaños]]|age={{birth date and age2|df=y|2006|6|9|1984|5|17}}|caps=16|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=8|pos=MF|name=[[Mauricio Solís]]|age={{birth date and age2|df=y|2006|6|9|1972|12|13}}|caps=107|club=[[CSD Comunicaciones]]|clubnat=GUA}}
+{{National football squad player|no=9|pos=FW|name=[[Paulo Wanchope]]|age={{birth date and age2|df=y|2006|6|9|1976|7|31}}|caps=69|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC}}
+{{National football squad player|no=10|pos=MF|name=[[Walter Centeno]]|age={{birth date and age2|df=y|2006|6|9|1974|10|6}}|caps=93|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=11|pos=FW|name=[[Rónald Gómez]]|age={{birth date and age2|df=y|2006|6|9|1975|1|21}}|caps=80|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=12|pos=DF|name=[[Leonardo González]]|age={{birth date and age2|df=y|2006|6|9|1980|11|21}}|caps=36|club=[[Club Sport Herediano|Herediano]]|clubnat=CRC}}
+{{National football squad player|no=13|pos=FW|name=[[Kurt Bernard]]|age={{birth date and age2|df=y|2006|6|9|1977|8|8}}|caps=3|club=[[Puntarenas F.C.|Puntarenas]]|clubnat=CRC}}
+{{National football squad player|no=14|pos=MF|name=[[Randall Azofeifa]]|age={{birth date and age2|df=y|2006|6|9|1984|12|30}}|caps=5|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=15|pos=DF|name=[[Harold Wallace]]|age={{birth date and age2|df=y|2006|6|9|1975|9|7}}|caps=78|club=[[LD Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{National football squad player|no=16|pos=MF|name=[[Carlos Hernández Valverde|Carlos Hernández]]|age={{birth date and age2|df=y|2006|6|9|1982|4|9}}|caps=17|club=[[LD Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{National football squad player|no=17|pos=DF|name=[[Gabriel Badilla]]|age={{birth date and age2|df=y|2006|6|9|1984|6|30}}|caps=7|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=18|pos=GK|name=[[José Porras]]|age={{birth date and age2|df=y|2006|6|9|1970|11|8}}|caps=16|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=19|pos=FW|name=[[Álvaro Saborío]]|age={{birth date and age2|df=y|2006|6|9|1982|3|25}}|caps=23|club=[[Deportivo Saprissa]]|clubnat=CRC}}
+{{National football squad player|no=20|pos=MF|name=[[Douglas Sequeira]]|age={{birth date and age2|df=y|2006|6|9|1977|8|23}}|caps=29|club=[[Real Salt Lake]]|clubnat=USA}}
+{{National football squad player|no=21|pos=FW|name=[[Victor Núñez]]|age={{birth date and age2|df=y|2006|6|9|1980|4|15}}|caps=3|club=[[C.S. Cartaginés|Cartaginés]]|clubnat=CRC}}
+{{National football squad player|no=22|pos=DF|name=[[Michael Rodríguez]]|age={{birth date and age2|df=y|2006|6|9|1981|12|30}}|caps=3|club=[[LD Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{National football squad player|no=23|pos=GK|name=[[Wardy Alfaro]]|age={{birth date and age2|df=y|2006|6|9|1977|12|31}}|caps=2|club=[[LD Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{National football squad end}}
+
+===Ecuador===
+Head coach: {{flagicon|COL}} [[Luis Fernando Suárez]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Edwin Villafuerte]]|age={{birth date and age2|df=y|2006|6|9|1979|3|12}}|caps=15|club=[[Sociedad Deportivo Quito|Deportivo Quito]]|clubnat=ECU}}
+{{National football squad player|no=2|pos=DF|name=[[Jorge Guagua]]|age={{birth date and age2|df=y|2006|6|9|1981|9|28}}|caps=18|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}
+{{National football squad player|no=3|pos=DF|name=[[Iván Hurtado]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1974|8|16}}|caps=130|club=[[Al-Arabi SC (Qatar)|Al-Arabi]]|clubnat=QAT}}
+{{National football squad player|no=4|pos=DF|name=[[Ulises de la Cruz]]|age={{birth date and age2|df=y|2006|6|9|1974|2|8}}|caps=84|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=DF|name=[[José Luis Perlaza]]|age={{birth date and age2|df=y|2006|6|9|1981|10|6}}|caps=3|club=[[Centro Deportivo Olmedo|Olmedo]]|clubnat=ECU}}
+{{National football squad player|no=6|pos=MF|name=[[Patricio Urrutia]]|age={{birth date and age2|df=y|2006|6|9|1977|10|15}}|caps=6|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=7|pos=MF|name=[[Christian Lara (footballer)|Christian Lara]]|age={{birth date and age2|df=y|2006|6|9|1980|4|27}}|caps=19|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}
+{{National football squad player|no=8|pos=MF|name=[[Edison Méndez]]|age={{birth date and age2|df=y|2006|6|9|1979|3|16}}|caps=64|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=9|pos=FW|name=[[Félix Borja]]|age={{birth date and age2|df=y|2006|6|9|1983|4|2}}|caps=6|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}<ref>Borja joined [[Olympiacos F.C.|Olympiacos]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=417936.html|title=Olympiacos sign Ecuador striker|work=UEFA|publisher=Union of European Football Associations|date=1 May 2006|accessdate=18 June 2006}}</ref>
+{{National football squad player|no=10|pos=FW|name=[[Iván Kaviedes]]|age={{birth date and age2|df=y|2006|6|9|1977|10|24}}|caps=44|club=[[Argentinos Juniors]]|clubnat=ARG}}
+{{National football squad player|no=11|pos=FW|name=[[Agustín Delgado]]|age={{birth date and age2|df=y|2006|6|9|1974|12|23}}|caps=68|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=12|pos=GK|name=[[Cristian Mora]]|age={{birth date and age2|df=y|2006|6|9|1979|8|26}}|caps=8|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=13|pos=DF|name=[[Paul Ambrosi]]|age={{birth date and age2|df=y|2006|6|9|1980|10|14}}|caps=24|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=14|pos=MF|name=[[Segundo Castillo]]|age={{birth date and age2|df=y|2006|6|9|1982|5|15}}|caps=11|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}
+{{National football squad player|no=15|pos=MF|name=[[Marlon Ayoví]]|age={{birth date and age2|df=y|2006|6|9|1971|8|27}}|caps=74|club=[[Sociedad Deportivo Quito|Deportivo Quito]]|clubnat=ECU}}
+{{National football squad player|no=16|pos=MF|name=[[Antonio Valencia]]|age={{birth date and age2|df=y|2006|6|9|1985|8|4}}|caps=17|club=[[Recreativo de Huelva|Recreativo]]|clubnat=ESP}}<ref>Valencia was on loan to [[Recreativo de Huelva|Recreativo Huelva]] in the run up to the tournament. {{cite web|url=http://fifaworldcup.yahoo.com/06/en/w/player/202544_VALENCIA_Luis.html|title=Luis Valencia|work=Official FIFA World Cup website|accessdate=18 June 2006| archiveurl= http://web.archive.org/web/20060618090441/http://fifaworldcup.yahoo.com/06/en/w/player/202544_VALENCIA_Luis.html| archivedate= 18 June 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=17|pos=DF|name=[[Giovanny Espinoza]]|age={{birth date and age2|df=y|2006|6|9|1977|4|12}}|caps=56|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}
+{{National football squad player|no=18|pos=DF|name=[[Néicer Reasco]]|age={{birth date and age2|df=y|2006|6|9|1977|7|23}}|caps=31|club=[[Liga Deportiva Universitaria de Quito|LDU Quito]]|clubnat=ECU}}<ref>Reasco has agreed to join [[São Paulo FC|São Paulo]] after the tournament. {{cite web|url=http://fifaworldcup.yahoo.com/06/en/w/player/178841_REASCO_Neicer.html|title=Neicer Reasco|work=Official FIFA World Cup website|accessdate=18 June 2006| archiveurl= http://web.archive.org/web/20060618090404/http://fifaworldcup.yahoo.com/06/en/w/player/178841_REASCO_Neicer.html| archivedate= 18 June 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=19|pos=MF|name=[[Luis Saritama]]|age={{birth date and age2|df=y|2006|6|9|1983|10|20}}|caps=15|club=[[Sociedad Deportivo Quito|Deportivo Quito]]|clubnat=ECU}}
+{{National football squad player|no=20|pos=MF|name=[[Edwin Tenorio]]|age={{birth date and age2|df=y|2006|6|9|1976|6|16}}|caps=68|club=[[Barcelona Sporting Club|Barcelona]]|clubnat=ECU}}
+{{National football squad player|no=21|pos=FW|name=[[Carlos Tenorio]]|age={{birth date and age2|df=y|2006|6|9|1979|5|14}}|caps=29|club=[[Al Sadd|Al-Sadd]]|clubnat=QAT}}
+{{National football squad player|no=22|pos=GK|name=[[Damián Lanza]]|age={{birth date and age2|df=y|2006|6|9|1982|4|10}}|caps=5|club=[[Sociedad Deportiva Aucas|Aucas]]|clubnat=ECU}}
+{{National football squad player|no=23|pos=FW|name=[[Christian Benítez]]|age={{birth date and age2|df=y|2006|6|9|1986|5|1}}|caps=5|club=[[Club Deportivo El Nacional|El Nacional]]|clubnat=ECU}}
+{{National football squad end}}
+
+===Germany===
+Head coach: [[Jürgen Klinsmann]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Jens Lehmann]]|age={{birth date and age2|df=y|2006|6|9|1969|11|10}}|caps=32|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=2|pos=DF|name=[[Marcell Jansen]]|age={{birth date and age2|df=y|2006|6|9|1985|11|4}}|caps=7|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{National football squad player|no=3|pos=DF|name=[[Arne Friedrich]]|age={{birth date and age2|df=y|2006|6|9|1979|5|29}}|caps=36|club=[[Hertha BSC]]|clubnat=GER}}
+{{National football squad player|no=4|pos=DF|name=[[Robert Huth]]|age={{birth date and age2|df=y|2006|6|9|1984|8|18}}|caps=16||club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=MF|name=[[Sebastian Kehl]]|age={{birth date and age2|df=y|2006|6|9|1980|2|13}}|caps=27|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad player|no=6|pos=DF|name=[[Jens Nowotny]]|age={{birth date and age2|df=y|2006|6|9|1974|1|11}}|caps=46|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=7|pos=MF|name=[[Bastian Schweinsteiger]]|age={{birth date and age2|df=y|2006|6|9|1984|8|1}}|caps=28|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=8|pos=MF|name=[[Torsten Frings]]|age={{birth date and age2|df=y|2006|6|9|1976|11|22}}|caps=52|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{National football squad player|no=9|pos=FW|name=[[Mike Hanke]]|age={{birth date and age2|df=y|2006|6|9|1983|11|5}}|caps=6|club=[[VfL Wolfsburg|Wolfsburg]]|clubnat=GER}}
+{{National football squad player|no=10|pos=FW|name=[[Oliver Neuville]]|age={{birth date and age2|df=y|2006|6|9|1973|5|1}}|caps=55|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{National football squad player|no=11|pos=FW|name=[[Miroslav Klose]]|age={{birth date and age2|df=y|2006|6|9|1978|6|9}}|caps=55|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{National football squad player|no=12|pos=GK|name=[[Oliver Kahn]]|age={{birth date and age2|df=y|2006|6|9|1969|6|15}}|caps=85|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=13|pos=MF|name=[[Michael Ballack]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1976|9|26}}|caps=65|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}<ref>Ballack has agreed to join [[Chelsea F.C.|Chelsea]] when his contract with Bayern Munich expires on 1 July. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=421515.html|title=Ballack cheered by Chelsea challenge|work=UEFA|publisher=Union of European Football Associations|date=15 May 2006|accessdate=18 June 2006| archiveurl= http://web.archive.org/web/20060526084435/http://www.uefa.com/footballeurope/news/Kind=2/newsId=421515.html| archivedate= 26 May 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=14|pos=FW|name=[[Gerald Asamoah]]|age={{birth date and age2|df=y|2006|6|9|1978|10|3}}|caps=40|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{National football squad player|no=15|pos=MF|name=[[Thomas Hitzlsperger]]|age={{birth date and age2|df=y|2006|6|9|1982|4|5}}|caps=15|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{National football squad player|no=16|pos=DF|name=[[Philipp Lahm]]|age={{birth date and age2|df=y|2006|6|9|1983|11|11}}|caps=18|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=17|pos=DF|name=[[Per Mertesacker]]|age={{birth date and age2|df=y|2006|6|9|1984|9|29}}|caps=23|club=[[Hannover 96]]|clubnat=GER}}
+{{National football squad player|no=18|pos=MF|name=[[Tim Borowski]]|age={{birth date and age2|df=y|2006|6|9|1980|5|2}}|caps=20|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{National football squad player|no=19|pos=MF|name=[[Bernd Schneider (footballer)|Bernd Schneider]]|age={{birth date and age2|df=y|2006|6|9|1973|11|17}}|caps=64|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=20|pos=FW|name=[[Lukas Podolski]]|age={{birth date and age2|df=y|2006|6|9|1985|6|4}}|caps=25|club=[[1. FC Köln|Köln]]|clubnat=GER}}<ref>[[1. FC Köln|FC Köln]] chairman [[Wolfgang Overath]] has confirmed that Podolski will play for [[FC Bayern Munich|Bayern Munich]] in the upcoming season. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=426637.html|title=Podolski ready to join Bayern|work=UEFA|publisher=Union of European Football Associations|date=1 June 2006|accessdate=18 June 2006| archiveurl= http://web.archive.org/web/20060626100359/http://www.uefa.com/footballeurope/news/Kind=2/newsId=426637.html| archivedate= 26 June 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=21|pos=DF|name=[[Christoph Metzelder]]|age={{birth date and age2|df=y|2006|6|9|1980|11|5}}|caps=22|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad player|no=22|pos=MF|name=[[David Odonkor]]|age={{birth date and age2|df=y|2006|6|9|1984|2|21}}|caps=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad player|no=23|pos=GK|name=[[Timo Hildebrand]]|age={{birth date and age2|df=y|2006|6|9|1979|4|5}}|caps=3|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{National football squad end}}
+
+===Poland===
+Head coach: [[Paweł Janas]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Artur Boruc]]|age={{birth date and age2|df=y|2006|6|9|1980|2|20}}|caps=17|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{National football squad player|no=2|pos=DF|name=[[Mariusz Jop]]|age={{birth date and age2|df=y|2006|6|9|1978|8|3}}|caps=12|club=[[FC Moscow]]|clubnat=RUS}}
+{{National football squad player|no=3|pos=DF|name=[[Seweryn Gancarczyk]]|age={{birth date and age2|df=y|2006|6|9|1981|11|22}}|caps=2|club=[[FC Metalist Kharkiv|Metalist Kharkiv]]|clubnat=UKR}}
+{{National football squad player|no=4|pos=DF|name=[[Marcin Baszczyński]]|age={{birth date and age2|df=y|2006|6|9|1977|6|7}}|club=[[Wisła Kraków]]|clubnat=POL|caps=32}}
+{{National football squad player|no=5|pos=FW|name=[[Kamil Kosowski]]|age={{birth date and age2|df=y|2006|6|9|1977|8|30}}|caps=45|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=GER}}<ref>Kosowski was on loan to [[Southampton F.C.|Southampton]] in the run-up to the tournament. He became a [[free agent (football)|free agent]] after the tournament. {{cite web|url=http://www.football.co.uk/southampton/kosowski_wants_last_farewell_226556.shtml|title=Kosowski wants last farewell|work=football.co.uk|date=25 April 2006|accessdate=18 June 2006| archiveurl= http://web.archive.org/web/20060512215437/http://www.football.co.uk/southampton/kosowski_wants_last_farewell_226556.shtml| archivedate= 12 May 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=6|pos=DF|name=[[Jacek Bąk]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|3|24}}|caps=72|club=[[Al Rayyan Sports Club|Al-Rayyan]]|clubnat=QAT}}<ref>Bak became a [[Free agent (football)|free agent]] after the tournament.</ref>
+{{National football squad player|no=7|pos=MF|name=[[Radosław Sobolewski]]|age={{birth date and age2|df=y|2006|6|9|1976|12|13}}|caps=19|club=[[Wisła Kraków]]|clubnat=POL}}
+{{National football squad player|no=8|pos=MF|name=[[Jacek Krzynówek]]|age={{birth date and age2|df=y|2006|6|9|1976|5|15}}|caps=58|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}<ref>Krzynówek joined [[VfL Wolfsburg|Wolfsburg]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=422041.html|title=Leverkusen capture Swiss starlet|work=UEFA|publisher=Union of European Football Associations|date=16 May 2006|accessdate=21 June 2006}}</ref>
+{{National football squad player|no=9|pos=FW|name=[[Maciej Żurawski]]|age={{birth date and age2|df=y|2006|6|9|1976|9|12}}|caps=50|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{National football squad player|no=10|pos=MF|name=[[Mirosław Szymkowiak]]|age={{birth date and age2|df=y|2006|6|9|1976|11|12}}|caps=29|club=[[Trabzonspor]]|clubnat=TUR}}
+{{National football squad player|no=11|pos=FW|name=[[Grzegorz Rasiak]]|age={{birth date and age2|df=y|2006|6|9|1979|1|12}}|caps=30|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}<ref>Rasiak has spent the run-up of the World Cup on loan to [[Southampton F.C.|Southampton]], and joined the club permanently after the tournament {{cite web|url=http://www.uefa.com/competitions/WorldCup/news/Kind=1/newsId=418166.html|title=Poland looking to add extra polish|work=UEFA|publisher=Union of European Football Associations|date=2 May 2006|accessdate=21 June 2006| archiveurl= http://web.archive.org/web/20060526201942/http://www.uefa.com/competitions/WorldCup/news/Kind=1/newsId=418166.html| archivedate= 26 May 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=12|pos=GK|name=[[Tomasz Kuszczak]]|age={{birth date and age2|df=y|2006|6|9|1982|3|23}}|caps=4|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{National football squad player|no=13|pos=MF|name=[[Sebastian Mila]]|age={{birth date and age2|df=y|2006|6|9|1982|7|10}}|caps=27|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{National football squad player|no=14|pos=DF|name=[[Michał Żewłakow]]|age={{birth date and age2|df=y|2006|6|9|1976|4|22}}|caps=56|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}<ref>Żewłakow joined [[Olympiacos F.C.|Olympiacos]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=390051.html|title=Iuliano returns to Italy|work=UEFA|publisher=Union of European Football Associations|date=30 January 2006|accessdate=21 June 2006}}</ref>
+{{National football squad player|no=15|pos=FW|name=[[Euzebiusz Smolarek]]|age={{birth date and age2|df=y|2006|6|9|1981|1|9}}|caps=13|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad player|no=16|pos=MF|name=[[Arkadiusz Radomski]]|age={{birth date and age2|df=y|2006|6|9|1977|6|27}}|caps=20|club=[[FK Austria Wien|Austria Vienna]]|clubnat=AUT}}
+{{National football squad player|no=17|pos=MF|name=[[Dariusz Dudka]]|age={{birth date and age2|df=y|2006|6|9|1983|12|9}}|caps=7|club=[[Wisła Kraków]]|clubnat=POL}}
+{{National football squad player|no=18|pos=DF|name=[[Mariusz Lewandowski]]|age={{birth date and age2|df=y|2006|6|9|1979|5|18}}|caps=25|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=19|pos=DF|name=[[Bartosz Bosacki]]|age={{birth date and age2|df=y|2006|6|9|1975|12|20}}|caps=11|club=[[Lech Poznań]]|clubnat=POL}}<ref>Bosacki was called up after [[Damian Gorawski]] sustained an injury and had to withdraw from the squad {{cite web|url=http://fifaworldcup.yahoo.com/06/en/060608/1/76z7.html|title=Injuries spell late squad changes|work=Official FIFA World Cup website|date=8 June 2006|accessdate=21 June 2006| archiveurl= http://web.archive.org/web/20060628233920/http://fifaworldcup.yahoo.com/06/en/060608/1/76z7.html| archivedate= 28 June 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=20|pos=MF|name=[[Piotr Giza]]|age={{birth date and age2|df=y|2006|6|9|1980|2|28}}|caps=4|club=[[Cracovia (football club)|Cracovia]]|clubnat=POL}}
+{{National football squad player|no=21|pos=FW|name=[[Ireneusz Jeleń]]|age={{birth date and age2|df=y|2006|6|9|1981|4|9}}|caps=9|club=[[Wisła Płock]]|clubnat=POL}}
+{{National football squad player|no=22|pos=GK|name=[[Łukasz Fabiański]]|age={{birth date and age2|df=y|2006|6|9|1985|4|18}}|caps=2|club=[[Legia Warszawa]]|clubnat=POL}}
+{{National football squad player|no=23|pos=FW|name=[[Paweł Brożek]]|age={{birth date and age2|df=y|2006|6|9|1983|4|21}}|caps=4|club=[[Wisła Kraków]]|clubnat=POL}}
+{{National football squad end}}
+
+==Group B==
+
+===England===
+Head coach: {{flagicon|SWE}} [[Sven-Göran Eriksson]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Paul Robinson (goalkeeper)|Paul Robinson]]|age={{birth date and age2|df=y|2006|6|9|1979|10|15}}|caps=21|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{National football squad player|no=2|pos=DF|name=[[Gary Neville]]|age={{birth date and age2|df=y|2006|6|9|1975|2|18}}|caps=79|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Ashley Cole]]|age={{birth date and age2|df=y|2006|6|9|1980|12|20}}|caps=46|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=4|pos=MF|name=[[Steven Gerrard]]|age={{birth date and age2|df=y|2006|6|9|1980|5|30}}|caps=42|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=DF|name=[[Rio Ferdinand]]|age={{birth date and age2|df=y|2006|6|9|1978|11|7}}|caps=47|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=6|pos=DF|name=[[John Terry]]|age={{birth date and age2|df=y|2006|6|9|1980|12|7}}|caps=24|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=7|pos=MF|name=[[David Beckham]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1975|5|2}}|caps=89|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=8|pos=MF|name=[[Frank Lampard]]|age={{birth date and age2|df=y|2006|6|9|1978|6|20}}|caps=40|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=9|pos=FW|name=[[Wayne Rooney]]|age={{birth date and age2|df=y|2006|6|9|1985|10|24}}|caps=29|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=10|pos=FW|name=[[Michael Owen]]|age={{birth date and age2|df=y|2006|6|9|1979|12|14}}|caps=77|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{National football squad player|no=11|pos=MF|name=[[Joe Cole]]|age={{birth date and age2|df=y|2006|6|9|1981|11|8}}|caps=32|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=DF|name=[[Sol Campbell]]|age={{birth date and age2|df=y|2006|6|9|1974|9|18}}|caps=68|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=13|pos=GK|name=[[David James (footballer)|David James]]|age={{birth date and age2|df=y|2006|6|9|1970|8|1}}|caps=34|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{National football squad player|no=14|pos=DF|name=[[Wayne Bridge]]|age={{birth date and age2|df=y|2006|6|9|1980|8|5}}|caps=23|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}<ref>Bridge was on loan to [[Fulham F.C.|Fulham]] in the run up to the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=400057.html|title=Nélson fit for Mersey mission|work=UEFA|publisher=Union of European Football Associations|date=2 March 2006|accessdate=21 June 2006| archiveurl= http://web.archive.org/web/20060525131753/http://www.uefa.com/footballeurope/news/Kind=2/newsId=400057.html| archivedate= 25 May 2006 <!--DASHBot-->| deadurl= no}}</ref>
+{{National football squad player|no=15|pos=DF|name=[[Jamie Carragher]]|age={{birth date and age2|df=y|2006|6|9|1978|1|28}}|caps=25|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=MF|name=[[Owen Hargreaves]]|age={{birth date and age2|df=y|2006|6|9|1981|1|20}}|caps=30|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=17|pos=MF|name=[[Jermaine Jenas]]|age={{birth date and age2|df=y|2006|6|9|1983|2|18}}|caps=15|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{National football squad player|no=18|pos=MF|name=[[Michael Carrick]]|age={{birth date and age2|df=y|2006|6|9|1981|7|28}}|caps=6|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{National football squad player|no=19|pos=MF|name=[[Aaron Lennon]]|age={{birth date and age2|df=y|2006|6|9|1987|4|16}}|caps=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{National football squad player|no=20|pos=MF|name=[[Stewart Downing]]|age={{birth date and age2|df=y|2006|6|9|1984|7|22}}|caps=2|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{National football squad player|no=21|pos=FW|name=[[Peter Crouch]]|age={{birth date and age2|df=y|2006|6|9|1981|1|30}}|caps=7|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=22|pos=GK|name=[[Scott Carson]]|age={{birth date and age2|df=y|2006|6|9|1985|9|3}}|caps=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}<ref>Carson has spent the run-up of the tournament on loan to [[Sheffield Wednesday F.C.|Sheffield Wednesday]]. {{cite web|url=http://www.thefa.com/England/SeniorTeam/Players/Postings/2005/05/ScottCarson_profile.htm|title=Scott Carson, Liverpool|work=[[The Football Association]] official website|accessdate=21 June 2006|archiveurl = http://web.archive.org/web/20080709025959/http://www.thefa.com/England/SeniorTeam/Players/Postings/2005/05/ScottCarson_profile.htm |archivedate = 9 July 2008|deadurl=yes}}</ref>
+{{National football squad player|no=23|pos=FW|name=[[Theo Walcott]]|age={{birth date and age2|df=y|2006|6|9|1989|3|16}}|caps=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad end}}
+
+===Paraguay===
+Head coach: {{flagicon|URU}} [[Aníbal Ruiz]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Justo Villar]]|age={{birth date and age2|df=y|2006|6|9|1977|6|30}}|caps=39|club=[[Newell's Old Boys]]|clubnat=ARG}}
+{{National football squad player|no=2|pos=DF|name=[[Jorge Martín Núñez|Jorge Núñez]]|age={{birth date and age2|df=y|2006|6|9|1978|1|22}}|caps=15|club=[[Estudiantes de La Plata]]|clubnat=ARG}}
+{{National football squad player|no=3|pos=DF|name=[[Delio Toledo]]|age={{birth date and age2|df=y|2006|6|9|1974|2|10}}|caps=30|club=[[Real Zaragoza]]|clubnat=ESP}}
+{{National football squad player|no=4|pos=DF|name=[[Carlos Gamarra]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1971|2|17}}|caps=106|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{National football squad player|no=5|pos=DF|name=[[Julio César Cáceres]]|age={{birth date and age2|df=y|2006|6|9|1979|10|5}}|caps=32|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{National football squad player|no=6|pos=MF|name=[[Carlos Bonet]]|age={{birth date and age2|df=y|2006|6|9|1977|10|2}}|caps=29|club=[[Club Libertad|Libertad]]|clubnat=PRY}}
+{{National football squad player|no=7|pos=FW|name=[[Salvador Cabañas]]|age={{birth date and age2|df=y|2006|6|9|1980|8|5}}|caps=15|club=[[Chiapas F.C.|Jaguares]]<ref>[[Salvador Cabañas]] joined [[Club América]] after the tournament. {{cite web|url=http://www.chron.com/disp/story.mpl/sports/soc/3949034.html|title=América returns to Houston|work=Houston Chronicle |date=8 June 2006|accessdate=21 June 2006}}</ref>|clubnat=MEX}}
+{{National football squad player|no=8|pos=MF|name=[[Edgar Barreto]]|age={{birth date and age2|df=y|2006|6|9|1984|7|15}}|caps=15|club=[[NEC Nijmegen|NEC]]|clubnat=NED}}
+{{National football squad player|no=9|pos=FW|name=[[Roque Santa Cruz]]|age={{birth date and age2|df=y|2006|6|9|1981|8|16}}|caps=42|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=10|pos=MF|name=[[Roberto Acuña]]|age={{birth date and age2|df=y|2006|6|9|1972|3|25}}|caps=93|club=[[Deportivo de La Coruña|Deportivo La Coruña]]|clubnat=ESP}}
+{{National football squad player|no=11|pos=MF|name=[[Diego Gavilán]]|age={{birth date and age2|df=y|2006|6|9|1980|3|1}}|caps=39|club=[[Newell's Old Boys]]|clubnat=ARG}}
+{{National football squad player|no=12|pos=GK|name=[[Derlis Gómez]]|age={{birth date and age2|df=y|2006|6|9|1972|11|12}}|caps=5|club=[[Club Sportivo Luqueño|Sportivo Luqueño]]|clubnat=PAR}}
+{{National football squad player|no=13|pos=MF|name=[[Carlos Humberto Paredes|Carlos Paredes]]|age={{birth date and age2|df=y|2006|6|9|1976|7|16}}|caps=68|club=[[Reggina Calcio|Reggina]]|clubnat=ITA}}<ref>Carlos Paredes joined [[Sporting Clube de Portugal|Sporting CP]] after the tournament.</ref>
+{{National football squad player|no=14|pos=DF|name=[[Paulo da Silva]]|age={{birth date and age2|df=y|2006|6|9|1980|2|1}}|caps=33|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{National football squad player|no=15|pos=DF|name=[[Julio César Manzur]]|age={{birth date and age2|df=y|2006|6|9|1981|6|22}}|caps=13|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{National football squad player|no=16|pos=MF|name=[[Cristian Riveros]]|age={{birth date and age2|df=y|2006|6|9|1982|10|16}}|caps=9|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{National football squad player|no=17|pos=MF|name=[[José Montiel]]|age={{birth date and age2|df=y|2006|6|9|1988|3|19}}|caps=6|club=[[Club Olimpia|Olimpia]]|clubnat=PAR}}
+{{National football squad player|no=18|pos=FW|name=[[Nelson Valdez]]|age={{birth date and age2|df=y|2006|6|9|1983|11|28}}|caps=11|club=[[SV Werder Bremen|Werder Bremen]]<ref>[[Nelson Valdez]] joined [[Borussia Dortmund]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=426109.html|title=Valdez delighted with Dortmund move|work=UEFA|publisher=Union of European Football Associations|date=30 May 2006|accessdate=21 June 2006| archiveurl= http://web.archive.org/web/20060703132547/http://www.uefa.com/footballeurope/news/Kind%3D2/newsId%3D426109.html?| archivedate= 3 July 2006 <!--DASHBot-->| deadurl= no}}</ref>|clubnat=GER}}
+{{National football squad player|no=19|pos=MF|name=[[Julio dos Santos]]|age={{birth date and age2|df=y|2006|6|9|1983|5|5}}|caps=17|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=20|pos=FW|name=[[Dante López]]|age={{birth date and age2|df=y|2006|6|9|1983|8|16}}|caps=7|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{National football squad player|no=21|pos=DF|name=[[Denis Caniza]]|age={{birth date and age2|df=y|2006|6|9|1974|8|29}}|caps=74|club=[[Cruz Azul]]|clubnat=MEX}}<ref>[[Denis Caniza]] joined [[Club Atlas|Atlas]] after the tournament.</ref>
+{{National football squad player|no=22|pos=GK|name=[[Aldo Bobadilla]]|age={{birth date and age2|df=y|2006|6|9|1976|4|20}}|caps=5|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{National football squad player|no=23|pos=FW|name=[[Nelson Cuevas]]|age={{birth date and age2|df=y|2006|6|9|1980|1|10}}|caps=35|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{National football squad end}}
+
+===Sweden===
+Head coach: [[Lars Lagerbäck]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Andreas Isaksson]]|age={{birth date and age2|df=y|2006|6|9|1981|10|3}}|caps=39|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{National football squad player|no=2|pos=DF|name=[[Mikael Nilsson (footballer born 1978)|Mikael Nilsson]]|age={{birth date and age2|df=y|2006|6|9|1978|6|24}}|caps=27|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{National football squad player|no=3|pos=DF|name=[[Olof Mellberg]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1977|9|3}}|caps=64|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{National football squad player|no=4|pos=DF|name=[[Teddy Lucic]]|age={{birth date and age2|df=y|2006|6|9|1973|4|15}}|caps=81|club=[[BK Häcken|Häcken]]|clubnat=SWE}}
+{{National football squad player|no=5|pos=DF|name=[[Erik Edman]]|age={{birth date and age2|df=y|2006|6|9|1978|11|11}}|caps=37|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{National football squad player|no=6|pos=MF|name=[[Tobias Linderoth]]|age={{birth date and age2|df=y|2006|6|9|1979|4|21}}|caps=58|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{National football squad player|no=7|pos=MF|name=[[Niclas Alexandersson]]|age={{birth date and age2|df=y|2006|6|9|1971|12|29}}|caps=87|club=[[IFK Göteborg|Göteborg]]|clubnat=SWE}}
+{{National football squad player|no=8|pos=MF|name=[[Anders Svensson (footballer)|Anders Svensson]]|age={{birth date and age2|df=y|2006|6|9|1976|7|17}}|caps=66|club=[[IF Elfsborg|Elfsborg]]|clubnat=SWE}}
+{{National football squad player|no=9|pos=MF|name=[[Fredrik Ljungberg]]|age={{birth date and age2|df=y|2006|6|9|1977|4|16}}|caps=57|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=10|pos=FW|name=[[Zlatan Ibrahimović]]|age={{birth date and age2|df=y|2006|6|9|1981|10|3}}|caps=38|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=11|pos=FW|name=[[Henrik Larsson]]|age={{birth date and age2|df=y|2006|6|9|1971|9|20}}|caps=89|club=[[FC Barcelona|Barcelona]]<ref>Larsson has a pre-contract agreement with [[Helsingborgs IF|Helsingborg]], and joined them after the tournament. {{cite web|url=http://www.uefa.com/competitions/UCL/news/Kind=1/newsId=421803.html|title=Larsson looks to bow out in style|work=UEFA|publisher=Union of European Football Associations|date=16 May 2006|accessdate=21 June 2006| archiveurl= http://web.archive.org/web/20060710213957/http://www.uefa.com/competitions/UCL/news/Kind=1/newsId=421803.html| archivedate= 10 July 2006 <!--DASHBot-->| deadurl= no}}</ref>|clubnat=ESP}}
+{{National football squad player|no=12|pos=GK|name=[[John Alvbåge]]|age={{birth date and age2|df=y|2006|6|9|1982|8|10}}|caps=2|club=[[Viborg FF|Viborg]]|clubnat=DEN}}
+{{National football squad player|no=13|pos=DF|name=[[Petter Hansson]]|age={{birth date and age2|df=y|2006|6|9|1976|12|14}}|caps=13|club=[[SC Heerenveen|Heerenveen]]|clubnat=NED}}
+{{National football squad player|no=14|pos=DF|name=[[Fredrik Stenman]]|age={{birth date and age2|df=y|2006|6|9|1983|6|2}}|caps=1|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=15|pos=DF|name=[[Karl Svensson]]|age={{birth date and age2|df=y|2006|6|9|1984|3|21}}|caps=1|club=[[IFK Göteborg|Göteborg]]<ref>Svensson has agreed to join [[Rangers F.C.|Rangers]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=425155.html|title=Rangers move delights Svensson|work=UEFA|publisher=Union of European Football Associations|date=26 May 2006|accessdate=21 June 2006}}</ref>|clubnat=SWE}}
+{{National football squad player|no=16|pos=MF|name=[[Kim Källström]]|age={{birth date and age2|df=y|2006|6|9|1982|8|24}}|caps=34|club=[[Stade Rennais FC|Rennes]]<ref>Källström has agreed to join [[Olympique Lyonnais|Lyon]] after the tournament. {{cite web|url=http://www.uefa.com/footballeurope/news/Kind=2/newsId=425196.html|title=Lyon land Swede Källström|work=UEFA|publisher=Union of European Football Associations|date=27 May 2006|accessdate=21 June 2006}}</ref>|clubnat=FRA}}
+{{National football squad player|no=17|pos=FW|name=[[Johan Elmander]]|age={{birth date and age2|df=y|2006|6|9|1981|5|27}}|caps=18|club=[[Brøndby IF|Brøndby]]|clubnat=DEN}}
+{{National football squad player|no=18|pos=MF|name=[[Mattias Jonson]]|age={{birth date and age2|df=y|2006|6|9|1974|1|16}}|caps=53|club=[[Djurgårdens IF Fotboll|Djurgården]]|clubnat=SWE}}
+{{National football squad player|no=19|pos=MF|name=[[Daniel Andersson (footballer born 1977)|Daniel Andersson]]|age={{birth date and age2|df=y|2006|6|9|1977|8|28}}|caps=47|club=[[Malmö FF|Malmö]]|clubnat=SWE}}
+{{National football squad player|no=20|pos=FW|name=[[Marcus Allbäck]]|age={{birth date and age2|df=y|2006|6|9|1973|7|5}}|caps=56|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{National football squad player|no=21|pos=MF|name=[[Christian Wilhelmsson]]|age={{birth date and age2|df=y|2006|6|9|1979|12|8}}|caps=29|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{National football squad player|no=22|pos=FW|name=[[Markus Rosenberg]]|age={{birth date and age2|df=y|2006|6|9|1982|9|27}}|caps=8|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=23|pos=GK|name=[[Rami Shaaban]]|age={{birth date and age2|df=y|2006|6|9|1975|6|30}}|caps=1|club=[[Fredrikstad FK|Fredrikstad]]|clubnat=NOR}}
+{{National football squad end}}
+
+===Trinidad and Tobago===
+Head coach: {{flagicon|NED}} [[Leo Beenhakker]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Shaka Hislop]]|age={{birth date and age2|df=y|2006|6|9|1969|2|22}}|caps=24|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}<ref>Hislop joined [[Dallas FC]] after the tournament.</ref>
+{{National football squad player|no=2|pos=DF|name=[[Ian Cox]]|age={{birth date and age2|df=y|2006|6|9|1971|3|25}}|caps=16|club=[[Gillingham F.C.|Gillingham]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Avery John]]|age={{birth date and age2|df=y|2006|6|9|1975|6|18}}|caps=57|club=[[New England Revolution]]|clubnat=USA}}
+{{National football squad player|no=4|pos=DF|name=[[Marvin Andrews]]|age={{birth date and age2|df=y|2006|6|9|1975|12|22}}|caps=98|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{National football squad player|no=5|pos=DF|name=[[Brent Sancho]]|age={{birth date and age2|df=y|2006|6|9|1977|3|13}}|caps=40|club=[[Gillingham F.C.|Gillingham]]|clubnat=ENG}}
+{{National football squad player|no=6|pos=DF|name=[[Dennis Lawrence]]|age={{birth date and age2|df=y|2006|6|9|1974|8|1}}|caps=63|club=[[Wrexham A.F.C.|Wrexham]]|clubnat=WAL}}<ref>[[Wrexham A.F.C.|Wrexham]] are a team from [[Wales]] and under the jurisdiction of the [[Football Association of Wales]], but who play in the [[English football league system]].</ref>
+{{National football squad player|no=7|pos=MF|name=[[Chris Birchall]]|age={{birth date and age2|df=y|2006|6|9|1984|5|5}}|caps=19|club=[[Port Vale F.C.|Port Vale]]|clubnat=ENG}}
+{{National football squad player|no=8|pos=DF|name=[[Cyd Gray]]|age={{birth date and age2|df=y|2006|6|9|1973|11|21}}|caps=39|club=[[San Juan Jabloteh]]|clubnat=TRI}}
+{{National football squad player|no=9|pos=MF|name=[[Aurtis Whitley]]|age={{birth date and age2|df=y|2006|6|9|1977|5|1}}|caps=24|club=[[San Juan Jabloteh]]|clubnat=TRI}}
+{{National football squad player|no=10|pos=MF|name=[[Russell Latapy]]|age={{birth date and age2|df=y|2006|6|9|1968|8|8}}|caps=66|club=[[Falkirk F.C.|Falkirk]]|clubnat=SCO}}
+{{National football squad player|no=11|pos=MF|name=[[Carlos Edwards]]|age={{birth date and age2|df=y|2006|6|9|1978|10|24}}|caps=51|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=FW|name=[[Collin Samuel]]|age={{birth date and age2|df=y|2006|6|9|1981|8|27}}|caps=18|club=[[Dundee United F.C.|Dundee United]]|clubnat=SCO}}
+{{National football squad player|no=13|pos=FW|name=[[Cornell Glen]]|age={{birth date and age2|df=y|2006|6|9|1980|10|21}}|caps=35|club=[[Los Angeles Galaxy|LA Galaxy]]|clubnat=USA}}
+{{National football squad player|no=14|pos=FW|name=[[Stern John]]|age={{birth date and age2|df=y|2006|6|9|1976|10|30}}|caps=95|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{National football squad player|no=15|pos=FW|name=[[Kenwyne Jones]]|age={{birth date and age2|df=y|2006|6|9|1984|10|5}}|caps=29|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=MF|name=[[Evans Wise]]|age={{birth date and age2|df=y|2006|6|9|1973|11|23}}|caps=16|club=[[Waldhof Mannheim]]|clubnat=GER}}
+{{National football squad player|no=17|pos=DF|name=[[David Atiba Charles]]|age={{birth date and age2|df=y|2006|6|9|1977|8|29}}|caps=19|club=[[W Connection]]|clubnat=TRI}}
+{{National football squad player|no=18|pos=MF|name=[[Densill Theobald]]|age={{birth date and age2|df=y|2006|6|9|1982|6|27}}|caps=38|club=[[Falkirk F.C.|Falkirk]]|clubnat=SCO}}
+{{National football squad player|no=19|pos=FW|name=[[Dwight Yorke]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1971|11|3}}|caps=54|club=[[Sydney FC]]|clubnat=AUS}}
+{{National football squad player|no=20|pos=FW|name=[[Jason Scotland]]|age={{birth date and age2|df=y|2006|6|9|1979|2|18}}|caps=25|club=[[St Johnstone F.C.|St. Johnstone]]|clubnat=SCO}}
+{{National football squad player|no=21|pos=GK|name=[[Kelvin Jack]]|age={{birth date and age2|df=y|2006|6|9|1976|4|29}}|caps=32|club=[[Dundee F.C.|Dundee]]|clubnat=SCO}}
+{{National football squad player|no=22|pos=GK|name=[[Clayton Ince]]|age={{birth date and age2|df=y|2006|6|9|1972|7|12}}|caps=63|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{National football squad player|no=23|pos=MF|name=[[Anthony Wolfe]]|age={{birth date and age2|df=y|2006|6|9|1983|12|23}}|caps=4|club=[[San Juan Jabloteh]]|clubnat=TRI}}
+{{National football squad end}}
+
+==Group C==
+
+===Argentina===
+Head coach: [[José Pekerman]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Roberto Abbondanzieri]]|age={{birth date and age2|df=y|2006|6|9|1972|8|19}}|caps=22|club=[[Boca Juniors]]|clubnat=ARG}}
+{{National football squad player|no=2|pos=DF|name=[[Roberto Ayala]]|age={{birth date and age2|df=y|2006|6|9|1973|4|14}}|caps=100|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=3|pos=DF|name=[[Juan Pablo Sorín]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1976|5|5}}|caps=71|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{National football squad player|no=4|pos=DF|name=[[Fabricio Coloccini]]|age={{birth date and age2|df=y|2006|6|9|1982|1|22}}|caps=23|club=[[Deportivo de La Coruña|Deportivo La Coruña]]|clubnat=ESP}}
+{{National football squad player|no=5|pos=MF|name=[[Esteban Cambiasso]]|age={{birth date and age2|df=y|2006|6|9|1980|8|18}}|caps=22|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=DF|name=[[Gabriel Heinze]]|age={{birth date and age2|df=y|2006|6|9|1978|4|19}}|caps=29|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=7|pos=FW|name=[[Javier Saviola]]|age={{birth date and age2|df=y|2006|6|9|1981|12|11}}|caps=31|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}<ref>Saviola was on loan to [[Sevilla FC|Sevilla]] in the run-up to the tournament</ref>
+{{National football squad player|no=8|pos=MF|name=[[Javier Mascherano]]|age={{birth date and age2|df=y|2006|6|9|1984|6|8}}|caps=15|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{National football squad player|no=9|pos=FW|name=[[Hernán Crespo]]|age={{birth date and age2|df=y|2006|6|9|1975|7|5}}|caps=55|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=10|pos=MF|name=[[Juan Román Riquelme]]|age={{birth date and age2|df=y|2006|6|9|1978|6|24}}|caps=31|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{National football squad player|no=11|pos=FW|name=[[Carlos Tevez]]|age={{birth date and age2|df=y|2006|6|9|1984|2|5}}|caps=21|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{National football squad player|no=12|pos=GK|name=[[Leo Franco]]|age={{birth date and age2|df=y|2006|6|9|1977|5|29}}|caps=3|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=13|pos=DF|name=[[Lionel Scaloni]]|age={{birth date and age2|df=y|2006|6|9|1978|5|16}}|caps=6|club=[[Deportivo de La Coruña|Deportivo La Coruña]]|clubnat=ESP}}<ref>Scaloni was on loan to [[West Ham United]] in the run-up to the tournament</ref>
+{{National football squad player|no=14|pos=FW|name=[[Rodrigo Palacio]]|age={{birth date and age2|df=y|2006|6|9|1982|2|5}}|caps=2|club=[[Boca Juniors]]|clubnat=ARG}}
+{{National football squad player|no=15|pos=DF|name=[[Gabriel Milito]]|age={{birth date and age2|df=y|2006|6|9|1980|9|7}}|caps=15|club=[[Real Zaragoza]]|clubnat=ESP}}
+{{National football squad player|no=16|pos=MF|name=[[Pablo Aimar]]|age={{birth date and age2|df=y|2006|6|9|1979|11|3}}|caps=40|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=17|pos=DF|name=[[Leandro Cufré]]|age={{birth date and age2|df=y|2006|6|9|1978|5|9}}|caps=2|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{National football squad player|no=18|pos=MF|name=[[Maxi Rodríguez]]|age={{birth date and age2|df=y|2006|6|9|1981|1|2}}|caps=13|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=19|pos=FW|name=[[Lionel Messi]]|age={{birth date and age2|df=y|2006|6|9|1987|6|24}}|caps=7|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=20|pos=FW|name=[[Julio Ricardo Cruz|Julio Cruz]]|age={{birth date and age2|df=y|2006|6|9|1974|10|10}}|caps=15|club=[[Internazionale Milano F.C.|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=21|pos=DF|name=[[Nicolás Burdisso]]|age={{birth date and age2|df=y|2006|6|9|1981|4|12}}|caps=8|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=22|pos=MF|name=[[Lucho González]]|age={{birth date and age2|df=y|2006|6|9|1981|1|19}}|caps=27|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{National football squad player|no=23|pos=GK|name=[[Óscar Ustari]]|age={{birth date and age2|df=y|2006|6|9|1986|7|3}}|caps=0|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{National football squad end}}
+
+===Côte d'Ivoire===
+Head coach: {{flagicon|FRA}} [[Henri Michel]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Jean-Jacques Tizié]]|age={{birth date and age2|df=y|2006|6|9|1972|9|7}}|caps=24|club=[[Espérance Sportive de Tunis|Espérance]]|clubnat=TUN}}
+{{National football squad player|no=2|pos=MF|name=[[Kanga Akalé]]|age={{birth date and age2|df=y|2006|6|9|1981|3|7}}|caps=22|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{National football squad player|no=3|pos=DF|name=[[Arthur Boka]]|age={{birth date and age2|df=y|2006|6|9|1983|4|2}}|caps=23|club=[[RC Strasbourg|Strasbourg]]|clubnat=FRA}}
+{{National football squad player|no=4|pos=DF|name=[[Kolo Touré]]|age={{birth date and age2|df=y|2006|6|9|1981|3|19}}|caps=42|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=MF|name=[[Didier Zokora]]|age={{birth date and age2|df=y|2006|6|9|1980|12|14}}|caps=38|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{National football squad player|no=6|pos=DF|name=[[Blaise Kouassi]]|age={{birth date and age2|df=y|2006|6|9|1974|2|2}}|caps=36|club=[[Troyes AC|Troyes]]|clubnat=FRA}}
+{{National football squad player|no=7|pos=MF|name=[[Emerse Faé]]|age={{birth date and age2|df=y|2006|6|9|1984|1|24}}|caps=14|club=[[FC Nantes Atlantique|Nantes]]|clubnat=FRA}}
+{{National football squad player|no=8|pos=FW|name=[[Bonaventure Kalou]]|age={{birth date and age2|df=y|2006|6|9|1978|1|12}}|caps=49|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{National football squad player|no=9|pos=FW|name=[[Arouna Koné]]|age={{birth date and age2|df=y|2006|6|9|1983|11|11}}|caps=17|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=10|pos=MF|name=[[Gilles Yapi Yapo]]|age={{birth date and age2|df=y|2006|6|9|1982|1|13}}|caps=26|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{National football squad player|no=11|pos=FW|name=[[Didier Drogba]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1978|3|11}}|caps=32|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=DF|name=[[Abdoulaye Méïté]]|age={{birth date and age2|df=y|2006|6|9|1980|10|6}}|caps=18|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{National football squad player|no=13|pos=DF|name=[[Marco Zoro]]|age={{birth date and age2|df=y|2006|6|9|1983|12|27}}|caps=13|club=[[F.C. Messina Peloro|Messina]]|clubnat=ITA}}
+{{National football squad player|no=14|pos=FW|name=[[Bakari Koné]]|age={{birth date and age2|df=y|2006|6|9|1981|9|17}}|caps=16|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{National football squad player|no=15|pos=FW|name=[[Aruna Dindane]]|age={{birth date and age2|df=y|2006|6|9|1980|11|26}}|caps=34|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{National football squad player|no=16|pos=GK|name=[[Gérard Gnanhouan]]|age={{birth date and age2|df=y|2006|6|9|1979|2|12}}|caps=6|club=[[Montpellier HSC|Montpellier]]|clubnat=FRA}}
+{{National football squad player|no=17|pos=DF|name=[[Cyril Domoraud]]|age={{birth date and age2|df=y|2006|6|9|1971|7|22}}|caps=50|club=[[US Créteil-Lusitanos Football|Créteil]]|clubnat=FRA}}
+{{National football squad player|no=18|pos=MF|name=[[Abdul Kader Keïta]]|age={{birth date and age2|df=y|2006|6|9|1981|8|6}}|caps=26|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{National football squad player|no=19|pos=MF|name=[[Yaya Touré]]|age={{birth date and age2|df=y|2006|6|9|1983|3|13}}|caps=14|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{National football squad player|no=20|pos=DF|name=[[Guy Demel]]|age={{birth date and age2|df=y|2006|6|9|1981|6|13}}|caps=7|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=21|pos=DF|name=[[Emmanuel Eboué]]|age={{birth date and age2|df=y|2006|6|9|1983|6|4}}|caps=11|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=22|pos=MF|name=[[Romaric (footballer)|Romaric]]|age={{birth date and age2|df=y|2006|6|9|1983|6|4}}|caps=8|club=[[Le Mans UC72|Le Mans]]|clubnat=FRA}}
+{{National football squad player|no=23|pos=GK|name=[[Boubacar Barry]]|age={{birth date and age2|df=y|2006|6|9|1979|12|20}}|caps=6|club=[[K.S.K. Beveren|Beveren]]|clubnat=BEL}}
+{{National football squad end}}
+
+===Netherlands===
+Head coach: [[Marco van Basten]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Edwin van der Sar]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1970|10|29}}|caps=109|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=2|pos=DF|name=[[Kew Jaliens]]|age={{birth date and age2|df=y|2006|6|9|1978|9|15}}|caps=1|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{National football squad player|no=3|pos=DF|name=[[Khalid Boulahrouz]]|age={{birth date and age2|df=y|2006|6|9|1981|12|28}}|caps=11|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=4|pos=DF|name=[[Joris Mathijsen]]|age={{birth date and age2|df=y|2006|6|9|1980|4|5}}|caps=8|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{National football squad player|no=5|pos=DF|name=[[Giovanni van Bronckhorst]]|age={{birth date and age2|df=y|2006|6|9|1975|2|5}}|caps=57|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=6|pos=MF|name=[[Denny Landzaat]]|age={{birth date and age2|df=y|2006|6|9|1976|5|6}}|caps=23|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{National football squad player|no=7|pos=FW|name=[[Dirk Kuyt]]|age={{birth date and age2|df=y|2006|6|9|1980|7|22}}|caps=19|club=[[Feyenoord]]|clubnat=NED}}
+{{National football squad player|no=8|pos=MF|name=[[Phillip Cocu]]|age={{birth date and age2|df=y|2006|6|9|1970|10|29}}|caps=97|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=9|pos=FW|name=[[Ruud van Nistelrooy]]|age={{birth date and age2|df=y|2006|6|9|1976|7|1}}|caps=51|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=10|pos=MF|name=[[Rafael van der Vaart]]|age={{birth date and age2|df=y|2006|6|9|1983|2|11}}|caps=35|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=11|pos=MF|name=[[Arjen Robben]]|age={{birth date and age2|df=y|2006|6|9|1984|1|23}}|caps=20|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=DF|name=[[Jan Kromkamp]]|age={{birth date and age2|df=y|2006|6|9|1980|8|17}}|caps=11|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=13|pos=DF|name=[[André Ooijer]]|age={{birth date and age2|df=y|2006|6|9|1974|7|11}}|caps=19|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=14|pos=DF|name=[[John Heitinga]]|age={{birth date and age2|df=y|2006|6|9|1983|11|15}}|caps=18|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=15|pos=DF|name=[[Tim de Cler]]|age={{birth date and age2|df=y|2006|6|9|1978|11|8}}|caps=3|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{National football squad player|no=16|pos=MF|name=[[Hedwiges Maduro]]|age={{birth date and age2|df=y|2006|6|9|1985|2|13}}|caps=11|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=17|pos=FW|name=[[Robin van Persie]]|age={{birth date and age2|df=y|2006|6|9|1983|8|6}}|caps=10|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=18|pos=MF|name=[[Mark van Bommel]]|age={{birth date and age2|df=y|2006|6|9|1977|4|22}}|caps=37|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=19|pos=FW|name=[[Jan Vennegoor of Hesselink]]|age={{birth date and age2|df=y|2006|6|9|1978|11|7}}|caps=7|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=20|pos=MF|name=[[Wesley Sneijder]]|age={{birth date and age2|df=y|2006|6|9|1984|6|9}}|caps=23|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=21|pos=FW|name=[[Ryan Babel]]|age={{birth date and age2|df=y|2006|6|9|1986|12|19}}|caps=6|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=22|pos=GK|name=[[Henk Timmer (footballer)|Henk Timmer]]|age={{birth date and age2|df=y|2006|6|9|1971|12|3}}|caps=2|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{National football squad player|no=23|pos=GK|name=[[Maarten Stekelenburg]]|age={{birth date and age2|df=y|2006|6|9|1982|9|22}}|caps=2|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad end}}
+
+===Serbia and Montenegro===
+Head coach: [[Ilija Petković]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Dragoslav Jevrić]]|age={{birth date and age2|df=y|2006|6|9|1974|7|8}}|caps=40|club=[[Ankaraspor]]|clubnat=TUR}}
+{{National football squad player|no=2|pos=MF|name=[[Ivan Ergić]]|age={{birth date and age2|df=y|2006|6|9|1981|1|21}}|caps=1|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{National football squad player|no=3|pos=DF|name=[[Ivica Dragutinović]]|age={{birth date and age2|df=y|2006|6|9|1975|11|13}}|caps=26|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{National football squad player|no=4|pos=MF|name=[[Igor Duljaj]]|age={{birth date and age2|df=y|2006|6|9|1979|10|29}}|caps=37|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=5|pos=DF|name=[[Nemanja Vidić]]|age={{birth date and age2|df=y|2006|6|9|1981|10|21}}|caps=20|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=6|pos=DF|name=[[Goran Gavrančić]]|age={{birth date and age2|df=y|2006|6|9|1978|8|2}}|caps=25|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=7|pos=MF|name=[[Ognjen Koroman]]|age={{birth date and age2|df=y|2006|6|9|1978|9|19}}|caps=25|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{National football squad player|no=8|pos=FW|name=[[Mateja Kežman]]|age={{birth date and age2|df=y|2006|6|9|1979|4|12}}|caps=47|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=9|pos=FW|name=[[Savo Milošević]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|9|2}}|caps=98|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{National football squad player|no=10|pos=MF|name=[[Dejan Stanković]]|age={{birth date and age2|df=y|2006|6|9|1978|9|11}}|caps=58|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=11|pos=MF|name=[[Predrag Đorđević]]|age={{birth date and age2|df=y|2006|6|9|1972|8|4}}|caps=34|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{National football squad player|no=12|pos=GK|name=[[Oliver Kovačević]]|age={{birth date and age2|df=y|2006|6|9|1974|12|29}}|caps=3|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=BUL}}
+{{National football squad player|no=13|pos=DF|name=[[Dušan Basta]]|age={{birth date and age2|df=y|2006|6|9|1984|8|18}}|caps=2|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{National football squad player|no=14|pos=DF|name=[[Nenad Đorđević]]|age={{birth date and age2|df=y|2006|6|9|1979|8|7}}|caps=15|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{National football squad player|no=15|pos=DF|name=[[Milan Dudić]]|age={{birth date and age2|df=y|2006|6|9|1979|11|1}}|caps=11|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{National football squad player|no=16|pos=DF|name=[[Dušan Petković (footballer born 1974)|Dušan Petković]]<ref>{{cite news |title=Petković quits in World Cup row |url=http://en.archive.uefa.com/competitions/WorldCup/news/Kind=1/newsId=427827.html |work=UEFA.com |publisher=Union of European Football Associations |date=6 June 2006 |accessdate=28 April 2011 |quote=[[Dušan Petković (footballer born 1974)|Dušan Petković]] has withdrawn from Serbia and Montenegro's FIFA World Cup squad following accusations he was only called up due to nepotism. The 31-year-old OFK Beograd defender was drafted in as a replacement for injured striker [[Mirko Vučinić]] by coach Ilija Petković, who is also the player's father. However, he did not fly to Germany with the squad, saying 'The pressure was too much for me, my father and my team-mates.' }}</ref><ref>Since Petković quit, Serbia and Montenegro national team is the only 2006 World Cup team to have only 22 players on the squad.</ref>|age={{birth date and age2|df=y|2006|6|9|1974|6|13}}|caps=12|club=[[OFK Beograd]]|clubnat=SRB}}
+{{National football squad player|no=17|pos=MF|name=[[Albert Nađ]]|age={{birth date and age2|df=y|2006|6|9|1974|10|29}}|caps=42|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{National football squad player|no=18|pos=MF|name=[[Zvonimir Vukić]]|age={{birth date and age2|df=y|2006|6|9|1979|7|19}}|caps=25|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}<ref>Vukić has spent the run up to the tournament on loan to [[FK Partizan|Partizan]]</ref>
+{{National football squad player|no=19|pos=FW|name=[[Nikola Žigić]]|age={{birth date and age2|df=y|2006|6|9|1980|9|25}}|caps=11|club=[[Red Star Belgrade]]|clubnat=SRB}}
+{{National football squad player|no=20|pos=DF|name=[[Mladen Krstajić]]|age={{birth date and age2|df=y|2006|6|9|1974|3|4}}|caps=45|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{National football squad player|no=21|pos=FW|name=[[Danijel Ljuboja]]|age={{birth date and age2|df=y|2006|6|9|1978|9|4}}|caps=15|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}<ref>Ljuboja has spent the run up to the tournament on loan to [[VfB Stuttgart|Stuttgart]], and joined [[VfB Stuttgart|Stuttgart]] permanently after the tournament.</ref>
+{{National football squad player|no=22|pos=MF|name=[[Saša Ilić (footballer born 1977)|Saša Ilić]]|age={{birth date and age2|df=y|2006|6|9|1977|12|30}}|caps=32|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{National football squad player|no=23|pos=GK|name=[[Vladimir Stojković]]|age={{birth date and age2|df=y|2006|6|9|1983|7|28}}|caps=0|club=[[Red Star Belgrade]]<ref>Stojković has agreed to join [[FC Nantes Atlantique|Nantes]] after the tournament.</ref>|clubnat=SRB}}
+{{National football squad end}}
+
+==Group D==
+
+===Angola===
+Head coach: [[Luís Oliveira Gonçalves]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[João Ricardo]]|age={{birth date and age2|df=y|2006|6|9|1970|1|7}}|caps=26|club=[[Moreirense F.C.|Moreirense]]|clubnat=Portugal}}<ref>João Ricardo became a [[free agent (football)|free agent]] after the tournament</ref>
+{{National football squad player|no=2|pos=DF|name=[[Marco Airosa]]|age={{birth date and age2|df=y|2006|6|9|1984|8|6}}|caps=2|club=[[F.C. Barreirense|Barreirense]]|clubnat=POR}}
+{{National football squad player|no=3|pos=DF|name=[[Jamba (footballer)|Jamba]]|age={{birth date and age2|df=y|2006|6|9|1977|7|10}}|caps=35|club=[[Atlético Sport Aviação|Aviação]]|clubnat=ANG}}
+{{National football squad player|no=4|pos=DF|name=[[António Lebo Lebo|Lebo Lebo]]|age={{birth date and age2|df=y|2006|6|9|1977|5|29}}|caps=15|club=[[Petro Atletico]]|clubnat=ANG}}
+{{National football squad player|no=5|pos=DF|name=[[Kali (footballer)|Kali]]|age={{birth date and age2|df=y|2006|6|9|1978|10|11}}|caps=21|club=[[F.C. Barreirense|Barreirense]]|clubnat=POR}}
+{{National football squad player|no=6|pos=MF|name=[[Miloy]]|age={{birth date and age2|df=y|2006|6|9|1981|5|27}}|caps=11|club=[[InterClube]]|clubnat=ANG}}
+{{National football squad player|no=7|pos=MF|name=[[Paulo Figueiredo|Figueiredo]]|age={{birth date and age2|df=y|2006|6|9|1972|11|28}}|caps=22|club=[[Varzim S.C.|Varzim]]|clubnat=POR}}
+{{National football squad player|no=8|pos=MF|name=[[André Macanga|André]]|age={{birth date and age2|df=y|2006|6|9|1978|5|14}}|caps=33|club=[[Al Salmiya Club|Al-Salmiya]]|clubnat=KUW}}
+{{National football squad player|no=9|pos=FW|name=[[Mantorras]]|age={{birth date and age2|df=y|2006|6|9|1982|3|18}}|caps=11|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=10|pos=FW|name=[[Akwá (footballer)|Akwá]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1977|5|30}}|caps=77|club=[[Al-Wakra]]|clubnat=QAT}}<ref>Akwá became a [[free agent (football)|free agent]] after the tournament</ref>
+{{National football squad player|no=11|pos=FW|name=[[Mateus Galiano da Costa|Mateus]]|age={{birth date and age2|df=y|2006|6|9|1984|6|19}}|caps=4|club=[[Gil Vicente F.C.|Gil Vicente]]|clubnat=POR}}
+{{National football squad player|no=12|pos=GK|name=[[Lamá (Angolan footballer)|Lamá]]|age={{birth date and age2|df=y|2006|6|9|1981|2|1}}|caps=9|club=[[Petro Atletico]]|clubnat=ANG}}
+{{National football squad player|no=13|pos=MF|name=[[Édson Nobre|Édson]]|age={{birth date and age2|df=y|2006|6|9|1980|2|3}}|caps=7|club=[[F.C. Paços de Ferreira|Paços de Ferreira]]|clubnat=POR}}
+{{National football squad player|no=14|pos=MF|name=[[António Mendonça|Mendonça]]|age={{birth date and age2|df=y|2006|6|9|1982|10|9}}|caps=34|club=[[Varzim S.C.|Varzim]]|clubnat=POR}}
+{{National football squad player|no=15|pos=DF|name=[[Rui Marques]]|age={{birth date and age2|df=y|2006|6|9|1977|9|3}}|caps=1|club=[[Leeds United A.F.C.|Leeds United]]|clubnat=ENG}}<ref>Marques has spent the run-up of the World Cup on loan to [[Hull City A.F.C.|Hull City]]</ref>
+{{National football squad player|no=16|pos=FW|name=[[Flávio Amado|Flávio]]|age={{birth date and age2|df=y|2006|6|9|1979|12|20}}|caps=46|club=[[Al-Ahly]]|clubnat=EGY}}
+{{National football squad player|no=17|pos=MF|name=[[Zé Kalanga]]|age={{birth date and age2|df=y|2006|6|9|1983|10|12}}|caps=23|club=[[Petro Atletico]]|clubnat=ANG}}
+{{National football squad player|no=18|pos=FW|name=[[Love (footballer)|Love]]|age={{birth date and age2|df=y|2006|6|9|1979|3|14}}|caps=35|club=[[Atlético Sport Aviação|Aviação]]|clubnat=ANG}}
+{{National football squad player|no=19|pos=FW|name=[[Titi Buengo]]|age={{birth date and age2|df=y|2006|6|9|1980|2|11}}|caps=2|club=[[Clermont Foot]]|clubnat=FRA}}
+{{National football squad player|no=20|pos=DF|name=[[Locó (footballer)|Locó]]|age={{birth date and age2|df=y|2006|6|9|1984|12|25}}|caps=11|club=[[Primeiro Agosto]]|clubnat=ANG}}
+{{National football squad player|no=21|pos=DF|name=[[Luís Delgado|Delgado]]|age={{birth date and age2|df=y|2006|6|9|1979|11|1}}|caps=17|club=[[Petro Atletico]]|clubnat=ANG}}
+{{National football squad player|no=22|pos=GK|name=[[Mário Hipólito|Mário]]|age={{birth date and age2|df=y|2006|6|9|1985|6|1}}|caps=1|club=[[InterClube]]|clubnat=ANG}}
+{{National football squad player|no=23|pos=DF|name=[[Marco Abreu]]|age={{birth date and age2|df=y|2006|6|9|1974|12|8}}|caps=3|club=[[Portimonense]]|clubnat=POR}}
+{{National football squad end}}
+
+===Iran===
+Head coach: {{flagicon|CRO}} [[Branko Ivanković]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Ebrahim Mirzapour]]|age={{birth date and age2|df=y|2006|6|9|1978|9|16}}|caps=64|club=[[Foolad FC|Foolad]]|clubnat=IRN}}
+{{National football squad player|no=2|pos=MF|name=[[Mehdi Mahdavikia]]|age={{birth date and age2|df=y|2006|6|9|1977|7|24}}|caps=89|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=3|pos=DF|name=[[Sohrab Bakhtiarizadeh]]|age={{birth date and age2|df=y|2006|6|9|1972|9|11}}|caps=31|club=[[Saba Battery F.C.|Saba Battery]]|clubnat=IRN}}
+{{National football squad player|no=4|pos=DF|name=[[Yahya Golmohammadi]]|age={{birth date and age2|df=y|2006|6|9|1971|3|16}}|caps=69|club=[[Saba Battery F.C.|Saba Battery]]|clubnat=IRN}}
+{{National football squad player|no=5|pos=DF|name=[[Rahman Rezaei]]|age={{birth date and age2|df=y|2006|6|9|1975|2|20}}|caps=43|club=[[F.C. Messina Peloro|Messina]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=MF|name=[[Javad Nekounam]]|age={{birth date and age2|df=y|2006|6|9|1980|9|7}}|caps=71|club=[[Sharjah FC|Al-Sharjah]]|clubnat=UAE}}<ref>Nekounam joined [[CA Osasuna|Osasuna]] after the tournament.</ref>
+{{National football squad player|no=7|pos=MF|name=[[Ferydoon Zandi]]|age={{birth date and age2|df=y|2006|6|9|1979|4|26}}|caps=10|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=GER}}
+{{National football squad player|no=8|pos=MF|name=[[Ali Karimi]]|age={{birth date and age2|df=y|2006|6|9|1978|11|8}}|caps=90|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=9|pos=FW|name=[[Vahid Hashemian]]|age={{birth date and age2|df=y|2006|6|9|1976|7|21}}|caps=28|club=[[Hannover 96]]|clubnat=GER}}
+{{National football squad player|no=10|pos=FW|name=[[Ali Daei]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1969|3|21}}|caps=147|club=[[Saba Battery F.C.|Saba Battery]]|clubnat=IRN}}
+{{National football squad player|no=11|pos=FW|name=[[Rasoul Khatibi]]|age={{birth date and age2|df=y|2006|6|9|1978|9|22}}|caps=12|club=[[Sepahan]]|clubnat=IRN}}
+{{National football squad player|no=12|pos=GK|name=[[Hassan Roudbarian]]|age={{birth date and age2|df=y|2006|6|9|1978|7|6}}|caps=3|club=[[Pas Tehran|Pas]]|clubnat=IRN}}
+{{National football squad player|no=13|pos=DF|name=[[Hossein Kaebi]]|age={{birth date and age2|df=y|2006|6|9|1985|9|23}}|caps=44|club=[[Foolad FC|Foolad]]|clubnat=IRN}}
+{{National football squad player|no=14|pos=MF|name=[[Andranik Teymourian]]|age={{birth date and age2|df=y|2006|6|9|1983|3|6}}|caps=7|club=[[Abu Moslem]]|clubnat=IRN}}
+{{National football squad player|no=15|pos=FW|name=[[Arash Borhani]]|age={{birth date and age2|df=y|2006|6|9|1983|9|14}}|caps=20|club=[[Pas Tehran|Pas]]|clubnat=IRN}}
+{{National football squad player|no=16|pos=FW|name=[[Reza Enayati]]|age={{birth date and age2|df=y|2006|6|9|1976|9|23}}|caps=15|club=[[Esteghlal FC|Esteghlal]]|clubnat=IRN}}
+{{National football squad player|no=17|pos=FW|name=[[Javad Kazemian]]|age={{birth date and age2|df=y|2006|6|9|1981|4|23}}|caps=25|club=[[Persepolis FC|Persepolis]]|clubnat=IRN}}
+{{National football squad player|no=18|pos=MF|name=[[Moharram Navidkia]]|age={{birth date and age2|df=y|2006|6|9|1982|11|1}}|caps=24|club=[[VfL Bochum|Bochum]]|clubnat=GER}}
+{{National football squad player|no=19|pos=DF|name=[[Amir Hossein Sadeghi]]|age={{birth date and age2|df=y|2006|6|9|1981|9|6}}|caps=1|club=[[Esteghlal FC|Esteghlal]]|clubnat=IRN}}
+{{National football squad player|no=20|pos=DF|name=[[Mohammad Nosrati]]|age={{birth date and age2|df=y|2006|6|9|1982|1|10}}|caps=44|club=[[Pas Tehran|Pas]]|clubnat=IRN}}
+{{National football squad player|no=21|pos=MF|name=[[Mehrzad Madanchi]]|age={{birth date and age2|df=y|2006|6|9|1985|1|10}}|caps=6|club=[[Persepolis FC|Persepolis]]|clubnat=IRN}}
+{{National football squad player|no=22|pos=GK|name=[[Vahid Talebloo]]|age={{birth date and age2|df=y|2006|6|9|1982|5|26}}|caps=1|club=[[Esteghlal FC|Esteghlal]]|clubnat=IRN}}
+{{National football squad player|no=23|pos=MF|name=[[Masoud Shojaei]]|age={{birth date and age2|df=y|2006|6|9|1984|6|9}}|caps=3|club=[[Saipa FC|Saipa]]|clubnat=IRN}}
+{{National football squad end}}
+
+===Mexico===
+Head coach: {{flagicon|ARG}} [[Ricardo Lavolpe]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Oswaldo Sánchez]]|age={{birth date and age2|df=y|2006|6|9|1973|9|21}}|caps=70|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{National football squad player|no=2|pos=DF|name=[[Claudio Suárez]]|age={{birth date and age2|df=y|2006|6|9|1968|12|17}}|caps=178|club=[[C.D. Chivas USA|Chivas USA]]|clubnat=USA}}
+{{National football squad player|no=3|pos=DF|name=[[Carlos Salcido]]|age={{birth date and age2|df=y|2006|6|9|1980|4|2}}|caps=32|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}<ref>Salcido joined [[PSV Eindhoven]] after the tournament.</ref>
+{{National football squad player|no=4|pos=DF|name=[[Rafael Márquez]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1979|2|13}}|caps=65|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=5|pos=DF|name=[[Ricardo Osorio]]|age={{birth date and age2|df=y|2006|6|9|1980|3|30}}|caps=39|club=[[Cruz Azul]]|clubnat=MEX}}<ref>Osorio joined [[VfB Stuttgart|Stuttgart]] after the tournament.</ref>
+{{National football squad player|no=6|pos=MF|name=[[Gerardo Torrado]]|age={{birth date and age2|df=y|2006|6|9|1979|4|30}}|caps=56|club=[[Cruz Azul]]|clubnat=MEX}}
+{{National football squad player|no=7|pos=MF|name=[[Antônio Naelson|Sinha]]|age={{birth date and age2|df=y|2006|6|9|1976|5|23}}|caps=32|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{National football squad player|no=8|pos=MF|name=[[Pável Pardo]]|age={{birth date and age2|df=y|2006|6|9|1976|7|26}}|caps=125|club=[[Club América|América]]|clubnat=MEX}}<ref>Pardo joined [[VfB Stuttgart|Stuttgart]] after the tournament.</ref>
+{{National football squad player|no=9|pos=FW|name=[[Jared Borgetti]]|age={{birth date and age2|df=y|2006|6|9|1973|8|14}}|caps=75|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}<ref>Borgetti joined [[Al-Ittihad (Jeddah)|Al Ittihad]] after the tournament.</ref>
+{{National football squad player|no=10|pos=FW|name=[[Guillermo Franco]]|age={{birth date and age2|df=y|2006|6|9|1976|11|3}}|caps=7|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{National football squad player|no=11|pos=MF|name=[[Ramón Morales]]|age={{birth date and age2|df=y|2006|6|9|1975|10|10}}|caps=46|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{National football squad player|no=12|pos=GK|name=[[José de Jesús Corona]]|age={{birth date and age2|df=y|2006|6|9|1981|1|26}}|caps=6|club=[[Estudiantes Tecos|UAG]]|clubnat=MEX}}
+{{National football squad player|no=13|pos=GK|name=[[Guillermo Ochoa]]|age={{birth date and age2|df=y|2006|6|9|1985|7|13}}|caps=1|club=[[Club América|América]]|clubnat=MEX}}
+{{National football squad player|no=14|pos=DF|name=[[Gonzalo Pineda]]|age={{birth date and age2|df=y|2006|6|9|1982|10|19}}|caps=30|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{National football squad player|no=15|pos=DF|name=[[José Antonio Castro]]|age={{birth date and age2|df=y|2006|6|9|1980|8|11}}|caps=12|club=[[Club América|América]]|clubnat=MEX}}
+{{National football squad player|no=16|pos=DF|name=[[Mario Méndez (Mexican footballer)|Mario Méndez]]|age={{birth date and age2|df=y|2006|6|9|1979|6|1}}|caps=32|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{National football squad player|no=17|pos=FW|name=[[Francisco Fonseca]]|age={{birth date and age2|df=y|2006|6|9|1979|10|2}}|caps=29|club=[[Cruz Azul]]|clubnat=MEX}}<ref>Fonseca joined [[S.L. Benfica|Benfica]] after the tournament.</ref>
+{{National football squad player|no=18|pos=MF|name=[[Andrés Guardado]]|age={{birth date and age2|df=y|2006|6|9|1986|9|28}}|caps=7|club=[[Club Atlas|Atlas]]|clubnat=MEX}}
+{{National football squad player|no=19|pos=FW|name=[[Omar Bravo]]|age={{birth date and age2|df=y|2006|6|9|1980|3|4}}|caps=33|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{National football squad player|no=20|pos=MF|name=[[Rafael García Torres|Rafael García]]|age={{birth date and age2|df=y|2006|6|9|1974|8|14}}|caps=52|club=[[Club Atlas|Atlas]]|clubnat=MEX}}
+{{National football squad player|no=21|pos=MF|name=[[Jesús Arellano]]|age={{birth date and age2|df=y|2006|6|9|1973|5|8}}|caps=69|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{National football squad player|no=22|pos=DF|name=[[Francisco Javier Rodríguez]]|age={{birth date and age2|df=y|2006|6|9|1981|10|20}}|caps=32|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{National football squad player|no=23|pos=MF|name=[[Luis Ernesto Pérez]]|age={{birth date and age2|df=y|2006|6|9|1981|1|12}}|caps=52|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{National football squad end}}
+
+===Portugal===
+Head coach: {{flagicon|BRA}} [[Luiz Felipe Scolari]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Ricardo Pereira|Ricardo]]|age={{birth date and age2|df=y|2006|6|9|1976|2|11}}|caps=49|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{National football squad player|no=2|pos=DF|name=[[Paulo Ferreira]]|age={{birth date and age2|df=y|2006|6|9|1979|1|18}}|caps=30|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Marco Caneira]]|age={{birth date and age2|df=y|2006|6|9|1979|2|9}}|caps=14|club=[[Valencia CF|Valencia]]|clubnat=ESP}}<ref>Caneira spent the run-up to the tournament on loan to [[Sporting Clube de Portugal|Sporting CP]]</ref>
+{{National football squad player|no=4|pos=DF|name=[[Ricardo Costa (Portuguese footballer)|Ricardo Costa]]|age={{birth date and age2|df=y|2006|6|9|1981|5|16}}|caps=3|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{National football squad player|no=5|pos=DF|name=[[Fernando Meira]]|age={{birth date and age2|df=y|2006|6|9|1978|6|5}}|caps=30|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{National football squad player|no=6|pos=MF|name=[[Costinha]]|age={{birth date and age2|df=y|2006|6|9|1974|12|1}}|caps=44|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}<ref>Costinha joined [[Atlético Madrid]] after the tournament.</ref>
+{{National football squad player|no=7|pos=MF|name=[[Luís Figo]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1972|11|4}}|caps=120|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=8|pos=MF|name=[[Petit (Portuguese footballer)|Petit]]|age={{birth date and age2|df=y|2006|6|9|1976|9|25}}|caps=36|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=9|pos=FW|name=[[Pauleta]]|age={{birth date and age2|df=y|2006|6|9|1973|4|28}}|caps=82|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{National football squad player|no=10|pos=MF|name=[[Hugo Viana]]|age={{birth date and age2|df=y|2006|6|9|1983|1|15}}|caps=21|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=11|pos=FW|name=[[Simão Sabrosa|Simão]]|age={{birth date and age2|df=y|2006|6|9|1979|10|31}}|caps=43|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=12|pos=GK|name=[[Quim (footballer born 1975)|Quim]]|age={{birth date and age2|df=y|2006|6|9|1975|11|13}}|caps=24|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=13|pos=DF|name=[[Miguel Monteiro|Miguel]]|age={{birth date and age2|df=y|2006|6|9|1980|1|4}}|caps=28|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=14|pos=DF|name=[[Nuno Valente]]|age={{birth date and age2|df=y|2006|6|9|1974|9|12}}|caps=23|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{National football squad player|no=15|pos=FW|name=[[Luís Boa Morte]]|age={{birth date and age2|df=y|2006|6|9|1977|8|4}}|caps=24|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=DF|name=[[Ricardo Carvalho]]|age={{birth date and age2|df=y|2006|6|9|1978|5|18}}|caps=24|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=17|pos=FW|name=[[Cristiano Ronaldo]]|age={{birth date and age2|df=y|2006|6|9|1985|2|5}}|caps=32|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=18|pos=MF|name=[[Maniche]]|age={{birth date and age2|df=y|2006|6|9|1977|11|11}}|caps=31|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}<ref>Maniche spent the run-up to the tournament on loan to [[Chelsea F.C.|Chelsea]]</ref>
+{{National football squad player|no=19|pos=MF|name=[[Tiago Mendes|Tiago]]|age={{birth date and age2|df=y|2006|6|9|1981|5|3}}|caps=22|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=20|pos=MF|name=[[Deco]]|age={{birth date and age2|df=y|2006|6|9|1977|8|27}}|caps=35|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=21|pos=FW|name=[[Nuno Gomes]]|age={{birth date and age2|df=y|2006|6|9|1976|7|5}}|caps=53|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=22|pos=GK|name=[[Paulo Santos (Portuguese footballer)|Paulo Santos]]|age={{birth date and age2|df=y|2006|6|9|1972|12|11}}|caps=1|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{National football squad player|no=23|pos=FW|name=[[Hélder Postiga]]|age={{birth date and age2|df=y|2006|6|9|1982|8|2}}|caps=24|club=[[F.C. Porto|Porto]]|clubnat=POR}}<ref>Postiga has spent the run up to the tournament on loan to [[AS Saint-Étienne|Saint-Étienne]].</ref>
+{{National football squad end}}
+
+==Group E==
+
+===Czech Republic===
+Head coach: [[Karel Brückner]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Petr Čech]]|age={{birth date and age2|df=y|2006|6|9|1982|5|20}}|caps=41|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=2|pos=DF|name=[[Zdeněk Grygera]]|age={{birth date and age2|df=y|2006|6|9|1980|5|14}}|caps=41|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=3|pos=DF|name=[[Pavel Mareš]]|age={{birth date and age2|df=y|2006|6|9|1976|1|18}}|caps=10|club=[[Zenit St. Petersburg]]|clubnat=RUS}}
+{{National football squad player|no=4|pos=MF|name=[[Tomáš Galásek]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|1|15}}|caps=49|club=[[AFC Ajax|Ajax]]|clubnat=NED}}<ref>Galasek joined [[1. FC Nuremberg|Nuremberg]] after the tournament.</ref>
+{{National football squad player|no=5|pos=DF|name=[[Radoslav Kováč]]|age={{birth date and age2|df=y|2006|6|9|1979|11|11}}|caps=6|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{National football squad player|no=6|pos=DF|name=[[Marek Jankulovski]]|age={{birth date and age2|df=y|2006|6|9|1977|5|9}}|caps=48|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=7|pos=MF|name=[[Libor Sionko]]|age={{birth date and age2|df=y|2006|6|9|1977|2|1}}|caps=17|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}<ref>Sionko joined [[Rangers F.C.|Rangers]] on a Bosman transfer after the tournament.</ref>
+{{National football squad player|no=8|pos=MF|name=[[Karel Poborský]]|age={{birth date and age2|df=y|2006|6|9|1972|3|30}}|caps=115|club=[[S.K. Dynamo České Budějovice|Dynamo České Budějovice]]|clubnat=CZE}}
+{{National football squad player|no=9|pos=FW|name=[[Jan Koller]]|age={{birth date and age2|df=y|2006|6|9|1973|3|30}}|caps=68|club=[[Borussia Dortmund]]|clubnat=GER}}<ref>Koller joined [[AS Monaco FC|AS Monaco]] after the tournament.</ref>
+{{National football squad player|no=10|pos=MF|name=[[Tomáš Rosický]]|age={{birth date and age2|df=y|2006|6|9|1980|10|4}}|caps=54|club=[[Borussia Dortmund]]|clubnat=GER}}<ref>Rosický joined [[Arsenal F.C.|Arsenal]] after the tournament.</ref>
+{{National football squad player|no=11|pos=MF|name=[[Pavel Nedvěd]]|age={{birth date and age2|df=y|2006|6|9|1972|8|30}}|caps=87|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=12|pos=FW|name=[[Vratislav Lokvenc]]|age={{birth date and age2|df=y|2006|6|9|1973|9|27}}|caps=72|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{National football squad player|no=13|pos=DF|name=[[Martin Jiránek]]|age={{birth date and age2|df=y|2006|6|9|1979|5|25}}|caps=24|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{National football squad player|no=14|pos=MF|name=[[David Jarolím]]|age={{birth date and age2|df=y|2006|6|9|1979|5|17}}|caps=3|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=15|pos=FW|name=[[Milan Baroš]]|age={{birth date and age2|df=y|2006|6|9|1981|10|28}}|caps=49|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=GK|name=[[Jaromír Blažek]]|age={{birth date and age2|df=y|2006|6|9|1972|12|29}}|caps=11|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{National football squad player|no=17|pos=FW|name=[[Jiří Štajner]]|age={{birth date and age2|df=y|2006|6|9|1976|5|27}}|caps=21|club=[[Hannover 96]]|clubnat=GER}}
+{{National football squad player|no=18|pos=FW|name=[[Marek Heinz]]|age={{birth date and age2|df=y|2006|6|9|1977|8|4}}|caps=28|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{National football squad player|no=19|pos=MF|name=[[Jan Polák]]|age={{birth date and age2|df=y|2006|6|9|1981|3|14}}|caps=18|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{National football squad player|no=20|pos=MF|name=[[Jaroslav Plašil]]|age={{birth date and age2|df=y|2006|6|9|1982|1|5}}|caps=14|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{National football squad player|no=21|pos=DF|name=[[Tomáš Ujfaluši]]|age={{birth date and age2|df=y|2006|6|9|1978|3|24}}|caps=48|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{National football squad player|no=22|pos=DF|name=[[David Rozehnal]]|age={{birth date and age2|df=y|2006|6|9|1980|7|5}}|caps=22|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{National football squad player|no=23|pos=GK|name=[[Antonín Kinský]]|age={{birth date and age2|df=y|2006|6|9|1975|5|31}}|caps=5|club=[[Saturn Ramenskoye]]|clubnat=RUS}}
+{{National football squad end}}
+
+===Ghana===
+Head coach: {{flagicon|SRB}} [[Ratomir Dujković]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Sammy Adjei]]|age={{birth date and age2|df=y|2006|6|9|1980|9|1}}|caps=31|club=[[F.C. Ashdod|Ashdod]]|clubnat=ISR}}
+{{National football squad player|no=2|pos=MF|name=[[Hans Sarpei]]|age={{birth date and age2|df=y|2006|6|9|1976|6|28}}|caps=7|club=[[VfL Wolfsburg|Wolfsburg]]|clubnat=GER}}
+{{National football squad player|no=3|pos=FW|name=[[Asamoah Gyan]]|age={{birth date and age2|df=y|2006|6|9|1985|11|22}}|caps=13|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}<ref>Asamoah has spent the run up to the tournament on loan to [[Modena F.C.|Modena]].</ref>
+{{National football squad player|no=4|pos=DF|name=[[Samuel Kuffour]]|age={{birth date and age2|df=y|2006|6|9|1976|9|3}}|caps=58|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{National football squad player|no=5|pos=DF|name=[[John Mensah]]|age={{birth date and age2|df=y|2006|6|9|1982|11|29}}|caps=33|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}
+{{National football squad player|no=6|pos=DF|name=[[Emmanuel Pappoe]]|age={{birth date and age2|df=y|2006|6|9|1981|3|3}}|caps=27|club=[[Hapoel Kfar Saba]]|clubnat=ISR}}
+{{National football squad player|no=7|pos=DF|name=[[Illiasu Shilla]]|age={{birth date and age2|df=y|2006|6|9|1982|10|26}}|caps=2|club=[[Asante Kotoko]]|clubnat=GHA}}
+{{National football squad player|no=8|pos=MF|name=[[Michael Essien]]|age={{birth date and age2|df=y|2006|6|9|1982|12|3}}|caps=17|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=9|pos=MF|name=[[Derek Boateng]]|age={{birth date and age2|df=y|2006|6|9|1983|5|2}}|caps=11|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{National football squad player|no=10|pos=MF|name=[[Stephen Appiah]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1980|12|24}}|caps=42|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{National football squad player|no=11|pos=MF|name=[[Sulley Muntari]]|age={{birth date and age2|df=y|2006|6|9|1984|8|27}}|caps=16|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{National football squad player|no=12|pos=FW|name=[[Alex Tachie-Mensah]]|age={{birth date and age2|df=y|2006|6|9|1977|2|15}}|caps=5|club=[[FC St Gallen|St. Gallen]]|clubnat=SUI}}
+{{National football squad player|no=13|pos=DF|name=[[Habib Mohamed]]|age={{birth date and age2|df=y|2006|6|9|1983|12|10}}|caps=1|club=[[King Faisal Babes]]|clubnat=GHA}}
+{{National football squad player|no=14|pos=FW|name=[[Matthew Amoah]]|age={{birth date and age2|df=y|2006|6|9|1980|10|24}}|caps=16|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad player|no=15|pos=MF|name=[[John Paintsil]]|age={{birth date and age2|df=y|2006|6|9|1981|6|15}}|caps=21|club=[[Hapoel Tel Aviv FC|Hapoel Tel Aviv]]|clubnat=ISR}}
+{{National football squad player|no=16|pos=GK|name=[[George Owu]]|age={{birth date and age2|df=y|2006|6|9|1982|6|17}}|caps=6|club=[[Ashanti Gold SC|Ashanti Gold]]|clubnat=GHA}}
+{{National football squad player|no=17|pos=DF|name=[[Daniel Quaye]]|age={{birth date and age2|df=y|2006|6|9|1980|12|25}}|caps=7|club=[[Accra Hearts of Oak Sporting Club|Hearts of Oak]]|clubnat=GHA}}
+{{National football squad player|no=18|pos=DF|name=[[Eric Addo]]|age={{birth date and age2|df=y|2006|6|9|1978|11|12}}|caps=6|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=19|pos=FW|name=[[Razak Pimpong]]|age={{birth date and age2|df=y|2006|6|9|1982|12|30}}|caps=4|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{National football squad player|no=20|pos=FW|name=[[Otto Addo]]|age={{birth date and age2|df=y|2006|6|9|1975|6|9}}|caps=13|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{National football squad player|no=21|pos=DF|name=[[Issah Ahmed]]|age={{birth date and age2|df=y|2006|6|9|1982|5|24}}|caps=10|club=[[Randers FC|Randers]]|clubnat=DEN}}
+{{National football squad player|no=22|pos=GK|name=[[Richard Kingson]]|age={{birth date and age2|df=y|2006|6|9|1978|6|13}}|caps=33|club=[[Ankaraspor]]|clubnat=TUR}}
+{{National football squad player|no=23|pos=MF|name=[[Haminu Dramani]]|age={{birth date and age2|df=y|2006|6|9|1986|4|1}}|caps=7|club=[[Red Star Belgrade]]|clubnat=SRB}}<ref>Dramani joined [[Gençlerbirliği]] after the tournament.</ref>
+{{National football squad end}}
+
+===Italy===
+Head coach: [[Marcello Lippi]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Gianluigi Buffon]]|age={{birth date and age2|df=y|2006|6|9|1978|1|28}}|caps=60|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=2|pos=DF|name=[[Cristian Zaccardo]]|age={{birth date and age2|df=y|2006|6|9|1981|12|21}}|caps=12|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{National football squad player|no=3|pos=DF|name=[[Fabio Grosso]]|age={{birth date and age2|df=y|2006|6|9|1977|11|28}}|caps=17|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}<ref>Grosso joined [[F.C. Internazionale Milano|Internazionale]] after the tournament.</ref>
+{{National football squad player|no=4|pos=MF|name=[[Daniele De Rossi]]|age={{birth date and age2|df=y|2006|6|9|1983|7|24}}|caps=17|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{National football squad player|no=5|pos=DF|name=[[Fabio Cannavaro]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|9|13}}|caps=93|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=DF|name=[[Andrea Barzagli]]|age={{birth date and age2|df=y|2006|6|9|1981|5|8}}|caps=8|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{National football squad player|no=7|pos=FW|name=[[Alessandro Del Piero]]|age={{birth date and age2|df=y|2006|6|9|1974|11|9}}|caps=74|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=8|pos=MF|name=[[Gennaro Gattuso]]|age={{birth date and age2|df=y|2006|6|9|1978|1|9}}|caps=43|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=9|pos=FW|name=[[Luca Toni]]|age={{birth date and age2|df=y|2006|6|9|1977|5|26}}|caps=18|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{National football squad player|no=10|pos=FW|name=[[Francesco Totti]]|age={{birth date and age2|df=y|2006|6|9|1976|9|27}}|caps=51|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{National football squad player|no=11|pos=FW|name=[[Alberto Gilardino]]|age={{birth date and age2|df=y|2006|6|9|1982|7|5}}|caps=15|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=12|pos=GK|name=[[Angelo Peruzzi]]|age={{birth date and age2|df=y|2006|6|9|1970|2|16}}|caps=31|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{National football squad player|no=13|pos=DF|name=[[Alessandro Nesta]]|age={{birth date and age2|df=y|2006|6|9|1976|3|19}}|caps=74|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=14|pos=GK|name=[[Marco Amelia]]|age={{birth date and age2|df=y|2006|6|9|1982|4|2}}|caps=1|club=[[A.S. Livorno Calcio|Livorno]]|clubnat=ITA}}
+{{National football squad player|no=15|pos=FW|name=[[Vincenzo Iaquinta]]|age={{birth date and age2|df=y|2006|6|9|1979|11|21}}|caps=12|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{National football squad player|no=16|pos=MF|name=[[Mauro Camoranesi]]|age={{birth date and age2|df=y|2006|6|9|1976|10|4}}|caps=21|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=17|pos=MF|name=[[Simone Barone]]|age={{birth date and age2|df=y|2006|6|9|1978|4|30}}|caps=13|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}
+{{National football squad player|no=18|pos=FW|name=[[Filippo Inzaghi]]|age={{birth date and age2|df=y|2006|6|9|1973|8|9}}|caps=49|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=19|pos=DF|name=[[Gianluca Zambrotta]]|age={{birth date and age2|df=y|2006|6|9|1977|2|19}}|caps=52|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=20|pos=MF|name=[[Simone Perrotta]]|age={{birth date and age2|df=y|2006|6|9|1977|9|17}}|caps=24|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{National football squad player|no=21|pos=MF|name=[[Andrea Pirlo]]|age={{birth date and age2|df=y|2006|6|9|1979|5|19}}|caps=24|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=22|pos=DF|name=[[Massimo Oddo]]|age={{birth date and age2|df=y|2006|6|9|1976|6|14}}|caps=20|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{National football squad player|no=23|pos=DF|name=[[Marco Materazzi]]|age={{birth date and age2|df=y|2006|6|9|1973|8|19}}|caps=28|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad end}}
+
+===United States===
+Head coach: [[Bruce Arena]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Tim Howard]]|age={{birth date and age2|2006|6|9|1979|3|6|df=y}}|caps=16|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}<ref>Howard spent the 2006–07 season on loan to [[Everton F.C.|Everton]].</ref>
+{{National football squad player|no=2|pos=DF|name=[[Chris Albright]]|age={{birth date and age2|2006|6|9|1979|1|14|df=y}}|caps=20|club=[[Los Angeles Galaxy|LA Galaxy]]|clubnat=USA}}<ref>Albright was called up after an injury to [[Frankie Hejduk]].</ref>
+{{National football squad player|no=3|pos=DF|name=[[Carlos Bocanegra]]|age={{birth date and age2|2006|6|9|1979|5|25|df=y}}|caps=40|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{National football squad player|no=4|pos=MF|name=[[Pablo Mastroeni]]|age={{birth date and age2|2006|6|9|1976|8|26|df=y}}|caps=48|club=[[Colorado Rapids]]|clubnat=USA}}
+{{National football squad player|no=5|pos=MF|name=[[John O'Brien (soccer)|John O'Brien]]|age={{birth date and age2|2006|6|9|1977|8|29|df=y}}|caps=31|club=[[C.D. Chivas USA|Chivas USA]]|clubnat=USA}}
+{{National football squad player|no=6|pos=DF|name=[[Steve Cherundolo]]|age={{birth date and age2|2006|6|9|1979|2|19|df=y}}|caps=35|club=[[Hannover 96]]|clubnat=GER}}
+{{National football squad player|no=7|pos=MF|name=[[Eddie Lewis (American soccer)|Eddie Lewis]]|age={{birth date and age2|2006|6|9|1974|5|17|df=y}}|caps=69|club=[[Leeds United A.F.C.|Leeds United]]|clubnat=ENG}}
+{{National football squad player|no=8|pos=MF|name=[[Clint Dempsey]]|age={{birth date and age2|2006|6|9|1983|3|9|df=y}}|caps=21|club=[[New England Revolution]]|clubnat=USA}}
+{{National football squad player|no=9|pos=FW|name=[[Eddie Johnson (American soccer)|Eddie Johnson]]|age={{birth date and age2|2006|6|9|1984|3|31|df=y}}|caps=18|club=[[Kansas City Wizards]]|clubnat=USA}}
+{{National football squad player|no=10|pos=MF|name=[[Claudio Reyna]] ([[Captain (association football)|c]])|age={{birth date and age2|2006|6|9|1973|7|20|df=y}}|caps=109|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{National football squad player|no=11|pos=FW|name=[[Brian Ching]]|age={{birth date and age2|2006|6|9|1978|5|24|df=y}}|caps=20|club=[[Houston Dynamo]]|clubnat=USA}}
+{{National football squad player|no=12|pos=DF|name=[[Gregg Berhalter]]|age={{birth date and age2|2006|6|9|1973|8|1|df=y}}|caps=44|club=[[Energie Cottbus]]|clubnat=GER}}<ref>Berhalter, who joined [[TSV 1860 München|1860 Munich]] after the World Cup, was called up after an injury to [[Cory Gibbs]].</ref>
+{{National football squad player|no=13|pos=DF|name=[[Jimmy Conrad]]|age={{birth date and age2|2006|6|9|1977|2|12|df=y}}|caps=15|club=[[Kansas City Wizards]]|clubnat=USA}}
+{{National football squad player|no=14|pos=MF|name=[[Ben Olsen]]|age={{birth date and age2|2006|6|9|1977|5|3|df=y}}|caps=34|club=[[D.C. United]]|clubnat=USA}}
+{{National football squad player|no=15|pos=MF|name=[[Bobby Convey]]|age={{birth date and age2|2006|6|9|1983|5|27|df=y}}|caps=39|club=[[Reading F.C.|Reading]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=FW|name=[[Josh Wolff]]|age={{birth date and age2|2006|6|9|1977|2|25|df=y}}|caps=47|club=[[Kansas City Wizards]]|clubnat=USA}}
+{{National football squad player|no=17|pos=MF|name=[[DaMarcus Beasley]]|age={{birth date and age2|2006|6|9|1982|5|24|df=y}}|caps=58|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=18|pos=GK|name=[[Kasey Keller]]|age={{birth date and age2|2006|6|9|1969|11|29|df=y}}|caps=93|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{National football squad player|no=19|pos=GK|name=[[Marcus Hahnemann]]|age={{birth date and age2|2006|6|9|1972|6|15|df=y}}|caps=6|club=[[Reading F.C.|Reading]]|clubnat=ENG}}
+{{National football squad player|no=20|pos=FW|name=[[Brian McBride]]|age={{birth date and age2|2006|6|9|1972|6|19|df=y}}|caps=92|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{National football squad player|no=21|pos=FW|name=[[Landon Donovan]]|age={{birth date and age2|2006|6|9|1982|3|4|df=y}}|caps=81|club=[[Los Angeles Galaxy|LA Galaxy]]|clubnat=USA}}
+{{National football squad player|no=22|pos=DF|name=[[Oguchi Onyewu]]|age={{birth date and age2|2006|6|9|1982|5|13|df=y}}|caps=14|club=[[Standard Liège]]|clubnat=BEL}}
+{{National football squad player|no=23|pos=DF|name=[[Eddie Pope]]|age={{birth date and age2|2006|6|9|1973|12|24|df=y}}|caps=80|club=[[Real Salt Lake]]|clubnat=USA}}
+{{National football squad end}}
+
+==Group F==
+
+===Australia===
+Head coach: {{flagicon|NED}} [[Guus Hiddink]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Mark Schwarzer]]|age={{birth date and age2|df=y|2006|6|9|1972|10|6}}|caps=37|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{National football squad player|no=2|pos=DF|name=[[Lucas Neill]]|age={{birth date and age2|df=y|2006|6|9|1978|3|9}}|caps=25|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Craig Moore]]|age={{birth date and age2|df=y|2006|6|9|1975|12|12}}|caps=33|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{National football squad player|no=4|pos=MF|name=[[Tim Cahill]]|age={{birth date and age2|df=y|2006|6|9|1979|12|6}}|caps=16|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=MF|name=[[Jason Čulina]]|age={{birth date and age2|df=y|2006|6|9|1980|8|5}}|caps=13|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{National football squad player|no=6|pos=DF|name=[[Tony Popovic]]|age={{birth date and age2|df=y|2006|6|9|1973|7|4}}|caps=56|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}<ref>Popovic's Crystal Palace contract expires after the tournament, and his future will be decided between the end Australia's tournament and the expiry date.</ref>
+{{National football squad player|no=7|pos=DF|name=[[Brett Emerton]]|age={{birth date and age2|df=y|2006|6|9|1979|2|22}}|caps=48|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{National football squad player|no=8|pos=MF|name=[[Josip Skoko]]|age={{birth date and age2|df=y|2006|6|9|1975|12|10}}|caps=46|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}<ref>Skoko has spent the run-up of the tournament on loan to [[Stoke City F.C.|Stoke City]].</ref>
+{{National football squad player|no=9|pos=FW|name=[[Mark Viduka]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1975|10|9}}|caps=33|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{National football squad player|no=10|pos=FW|name=[[Harry Kewell]]|age={{birth date and age2|df=y|2006|6|9|1978|9|22}}|caps=20|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=11|pos=DF|name=[[Stan Lazaridis]]|age={{birth date and age2|df=y|2006|6|9|1972|8|16}}|caps=59|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}<ref>Lazaridis joined [[Perth Glory FC|Perth Glory]] after the tournament.</ref>
+{{National football squad player|no=12|pos=GK|name=[[Ante Čović]]|age={{birth date and age2|df=y|2006|6|9|1975|6|13}}|caps=1|club=[[Hammarby IF|Hammarby]]|clubnat=SWE}}
+{{National football squad player|no=13|pos=MF|name=[[Vincenzo Grella]]|age={{birth date and age2|df=y|2006|6|9|1979|10|5}}|caps=17|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{National football squad player|no=14|pos=MF|name=[[Scott Chipperfield]]|age={{birth date and age2|df=y|2006|6|9|1975|12|30}}|caps=46|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{National football squad player|no=15|pos=FW|name=[[John Aloisi]]|age={{birth date and age2|df=y|2006|6|9|1976|2|5}}|caps=41|club=[[Deportivo Alavés|Alavés]]|clubnat=ESP}}
+{{National football squad player|no=16|pos=DF|name=[[Michael Beauchamp]]|age={{birth date and age2|df=y|2006|6|9|1981|3|8}}|caps=2|club=[[Central Coast Mariners FC|Central Coast Mariners]]|clubnat=AUS}}<ref>Beauchamp has agreed to join [[1. FC Nuremberg|Nuremberg]] after the tournament.</ref>
+{{National football squad player|no=17|pos=FW|name=[[Archie Thompson]]|age={{birth date and age2|df=y|2006|6|9|1978|10|23}}|caps=20|club=[[Melbourne Victory FC|Melbourne Victory]]|clubnat=AUS}}<ref>Thompson has spent the run-up of the tournament on loan to [[PSV Eindhoven]].</ref>
+{{National football squad player|no=18|pos=GK|name=[[Željko Kalac]]|age={{birth date and age2|df=y|2006|6|9|1972|12|16}}|caps=52|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=19|pos=FW|name=[[Joshua Kennedy]]|age={{birth date and age2|df=y|2006|6|9|1982|8|20}}|caps=1|club=[[Dynamo Dresden]]|clubnat=GER}}<ref>Kennedy has agreed to join [[1. FC Nuremberg|Nuremberg]] after the tournament.</ref>
+{{National football squad player|no=20|pos=DF|name=[[Luke Wilkshire]]|age={{birth date and age2|df=y|2006|6|9|1981|10|2}}|caps=8|club=[[Bristol City F.C.|Bristol City]]|clubnat=ENG}}
+{{National football squad player|no=21|pos=MF|name=[[Mile Sterjovski]]|age={{birth date and age2|df=y|2006|6|9|1979|5|27}}|caps=22|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{National football squad player|no=22|pos=DF|name=[[Mark Milligan]]|age={{birth date and age2|df=y|2006|6|9|1985|8|4}}|caps=1|club=[[Sydney FC]]|clubnat=AUS}}
+{{National football squad player|no=23|pos=MF|name=[[Mark Bresciano]]|age={{birth date and age2|df=y|2006|6|9|1980|2|11}}|caps=24|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{National football squad end}}
+
+===Brazil===
+Head coach: [[Carlos Alberto Parreira]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Dida (goalkeeper)|Dida]]|age={{birth date and age2|df=y|2006|6|9|1973|10|7}}|caps=86|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=2|pos=DF|name=[[Cafu]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1970|6|7}}|caps=138|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=3|pos=DF|name=[[Lúcio]]|age={{birth date and age2|df=y|2006|6|9|1978|5|8}}|caps=50|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=4|pos=DF|name=[[Juan Silveira dos Santos|Juan]]|age={{birth date and age2|df=y|2006|6|9|1979|2|1}}|caps=38|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=5|pos=MF|name=[[Emerson Ferreira da Rosa|Emerson]]|age={{birth date and age2|df=y|2006|6|9|1976|4|4}}|caps=70|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=DF|name=[[Roberto Carlos da Silva|Roberto Carlos]]|age={{birth date and age2|df=y|2006|6|9|1973|4|10}}|caps=121|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=7|pos=FW|name=[[Adriano Leite Ribeiro|Adriano]]|age={{birth date and age2|df=y|2006|6|9|1982|2|17}}|caps=32|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=8|pos=MF|name=[[Kaká]]|age={{birth date and age2|df=y|2006|6|9|1982|4|22}}|caps=38|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=9|pos=FW|name=[[Ronaldo]]|age={{birth date and age2|df=y|2006|6|9|1976|9|22}}|caps=92|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=10|pos=MF|name=[[Ronaldinho]]|age={{birth date and age2|df=y|2006|6|9|1980|3|21}}|caps=63|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=11|pos=MF|name=[[José Roberto da Silva Júnior|Zé Roberto]]|age={{birth date and age2|df=y|2006|6|9|1974|7|6}}|caps=79||club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}<ref>Zé Roberto became a free agent after the tournament</ref>
+{{National football squad player|no=12|pos=GK|name=[[Rogério Ceni]]|age={{birth date and age2|df=y|2006|6|9|1973|1|22}}|caps=15|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{National football squad player|no=13|pos=DF|name=[[Cicinho]]|age={{birth date and age2|df=y|2006|6|9|1980|6|24}}|caps=10|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=14|pos=DF|name=[[Luisão]]|age={{birth date and age2|df=y|2006|6|9|1981|2|13}}|caps=19|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{National football squad player|no=15|pos=DF|name=[[Cristiano Marques Gomes|Cris]]|age={{birth date and age2|df=y|2006|6|9|1977|6|3}}|caps=16|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=16|pos=DF|name=[[Gilberto da Silva Melo|Gilberto]]|age={{birth date and age2|df=y|2006|6|9|1976|4|25}}|caps=9|club=[[Hertha BSC]]|clubnat=GER}}
+{{National football squad player|no=17|pos=MF|name=[[Gilberto Silva]]|age={{birth date and age2|df=y|2006|6|9|1976|10|7}}|caps=36|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=18|pos=MF|name=[[Carlos Luciano da Silva|Mineiro]]|age={{birth date and age2|df=y|2006|6|9|1975|8|2}}|caps=2|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}<ref>Mineiro was called up after an injury to [[Edmílson Gomes|Edmílson]]</ref>
+{{National football squad player|no=19|pos=MF|name=[[Juninho Pernambucano|Juninho]]|age={{birth date and age2|df=y|2006|6|9|1975|1|30}}|caps=37|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=20|pos=MF|name=[[Ricardinho]]|age={{birth date and age2|df=y|2006|6|9|1976|5|23}}|caps=19|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{National football squad player|no=21|pos=FW|name=[[Fred (footballer)|Fred]]|age={{birth date and age2|df=y|2006|6|9|1983|10|3}}|caps=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=22|pos=GK|name=[[Júlio César Soares Espíndola|Júlio César]]|age={{birth date and age2|df=y|2006|6|9|1979|9|3}}|caps=11|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{National football squad player|no=23|pos=FW|name=[[Robinho]]|age={{birth date and age2|df=y|2006|6|9|1984|1|25}}|caps=23|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad end}}
+
+===Croatia===
+Head coach: [[Zlatko Kranjčar]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Stipe Pletikosa]]|age={{birth date and age2|df=y|2006|6|9|1979|1|8}}|caps=50|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}<ref>Pletikosa was on loan to [[Hajduk Split]] in the run-up to the tournament</ref>
+{{National football squad player|no=2|pos=MF|name=[[Darijo Srna]]|age={{birth date and age2|df=y|2006|6|9|1982|5|1}}|caps=36|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=3|pos=DF|name=[[Josip Šimunić]]|age={{birth date and age2|df=y|2006|6|9|1978|2|18}}|caps=42|club=[[Hertha BSC]]|clubnat=GER}}
+{{National football squad player|no=4|pos=DF|name=[[Robert Kovač]]|age={{birth date and age2|df=y|2006|6|9|1974|4|6}}|caps=56|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=5|pos=DF|name=[[Igor Tudor]]|age={{birth date and age2|df=y|2006|6|9|1978|4|16}}|caps=52|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}<ref>Tudor was on loan to [[A.C. Siena|Siena]] in the run-up to the tournament</ref>
+{{National football squad player|no=6|pos=MF|name=[[Jurica Vranješ]]|age={{birth date and age2|df=y|2006|6|9|1980|1|30}}|caps=24|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{National football squad player|no=7|pos=DF|name=[[Dario Šimić]]|age={{birth date and age2|df=y|2006|6|9|1975|11|12}}|caps=80|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=8|pos=MF|name=[[Marko Babić (footballer)|Marko Babić]]|age={{birth date and age2|df=y|2006|6|9|1981|1|28}}|caps=33|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=9|pos=FW|name=[[Dado Pršo]]|age={{birth date and age2|df=y|2006|6|9|1974|11|5}}|caps=29|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{National football squad player|no=10|pos=MF|name=[[Niko Kovač]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1971|10|15}}|caps=58|club=[[Hertha BSC]]<ref>Niko Kovač joined [[FC Red Bull Salzburg|Red Bull Salzburg]] after the tournament.</ref>|clubnat=GER}}
+{{National football squad player|no=11|pos=DF|name=[[Mario Tokić]]|age={{birth date and age2|df=y|2006|6|9|1975|6|23}}|caps=28|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{National football squad player|no=12|pos=GK|name=[[Joey Didulica]]|age={{birth date and age2|df=y|2006|6|9|1977|10|14}}|caps=4|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{National football squad player|no=13|pos=DF|name=[[Stjepan Tomas]]|age={{birth date and age2|df=y|2006|6|9|1976|3|6}}|caps=48|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{National football squad player|no=14|pos=MF|name=[[Luka Modrić]]|age={{birth date and age2|df=y|2006|6|9|1985|9|9}}|caps=5|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{National football squad player|no=15|pos=MF|name=[[Ivan Leko]]|age={{birth date and age2|df=y|2006|6|9|1978|2|7}}|caps=13|club=[[Club Brugge]]|clubnat=BEL}}
+{{National football squad player|no=16|pos=MF|name=[[Jerko Leko]]|age={{birth date and age2|df=y|2006|6|9|1980|4|9}}|caps=36|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}<ref>[[Jerko Leko]] joined [[AS Monaco FC|AS Monaco]] after the tournament.</ref>
+{{National football squad player|no=17|pos=FW|name=[[Ivan Klasnić]]|age={{birth date and age2|df=y|2006|6|9|1980|1|29}}|caps=20|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{National football squad player|no=18|pos=FW|name=[[Ivica Olić]]|age={{birth date and age2|df=y|2006|6|9|1979|9|14}}|caps=36|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{National football squad player|no=19|pos=MF|name=[[Niko Kranjčar]]|age={{birth date and age2|df=y|2006|6|9|1984|8|13}}|caps=21|club=[[Hajduk Split]]|clubnat=CRO}}
+{{National football squad player|no=20|pos=MF|name=[[Anthony Šerić]]|age={{birth date and age2|df=y|2006|6|9|1979|1|15}}|caps=14|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{National football squad player|no=21|pos=FW|name=[[Boško Balaban]]|age={{birth date and age2|df=y|2006|6|9|1978|10|15}}|caps=27|club=[[Club Brugge]]|clubnat=BEL}}
+{{National football squad player|no=22|pos=FW|name=[[Ivan Bošnjak]]|age={{birth date and age2|df=y|2006|6|9|1979|2|6}}|caps=13|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]<ref>[[Ivan Bošnjak]] joined [[K.R.C. Genk]] after the tournament.</ref>|clubnat=CRO}}
+{{National football squad player|no=23|pos=GK|name=[[Tomislav Butina]]|age={{birth date and age2|df=y|2006|6|9|1974|3|30}}|caps=28|club=[[Club Brugge]]|clubnat=BEL}}
+{{National football squad end}}
+
+===Japan===
+Head coach: {{flagicon|BRA}} [[Zico]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Seigo Narazaki]]|age={{birth date and age2|df=y|2006|6|9|1976|4|15}}|caps=50|club=[[Nagoya Grampus Eight]]|clubnat=JPN}}
+{{National football squad player|no=2|pos=DF|name=[[Teruyuki Moniwa]]|age={{birth date and age2|df=y|2006|6|9|1981|9|8}}|caps=8|club=[[FC Tokyo]]|clubnat=JPN}}
+{{National football squad player|no=3|pos=DF|name=[[Yūichi Komano]]|age={{birth date and age2|df=y|2006|6|9|1981|7|25}}|caps=8|club=[[Sanfrecce Hiroshima]]|clubnat=JPN}}
+{{National football squad player|no=4|pos=MF|name=[[Yasuhito Endo]]|age={{birth date and age2|df=y|2006|6|9|1980|1|28}}|caps=40|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{National football squad player|no=5|pos=DF|name=[[Tsuneyasu Miyamoto]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1977|2|7}}|caps=69|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{National football squad player|no=6|pos=DF|name=[[Kōji Nakata]]|age={{birth date and age2|df=y|2006|6|9|1979|7|9}}|caps=55|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{National football squad player|no=7|pos=MF|name=[[Hidetoshi Nakata]]|age={{birth date and age2|df=y|2006|6|9|1977|1|22}}|caps=74|club=[[AC Fiorentina|Fiorentina]]|clubnat=ITA}}<ref>Nakata was on loan to [[Bolton Wanderers]] in the run-up to the tournament.</ref>
+{{National football squad player|no=8|pos=MF|name=[[Mitsuo Ogasawara]]|age={{birth date and age2|df=y|2006|6|9|1979|4|5}}|caps=51|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{National football squad player|no=9|pos=FW|name=[[Naohiro Takahara]]|age={{birth date and age2|df=y|2006|6|9|1979|6|4}}|caps=41|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}<ref>Takahara has agreed to join [[Eintracht Frankfurt|Frankfurt]] after the World Cup.</ref>
+{{National football squad player|no=10|pos=MF|name=[[Shunsuke Nakamura]]|age={{birth date and age2|df=y|2006|6|9|1978|6|24}}|caps=60|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{National football squad player|no=11|pos=FW|name=[[Seiichiro Maki]]|age={{birth date and age2|df=y|2006|6|9|1980|8|7}}|caps=10|club=[[JEF United Ichihara Chiba|JEF United]]|clubnat=JPN}}
+{{National football squad player|no=12|pos=GK|name=[[Yoichi Doi]]|age={{birth date and age2|df=y|2006|6|9|1973|7|25}}|caps=4|club=[[FC Tokyo]]|clubnat=JPN}}
+{{National football squad player|no=13|pos=FW|name=[[Atsushi Yanagisawa]]|age={{birth date and age2|df=y|2006|6|9|1977|5|27}}|caps=56|club=[[Kashima Antlers]]|clubnat=JPN}}
+{{National football squad player|no=14|pos=DF|name=[[Alessandro dos Santos|Alex]]|age={{birth date and age2|df=y|2006|6|9|1977|7|20}}|caps=72|club=[[Urawa Red Diamonds]]|clubnat=JPN}}
+{{National football squad player|no=15|pos=MF|name=[[Takashi Fukunishi]]|age={{birth date and age2|df=y|2006|6|9|1976|9|1}}|caps=62|club=[[Júbilo Iwata]]|clubnat=JPN}}
+{{National football squad player|no=16|pos=FW|name=[[Masashi Oguro]]|age={{birth date and age2|df=y|2006|6|9|1980|5|4}}|caps=18|club=[[Grenoble Foot 38|Grenoble]]|clubnat=FRA}}
+{{National football squad player|no=17|pos=MF|name=[[Junichi Inamoto]]|age={{birth date and age2|df=y|2006|6|9|1979|9|18}}|caps=63|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{National football squad player|no=18|pos=MF|name=[[Shinji Ono]]|age={{birth date and age2|df=y|2006|6|9|1979|9|27}}|caps=54|club=[[Urawa Red Diamonds]]|clubnat=JPN}}
+{{National football squad player|no=19|pos=DF|name=[[Keisuke Tsuboi]]|age={{birth date and age2|df=y|2006|6|9|1979|9|16}}|caps=33|club=[[Urawa Red Diamonds]]|clubnat=JPN}}
+{{National football squad player|no=20|pos=FW|name=[[Keiji Tamada]]|age={{birth date and age2|df=y|2006|6|9|1980|4|11}}|caps=39|club=[[Nagoya Grampus Eight]]|clubnat=JPN}}
+{{National football squad player|no=21|pos=DF|name=[[Akira Kaji]]|age={{birth date and age2|df=y|2006|6|9|1980|1|13}}|caps=43|club=[[Gamba Osaka]]|clubnat=JPN}}
+{{National football squad player|no=22|pos=DF|name=[[Yuji Nakazawa]]|age={{birth date and age2|df=y|2006|6|9|1978|2|25}}|caps=50|club=[[Yokohama F. Marinos]]|clubnat=JPN}}
+{{National football squad player|no=23|pos=GK|name=[[Yoshikatsu Kawaguchi]]|age={{birth date and age2|df=y|2006|6|9|1975|8|15}}|caps=89|club=[[Júbilo Iwata]]|clubnat=JPN}}
+{{National football squad end}}
+
+==Group G==
+
+===France===
+Head coach: [[Raymond Domenech]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Mickaël Landreau]]|age={{birth date and age2|df=y|2006|6|9|1979|5|14}}|caps=3|club=[[FC Nantes Atlantique|Nantes]]|clubnat=FRA}}<ref>Landreau has agreed to join [[Paris Saint-Germain]] after the tournament.</ref>
+{{National football squad player|no=2|pos=DF|name=[[Jean-Alain Boumsong]]|age={{birth date and age2|df=y|2006|6|9|1979|12|14}}|caps=19|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Éric Abidal]]|age={{birth date and age2|df=y|2006|6|9|1979|9|11}}|caps=8|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=4|pos=MF|name=[[Patrick Vieira]]|age={{birth date and age2|df=y|2006|6|9|1976|6|23}}|caps=87|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=5|pos=DF|name=[[William Gallas]]|age={{birth date and age2|df=y|2006|6|9|1977|8|17}}|caps=40|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=6|pos=MF|name=[[Claude Makélélé]]|age={{birth date and age2|df=y|2006|6|9|1973|2|18}}|caps=43|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{National football squad player|no=7|pos=MF|name=[[Florent Malouda]]|age={{birth date and age2|df=y|2006|6|9|1980|6|13}}|caps=13|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=8|pos=MF|name=[[Vikash Dhorasoo]]|age={{birth date and age2|df=y|2006|6|9|1973|10|10}}|caps=16|club=[[Paris Saint-Germain]]|clubnat=FRA}}
+{{National football squad player|no=9|pos=FW|name=[[Sidney Govou]]|age={{birth date and age2|df=y|2006|6|9|1979|7|27}}|caps=19|club=[[Olympique Lyonnais|Lyon]]<ref>Govou was called up as a replacement for the injured [[Djibril Cissé]].</ref>|clubnat=FRA}}
+{{National football squad player|no=10|pos=MF|name=[[Zinedine Zidane]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1972|6|23}}|caps=102|club=[[Real Madrid C.F.|Real Madrid]]<ref>Zidane retired from football after the tournament.</ref>|clubnat=ESP}}
+{{National football squad player|no=11|pos=FW|name=[[Sylvain Wiltord]]|age={{birth date and age2|df=y|2006|6|9|1974|5|10}}|caps=80|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=12|pos=FW|name=[[Thierry Henry]]|age={{birth date and age2|df=y|2006|6|9|1977|8|17}}|caps=78|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=13|pos=DF|name=[[Mikaël Silvestre]]|age={{birth date and age2|df=y|2006|6|9|1977|8|9}}|caps=39|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=14|pos=FW|name=[[Louis Saha]]|age={{birth date and age2|df=y|2006|6|9|1978|8|8}}|caps=9|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=15|pos=DF|name=[[Lilian Thuram]]|age={{birth date and age2|df=y|2006|6|9|1972|1|1}}|caps=114|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=16|pos=GK|name=[[Fabien Barthez]]|age={{birth date and age2|df=y|2006|6|9|1971|6|28}}|caps=80|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}<ref>Barthez became a [[Free agent (football)|free agent]] after the tournament.</ref>
+{{National football squad player|no=17|pos=DF|name=[[Gaël Givet]]|age={{birth date and age2|df=y|2006|6|9|1981|10|9}}|caps=11|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{National football squad player|no=18|pos=MF|name=[[Alou Diarra]]|age={{birth date and age2|df=y|2006|6|9|1981|7|15}}|caps=9|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{National football squad player|no=19|pos=DF|name=[[Willy Sagnol]]|age={{birth date and age2|df=y|2006|6|9|1977|3|18}}|caps=38|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{National football squad player|no=20|pos=FW|name=[[David Trézéguet]]|age={{birth date and age2|df=y|2006|6|9|1977|10|15}}|caps=63|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{National football squad player|no=21|pos=DF|name=[[Pascal Chimbonda]]|age={{birth date and age2|df=y|2006|6|9|1979|2|21}}|caps=1|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{National football squad player|no=22|pos=MF|name=[[Franck Ribéry]]|age={{birth date and age2|df=y|2006|6|9|1983|4|7}}|caps=3|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{National football squad player|no=23|pos=GK|name=[[Grégory Coupet]]|age={{birth date and age2|df=y|2006|6|9|1972|12|31}}|caps=18|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad end}}
+
+===Korea Republic===
+Head coach: {{flagicon|NED}} [[Dick Advocaat]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Lee Woon-Jae]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|4|26}}|caps=97|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{National football squad player|no=2|pos=DF|name=[[Kim Young-Chul]]|age={{birth date and age2|df=y|2006|6|9|1976|6|30}}|caps=12|club=[[Seongnam Ilhwa Chunma]]|clubnat=KOR}}
+{{National football squad player|no=3|pos=DF|name=[[Kim Dong-Jin]]|age={{birth date and age2|df=y|2006|6|9|1982|1|29}}|caps=34|club=[[FC Seoul]]|clubnat=KOR}}
+{{National football squad player|no=4|pos=DF|name=[[Choi Jin-Cheul]]|age={{birth date and age2|df=y|2006|6|9|1971|3|26}}|caps=62|club=[[Jeonbuk Hyundai Motors]]|clubnat=KOR}}
+{{National football squad player|no=5|pos=MF|name=[[Kim Nam-Il]]|age={{birth date and age2|df=y|2006|6|9|1977|3|14}}|caps=66|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{National football squad player|no=6|pos=DF|name=[[Kim Jin-Kyu (footballer)|Kim Jin-Kyu]]|age={{birth date and age2|df=y|2006|6|9|1985|2|16}}|caps=23|club=[[Júbilo Iwata]]|clubnat=JPN}}
+{{National football squad player|no=7|pos=MF|name=[[Park Ji-Sung]]|age={{birth date and age2|df=y|2006|6|9|1981|2|25}}|caps=60|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{National football squad player|no=8|pos=MF|name=[[Kim Do-Heon]]|age={{birth date and age2|df=y|2006|6|9|1982|7|14}}|caps=75|club=[[Seongnam Ilhwa Chunma]]|clubnat=KOR}}
+{{National football squad player|no=9|pos=FW|name=[[Ahn Jung-Hwan]]|age={{birth date and age2|df=y|2006|6|9|1976|1|27}}|caps=61|club=[[MSV Duisburg]]|clubnat=GER}}
+{{National football squad player|no=10|pos=FW|name=[[Park Chu-Young]]|age={{birth date and age2|df=y|2006|6|9|1985|7|10}}|caps=18|club=[[FC Seoul]]|clubnat=KOR}}
+{{National football squad player|no=11|pos=FW|name=[[Seol Ki-Hyeon]]|age={{birth date and age2|df=y|2006|6|9|1979|1|8}}|caps=67|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=DF|name=[[Lee Young-Pyo]]|age={{birth date and age2|df=y|2006|6|9|1977|4|23}}|caps=85|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{National football squad player|no=13|pos=MF|name=[[Lee Eul-Yong]]|age={{birth date and age2|df=y|2006|6|9|1975|9|8}}|caps=47|club=[[Trabzonspor]]|clubnat=TUR}}
+{{National football squad player|no=14|pos=FW|name=[[Lee Chun-Soo]]|age={{birth date and age2|df=y|2006|6|9|1981|7|9}}|caps=62|club=[[Ulsan Hyundai FC|Ulsan Hyundai Horangi]]|clubnat=KOR}}
+{{National football squad player|no=15|pos=MF|name=[[Baek Ji-Hoon]]|age={{birth date and age2|df=y|2006|6|9|1985|2|28}}|caps=12|club=[[FC Seoul]]|clubnat=KOR}}
+{{National football squad player|no=16|pos=FW|name=[[Chung Kyung-Ho]]|age={{birth date and age2|df=y|2006|6|9|1980|5|22}}|caps=40|club=[[Sangju Sangmu Phoenix|Gwangju Sangmu Phoenix]]|clubnat=KOR}}
+{{National football squad player|no=17|pos=MF|name=[[Lee Ho]]|age={{birth date and age2|df=y|2006|6|9|1984|12|22}}|caps=11|club=[[Ulsan Hyundai FC|Ulsan Hyundai Horangi]]|clubnat=KOR}}
+{{National football squad player|no=18|pos=DF|name=[[Kim Sang-Sik]]|age={{birth date and age2|df=y|2006|6|9|1976|12|17}}|caps=42|club=[[Seongnam Ilhwa Chunma]]|clubnat=KOR}}
+{{National football squad player|no=19|pos=FW|name=[[Cho Jae-Jin]]|age={{birth date and age2|df=y|2006|6|9|1981|7|9}}|caps=21|club=[[Shimizu S-Pulse]]|clubnat=JPN}}
+{{National football squad player|no=20|pos=GK|name=[[Kim Yong-Dae]]|age={{birth date and age2|df=y|2006|6|9|1979|10|11}}|caps=15|club=[[Seongnam Ilhwa Chunma]]|clubnat=KOR}}
+{{National football squad player|no=21|pos=GK|name=[[Kim Young-Kwang]]|age={{birth date and age2|df=y|2006|6|9|1983|6|28}}|caps=6|club=[[Chunnam Dragons]]|clubnat=KOR}}
+{{National football squad player|no=22|pos=DF|name=[[Song Chong-Gug]]|age={{birth date and age2|df=y|2006|6|9|1979|2|20}}|caps=51|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{National football squad player|no=23|pos=DF|name=[[Cho Won-Hee]]|age={{birth date and age2|df=y|2006|6|9|1983|4|17}}|caps=13|club=[[Suwon Samsung Bluewings]]|clubnat=KOR}}
+{{National football squad end}}
+
+===Switzerland===
+Head coach: [[Köbi Kuhn]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Pascal Zuberbühler]]|age={{birth date and age2|df=y|2006|6|9|1971|1|8}}|caps=40|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{National football squad player|no=2|pos=MF|name=[[Johan Djourou]]|age={{birth date and age2|df=y|2006|6|9|1987|1|18}}|caps=2|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=3|pos=DF|name=[[Ludovic Magnin]]|age={{birth date and age2|df=y|2006|6|9|1979|4|20}}|caps=30|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{National football squad player|no=4|pos=DF|name=[[Philippe Senderos]]|age={{birth date and age2|df=y|2006|6|9|1985|2|14}}|caps=12|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=MF|name=[[Xavier Margairaz]]|age={{birth date and age2|df=y|2006|6|9|1984|1|17}}|caps=3|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{National football squad player|no=6|pos=MF|name=[[Johann Vogel]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1977|3|8}}|caps=85|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{National football squad player|no=7|pos=MF|name=[[Ricardo Cabanas]]|age={{birth date and age2|df=y|2006|6|9|1979|1|17}}|caps=37|club=[[1. FC Köln|Köln]]|clubnat=GER}}
+{{National football squad player|no=8|pos=DF|name=[[Raphaël Wicky]]|age={{birth date and age2|df=y|2006|6|9|1977|4|26}}|caps=67|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{National football squad player|no=9|pos=FW|name=[[Alexander Frei]]|age={{birth date and age2|df=y|2006|6|9|1979|7|15}}|caps=45|club=[[Stade Rennais FC|Rennes]]|clubnat=FRA}}<ref>Frei joined [[Borussia Dortmund]] after the tournament.</ref>
+{{National football squad player|no=10|pos=FW|name=[[Daniel Gygax]]|age={{birth date and age2|df=y|2006|6|9|1981|8|28}}|caps=22|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{National football squad player|no=11|pos=FW|name=[[Marco Streller]]|age={{birth date and age2|df=y|2006|6|9|1981|6|18}}|caps=10|club=[[1. FC Köln|Köln]]|clubnat=GER}}
+{{National football squad player|no=12|pos=GK|name=[[Diego Benaglio]]|age={{birth date and age2|df=y|2006|6|9|1983|7|8}}|caps=1|club=[[C.D. Nacional|Nacional]]|clubnat=POR}}
+{{National football squad player|no=13|pos=DF|name=[[Stéphane Grichting]]|age={{birth date and age2|df=y|2006|6|9|1979|3|30}}|caps=6|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{National football squad player|no=14|pos=MF|name=[[David Degen]]|age={{birth date and age2|df=y|2006|6|9|1983|2|15}}|caps=3|club=[[FC Basel|Basel]]|clubnat=SUI}}<ref>David Degen joined [[Borussia Mönchengladbach]] after the tournament.</ref>
+{{National football squad player|no=15|pos=MF|name=[[Blerim Džemaili]]|age={{birth date and age2|df=y|2006|6|9|1986|4|12}}|caps=3|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{National football squad player|no=16|pos=MF|name=[[Tranquillo Barnetta]]|age={{birth date and age2|df=y|2006|6|9|1985|5|22}}|caps=13|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=17|pos=DF|name=[[Christoph Spycher]]|age={{birth date and age2|df=y|2006|6|9|1978|3|30}}|caps=21|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{National football squad player|no=18|pos=FW|name=[[Mauro Lustrinelli]]|age={{birth date and age2|df=y|2006|6|9|1976|2|26}}|caps=5|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{National football squad player|no=19|pos=MF|name=[[Valon Behrami]]|age={{birth date and age2|df=y|2006|6|9|1985|4|19}}|caps=6|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{National football squad player|no=20|pos=DF|name=[[Patrick Müller]]|age={{birth date and age2|df=y|2006|6|9|1976|12|17}}|caps=64|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{National football squad player|no=21|pos=GK|name=[[Fabio Coltorti]]|age={{birth date and age2|df=y|2006|6|9|1980|12|3}}|caps=2|club=[[Grasshopper Club Zürich|Grasshopper]]|clubnat=SUI}}
+{{National football squad player|no=22|pos=FW|name=[[Hakan Yakin|Hakan Yakın]]|age={{birth date and age2|df=y|2006|6|9|1977|2|22}}|caps=46|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}<ref>Yakin was called up after an injury to [[Johan Vonlanthen]].</ref>
+{{National football squad player|no=23|pos=DF|name=[[Philipp Degen]]|age={{birth date and age2|df=y|2006|6|9|1983|2|15}}|caps=15|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{National football squad end}}
+
+===Togo===
+Head coach: {{flagicon|GER}} [[Otto Pfister]]<ref>{{cite news |title=Confusion over Pfister comeback |url=http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/togo/5072730.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=12 June 2006 |accessdate=28 April 2011 | archiveurl= http://web.archive.org/web/20110511123520/http://news.bbc.co.uk/sport1/hi/football/world_cup_2006/teams/togo/5072730.stm| archivedate= 11 May 2011 <!--DASHBot-->| deadurl= no}} Disputes over the Togo players' pay bonuses caused Pfister to walk out after Togo's first match, but he returned before their second match.</ref>
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Ouro-Nimini Tchagnirou]]|age={{birth date and age2|df=y|2006|6|9|1977|12|31}}|caps=9|club=[[Djoliba AC|Djoliba]]|clubnat=MLI}}
+{{National football squad player|no=2|pos=DF|name=[[Daré Nibombé]]|age={{birth date and age2|df=y|2006|6|9|1980|6|16}}|caps=16|club=[[R.A.E.C. Mons|Mons]]|clubnat=BEL}}
+{{National football squad player|no=3|pos=DF|name=[[Jean-Paul Abalo]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1975|6|26}}|caps=65|club=[[APOEL F.C.|APOEL]]|clubnat=CYP}}
+{{National football squad player|no=4|pos=FW|name=[[Emmanuel Adebayor]]|age={{birth date and age2|df=y|2006|6|9|1984|2|16}}|caps=29|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=5|pos=DF|name=[[Massamasso Tchangai]]|age={{birth date and age2|df=y|2006|6|9|1978|8|8}}|caps=34|club=[[Benevento Calcio|Benevento]]|clubnat=ITA}}
+{{National football squad player|no=6|pos=MF|name=[[Yao Aziawonou]]|age={{birth date and age2|df=y|2006|6|9|1979|11|30}}|caps=32|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{National football squad player|no=7|pos=FW|name=[[Moustapha Salifou]]|age={{birth date and age2|df=y|2006|6|9|1983|6|1}}|caps=34|club=[[Stade Brestois|Brest]]|clubnat=FRA}}
+{{National football squad player|no=8|pos=MF|name=[[Kuami Agboh]]|age={{birth date and age2|df=y|2006|6|9|1977|12|28}}|caps=4|club=[[K.S.K. Beveren|Beveren]]|clubnat=BEL}}
+{{National football squad player|no=9|pos=MF|name=[[Thomas Dossevi]]|age={{birth date and age2|df=y|2006|6|9|1979|3|6}}|caps=10|club=[[Valenciennes FC|Valenciennes]]|clubnat=FRA}}
+{{National football squad player|no=10|pos=MF|name=[[Mamam Cherif Touré]]|age={{birth date and age2|df=y|2006|6|9|1981|1|13}}|caps=39|club=[[FC Metz|Metz]]|clubnat=FRA}}
+{{National football squad player|no=11|pos=FW|name=[[Robert Malm]]|age={{birth date and age2|df=y|2006|6|9|1973|8|21}}|caps=1|club=[[Stade Brestois|Brest]]|clubnat=FRA}}
+{{National football squad player|no=12|pos=DF|name=[[Éric Akoto]]|age={{birth date and age2|df=y|2006|6|9|1980|7|20}}|caps=32|club=[[VfB Admira Wacker Mödling|Admira Wacker]]<ref>Akoto have not played for Admira Wacker since the end of 2005 due to a contract dispute, and spent the run up to the tournament training with Austrian club [[SV Schwechat|Schwechat]].</ref>|clubnat=AUT}}
+{{National football squad player|no=13|pos=DF|name=[[Richmond Forson]]|age={{birth date and age2|df=y|2006|6|9|1980|5|23}}|caps=8|club=[[Jeanne d'Arc Poiré|Poiré]]|clubnat=FRA}}
+{{National football squad player|no=14|pos=MF|name=[[Adékambi Olufadé]]|age={{birth date and age2|df=y|2006|6|9|1980|1|7}}|caps=24|club=[[Al Siliyah|Al-Siliyah]]|clubnat=QAT}}
+{{National football squad player|no=15|pos=MF|name=[[Alaixys Romao]]|age={{birth date and age2|df=y|2006|6|9|1984|1|18}}|caps=11|club=[[CS Louhans-Cuiseaux|Louhans-Cuiseaux]]|clubnat=FRA}}
+{{National football squad player|no=16|pos=GK|name=[[Kossi Agassa]]|age={{birth date and age2|df=y|2006|6|9|1978|7|2}}|caps=49|club=[[FC Metz|Metz]]|clubnat=FRA}}
+{{National football squad player|no=17|pos=FW|name=[[Mohamed Kader]]|age={{birth date and age2|df=y|2006|6|9|1979|4|8}}|caps=46|club=[[En Avant Guingamp|Guingamp]]|clubnat=FRA}}
+{{National football squad player|no=18|pos=MF|name=[[Yao Junior Sènaya]]|age={{birth date and age2|df=y|2006|6|9|1984|4|19}}|caps=16|club=[[SC Young Fellows Juventus|YF Juventus]]|clubnat=SUI}}
+{{National football squad player|no=19|pos=DF|name=[[Ludovic Assemoassa]]|age={{birth date and age2|df=y|2006|6|9|1980|9|18}}|caps=5|club=[[Ciudad de Murcia]]|clubnat=ESP}}
+{{National football squad player|no=20|pos=FW|name=[[Affo Erassa]]|age={{birth date and age2|df=y|2006|6|9|1983|2|19}}|caps=6|club=[[AS Moulins|Moulins]]|clubnat=FRA}}
+{{National football squad player|no=21|pos=MF|name=[[Franck Atsou]]|age={{birth date and age2|df=y|2006|6|9|1978|8|1}}|caps=13|club=[[Al-Hilal]]|clubnat=KSA}}<ref>[[Franck Atsou]] replaced [[Karim Guede]]</ref>
+{{National football squad player|no=22|pos=GK|name=[[Kodjovi Obilale]]|age={{birth date and age2|df=y|2006|6|9|1984|10|8}}|caps=0|club=[[Étoile Filante (Lomé)|Étoile Filante]]|clubnat=TOG}}
+{{National football squad player|no=23|pos=DF|name=[[Assimiou Touré]]|age={{birth date and age2|df=y|2006|6|9|1988|1|1}}|caps=1|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad end}}
+
+==Group H==
+
+===Saudi Arabia===
+Head coach: {{flagicon|BRA}} [[Marcos Paquetá]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Mohamed Al-Deayea]]|age={{birth date and age2|df=y|2006|6|9|1972|8|2}}|caps=175|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=2|pos=DF|name=[[Ahmed Dokhi|Ahmed Dokhi Al-Dosari]]|age={{birth date and age2|df=y|2006|6|9|1976|10|25}}|caps=68|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=3|pos=DF|name=[[Redha Tukar]]|age={{birth date and age2|df=y|2006|6|9|1975|11|29}}|caps=37|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=4|pos=DF|name=[[Hamad Al-Montashari]]|age={{birth date and age2|df=y|2006|6|9|1982|6|22}}|caps=32|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=5|pos=DF|name=[[Naif Al-Qadi]]|age={{birth date and age2|df=y|2006|6|9|1979|4|3}}|caps=28|club=[[Al-Ahli (Jeddah)|Al-Ahli]]|clubnat=KSA}}
+{{National football squad player|no=6|pos=MF|name=[[Omar Al-Ghamdi]]|age={{birth date and age2|df=y|2006|6|9|1979|4|11}}|caps=38|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=7|pos=MF|name=[[Mohammed Ameen]]|age={{birth date and age2|df=y|2006|6|9|1980|4|29}}|caps=16|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=8|pos=MF|name=[[Mohammed Noor]]|age={{birth date and age2|df=y|2006|6|9|1978|2|26}}|caps=63|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=9|pos=FW|name=[[Sami Al-Jaber]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1972|12|11}}|caps=160|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=10|pos=MF|name=[[Mohammad Al-Shalhoub]]|age={{birth date and age2|df=y|2006|6|9|1980|12|8}}|caps=48|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=11|pos=FW|name=[[Saad Al-Harthi]]|age={{birth date and age2|df=y|2006|6|9|1984|2|3}}|caps=15|club=[[Al Nassr FC|Al-Nasr]]|clubnat=KSA}}
+{{National football squad player|no=12|pos=DF|name=[[Abdulaziz Khathran]]|age={{birth date and age2|df=y|2006|6|9|1973|7|31}}|caps=19|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=13|pos=DF|name=[[Hussein Sulaimani]]|age={{birth date and age2|df=y|2006|6|9|1977|1|21}}|caps=97|club=[[Al-Ahli (Jeddah)|Al-Ahli]]|clubnat=KSA}}
+{{National football squad player|no=14|pos=MF|name=[[Saud Khariri]]|age={{birth date and age2|df=y|2006|6|9|1980|7|8}}|caps=34|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=15|pos=DF|name=[[Ahmed Al-Bahri]]|age={{birth date and age2|df=y|2006|6|9|1980|9|18}}|caps=11|club=[[Al-Ettifaq]]|clubnat=KSA}}
+{{National football squad player|no=16|pos=MF|name=[[Khaled Aziz]]|age={{birth date and age2|df=y|2006|6|9|1981|7|14}}|caps=14|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=17|pos=DF|name=[[Mohammad Al-Bishi]]|age={{birth date and age2|df=y|2006|6|9|1987|5|3}}|caps=0|club=[[Al-Ahli (Jeddah)|Al-Ahli]]|clubnat=KSA}}
+{{National football squad player|no=18|pos=MF|name=[[Nawaf Al-Temyat]]|age={{birth date and age2|df=y|2006|6|9|1976|6|28}}|caps=56|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=19|pos=DF|name=[[Mohammad Massad]]|age={{birth date and age2|df=y|2006|6|9|1983|2|17}}|caps=5|club=[[Al-Ahli (Jeddah)|Al-Ahli]]|clubnat=KSA}}
+{{National football squad player|no=20|pos=FW|name=[[Yasser Al-Qahtani]]|age={{birth date and age2|df=y|2006|6|9|1982|10|10}}|caps=45|club=[[Al-Hilal]]|clubnat=KSA}}
+{{National football squad player|no=21|pos=GK|name=[[Mabrouk Zaid]]|age={{birth date and age2|df=y|2006|6|9|1979|2|11}}|caps=33|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=KSA}}
+{{National football squad player|no=22|pos=GK|name=[[Mohammad Khouja]]|age={{birth date and age2|df=y|2006|6|9|1982|3|15}}|caps=8|club=[[Al-Shabab (Saudi Arabia)|Al-Shabab]]|clubnat=KSA}}
+{{National football squad player|no=23|pos=FW|name=[[Malek Mouath]]|age={{birth date and age2|df=y|2006|6|9|1981|8|10}}|caps=5|club=[[Al-Ahli (Jeddah)|Al-Ahli]]|clubnat=KSA}}
+{{National football squad end}}
+
+===Spain===
+Head coach: [[Luis Aragonés]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Iker Casillas]]|age={{birth date and age2|df=y|2006|6|9|1981|5|20}}|caps=58|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=2|pos=DF|name=[[Míchel Salgado]]|age={{birth date and age2|df=y|2006|6|9|1975|10|22}}|caps=50|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=3|pos=DF|name=[[Mariano Pernía]]|age={{birth date and age2|df=y|2006|6|9|1977|5|4}}|caps=1|club=[[Getafe CF|Getafe]]|clubnat=ESP}}<ref>[[Asier Del Horno]] was originally named in the squad, but sustained an ankle injury in the build-up to the tournament. Pernía joined [[Atlético Madrid]] after the tournament.</ref>
+{{National football squad player|no=4|pos=DF|name=[[Carlos Marchena]]|age={{birth date and age2|df=y|2006|6|9|1979|7|31}}|caps=27|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=5|pos=DF|name=[[Carles Puyol]]|age={{birth date and age2|df=y|2006|6|9|1978|4|13}}|caps=47|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=6|pos=MF|name=[[David Albelda]]|age={{birth date and age2|df=y|2006|6|9|1977|9|1}}|caps=33|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=7|pos=FW|name=[[Raúl González|Raúl]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1977|6|27}}|caps=95|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=8|pos=MF|name=[[Xavi]]|age={{birth date and age2|df=y|2006|6|9|1980|1|25}}|caps=36|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=9|pos=FW|name=[[Fernando Torres]]|age={{birth date and age2|df=y|2006|6|9|1984|3|20}}|caps=30|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=10|pos=MF|name=[[José Antonio Reyes]]|age={{birth date and age2|df=y|2006|6|9|1983|9|1}}|caps=19|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=11|pos=MF|name=[[Luis Javier García Sanz|Luis García]]|age={{birth date and age2|df=y|2006|6|9|1978|6|24}}|caps=10|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=12|pos=DF|name=[[Antonio López Guerrero|Antonio López]]|age={{birth date and age2|df=y|2006|6|9|1981|9|13}}|caps=8|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=13|pos=MF|name=[[Andrés Iniesta]]|age={{birth date and age2|df=y|2006|6|9|1984|5|11}}|caps=3|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{National football squad player|no=14|pos=MF|name=[[Xabi Alonso]]|age={{birth date and age2|df=y|2006|6|9|1981|11|25}}|caps=26|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad player|no=15|pos=DF|name=[[Sergio Ramos]]|age={{birth date and age2|df=y|2006|6|9|1986|3|30}}|caps=11|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{National football squad player|no=16|pos=MF|name=[[Marcos Senna]]|age={{birth date and age2|df=y|2006|6|9|1976|7|17}}|caps=3|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{National football squad player|no=17|pos=MF|name=[[Joaquín Sánchez|Joaquín]]|age={{birth date and age2|df=y|2006|6|9|1981|7|21}}|caps=38|club=[[Real Betis]]|clubnat=ESP}}
+{{National football squad player|no=18|pos=MF|name=[[Cesc Fàbregas]]|age={{birth date and age2|df=y|2006|6|9|1987|5|4}}|caps=4|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{National football squad player|no=19|pos=GK|name=[[Santiago Cañizares]]|age={{birth date and age2|df=y|2006|6|9|1969|12|18}}|caps=45|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=20|pos=DF|name=[[Juan Gutiérrez Moreno|Juanito]]|age={{birth date and age2|df=y|2006|6|9|1976|7|23}}|caps=15|club=[[Real Betis]]|clubnat=ESP}}
+{{National football squad player|no=21|pos=FW|name=[[David Villa]]|age={{birth date and age2|df=y|2006|6|9|1981|12|3}}|caps=8|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{National football squad player|no=22|pos=DF|name=[[Pablo Ibáñez|Pablo]]|age={{birth date and age2|df=y|2006|6|9|1981|8|3}}|caps=11|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{National football squad player|no=23|pos=GK|name=[[Pepe Reina]]|age={{birth date and age2|df=y|2006|6|9|1982|8|31}}|caps=3|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{National football squad end}}
+
+===Tunisia===
+Head coach: {{flagicon|FRA}} [[Roger Lemerre]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Ali Boumnijel]]|age={{birth date and age2|df=y|2006|6|9|1966|4|13}}|caps=48|club=[[Club Africain]]|clubnat=TUN}}
+{{National football squad player|no=2|pos=DF|name=[[Karim Essediri]]|age={{birth date and age2|df=y|2006|6|9|1979|7|29}}|caps=7|club=[[Rosenborg BK|Rosenborg]]|clubnat=NOR}}
+{{National football squad player|no=3|pos=DF|name=[[Karim Haggui]]|age={{birth date and age2|df=y|2006|6|9|1984|1|21}}|caps=26|club=[[RC Strasbourg|Strasbourg]]|clubnat=FRA}}
+{{National football squad player|no=4|pos=DF|name=[[Alaeddine Yahia]]|age={{birth date and age2|df=y|2006|6|9|1981|9|26}}|caps=13|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{National football squad player|no=5|pos=FW|name=[[Ziad Jaziri]]|age={{birth date and age2|df=y|2006|6|9|1978|7|12}}|caps=61|club=[[Troyes AC|Troyes]]|clubnat=FRA}}
+{{National football squad player|no=6|pos=DF|name=[[Hatem Trabelsi]]|age={{birth date and age2|df=y|2006|6|9|1977|1|25}}|caps=56|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{National football squad player|no=7|pos=FW|name=[[Haykel Guemamdia]]|age={{birth date and age2|df=y|2006|6|9|1981|12|22}}|caps=13|club=[[RC Strasbourg|Strasbourg]]|clubnat=FRA}}<ref>[[Mehdi Meriah]] was originally named in the squad but sustained an injury in the week leading up to the tournament. He was replaced by Guemamdia.</ref>
+{{National football squad player|no=8|pos=MF|name=[[Mehdi Nafti]]|age={{birth date and age2|df=y|2006|6|9|1978|11|28}}|caps=29|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}
+{{National football squad player|no=9|pos=FW|name=[[Yassine Chikhaoui]]|age={{birth date and age2|df=y|2006|6|9|1986|9|2}}|caps=1|club=[[Étoile Sportive du Sahel|Étoile du Sahel]]|clubnat=TUN}}
+{{National football squad player|no=10|pos=MF|name=[[Kaies Ghodhbane]]|age={{birth date and age2|df=y|2006|6|9|1976|1|7}}|caps=89|club=[[Konyaspor]]|clubnat=TUR}}
+{{National football squad player|no=11|pos=FW|name=[[Francileudo Santos]]|age={{birth date and age2|df=y|2006|6|9|1979|3|20}}|caps=28|club=[[FC Toulouse|Toulouse]]|clubnat=FRA}}
+{{National football squad player|no=12|pos=MF|name=[[Jawhar Mnari]]|age={{birth date and age2|df=y|2006|6|9|1976|11|8}}|caps=37|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{National football squad player|no=13|pos=MF|name=[[Riadh Bouazizi]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1973|4|8}}|caps=85|club=[[Kayseri Erciyesspor]]|clubnat=TUR}}
+{{National football squad player|no=14|pos=MF|name=[[Adel Chedli]]|age={{birth date and age2|df=y|2006|6|9|1976|9|16}}|caps=38|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{National football squad player|no=15|pos=DF|name=[[Radhi Jaïdi]]|age={{birth date and age2|df=y|2006|6|9|1975|8|30}}|caps=89|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{National football squad player|no=16|pos=GK|name=[[Adel Nefzi]]|age={{birth date and age2|df=y|2006|6|9|1974|3|16}}|caps=0|club=[[US Monastir|Monastir]]|clubnat=TUN}}
+{{National football squad player|no=17|pos=FW|name=[[Chaouki Ben Saada]]|age={{birth date and age2|df=y|2006|6|9|1984|7|1}}|caps=11|club=[[Sporting Club de Bastia|Bastia]]|clubnat=FRA}}<ref>[[Issam Jomaa]] was originally named in the squad but sustained an injury prior to the tournament. He was replaced by Ben Saada.</ref>
+{{National football squad player|no=18|pos=DF|name=[[David Jemmali]]|age={{birth date and age2|df=y|2006|6|9|1974|12|13}}|caps=2|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{National football squad player|no=19|pos=DF|name=[[Anis Ayari]]|age={{birth date and age2|df=y|2006|6|9|1982|2|16}}|caps=24|club=[[Samsunspor]]|clubnat=TUR}}
+{{National football squad player|no=20|pos=MF|name=[[Hamed Namouchi]]|age={{birth date and age2|df=y|2006|6|9|1984|1|12}}|caps=14|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{National football squad player|no=21|pos=DF|name=[[Karim Saidi]]|age={{birth date and age2|df=y|2006|6|9|1983|3|24}}|caps=15|club=[[Feyenoord]]<ref>Karim Saidi has spent the run up to the tournament on loan to [[US Lecce|Lecce]]</ref>|clubnat=NED}}
+{{National football squad player|no=22|pos=GK|name=[[Hamdi Kasraoui]]|age={{birth date and age2|df=y|2006|6|9|1983|1|18}}|caps=6|club=[[Espérance Sportive de Tunis|Espérance de Tunis]]|clubnat=TUN}}
+{{National football squad player|no=23|pos=MF|name=[[Sofiane Melliti]]|age={{birth date and age2|df=y|2006|6|9|1978|8|18}}|caps=14|club=[[Gaziantepspor]]|clubnat=TUR}}
+{{National football squad end}}
+
+===Ukraine===
+Head coach: [[Oleg Blokhin]]
+{{National football squad start}}
+{{National football squad player|no=1|pos=GK|name=[[Oleksandr Shovkovskyi]]|age={{birth date and age2|df=y|2006|6|9|1975|1|2}}|caps=68|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=2|pos=DF|name=[[Andriy Nesmachnyi]]|age={{birth date and age2|df=y|2006|6|9|1979|2|28}}|caps=49|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=3|pos=DF|name=[[Oleksandr Yatsenko]]|age={{birth date and age2|df=y|2006|6|9|1985|2|24}}|caps=1|club=[[FC Kharkiv|Kharkiv]]|clubnat=UKR}}<ref>Yatsenko was called up as a replacement for the injured players [[Serhiy Fedorov]] and [[Vyacheslav Shevchuk]].</ref>
+{{National football squad player|no=4|pos=MF|name=[[Anatoliy Tymoshchuk]]|age={{birth date and age2|df=y|2006|6|9|1979|3|30}}|caps=55|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=5|pos=DF|name=[[Volodymyr Yezerskyi]]|age={{birth date and age2|df=y|2006|6|9|1976|11|15}}|caps=24|club=[[FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk]]|clubnat=UKR}}
+{{National football squad player|no=6|pos=DF|name=[[Andriy Rusol]]|age={{birth date and age2|df=y|2006|6|9|1983|1|16}}|caps=23|club=[[FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk]]|clubnat=UKR}}
+{{National football squad player|no=7|pos=FW|name=[[Andriy Shevchenko]] ([[Captain (association football)|c]])|age={{birth date and age2|df=y|2006|6|9|1976|9|29}}|caps=64|club=[[A.C. Milan|Milan]]|clubnat=ITA}}<ref>Shevchenko joined [[Chelsea F.C.|Chelsea]] after the tournament.</ref>
+{{National football squad player|no=8|pos=MF|name=[[Oleh Shelayev]]|age={{birth date and age2|df=y|2006|6|9|1976|11|5}}|caps=19|club=[[FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk]]|clubnat=UKR}}
+{{National football squad player|no=9|pos=MF|name=[[Oleh Husyev]]|age={{birth date and age2|df=y|2006|6|9|1983|4|25}}|caps=25|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=10|pos=FW|name=[[Andriy Voronin]]|age={{birth date and age2|df=y|2006|6|9|1979|7|21}}|caps=32|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{National football squad player|no=11|pos=FW|name=[[Serhiy Rebrov]]|age={{birth date and age2|df=y|2006|6|9|1974|6|3}}|caps=70|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=12|pos=GK|name=[[Andriy Pyatov]]|age={{birth date and age2|df=y|2006|6|9|1984|6|28}}|caps=1|club=[[FC Vorskla Poltava|Vorskla Poltava]]|clubnat=UKR}}
+{{National football squad player|no=13|pos=DF|name=[[Dmytro Chyhrynskyi]]|age={{birth date and age2|df=y|2006|6|9|1986|11|7}}|caps=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=14|pos=MF|name=[[Andriy Husin]]|age={{birth date and age2|df=y|2006|6|9|1972|12|11}}|caps=64|club=[[FC Krylya Sovetov Samara|Krylya Sovetov Samara]]|clubnat=RUS}}
+{{National football squad player|no=15|pos=FW|name=[[Artem Milevskyi]]|age={{birth date and age2|df=y|2006|6|9|1985|1|12}}|caps=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=16|pos=FW|name=[[Andriy Vorobey]]|age={{birth date and age2|df=y|2006|6|9|1978|11|29}}|caps=53|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=17|pos=DF|name=[[Vladyslav Vashchuk]]|age={{birth date and age2|df=y|2006|6|9|1975|1|2}}|caps=58|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=18|pos=MF|name=[[Serhiy Nazarenko]]|age={{birth date and age2|df=y|2006|6|9|1980|2|16}}|caps=15|club=[[FC Dnipro Dnipropetrovsk|Dnipro Dnipropetrovsk]]|clubnat=UKR}}
+{{National football squad player|no=19|pos=MF|name=[[Maksym Kalynychenko]]|age={{birth date and age2|df=y|2006|6|9|1979|1|26}}|caps=21|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{National football squad player|no=20|pos=FW|name=[[Oleksiy Byelik]]|age={{birth date and age2|df=y|2006|6|9|1981|2|15}}|caps=15|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad player|no=21|pos=MF|name=[[Ruslan Rotan]]|age={{birth date and age2|df=y|2006|6|9|1981|10|29}}|caps=19|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{National football squad player|no=22|pos=DF|name=[[Vyacheslav Sviderskyi]]|age={{birth date and age2|df=y|2006|6|9|1979|1|1}}|caps=6|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}<ref>Sviderskyi was on loan to [[FC Arsenal Kyiv|Arsenal Kyiv]] in the run-up to the World Cup.</ref>
+{{National football squad player|no=23|pos=GK|name=[[Bohdan Shust]]|age={{birth date and age2|df=y|2006|6|9|1986|3|4}}|caps=2|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad end}}
+
+{{National football squad start}}
+{{National football squad player|no=3|pos=DF|name=[[Vyacheslav Shevchuk]]|age={{birth date and age2|df=y|2006|6|9|1979|5|13}}|caps=16|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{National football squad end}}
+
+* [[Serhiy Fedorov]] (#3) was injured before the start of the tournament. His replacement, [[Vyacheslav Shevchuk]] was also injured shortly after arriving as a replacement. [[Oleksandr Yatsenko]] was then called up, and sat on the bench for the last two matches.
+
+==Player representation by league==
+{| class="wikitable sortable"
+|-
+!Country!!Players||Percentage||Outside national squad
+|-
+|Total||736|| || 
+|-
+|[[English football league system|England]]||102||13.86%||81
+|-
+|[[Bundesliga (football)|Germany]]||74||10.05%||54
+|-
+|[[Italian football league system|Italy]]||60||8.15%||37
+|-
+|[[Ligue de Football Professionnel|France]]||58||7.89%||45
+|-
+|[[La Liga|Spain]]||52||7.07%||35
+|-
+|[[Ukrainian Premier League|Ukraine]]||25||3.40%||8
+|-
+|[[Eredivisie|Netherlands]]||25||3.40%||11
+|-
+|[[Saudi Premier League|Saudi Arabia]]||24||3.26%||1
+|-
+|[[Primera División de México|Mexico]]||23||3.125%||4
+|-
+|[[Portuguese Liga|Portugal]]||20||2.72%||12
+|-
+|[[Primera División de Costa Rica|Costa Rica]]||20||2.72%||0
+|-
+|Others||253||34.38% ||
+<!--
+#### probably no need to list all of these, but keep in case players get called up ####
+|-
+|Japan||19
+|-
+|Ecuador||18
+|-
+|Iran||17
+|-
+|South Korea||16
+|-
+|United States||15
+|-
+|Switzerland||14
+|-
+|Turkey||12
+|-
+|Scotland||11
+|-
+|Russia||10
+|-
+|Argentina||9
+|-
+|Angola||9
+|-
+|Belgium||9
+|-
+|Poland||8
+|-
+|Serbia and Montenegro||8
+|-
+|Sweden||8
+|-
+|Austria||7
+|-
+|Brazil||7
+|-
+|Denmark||6
+|-
+|Tunisia||6
+|-
+|Paraguay||5
+|-
+|Qatar||5
+|-
+|Australia||4
+|-
+|Ghana||4
+|-
+|Greece||4
+|-
+|Trinidad and Tobago||4
+|-
+|Croatia||3
+|-
+|Czech Republic||3
+|-
+|Israel||3
+|-
+|Norway||2
+|-
+|Bulgaria||1
+|-
+|Cyprus||1
+|-
+|Egypt||1
+|-
+|Guatemala||1
+|-
+|Togo||1
+|-
+|United Arab Emirates||1
+|-
+|Mali||1
+|-
+|Kuwait||1
+-->
+|}
+The squads for Italy and Saudi Arabia were made up entirely of players from their respective domestic leagues. Saudi Arabia were the only team with no players from European clubs. The Côte d'Ivoire squad was made up entirely of players employed by overseas clubs, and 22 out of the 23 players were registered in Europe. Although [[Turkish Premier Super League|Turkey]], [[Scottish Premier League|Scotland]], and [[Russian Superleague|Russia]] failed to qualify for the finals, their domestic leagues were represented by 12, 11, and 10 players respectively. In total, domestic leagues from 48 different countries had players at the 2006 World Cup.
+
+==Player representation by club==
+:''As of 14 June 2006.''
+Finalised clubs' listing as per FIFA, excluding players on standby and loans.
+{| class="wikitable"
+|-
+! Players!!Clubs
+|-
+|15||{{flagicon|ENG}} [[Arsenal F.C.|Arsenal]]
+|-
+|14||{{flagicon|ENG}} [[Chelsea F.C.|Chelsea]]
+|-
+|13||{{flagicon|ITA}} [[A.C. Milan|Milan]], {{flagicon|ITA}} [[Juventus F.C.|Juventus]]
+|-
+|12||{{flagicon|ENG}} [[Manchester United F.C.|Manchester United]]
+|-
+|11||{{flagicon|ESP}} [[FC Barcelona|Barcelona]], {{flagicon|GER}} [[FC Bayern Munich|Bayern Munich]], {{flagicon|UKR}} [[FC Shakhtar Donetsk|Shakhtar Donetsk]]
+|-
+|10||{{flagicon|ESP}} [[Real Madrid C.F.|Real Madrid]], {{flagicon|FRA}} [[Olympique Lyonnais|Lyon]]
+|-
+|9||{{flagicon|ENG}} [[Liverpool F.C.|Liverpool]], {{flagicon|KSA}} [[Al-Hilal Riyadh|Al-Hilal]], {{flagicon|NED}} [[AFC Ajax|Ajax]], {{flagicon|GER}} [[Bayer 04 Leverkusen|Bayer Leverkusen]], {{flagicon|UKR}} [[FC Dynamo Kyiv|Dynamo Kyiv]], {{flagicon|ESP}} [[Valencia CF|Valencia]]
+|-
+|8||{{flagicon|GER}} [[Borussia Dortmund]], {{flagicon|CRC}} [[C.D. Saprissa|Deportivo Saprissa]], {{flagicon|ITA}} [[F.C. Internazionale Milano|Internazionale]], {{flagicon|NED}} [[PSV Eindhoven]], {{flagicon|GER}} [[Hamburger SV|Hamburg]]
+|-
+|7||{{flagicon|KSA}} [[Al-Ittihad (Jeddah)|Al-Ittihad]], {{flagicon|ECU}} [[Liga Deportiva Universitaria de Quito|LDU Quito]]
+|-
+|6||{{flagicon|POR}} [[S.L. Benfica|Benfica]], {{flagicon|ESP}} [[Atlético Madrid]], {{flagicon|MEX}} [[C.D. Guadalajara|Guadalajara]], {{flagicon|SUI}} [[FC Basel|Basel]], {{flagicon|GER}} [[SV Werder Bremen|Werder Bremen]]
+|-
+|5||{{flagicon|CRC}} [[LD Alajuelense|Alajuelense]], {{flagicon|NED}} [[AZ (football club)|AZ]], {{flagicon|FRA}} [[Stade Rennais FC|Rennes]], {{flagicon|FRA}} [[Paris Saint-Germain F.C.|Paris Saint-Germain]], {{flagicon|ITA}} [[A.S. Roma|Roma]], {{flagicon|GER}} [[VfB Stuttgart|Stuttgart]], {{flagicon|SCO}} [[Rangers F.C|Rangers]], {{flagicon|ENG}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]], {{flagicon|ECU}} [[Club Deportivo El Nacional|El Nacional]], {{flagicon|SRB}} [[Red Star Belgrade]]
+<!--
+#### probably no need to list all of these, but keep incase players get called up ####
+|-
+|4||Al-Ahli, Austria Vienna, Cruz Azul, Dnipro Dnipropetrovsk, Fulham, Hannover 96, Hertha BSC, Ilhwa Chunma, Júbilo Iwata, Palermo, Petro Atletico, PSV Eindhoven, Suwon Samsung Bluewings, Wisła Kraków
+|-
+|3||América, Aston Villa, Bolton Wanderers, Borussia Mönchengladbach, Celtic, Club Brugge, Club Sport Herediano, Corinthians, Deportivo Quito, Esteghlal Tehran, Everton, Nuremberg, Galatasaray, Gamba Osaka, Kansas City Wizards, København, Köln, Lazio, Libertad, Los Angeles Galaxy, Marseille, Middlesbrough, Monterrey, Newcastle United, Olympiacos, Paris Saint-Germain, Partizan, Pas Tehran, Rangers, Saba Battery, Saint-Étienne, São Paulo, Seoul, Southampton, Spartak Moscow, Strasbourg, Urawa Red Diamonds, Villarreal, West Ham United, Wolfsburg
+|-
+|2||Ankaraspor, AS Aviacao, AS Monaco, Auxerre, Beveren, Birmingham City, Blackburn Rovers, Boca Juniors, Brest, Cartaginés, F.C. Atlas A.C., Clermont, Coventry City, Deportivo de La Coruña, Dinamo Zagreb, Espérance, F.C. Barreirense, Falkirk, FC Moskva, FC Porto, FC Zürich, Fiorentina, Foolad, Frankfurt, Gillingham, Girondins Bordeaux, Göteborg, Hajduk Split, InterClube, Kashima Antlers, Lille, Manchester City, Messina, Metz, Nagoya Grampus Eight, New England Revolution, Newell's Old Boys, Panathinaikos, Parma, Persepolis Tehran, RC Lens, Reading, Real Betis, Real Salt Lake, Real Zaragoza, San Juan Jabloteh, Sevilla, Sparta Prague, Schalke 04, Sporting, Sydney, Toluca, Trabzonspor, Troyes, Udinese, Ulsan Hyundai Horang-i, Varzim, West Bromwich Albion
+|-
+|1||Abu Muslem, Admira Wacker Mödling, ADO Den Haag, AIK, Al Rayyan, Al Sadd, Al Siliyah, Al-Ahly, Al-Arabi, Al-Ittifaq, Al-Nasr, Al-Shabab, Al-Wakra, Alavés, Anderlecht, APOEL F.C., Argentinos Juniors, Asante Kotoko, Arsenal Kyiv, Ashanti Gold, Ashdod, Aucas, Barcelona de Guayaquil, Bargh Shiraz, Bastia, Benevento, Brescia, Bristol City, Brujas, Brøndby, CA Osasuna, Central Coast Mariners, České Budějovice, Chonbuk Hyundai Motors, Chunnam Dragons, Ciudad de Murcia, Club Africain, Colorado Rapids, Cracovia Kraków, Créteil, Crystal Palace, CS Louhans Cuiseaux, CSD Comunicaciones, CSKA Moscow, CSKA Sofia, D.C. United, Djobila, Djurgården, Dundee, Dundee United, Dynamo Moscow, Elfsborg, Estrela, Estudiantes de La Plata, Etoile Filante, FC Kaiserslautern, FC Paços de Ferreira, FC St Gallen, FC Tokyo, FC Toulouse, Fenerbahçe, Feyenoord, Fredrikstad, Gaziantepspor, Getafe CF, Gil Vicente F.C., Grasshoppers, Grenoble, Guingamp, Gwangju Sangmu Phoenix, Hammarby, Hapoel Kfar Saba, Hapoel Tel Aviv, Hearts of Oak, Heerenveen, Helsingborgs IF, Houston Dynamo, Hull City, Häcken, Independiente, J.A. Poire, Jaguares, JEF United Ichihara Chiba, Kayserispor, King Faisal Babes, Konyaspor, Krylia Sovetov, Kuwait S.C., Le Mans, Lecce, Leeds United, Legia Warszawa, Livorno, Luton Town, Malmö, Metalist Kharkiv, Mainz 05, Modena, Monastir, Montpellier, Moreirense FC, MSV Duisburg, NAC Breda, Nacional, Nantes, NEC Nijmegen, Nice, North East Stars, OFK Beograd, Olimpia Asunción, Olmedo, Olympiakos, Pachuca, Palmeiras, Port Vale, Portimonense, Portsmouth, Primeiro Agosto, Puntarenas, R.A.E.C. Mons, Randers, Recreativo Huelva, Red Bull Salzburg, Reggina, River Plate, Rosenborg, Sahel, Saipa Tehran, Samsunspor, San Lorenzo, Sanfrecce Hiroshima, Santos, Saturn Ramenskoye, Sepahan, Sharjah FC, Shimizu S-Pulse, Siena, Sportivo Luqueño, St. Johnstone, Standard Liège, Stoke City, Tecos UAG, Valenciennes, Viborg, Villareal, Vorskla Poltava, W Connection, Waldhof Mannheim, Wigan Athletic, Wisła Płock, Wolverhampton Wanderers, Wrexham, YF Juventus, Yokohama F. Marinos, Young Boys Bern, Youngs Boys, Zenit St. Petersburg
+-->
+|}
+
+==Footnotes==
+{{Reflist|30em}}
+
+{{2006 FIFA World Cup}}
+{{FIFA World Cup}}
+
+{{Use dmy dates|date=November 2012}}
+
+{{DEFAULTSORT:2006 Fifa World Cup Squads}}
+[[Category:2006 FIFA World Cup-related lists|Squads]]
+[[Category:FIFA World Cup squads]]
