@@ -1,0 +1,596 @@
+<!-- 
+     source: en.wikipedia.org/wiki/UEFA_Euro_2008_squads
+     added:  Jun/6 2014
+  -->
+
+{{Use dmy dates|date=November 2012}}
+The following is a list of squads for each nation competing at [[UEFA Euro 2008|Euro 2008]] in Austria and Switzerland. The tournament started on 7 June and the [[UEFA Euro 2008 Final|final]] took place in [[Vienna]] on 29 June 2008.
+
+Each national team had to submit a squad of 23 players, three of whom had to be goalkeepers, by 28 May 2008. If a player was injured severely enough to prevent his participation in the tournament before his team's first match, he could be replaced by another player.<ref>{{cite web |url=http://www.euro2008.uefa.com/MultimediaFiles/Download/PressConference/Competitions/MediaServices/68/13/42/681342_DOWNLOAD.pdf |title=Regulations of the UEFA European Football Championship 2006/08 |accessdate=21 May 2008 |format=PDF |publisher=UEFA |page=19 }}</ref>
+
+''Caps, goals, ages and players's clubs are correct as of 7 June 2008.''
+
+==Group A==
+
+===Czech Republic===
+Head coach: [[Karel Brückner]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Petr Čech]]|age=20 May 1982 (26)|caps=59|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Zdeněk Grygera]]|age=14 May 1980 (28)|caps=53|goals=2|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=MF|name=[[Jan Polák]]|age=14 March 1981 (27)|caps=38|goals=6|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=4|pos=MF|name=[[Tomáš Galásek]]|age=15 January 1973 (35)|caps=66|goals=1|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Radoslav Kováč]]|age=27 November 1979 (28)|caps=23|goals=1|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=MF|name=[[Marek Jankulovski]]|age=9 May 1977 (31)|caps=64|goals=10|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=FW|name=[[Libor Sionko]]|age=1 February 1977 (31)|caps=30|goals=6|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=8|pos=FW|name=[[Martin Fenin]]|age=16 April 1987 (21)|caps=5|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Jan Koller]]|age=30 March 1973 (35)|caps=87|goals=54|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Václav Svěrkoš]]|age=1 November 1983 (24)|caps=2|goals=0|club=[[FC Baník Ostrava|Baník Ostrava]]|clubnat=CZE}}
+{{nat fs g player|no=11|pos=FW|name=[[Stanislav Vlček]]|age=26 February 1976 (32)|caps=10|goals=0|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=12|pos=DF|name=[[Zdeněk Pospěch]]|age=14 December 1978 (29)|caps=8|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=13|pos=DF|name=[[Michal Kadlec]]|age=13 December 1984 (23)|caps=6|goals=1|club=[[Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=14|pos=MF|name=[[David Jarolím]]|age=17 May 1979 (29)|caps=16|goals=1|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=FW|name=[[Milan Baroš]]|age=28 October 1981 (26)|caps=64|goals=31|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}<ref>[[Milan Baroš]] was on loan at [[Portsmouth F.C.|Portsmouth]].</ref>
+{{nat fs g player|no=16|pos=GK|name=[[Jaromír Blažek]]|age=29 December 1972 (35)|caps=14|goals=0|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Marek Matějovský]]|age=20 December 1981 (26)|caps=10|goals=1|club=[[Reading F.C.|Reading]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Tomáš Sivok]]|age=15 September 1983 (24)|caps=6|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}<ref>[[Tomáš Sivok]] was on loan at [[Sparta Prague]] and will join [[Beşiktaş J.K.|Beşiktaş]] after the tournament.</ref>
+{{nat fs g player|no=19|pos=MF|name=[[Rudolf Skácel]]|age=17 July 1979 (28)|caps=5|goals=1|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}<ref>[[Rudolf Skácel]] was on loan at [[Hertha BSC]].</ref>
+{{nat fs g player|no=20|pos=MF|name=[[Jaroslav Plašil]]|age=5 January 1982 (26)|caps=37|goals=2|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=DF|name=[[Tomáš Ujfaluši]] ([[Captain (association football)|c]])|age=24 March 1978 (30)|caps=68|goals=2|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}<ref>[[Tomáš Ujfaluši]] will join [[Atlético Madrid]] after the tournament.</ref>
+{{nat fs g player|no=22|pos=DF|name=[[David Rozehnal]]|age=5 July 1980 (27)|caps=45|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}<ref>[[David Rozehnal]] was on loan at [[S.S. Lazio|Lazio]].</ref>
+{{nat fs g player|no=23|pos=GK|name=[[Daniel Zítka]]|age=20 June 1975 (32)|caps=1|goals=0|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs end}}
+
+===Portugal===
+Head coach: {{flagicon|BRA}} [[Luiz Felipe Scolari]]
+:[[Quim (footballer born 1975)|Quim]] injured a wrist on 6 June and was replaced by [[Nuno Espírito Santo|Nuno]].<ref>{{cite news |title=Crushing Blow for Portugal's Quim |url=http://en.euro2008.uefa.com/news/kind=1/newsid=707803.html |work=euro2008.uefa.com |publisher=Union of European Football Associations |date=7 June 2008 |accessdate=7 June 2008 }}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Ricardo Pereira|Ricardo]]|age=11 February 1976 (32)|caps=75|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Paulo Ferreira]]|age=18 January 1979 (29)|caps=47|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Bruno Alves]]|age=27 November 1981 (26)|caps=11|goals=1|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=4|pos=DF|name=[[José Bosingwa|Bosingwa]]|age=24 August 1982 (25)|caps=8|goals=0|club=[[F.C. Porto|Porto]]|clubnat=POR}}<ref>[[José Bosingwa]] will join [[Chelsea F.C.|Chelsea]] after the tournament.</ref>
+{{nat fs g player|no=5|pos=DF|name=[[Fernando Meira]]|age=5 June 1978 (30)|caps=49|goals=2|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}<ref>[[Fernando Meira]] will join [[Galatasaray S.K. (football team)|Galatasaray]] after the tournament.</ref>
+{{nat fs g player|no=6|pos=MF|name=[[Raul Meireles]]|age=17 March 1983 (25)|caps=9|goals=0|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=7|pos=FW|name=[[Cristiano Ronaldo]]|age=5 February 1985 (23)|caps=55|goals=20|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Petit (Portuguese footballer)|Petit]]|age=25 September 1976 (31)|caps=54|goals=4|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=9|pos=FW|name=[[Hugo Almeida]]|age=23 May 1984 (24)|caps=9|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[João Moutinho]]|age=9 September 1986 (21)|caps=13|goals=1|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=11|pos=FW|name=[[Simão Sabrosa|Simão]]|age=31 October 1979 (28)|caps=61|goals=15|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Nuno Espírito Santo|Nuno]]|age=25 January 1974 (34)|caps=0|goals=0|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=13|pos=DF|name=[[Miguel Monteiro|Miguel]]|age=4 January 1980 (28)|caps=47|goals=1|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=DF|name=[[Jorge Ribeiro]]|age=9 November 1981 (26)|caps=8|goals=0|club=[[Boavista F.C.|Boavista]]|clubnat=POR}}<ref>[[Jorge Ribeiro]] will join [[S.L. Benfica|Benfica]] after the tournament.</ref>
+{{nat fs g player|no=15|pos=DF|name=[[Pepe (footballer born 1983)|Pepe]]|age=26 February 1983 (25)|caps=3|goals=0|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=DF|name=[[Ricardo Carvalho]]|age=18 May 1978 (30)|caps=43|goals=4|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Ricardo Quaresma]]|age=26 September 1983 (24)|caps=21|goals=2|club=[[F.C. Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=18|pos=MF|name=[[Miguel Veloso]]|age=11 May 1986 (22)|caps=6|goals=0|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=19|pos=FW|name=[[Nani (footballer)|Nani]]|age=17 November 1986 (21)|caps=13|goals=2|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Deco]]|age=27 August 1977 (30)|caps=53|goals=3|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[Nuno Gomes]] ([[Captain (association football)|c]])|age=5 July 1976 (31)|caps=69|goals=28|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=GK|name=[[Rui Patrício]]|age=15 February 1988 (20)|caps=0|goals=0|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=23|pos=FW|name=[[Hélder Postiga]]|age=2 August 1982 (25)|caps=32|goals=10|club=[[F.C. Porto|Porto]]|clubnat=POR}}<ref>[[Hélder Postiga]] was on loan at [[Panathinaikos FC|Panathinaikos]] and will join [[Sporting Clube de Portugal|Sporting CP]] after the tournament.</ref>
+{{nat fs end}}
+
+===Switzerland===
+Head coach: [[Köbi Kuhn]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Diego Benaglio]]|age=8 September 1983 (24)|caps=12|goals=0|club=[[VfL Wolfsburg|Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Johan Djourou]]|age=21 January 1987 (21)|caps=17|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Ludovic Magnin]]|age=20 April 1979 (29)|caps=50|goals=3|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Philippe Senderos]]|age=14 February 1985 (23)|caps=28|goals=3|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Stephan Lichtsteiner]]|age=16 January 1984 (24)|caps=12|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=MF|name=[[Benjamin Huggel]]|age=7 July 1977 (30)|caps=25|goals=0|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs g player|no=7|pos=MF|name=[[Ricardo Cabanas]]|age=29 April 1979 (29)|caps=49|goals=4|club=[[Grasshopper Club Zürich|Grasshoppers]]|clubnat=SUI}}
+{{nat fs g player|no=8|pos=MF|name=[[Gökhan Inler]]|age=27 June 1984 (23)|caps=17|goals=1|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Alexander Frei]] ([[Captain (association football)|c]])|age=15 July 1979 (28)|caps=59|goals=35|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Hakan Yakin]]|age=22 February 1977 (31)|caps=66|goals=15|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=11|pos=FW|name=[[Marco Streller]]|age=26 June 1981 (26)|caps=28|goals=11|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs g player|no=12|pos=FW|name=[[Eren Derdiyok]]|age=12 June 1988 (19)|caps=3|goals=1|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs g player|no=13|pos=DF|name=[[Stéphane Grichting]]|age=30 March 1979 (29)|caps=18|goals=0|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Daniel Gygax]]|age=28 August 1981 (26)|caps=34|goals=5|club=[[FC Metz|Metz]]|clubnat=FRA}}
+{{nat fs g player|no=15|pos=MF|name=[[Gelson Fernandes]]|age=2 September 1986 (21)|caps=8|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Tranquillo Barnetta]]|age=22 May 1985 (23)|caps=32|goals=6|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=DF|name=[[Christoph Spycher]]|age=30 March 1978 (30)|caps=39|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=GK|name=[[Pascal Zuberbühler]]|age=8 January 1971 (37)|caps=50|goals=0|club=[[Neuchâtel Xamax]]|clubnat=SUI}}
+{{nat fs g player|no=19|pos=MF|name=[[Valon Behrami]]|age=19 April 1985 (23)|caps=16|goals=2|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=DF|name=[[Patrick Müller]]|age=31 December 1976 (31)|caps=78|goals=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=GK|name=[[Eldin Jakupović]]|age=2 October 1984 (23)|caps=0|goals=0|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}<ref>[[Eldin Jakupović]] was loaned at [[Grasshopper Club Zürich|Grasshoppers]].</ref>
+{{nat fs g player|no=22|pos=FW|name=[[Johan Vonlanthen]]|age=1 February 1986 (22)|caps=30|goals=6|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=23|pos=DF|name=[[Philipp Degen]]|age=15 February 1983 (25)|caps=30|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}<ref>[[Philipp Degen]] will join [[Liverpool F.C.|Liverpool]] after the tournament.</ref>
+{{nat fs end}}
+
+===Turkey===
+Head coach: [[Fatih Terim]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Rüştü Reçber]]|age=10 May 1973 (35)|caps=116|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=2|pos=DF|name=[[Servet Çetin]]|age=17 March 1981 (27)|caps=29|goals=1|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=3|pos=DF|name=[[Hakan Balta]]|age=23 March 1983 (25)|caps=8|goals=1|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=4|pos=DF|name=[[Gökhan Zan]]|age=7 September 1981 (26)|caps=19|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=5|pos=MF|name=[[Emre Belözoğlu]] ([[Captain (association football)|c]])|age=7 September 1980 (27)|caps=56|goals=4|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Mehmet Topal]]|age=3 March 1986 (22)|caps=5|goals=0|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=7|pos=MF|name=[[Mehmet Aurélio]]|age=15 December 1977 (30)|caps=19|goals=1|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=8|pos=FW|name=[[Nihat Kahveci]]|age=23 November 1979 (29)|caps=54|goals=15|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Semih Şentürk]]|age=29 April 1983 (25)|caps=4|goals=1|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=10|pos=FW|name=[[Gökdeniz Karadeniz]]|age=11 January 1980 (28)|caps=46|goals=6|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=MF|name=[[Tümer Metin]]|age=14 October 1974 (33)|caps=23|goals=7|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}<ref>[[Tümer Metin]] was on loan at [[Larissa F.C.|Larissa]] for the second half of the 2007–08 season.</ref>
+{{nat fs g player|no=12|pos=GK|name=[[Tolga Zengin]]|age=10 October 1983 (24)|caps=2|goals=0|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=DF|name=[[Emre Güngör]]|age=1 August 1984 (23)|caps=1|goals=0|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=MF|name=[[Arda Turan]]|age=30 January 1987 (21)|caps=18|goals=1|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Emre Aşık]]|age=13 December 1973 (34)|caps=27|goals=2|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}<ref>[[Emre Aşık]] was on loan at [[Büyükşehir Belediye Ankaraspor|Ankaraspor]].</ref>
+{{nat fs g player|no=16|pos=DF|name=[[Uğur Boral]]|age=14 April 1982 (26)|caps=8|goals=0|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=17|pos=FW|name=[[Tuncay Şanlı]]|age=16 January 1982 (26)|caps=54|goals=15|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Colin Kazim-Richards]]|age=26 August 1986 (21)|caps=2|goals=0|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=19|pos=MF|name=[[Ayhan Akman]]|age=23 February 1977 (31)|caps=10|goals=1|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=MF|name=[[Sabri Sarıoğlu]]|age=26 July 1984 (23)|caps=13|goals=1|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=FW|name=[[Mevlüt Erdinç]]|age=25 February 1987 (23)|caps=4|goals=0|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=MF|name=[[Hamit Altıntop]]|age=8 December 1982 (25)|caps=42|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=GK|name=[[Volkan Demirel]]|age=27 October 1981 (26)|caps=21|goals=0|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs end}}
+
+==Group B==
+
+===Austria===
+Head coach: [[Josef Hickersberger]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alex Manninger]]|age=4 June 1977 (31)|caps=27|goals=0|club=[[A.C. Siena|Siena]]|clubnat=ITA}}
+{{nat fs g player|no=2|pos=MF|name=[[Joachim Standfest]]|age=30 May 1980 (28)|caps=30|goals=2|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{nat fs g player|no=3|pos=DF|name=[[Martin Stranzl]]|age=16 June 1980 (27)|caps=45|goals=2|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Emanuel Pogatetz]]|age=16 January 1983 (25)|caps=27|goals=1|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=MF|name=[[Christian Fuchs]]|age=7 April 1986 (22)|caps=17|goals=0|club=[[SV Mattersburg|Mattersburg]]|clubnat=AUT}}
+{{nat fs g player|no=6|pos=MF|name=[[René Aufhauser]]|age=21 June 1976 (31)|caps=51|goals=11|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=7|pos=MF|name=[[Ivica Vastić]]|age=29 September 1969 (38)|caps=48|goals=13|club=[[LASK Linz]]|clubnat=AUT}}
+{{nat fs g player|no=8|pos=FW|name=[[Christoph Leitgeb]]|age=14 April 1985 (23)|caps=19|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=9|pos=FW|name=[[Roland Linz]]|age=9 August 1981 (26)|caps=32|goals=7|club=[[S.C. Braga|Braga]]|clubnat=POR}}
+{{nat fs g player|no=10|pos=MF|name=[[Andreas Ivanschitz]] ([[Captain (association football)|c]])|age=15 October 1983 (24)|caps=39|goals=6|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}<ref>[[Andreas Ivanschitz]] was on loan at [[Panathinaikos FC|Panathinaikos]].</ref>
+{{nat fs g player|no=11|pos=MF|name=[[Ümit Korkmaz]]|age=17 September 1985 (22)|caps=2|goals=0|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT}}<ref>[[Ümit Korkmaz]] will join [[Eintracht Frankfurt]] after the tournament.</ref>
+{{nat fs g player|no=12|pos=DF|name=[[Ronald Gërçaliu]]|age=12 February 1986 (22)|caps=11|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}<ref>[[Ronald Gërçaliu]] was on loan at [[FK Austria Wien|Austria Wien]].</ref>
+{{nat fs g player|no=13|pos=DF|name=[[Markus Katzer]]|age=11 December 1979 (28)|caps=11|goals=0|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT}}
+{{nat fs g player|no=14|pos=DF|name=[[György Garics]]|age=8 March 1984 (24)|caps=12|goals=1|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Sebastian Prödl]]|age=21 June 1987 (20)|caps=10|goals=2|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=AUT}}<ref>[[Sebastian Prödl]] will join [[SV Werder Bremen|Werder Bremen]] after the tournament.</ref>
+{{nat fs g player|no=16|pos=DF|name=[[Jürgen Patocka]]|age=30 July 1977 (30)|caps=2|goals=0|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT}}
+{{nat fs g player|no=17|pos=DF|name=[[Martin Hiden]]|age=11 March 1973 (35)|caps=49|goals=1|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT}}<ref>[[Martin Hiden]] was on loan at [[SK Austria Kärnten|Austria Kärnten]].</ref>
+{{nat fs g player|no=18|pos=FW|name=[[Roman Kienast]]|age=29 March 1984 (24)|caps=6|goals=1|club=[[Hamarkameratene|HamKam]]|clubnat=NOR}}
+{{nat fs g player|no=19|pos=MF|name=[[Jürgen Säumel]]|age=8 September 1984 (23)|caps=11|goals=0|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=AUT}}
+{{nat fs g player|no=20|pos=FW|name=[[Martin Harnik]]|age=10 June 1987 (20)|caps=8|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=GK|name=[[Jürgen Macho]]|age=24 August 1977 (30)|caps=14|goals=0|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=22|pos=FW|name=[[Erwin Hoffer]]|age=14 April 1987 (21)|caps=4|goals=0|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=AUT}}
+{{nat fs g player|no=23|pos=GK|name=[[Ramazan Özcan]]|age=28 June 1984 (23)|caps=0|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}<ref>[[Ramazan Özcan]] was on loan at [[TSG 1899 Hoffenheim]] and joined them permanently after the tournament.</ref>
+{{nat fs end}}
+
+===Croatia===
+Head coach: [[Slaven Bilić]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Stipe Pletikosa]]|age=8 January 1979 (29)|caps=69|goals=0|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=2|pos=DF|name=[[Dario Šimić]]|age=12 November 1975 (32)|caps=98|goals=3|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Josip Šimunić]]|age=18 February 1978 (30)|caps=62|goals=3|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Robert Kovač]]|age=6 April 1974 (34)|caps=74|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Vedran Ćorluka]]|age=5 February 1986 (22)|caps=20|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Hrvoje Vejić]]|age=8 June 1977 (30)|caps=2|goals=0|club=[[FC Tom Tomsk|Tom Tomsk]]|clubnat=RUS}}
+{{nat fs g player|no=7|pos=MF|name=[[Ivan Rakitić]]|age=10 March 1988 (20)|caps=8|goals=1|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Ognjen Vukojević]]|age=20 December 1983 (24)|caps=5|goals=1|club=[[NK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}<ref>[[Ognjen Vukojević]] will join [[FC Dynamo Kyiv|Dynamo Kyiv]] after the tournament.</ref>
+{{nat fs g player|no=9|pos=FW|name=[[Nikola Kalinić]]|age=5 January 1988 (20)|caps=1|goals=0|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO}}
+{{nat fs g player|no=10|pos=MF|name=[[Niko Kovač]] ([[Captain (association football)|c]]) |age=15 October 1971 (36)|caps=77|goals=14|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=11|pos=DF|name=[[Darijo Srna]]|age=1 May 1982 (26)|caps=55|goals=15|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=12|pos=GK|name=[[Mario Galinović]]|age=15 November 1976 (31)|caps=2|goals=0|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=13|pos=MF|name=[[Nikola Pokrivač]]|age=26 November 1985 (22)|caps=1|goals=0|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Luka Modrić]]|age=9 September 1985 (22)|caps=26|goals=3|club=[[NK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}<ref>[[Luka Modrić]] will join [[Tottenham Hotspur F.C.|Tottenham Hotspur]] after the tournament.</ref>
+{{nat fs g player|no=15|pos=DF|name=[[Dario Knežević]]|age=20 April 1982 (26)|caps=7|goals=1|club=[[A.S. Livorno Calcio|Livorno]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Jerko Leko]]|age=9 April 1980 (28)|caps=52|goals=2|club=[[AS Monaco FC|AS Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=FW|name=[[Ivan Klasnić]]|age=29 January 1980 (28)|caps=29|goals=8|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=FW|name=[[Ivica Olić]]|age=14 September 1979 (28)|caps=54|goals=9|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Niko Kranjčar]]|age=13 August 1984 (23)|caps=41|goals=7|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Igor Budan]]|age=22 April 1980 (28)|caps=5|goals=0|club=[[Parma F.C.|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=FW|name=[[Mladen Petrić]]|age=1 January 1981 (27)|caps=24|goals=9|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=MF|name=[[Danijel Pranjić]]|age=2 December 1981 (26)|caps=11|goals=0|club=[[SC Heerenveen|Heerenveen]]|clubnat=NED}}
+{{nat fs g player|no=23|pos=GK|name=[[Vedran Runje]]|age=10 February 1976 (32)|caps=4|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Germany===
+Head coach: [[Joachim Löw]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jens Lehmann]]|age=10 November 1969 (38)|caps=55|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}<ref>[[Jens Lehmann]] will join [[VfB Stuttgart|Stuttgart]] after the tournament.</ref>
+{{nat fs g player|no=2|pos=DF|name=[[Marcell Jansen]]|age=4 November 1985 (22)|caps=22|goals=1|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Arne Friedrich]]|age=29 May 1979 (29)|caps=57|goals=0|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Clemens Fritz]]|age=7 December 1980 (27)|caps=14|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Heiko Westermann]]|age=14 August 1983 (24)|caps=3|goals=0|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Simon Rolfes]]|age=21 January 1982 (26)|caps=10|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=MF|name=[[Bastian Schweinsteiger]]|age=1 August 1984 (23)|caps=51|goals=13|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Torsten Frings]]|age=22 November 1976 (31)|caps=72|goals=10|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Mario Gómez]]|age=10 July 1985 (22)|caps=10|goals=6|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Oliver Neuville]]|age=1 May 1973 (35)|caps=68|goals=10|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Miroslav Klose]]|age=9 June 1978 (30)|caps=75|goals=39|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Robert Enke]]|age=24 August 1977 (30)|caps=1|goals=0|club=[[Hannover 96|Hannover]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=MF|name=[[Michael Ballack]] ([[Captain (association football)|c]]) |age=26 September 1976 (31)|caps=81|goals=36|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Piotr Trochowski]]|age=22 March 1984 (24)|caps=12|goals=0|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=MF|name=[[Thomas Hitzlsperger]]|age=5 April 1982 (26)|caps=33|goals=5|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=DF|name=[[Philipp Lahm]]|age=11 November 1983 (24)|caps=41|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=DF|name=[[Per Mertesacker]]|age=29 September 1984 (23)|caps=43|goals=1|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=MF|name=[[Tim Borowski]]|age=2 May 1980 (28)|caps=31|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}<ref>[[Tim Borowski]] will join [[FC Bayern Munich|Bayern Munich]] after the tournament.</ref>
+{{nat fs g player|no=19|pos=MF|name=[[David Odonkor]]|age=21 February 1984 (24)|caps=15|goals=1|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=FW|name=[[Lukas Podolski]]|age=4 June 1985 (23)|caps=48|goals=25|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=DF|name=[[Christoph Metzelder]]|age=5 November 1980 (27)|caps=41|goals=0|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=FW|name=[[Kevin Kurányi]]|age=2 March 1982 (26)|caps=47|goals=19|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=GK|name=[[René Adler]]|age=15 January 1985 (23)|caps=0|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs end}}
+
+===Poland===
+Head coach: {{flagicon|NED}} [[Leo Beenhakker]]
+:[[Jakub Błaszczykowski]] injured a [[hamstring]] on 5 June and was replaced by [[Łukasz Piszczek]].<ref>{{cite news |title=Błaszczykowski ruled out of EURO |url=http://www.euro2008.uefa.com/news/kind=1/newsid=706482.html |work=euro2008.uefa.com |publisher=Union of European Football Associations |date=5 June 2008 |accessdate=5 June 2008 }}</ref> [[Tomasz Kuszczak]] injured his back on 6 June and was replaced by [[Wojciech Kowalewski]].<ref>{{cite news |title=Injury rules out Poland's Kuszczak |url=http://www.euro2008.uefa.com/news/kind=1/newsid=707281.html |work=euro2008.uefa.com |publisher=Union of European Football Associations |date=6 June 2008 |accessdate=6 June 2008 }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Artur Boruc]]|age=20 February 1980 (28)|caps=34|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=2|pos=DF|name=[[Mariusz Jop]]|age=8 March 1978 (30)|caps=24|goals=0|club=[[FC Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=3|pos=DF|name=[[Jakub Wawrzyniak]]|age=7 July 1983 (24)|caps=11|goals=0|club=[[Legia Warsaw]]|clubnat=POL}}
+{{nat fs g player|no=4|pos=DF|name=[[Paweł Golański]]|age=12 October 1982 (25)|caps=10|goals=1|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=5|pos=MF|name=[[Dariusz Dudka]]|age=9 December 1983 (24)|caps=26|goals=2|club=[[Wisła Kraków]]|clubnat=POL}}
+{{nat fs g player|no=6|pos=DF|name=[[Jacek Bąk]]|age=24 March 1973 (35)|caps=94|goals=3|club=[[FK Austria Wien|Austria Wien]]|clubnat=AUT}}
+{{nat fs g player|no=7|pos=FW|name=[[Euzebiusz Smolarek]]|age=9 January 1981 (27)|caps=31|goals=13|club=[[Racing de Santander|Racing Santander]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Jacek Krzynówek]]|age=15 May 1976 (32)|caps=79|goals=15|club=[[VfL Wolfsburg|Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Maciej Żurawski]] ([[Captain (association football)|c]]) |age=11 September 1976 (31)|caps=71|goals=17|club=[[Larissa F.C.|Larissa]]|clubnat=GRE}}
+{{nat fs g player|no=10|pos=MF|name=[[Łukasz Garguła]]|age=25 February 1981 (27)|caps=12|goals=1|club=[[GKS Bełchatów]]|clubnat=POL}}
+{{nat fs g player|no=11|pos=FW|name=[[Marek Saganowski]]|age=31 October 1978 (29)|caps=23|goals=3|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Wojciech Kowalewski]]|age=11 May 1977 (31)|caps=10|goals=0|club=[[Korona Kielce]]|clubnat=POL}}
+{{nat fs g player|no=13|pos=DF|name=[[Marcin Wasilewski]]|age=9 June 1980 (27)|caps=27|goals=1|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=BEL}}
+{{nat fs g player|no=14|pos=DF|name=[[Michał Żewłakow]]|age=22 April 1976 (32)|caps=76|goals=2|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=15|pos=MF|name=[[Michał Pazdan]]|age=21 September 1987 (20)|caps=5|goals=0|club=[[Górnik Zabrze]]|clubnat=POL}}
+{{nat fs g player|no=16|pos=MF|name=[[Łukasz Piszczek]]|age=3 June 1985 (23)|caps=3|goals=0|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Wojciech Łobodziński]]|age=20 October 1982 (25)|caps=16|goals=2|club=[[Wisła Kraków]]|clubnat=POL}}
+{{nat fs g player|no=18|pos=MF|name=[[Mariusz Lewandowski]]|age=18 May 1979 (29)|caps=47|goals=3|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=19|pos=MF|name=[[Rafał Murawski]]|age=9 October 1981 (26)|caps=9|goals=1|club=[[Lech Poznań]]|clubnat=POL}}
+{{nat fs g player|no=20|pos=MF|name=[[Roger Guerreiro]]|age=25 May 1982 (26)|caps=2|goals=0|club=[[Legia Warsaw]]|clubnat=POL}}
+{{nat fs g player|no=21|pos=FW|name=[[Tomasz Zahorski]]|age=22 November 1984 (23)|caps=9|goals=1|club=[[Górnik Zabrze]]|clubnat=POL}}
+{{nat fs g player|no=22|pos=GK|name=[[Łukasz Fabiański]]|age=18 April 1985 (23)|caps=8|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=DF|name=[[Adam Kokoszka]]|age=6 October 1986 (21)|caps=7|goals=2|club=[[Wisła Kraków]]|clubnat=POL}}
+{{nat fs end}}
+
+==Group C==
+
+===France===
+Head coach: [[Raymond Domenech]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Steve Mandanda]]|age=28 March 1985 (22)|caps=1|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=2|pos=DF|name=[[Jean-Alain Boumsong]]|age=14 December 1979 (28)|caps=23|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Éric Abidal]]|age=11 September 1979 (28)|caps=35|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=MF|name=[[Patrick Vieira]] ([[Captain (association football)|c]])|age=23 June 1976 (31)|caps=105|goals=6|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[William Gallas]]|age=17 August 1977 (30)|caps=62|goals=2|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Claude Makélélé]]|age=18 February 1973 (35)|caps=68|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Florent Malouda]]|age=13 June 1980 (27)|caps=39|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=FW|name=[[Nicolas Anelka]]|age=14 March 1979 (29)|caps=48|goals=11|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Karim Benzema]]|age=19 December 1987 (20)|caps=11|goals=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Sidney Govou]]|age=27 July 1979 (28)|caps=32|goals=7|club= [[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Samir Nasri]]|age=20 June 1987 (20)|caps=10|goals=2|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=FW|name=[[Thierry Henry]]|age=17 August 1977 (30)|caps=100|goals=44|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=DF|name=[[Patrice Evra]]|age=15 May 1981 (27)|caps=11|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=DF|name=[[François Clerc]]|age=18 April 1983 (25)|caps=12|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=15|pos=DF|name=[[Lilian Thuram]]|age=1 January 1972 (36)|caps=140|goals=2|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=GK|name=[[Sébastien Frey]]|age=18 March 1980 (28)|caps=2|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Sébastien Squillaci]]|age=11 August 1980 (27)|caps=13|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Bafétimbi Gomis]]|age=6 August 1985 (22)|caps=2|goals=2|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs g player|no=19|pos=DF|name=[[Willy Sagnol]]|age=18 March 1977 (31)|caps=56|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=MF|name=[[Jérémy Toulalan]]|age=10 September 1983 (24)|caps=13|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=MF|name=[[Lassana Diarra]]|age=10 March 1985 (23)|caps=13|goals=0|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Franck Ribéry]]|age=7 April 1983 (24)|caps=27|goals=4|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=GK|name=[[Grégory Coupet]]|age=31 December 1972 (35)|caps=31|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g end}}
+
+===Italy===
+Head coach: [[Roberto Donadoni]]
+:[[Fabio Cannavaro]] was ruled out of the Italian squad on 2 June after he was injured in training; he was replaced by [[Alessandro Gamberini]].<ref>{{cite news |title=Italy rocked by Cannavaro injury |url=http://news.bbc.co.uk/sport2/hi/football/euro_2008/italy/7432512.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=2 June 2008 |accessdate=2 June 2008 }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Gianluigi Buffon]]|age=28 January 1978 (30)|caps=82|goals=0|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=2|pos=DF|name=[[Christian Panucci]]|age=12 April 1973 (35)|caps=53|goals=3|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Fabio Grosso]]|age=28 November 1977 (31)|caps=31|goals=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Giorgio Chiellini]]|age=14 August 1984 (23)|caps=10|goals=1|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[Alessandro Gamberini]]|age=27 August 1981 (26)|caps=2|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=DF|name=[[Andrea Barzagli]]|age=8 May 1981 (27)|caps=22|goals=0|club=[[U.S. Città di Palermo|Palermo]]|clubnat=ITA}}<ref>[[Andrea Barzagli]] will join [[VfL Wolfsburg|Wolfsburg]] after the tournament.</ref>
+{{nat fs g player|no=7|pos=FW|name=[[Alessandro Del Piero]] ([[Captain (association football)|c]])|age=9 November 1974 (33)|caps=86|goals=27|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Gennaro Gattuso]]|age=9 January 1978 (30)|caps=58|goals=1|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Luca Toni]]|age=26 May 1977 (31)|caps=34|goals=15|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Daniele De Rossi]]|age=24 July 1983 (24)|caps=33|goals=4|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Antonio Di Natale]]|age=13 October 1977 (30)|caps=18|goals=7|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=FW|name=[[Marco Borriello]]|age=18 June 1982 (25)|caps=3|goals=0|club=[[A.C. Milan|Milan]]|clubnat=ITA}} 
+{{nat fs g player|no=13|pos=MF|name=[[Massimo Ambrosini]]|age=29 May 1977 (31)|caps=31|goals=0|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=GK|name=[[Marco Amelia]]|age=2 April 1982 (26)|caps=6|goals=0|club=[[A.S. Livorno Calcio|Livorno]]|clubnat=ITA}}<ref>[[Marco Amelia]] will join [[U.S. Città di Palermo|Palermo]] after the tournament.</ref>
+{{nat fs g player|no=15|pos=FW|name=[[Fabio Quagliarella]]|age=31 January 1983 (25)|caps=8|goals=3|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Mauro Camoranesi]]|age=4 October 1976 (31)|caps=35|goals=4|club=[[Juventus F.C.|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=GK|name=[[Morgan De Sanctis]]|age=26 March 1977 (31)|caps=2|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=FW|name=[[Antonio Cassano]]|age=12 July 1982 (25)|caps=11|goals=3|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=DF|name=[[Gianluca Zambrotta]]|age=19 February 1977 (31)|caps=71|goals=2|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}<ref>[[Gianluca Zambrotta]] will join [[AC Milan]] after the tournament.</ref>
+{{nat fs g player|no=20|pos=MF|name=[[Simone Perrotta]]|age=17 September 1977 (30)|caps=41|goals=2|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[Andrea Pirlo]]|age=19 May 1979 (29)|caps=46|goals=6|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=MF|name=[[Alberto Aquilani]]|age=7 July 1984 (23)|caps=5|goals=0|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=DF|name=[[Marco Materazzi]]|age=19 August 1973 (34)|caps=40|goals=2|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs g end}}
+
+===Netherlands===
+Head coach: [[Marco van Basten]]
+:[[Ryan Babel]] was ruled out of the Dutch squad on 31 May after he was injured in training; he was replaced by [[Khalid Boulahrouz]].<ref>{{cite news |title=Injury rules Babel out of Euros |url=http://news.bbc.co.uk/sport1/hi/football/euro_2008/netherlands/7429356.stm |work=BBC Sport |publisher=British Broadcasting Corporation |date=31 May 2008 |accessdate=31 May 2008 }}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Edwin van der Sar]] ([[Captain (association football)|c]]) |age=29 October 1970 (37)|caps=125|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[André Ooijer]]|age=11 July 1974 (33)|caps=37|goals=2|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[John Heitinga]]|age=15 November 1983 (24)|caps=36|goals=5|club=[[AFC Ajax|Ajax]]|clubnat=NED}}<ref>[[John Heitinga]] will join [[Atlético Madrid]] after the tournament.</ref>
+{{nat fs g player|no=4|pos=DF|name=[[Joris Mathijsen]]|age=5 April 1980 (28)|caps=32|goals=2|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=MF|name=[[Giovanni van Bronckhorst]]|age=5 February 1975 (33)|caps=78|goals=4|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=6|pos=MF|name=[[Demy de Zeeuw]]|age=26 May 1983 (25)|caps=15|goals=0|club=[[AZ (football club)|AZ]]|clubnat=NED}}
+{{nat fs g player|no=7|pos=FW|name=[[Robin van Persie]]|age=6 August 1983 (24)|caps=24|goals=7|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Orlando Engelaar]]|age=24 August 1979 (28)|caps=6|goals=0|club=[[FC Twente|Twente]]|clubnat=NED}}
+{{nat fs g player|no=9|pos=FW|name=[[Ruud van Nistelrooy]]|age=1 July 1976 (31)|caps=61|goals=31|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Wesley Sneijder]]|age=9 June 1984 (23)|caps=45|goals=9|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=FW|name=[[Arjen Robben]]|age=23 January 1984 (24)|caps=33|goals=9|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=DF|name=[[Mario Melchiot]]|age=4 November 1976 (31)|caps=21|goals=0|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Henk Timmer (footballer)|Henk Timmer]]|age=3 December 1971 (36)|caps=5|goals=0|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=14|pos=DF|name=[[Wilfred Bouma]]|age=15 June 1978 (29)|caps=33|goals=2|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Tim de Cler]]|age=8 November 1978 (29)|caps=15|goals=0|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=16|pos=GK|name=[[Maarten Stekelenburg]]|age=22 September 1982 (25)|caps=11|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=17|pos=MF|name=[[Nigel de Jong]]|age=30 November 1984 (23)|caps=23|goals=0|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=FW|name=[[Dirk Kuyt]]|age=22 July 1980 (27)|caps=38|goals=7|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Klaas-Jan Huntelaar]]|age=12 August 1983 (24)|caps=12|goals=7|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=MF|name=[[Ibrahim Afellay]]|age=2 April 1986 (22)|caps=5|goals=0|club=[[PSV Eindhoven|PSV]]|clubnat=NED}}
+{{nat fs g player|no=21|pos=DF|name=[[Khalid Boulahrouz]]|age=28 December 1981 (26)|caps=22|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}<ref>[[Khalid Boulahrouz]] was on loan at [[Sevilla FC|Sevilla]].</ref>
+{{nat fs g player|no=22|pos=FW|name=[[Jan Vennegoor of Hesselink]]|age=7 November 1978 (29)|caps=16|goals=3|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=23|pos=MF|name=[[Rafael van der Vaart]]|age=11 February 1983 (25)|caps=55|goals=12|club=[[Hamburger SV|Hamburg]]|clubnat=GER}}
+{{nat fs end}}
+
+===Romania===
+Head coach: [[Victor Piţurcă]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Bogdan Lobonţ]]|age=18 January 1978 (30)|caps=63|goals=0|club=[[F.C. Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=2|pos=DF|name=[[Cosmin Contra]]|age=15 December 1975 (32)|caps=63|goals=7|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Răzvan Raţ]]|age=26 May 1981 (27)|caps=48|goals=1|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=4|pos=DF|name=[[Gabriel Tamaş]]|age=9 November 1983 (24)|caps=32|goals=2|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Cristian Chivu]] ([[Captain (association football)|c]]) |age=26 October 1980 (27)|caps=59|goals=3|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=MF|name=[[Mirel Rădoi]]|age=22 March 1981 (27)|caps=43|goals=1|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=7|pos=MF|name=[[Florentin Petre]]|age=15 January 1976 (32)|caps=50|goals=5|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=BUL}}
+{{nat fs g player|no=8|pos=MF|name=[[Paul Codrea]]|age=4 April 1981 (27)|caps=33|goals=1|club=[[A.C. Siena|Siena]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Ciprian Marica]]|age=2 October 1985 (22)|caps=24|goals=8|club=[[VfB Stuttgart|Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Adrian Mutu]]|age=8 January 1979 (29)|caps=61|goals=28|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=MF|name=[[Răzvan Cociş]]|age=19 February 1983 (24)|caps=21|goals=1|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=12|pos=GK|name=[[Marius Popa]]|age=31 July 1978 (29)|caps=2|goals=0|club=[[Politehnica 1921 Ştiinţa Timişoara|Politehnica Timişoara]]|clubnat=ROU}}
+{{nat fs g player|no=13|pos=DF|name=[[Cristian Săpunaru]]|age=5 April 1984 (24)|caps=1|goals=0|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=14|pos=DF|name=[[Sorin Ghionea]]|age=11 May 1979 (29)|caps=10|goals=1|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=15|pos=DF|name=[[Dorin Goian]]|age=12 December 1980 (26)|caps=19|goals=3|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=16|pos=MF|name=[[Bănel Nicoliţă]]|age=7 January 1985 (23)|caps=20|goals=1|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=17|pos=DF|name=[[Cosmin Moţi]]|age=3 December 1984 (23)|caps=2|goals=0|club=[[F.C. Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=18|pos=FW|name=[[Marius Niculae]]|age=16 May 1981 (27)|caps=30|goals=13|club=[[Inverness Caledonian Thistle F.C.|Inverness Caledonian Thistle]]|clubnat=SCO}}
+{{nat fs g player|no=19|pos=MF|name=[[Adrian Cristea]]|age=30 November 1983 (24)|caps=6|goals=0|club=[[F.C. Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=20|pos=MF|name=[[Nicolae Dică]]|age=9 May 1980 (28)|caps=25|goals=8|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=ROU}}
+{{nat fs g player|no=21|pos=FW|name=[[Daniel Niculae]]|age=6 October 1982 (25)|caps=22|goals=5|club=[[AJ Auxerre|Auxerre]]|clubnat=FRA}}
+{{nat fs g player|no=22|pos=DF|name=[[Ştefan Radu]]|age=22 October 1986 (21)|caps=8|goals=0|club=[[F.C. Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=ROU}}<ref>[[Ştefan Radu]] was on loan at [[S.S. Lazio|Lazio]].</ref>
+{{nat fs g player|no=23|pos=GK|name=[[Eduard Stăncioiu]]|age=3 March 1981 (27)|caps=1|goals=0|club=[[CFR Cluj]]|clubnat=ROU}}
+{{nat fs end}}
+
+==Group D==
+
+===Greece===
+Head coach: {{flagicon|GER}} [[Otto Rehhagel]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Antonios Nikopolidis]]|age=14 January 1971 (37)|caps=87|goals=0|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=2|pos=DF|name=[[Giourkas Seitaridis]]|age=4 June 1981 (27)|caps=56|goals=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=MF|name=[[Christos Patsatzoglou]]|age=19 March 1979 (29)|caps=29|goals=1|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=4|pos=DF|name=[[Nikos Spiropoulos]]|age=10 October 1983 (24)|caps=5|goals=0|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=5|pos=DF|name=[[Traianos Dellas]]|age=31 January 1976 (32)|caps=42|goals=1|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=6|pos=MF|name=[[Angelos Basinas]] ([[Captain (association football)|c]]) |age=3 January 1976 (32)|caps=88|goals=7|club=[[RCD Mallorca|Real Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=FW|name=[[Georgios Samaras]]|age=21 February 1985 (23)|caps=18|goals=3|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}<ref>[[Georgios Samaras]] was on loan at [[Celtic F.C.|Celtic]].</ref>
+{{nat fs g player|no=8|pos=MF|name=[[Stelios Giannakopoulos]]|age=12 July 1974 (33)|caps=75|goals=12|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Angelos Charisteas]]|age=9 February 1980 (28)|caps=65|goals=18|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Giorgos Karagounis]]|age=6 March 1977 (31)|caps=73|goals=6|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=11|pos=DF|name=[[Loukas Vyntra]]|age=5 February 1981 (27)|caps=18|goals=0|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=12|pos=GK|name=[[Konstantinos Chalkias]]|age=30 May 1974 (34)|caps=15|goals=0|club=[[Aris Thessaloniki F.C.|Aris]]|clubnat=GRE}}<ref>[[Konstantinos Chalkias]] will join [[PAOK FC|PAOK]] after the tournament.</ref>
+{{nat fs g player|no=13|pos=GK|name=[[Alexandros Tzorvas]]|age=12 August 1982 (25)|caps=0|goals=0|club=[[OFI Crete]]|clubnat=GRE}}
+{{nat fs g player|no=14|pos=FW|name=[[Dimitris Salpingidis]]|age=10 August 1981 (26)|caps=21|goals=1|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=15|pos=DF|name=[[Vasilis Torosidis]]|age=10 June 1985 (22)|caps=13|goals=0|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=16|pos=DF|name=[[Sotirios Kyrgiakos]]|age=23 July 1979 (28)|caps=38|goals=4|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=FW|name=[[Theofanis Gekas]]|age=23 May 1980 (28)|caps=27|goals=6|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=DF|name=[[Yannis Goumas]]|age=24 May 1975 (33)|caps=45|goals=0|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=19|pos=DF|name=[[Paraskevas Antzas]]|age=18 August 1976 (31)|caps=24|goals=0|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=GRE}}
+{{nat fs g player|no=20|pos=FW|name=[[Ioannis Amanatidis]]|age=3 December 1981 (26)|caps=26|goals=3|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=MF|name=[[Kostas Katsouranis]]|age=26 June 1979 (28)|caps=49|goals=6|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=MF|name=[[Alexandros Tziolis]]|age=13 February 1985 (23)|caps=8|goals=0|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=23|pos=FW|name=[[Nikos Liberopoulos]]|age=4 August 1975 (32)|caps=59|goals=13|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g end}}
+
+===Russia===
+Head coach: {{flagicon|NED}} [[Guus Hiddink]]
+:[[Pavel Pogrebnyak]] failed to recover from injury and was replaced by  on 7 June.<ref>{{cite news |title=Russian abandon hope for Pogrebnyak |url=http://www.euro2008.uefa.com/news/kind=1/newsid=707855.html |work=euro2008.uefa.com |publisher=Union of European Football Associations |date=7 June 2008 |accessdate=7 June 2008 }}</ref>
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Igor Akinfeev]]|age=8 April 1986 (22)|caps=20|goals=0|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=2|pos=DF|name=[[Vasili Berezutski]]|age=20 June 1982 (26)|caps=29|goals=1|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=3|pos=DF|name=[[Renat Yanbayev]]|age=7 April 1984 (24)|caps=2|goals=0|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Sergei Ignashevich]]|age=14 July 1979 (28)|caps=37|goals=3|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=5|pos=DF|name=[[Aleksei Berezutski]]|age=20 June 1982 (26)|caps=32|goals=0|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=FW|name=[[Roman Adamov]]|age=21 June 1982 (25)|caps=2|goals=0|club=[[FC Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=7|pos=MF|name=[[Dmitri Torbinski]]|age=28 April 1984 (24)|caps=11|goals=1|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=8|pos=DF|name=[[Denis Kolodin]]|age=11 January 1982 (26)|caps=13|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=9|pos=MF|name=[[Ivan Saenko]]|age=17 October 1983 (24)|caps=7|goals=0|club=[[1. FC Nuremberg|Nuremberg]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Andrei Arshavin]]|age=29 May 1981 (27)|caps=34|goals=11|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=MF|name=[[Sergei Semak]] ([[Captain (association football)|c]])|age=27 February 1976 (32)|caps=46|goals=4|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs g player|no=12|pos=GK|name=[[Vladimir Gabulov]]|age=19 October 1983 (24)|caps=5|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=13|pos=MF|name=[[Oleg Ivanov]]|age=4 August 1986 (21)|caps=0|goals=0|club=[[FC Krylia Sovetov Samara|Krylia Sovetov Samara]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=DF|name=[[Roman Shirokov]]|age=6 July 1981 (26)|caps=4|goals=0|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=15|pos=MF|name=[[Diniyar Bilyaletdinov]]|age=27 February 1985 (23)|caps=23|goals=2|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=16|pos=GK|name=[[Vyacheslav Malafeev]]|age=4 March 1979 (29)|caps=16|goals=0|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=17|pos=MF|name=[[Konstantin Zyryanov]]|age=5 October 1977 (30)|caps=12|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=18|pos=MF|name=[[Yuri Zhirkov]]|age=20 August 1983 (24)|caps=19|goals=0|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=19|pos=FW|name=[[Roman Pavlyuchenko]]|age=15 December 1981 (26)|caps=17|goals=6|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=20|pos=MF|name=[[Igor Semshov]]|age=6 April 1978 (30)|caps=27|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=21|pos=FW|name=[[Dmitri Sychev]]|age=26 October 1983 (24)|caps=41|goals=15|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=22|pos=DF|name=[[Aleksandr Anyukov]]|age=28 September 1982 (25)|caps=32|goals=1|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=23|pos=MF|name=[[Vladimir Bystrov]]|age=31 January 1984 (24)|caps=20|goals=4|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs end}}
+
+===Spain===
+Head coach: [[Luis Aragonés]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Iker Casillas]] ([[Captain (association football)|c]]) |age=20 May 1981 (27)|caps=77|goals=0|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Raúl Albiol]]|age=4 September 1985 (22)|caps=4|goals=0|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Fernando Navarro]]|age=25 June 1982 (25)|caps=1|goals=0|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=DF|name=[[Carlos Marchena]]|age=31 July 1979 (28)|caps=42|goals=2|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=DF|name=[[Carles Puyol]]|age=13 April 1978 (30)|caps=61|goals=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=6|pos=MF|name=[[Andrés Iniesta]]|age=11 May 1984 (24)|caps=23|goals=5|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=FW|name=[[David Villa]]|age=3 December 1981 (26)|caps=31|goals=14|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Xavi]]|age=25 January 1980 (28)|caps=58|goals=6|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Fernando Torres]]|age=20 March 1984 (24)|caps=49|goals=15|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Cesc Fàbregas]]|age=4 May 1987 (21)|caps=26|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=DF|name=[[Joan Capdevila]]|age=3 February 1978 (30)|caps=18|goals=3|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=MF|name=[[Santi Cazorla]]|age=13 December 1984 (23)|caps=2|goals=0|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=GK|name=[[Andrés Palop]]|age=22 October 1973 (34)|caps=0|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Xabi Alonso]]|age=25 November 1981 (26)|caps=43|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Sergio Ramos]]|age=30 March 1986 (22)|caps=34|goals=4|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=FW|name=[[Sergio García de la Fuente|Sergio García]]|age=9 June 1983 (24)|caps=1|goals=0|club=[[Real Zaragoza]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Dani Güiza]]|age=17 August 1980 (27)|caps=4|goals=0|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=DF|name=[[Álvaro Arbeloa]]|age=17 January 1983 (25)|caps=2|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Marcos Senna]]|age=17 July 1976 (31)|caps=11|goals=0|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=DF|name=[[Juan Gutiérrez Moreno|Juanito]]|age=23 July 1976 (31)|caps=23|goals=2|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=MF|name=[[David Silva]]|age=8 January 1986 (22)|caps=14|goals=2|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=MF|name=[[Rubén de la Red]]|age=5 June 1985 (23)|caps=2|goals=0|club=[[Getafe CF|Getafe]]|clubnat=ESP}}<ref>[[Rubén de la Red]] will join [[Real Madrid C.F.|Real Madrid]] after the tournament.</ref>
+{{nat fs g player|no=23|pos=GK|name=[[Pepe Reina]]|age=31 August 1982 (25)|caps=9|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g end}}
+
+===Sweden===
+Head coach: [[Lars Lagerbäck]]
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Andreas Isaksson]]|age=3 October 1981 (26)|caps=56|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Mikael Nilsson (footballer born 1978)|Mikael Nilsson]]|age=24 June 1978 (29)|caps=47|goals=3|club=[[Panathinaikos FC|Panathinaikos]]|clubnat=GRE}}
+{{nat fs g player|no=3|pos=DF|name=[[Olof Mellberg]]|age=3 September 1977 (30)|caps=82|goals=4|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}<ref>[[Olof Mellberg]] will join [[Juventus F.C.|Juventus]] after the tournament.</ref>
+{{nat fs g player|no=4|pos=DF|name=[[Petter Hansson]]|age=14 December 1976 (31)|caps=32|goals=1|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Fredrik Stoor]]|age=28 February 1984 (24)|caps=5|goals=0|club=[[Rosenborg BK|Rosenborg]]|clubnat=NOR}}
+{{nat fs g player|no=6|pos=MF|name=[[Tobias Linderoth]]|age=21 April 1979 (29)|caps=75|goals=2|club=[[Galatasaray S.K. (football team)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=7|pos=MF|name=[[Niclas Alexandersson]]|age=29 December 1971 (36)|caps=108|goals=7|club=[[IFK Göteborg]]|clubnat=SWE}}
+{{nat fs g player|no=8|pos=MF|name=[[Anders Svensson (footballer)|Anders Svensson]]|age=17 July 1976 (31)|caps=90|goals=15|club=[[IF Elfsborg|Elfsborg]]|clubnat=SWE}}
+{{nat fs g player|no=9|pos=MF|name=[[Fredrik Ljungberg]] ([[Captain (association football)|c]]) |age=16 April 1977 (31)|caps=72|goals=14|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Zlatan Ibrahimović]]|age=3 October 1981 (26)|caps=50|goals=18|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Johan Elmander]]|age=27 May 1981 (27)|caps=35|goals=11|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Rami Shaaban]]|age=30 June 1975 (32)|caps=16|goals=0|club=[[Hammarby IF|Hammarby]]|clubnat=SWE}}
+{{nat fs g player|no=13|pos=GK|name=[[Johan Wiland]]|age=24 January 1981 (27)|caps=3|goals=0|club=[[IF Elfsborg|Elfsborg]]|clubnat=SWE}}
+{{nat fs g player|no=14|pos=DF|name=[[Daniel Majstorović]]|age=5 April 1977 (31)|caps=15|goals=1|club=[[FC Basel|Basel]]|clubnat=SUI}}<ref>[[Daniel Majstorović]] will join [[AEK Athens F.C.|AEK Athens]] after the tournament.</ref>
+{{nat fs g player|no=15|pos=DF|name=[[Andreas Granqvist]]|age=16 April 1985 (23)|caps=3|goals=0|club=[[Wigan Athletic F.C.|Wigan Athletic]]|clubnat=ENG}}<ref>[[Andreas Granqvist]] was on loan at [[Helsingborgs IF|Helsingborg]].</ref>
+{{nat fs g player|no=16|pos=MF|name=[[Kim Källström]]|age=24 August 1982 (25)|caps=55|goals=8|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=FW|name=[[Henrik Larsson]]|age=20 September 1971 (36)|caps=95|goals=36|club=[[Helsingborgs IF|Helsingborg]]|clubnat=SWE}}
+{{nat fs g player|no=18|pos=MF|name=[[Sebastian Larsson]]|age=6 June 1985 (23)|caps=4|goals=0|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Daniel Andersson (footballer born 1977)|Daniel Andersson]]|age=28 August 1977 (30)|caps=62|goals=0|club=[[Malmö FF]]|clubnat=SWE}}
+{{nat fs g player|no=20|pos=FW|name=[[Marcus Allbäck]]|age=5 July 1973 (34)|caps=73|goals=30|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}<ref>[[Marcus Allbäck]] will join [[Örgryte IS|Örgryte]] after the tournament.</ref>
+{{nat fs g player|no=21|pos=MF|name=[[Christian Wilhelmsson]]|age=8 December 1979 (28)|caps=51|goals=4|club=[[FC Nantes|Nantes]]|clubnat=FRA}}<ref>[[Christian Wilhelmsson]] was on loan at [[Deportivo de La Coruña|Deportivo]].</ref>
+{{nat fs g player|no=22|pos=FW|name=[[Markus Rosenberg]]|age=27 September 1982 (25)|caps=21|goals=6|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=DF|name=[[Mikael Dorsin]]|age=6 October 1981 (26)|caps=12|goals=0|club=[[CFR Cluj]]|clubnat=ROU}}
+{{nat fs end}}
+
+== Player representation ==
+;by club
+{| class="wikitable" 
+! Players !! Clubs
+|-
+|11
+|[[Olympique Lyonnais|Lyon]]
+|-
+|9
+|[[FC Bayern Munich|Bayern Munich]], [[Galatasaray S.K. (football team)|Galatasaray]]
+|-
+|8
+|[[FC Barcelona|Barcelona]], [[Chelsea F.C.|Chelsea]], [[Panathinaikos FC|Panathinaikos]]
+|-
+|7
+|[[Arsenal F.C.|Arsenal]], [[Real Madrid C.F.|Real Madrid]],  [[FC Red Bull Salzburg|Red Bull Salzburg]], [[SV Werder Bremen|Werder Bremen]]
+|-
+|6
+|[[Hamburger SV|Hamburg]], [[FC Lokomotiv Moscow|Lokomotiv Moscow]], [[F.C. Porto|Porto]], [[FC Steaua Bucureşti|Steaua Bucureşti]]
+|-
+|5
+|[[PFC CSKA Moscow|CSKA Moscow]], [[Fenerbahçe S.K.|Fenerbahçe]], [[Juventus F.C.|Juventus]], [[Liverpool F.C.|Liverpool]], [[A.C. Milan|Milan]], [[1. FC Nuremberg|Nuremberg]], [[Olympiacos F.C.|Olympiacos]], [[SK Rapid Wien|Rapid Wien]], [[FC Spartak Moscow|Spartak Moscow]], [[VfB Stuttgart|Stuttgart]], [[Valencia CF|Valencia]], [[FC Zenit Saint Petersburg|Zenit St. Petersburg]]
+|}
+
+;By club nationality
+{| class="wikitable" 
+! Players !! Clubs
+|-
+|55||Germany
+|-
+|45||''England''
+|-
+|39||Spain
+|-
+|36||Italy
+|-
+|30||Russia
+|-
+|26||France
+|-
+|20||Greece
+|-
+|18||Austria
+|-
+|17||Turkey
+|-
+|14||Portugal, Romania
+|-
+|10||Netherlands, Poland
+|-
+|7||Switzerland
+|-
+|6||Sweden
+|-
+|4||''Belgium'' 
+|-
+|3||Croatia, ''Denmark, Scotland, Ukraine''
+|-
+|2||Czech Republic, ''Norway''
+|-
+|1||''Bulgaria''
+|}
+Nations in ''italics'' are not represented by their national teams in the finals
+
+;by representatives of domestic league
+{| class="wikitable sortable"
+! National Squad !! No. of players playing in home leagues
+|-
+|Austria||15
+|-
+|Croatia||3
+|-
+|Czech Republic||2
+|-
+|France||10
+|-
+|Germany||19
+|-
+|Greece||14
+|-
+|Italy||19
+|-
+|Netherlands||9
+|-
+|Poland||10
+|-
+|Portugal||12
+|-
+|Romania||12
+|-
+|Russia||22
+|-
+|Spain||18
+|-
+|Sweden||6
+|-
+|Switzerland||6
+|-
+|Turkey||16
+|}
+
+==Notes and references==
+;General
+{{refbegin}}
+*{{cite web |title=UEFA EURO 2008 squad lists announced |url=http://en.uefa.com/MultimediaFiles/Download/PressRelease/uefa/UEFAMedia/70/24/56/702456_DOWNLOAD.pdf |format=PDF |work=UEFA.com |publisher=Union of European Football Associations |date=28 May 2008 |accessdate=6 September 2010 }}
+*{{cite news |title=Final squads announced for EURO |url=http://en.archive.uefa.com/news/kind=1/newsid=702209.html |work=UEFA.com |publisher=Union of European Football Associations |date=28 May 2008 |accessdate=6 September 2010 }}
+{{refend}}
+
+;Specific
+{{Reflist|30em}}
+
+==External links==
+*[http://www.euro2008.com Euro 2008 official site]
+
+{{UEFA Euro 2008}}
+{{European Football Championship squads}}
+{{European Football Championship}}
+
+{{DEFAULTSORT:Uefa Euro 2008 Squads}}
+[[Category:UEFA European Championship squads|2008]]
+[[Category:UEFA Euro 2008|Squads]]
