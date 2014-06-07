@@ -3,6 +3,14 @@
 ###############################################3
 ## wiki(text) squads reader for football.db
 
+
+##
+#
+# todo: add captain flag  e.g. (c)
+# todo: parse birth date too
+# todo: parse coach tooo
+
+
 require 'logutils'
 
 
@@ -14,11 +22,45 @@ class Squad   # Squad record
     @players = []
   end
 
-  def to_rec
+  POS_TO_I = {
+      'GK' => 1,   # goalkeeper
+      'DF' => 2,   # defender
+      'MF' => 3,   # midfielder
+      'FW' => 4,   # forward
+      nil  => 5    # unknown pos (let it go last)
+  }
+
+  def cmp_by_pos( l, r )
+    res =  POS_TO_I[ l.pos] <=> POS_TO_I[ r.pos ]  # pass 1: sort by pos (e.g. GK,DF,MF,FW,nil)
+    if res == 0
+      res =  l.no <=> r.no         # pass 2: sort by (shirt) no (e.g. 1,2,3.etc.)
+    end
+    res
+  end
+
+
+  def to_rec( opts={} )
+    
+    sort_by_pos =  opts[:sort] ? true : false
+
+    if sort_by_pos
+      players = @players.sort { |l,r| cmp_by_pos( l,r) }
+    else
+      players = @players  
+    end
+
+    last_pos = nil
+
     buf = ''
-    @players.each do |p|
+    players.each do |p|
+      if last_pos && last_pos != p.pos   # add newline break for new pos (GK,DF,MF,FW,etc.)
+        buf << "\n"
+      end
+
       buf << p.to_rec
       buf << "\n"
+      
+      last_pos = p.pos
     end
     buf
   end
@@ -91,7 +133,7 @@ class SquadsBuilder
                              \b/x
 
   FS_PLAYER_NO_REGEX = /\b
-                          no=
+                          no=\s*
                            (?<no>[0-9]+)
                         \b/x
 
@@ -109,7 +151,7 @@ class SquadsBuilder
 
     path = "#{include_path}/#{name}.wiki"
 
-    squads = []
+    @squads = []
     squad  = nil   ## current squad
 
     File.readlines( path ).each_with_index do |line,lineno|  # note: starts w/ 0 (use lineno+1)
@@ -119,7 +161,7 @@ class SquadsBuilder
         squad = Squad.new
       elsif line =~ FS_END_REGEX
         logger.info "end squads block (line #{lineno+1})"
-        squads << squad
+        @squads << squad
       elsif line =~ FS_PLAYER_REGEX
         logger.info "  parse squads player line (line #{lineno+1})"
         
@@ -159,10 +201,10 @@ class SquadsBuilder
         player.clubnat = md[:clubnat]  if md
 
         md=FS_PLAYER_NO_REGEX.match( line )
-        player.no = md[:no]  if md
+        player.no = md[:no].to_i  if md     # note: convert string to number (integer)
 
         md = FS_PLAYER_CAPS_REGEX.match( line )
-        player.caps = md[:caps]  if md
+        player.caps = md[:caps].to_i  if md   # note: convert string to number (integer)
 
         md = FS_PLAYER_POS_REGEX.match( line )
         player.pos = md[:pos] if md
@@ -174,15 +216,35 @@ class SquadsBuilder
       end
       
     end
-
-    ## dump squads
-    squads.each_with_index do |squad,i|
-      puts "========================"
-      puts " squad ##{i+1}"
-      puts squad.to_rec
-    end
-
   end  # method read
 
+  def dump
+    ## dump squads
+    @squads.each_with_index do |squad,i|
+      puts "========================"
+      # puts " squad ##{i+1}"
+      # puts squad.to_rec
+
+      puts " squad ##{i+1} (sorted)"
+      puts squad.to_rec( sort: true )
+    end
+  end
+  
+  def write( names )
+
+    ## dump squads
+    @squads.each_with_index do |squad,i|
+      name = names[i]
+      next if name.nil?   # no more filename? skip squad for now
+
+      path = "./o/#{name}.txt"
+
+      puts " squad ##{i+1} writing to #{path} (sorted)..."
+
+      File.open( path, 'w' ) do |f|
+        f << squad.to_rec( sort: true )
+      end
+    end
+  end  # method write
 
 end  # class SquadsBuilder
