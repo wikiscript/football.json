@@ -1,0 +1,126 @@
+These are the squads for the '''[[1968 European Football Championship]]''' tournament in [[Italy]], that took place between 5 June and 10 June 1968. The players' listed ages is their age on the tournament's opening day (5 June 1968).
+
+Every player in the tournament played for a club in his native country.
+
+=={{flagicon|England}} [[England national football team|England]]==
+Head coach: [[Alf Ramsey]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Gordon Banks]]|age={{birth date and age2|1968|6|5|1937|12|30|df=y}}|caps=43|club={{flagicon|England}} [[Stoke City F.C.|Stoke City]]}}
+{{nat fs player|no=2|pos=DF|name=[[Keith Newton (footballer)|Keith Newton]]|age={{birth date and age2|1968|6|5|1941|6|23|df=y}}|caps=9|club={{flagicon|England}} [[Blackburn Rovers F.C.|Blackburn Rovers]]}}
+{{nat fs player|no=3|pos=DF|name=[[Ray Wilson (English footballer)|Ray Wilson]]|age={{birth date and age2|1968|6|5|1934|12|17|df=y}}|caps=61|club={{flagicon|England}} [[Everton F.C.|Everton]]}}
+{{nat fs player|no=4|pos=MF|name=[[Alan Mullery]]|age={{birth date and age2|1968|6|5|1941|11|23|df=y}}|caps=10|club={{flagicon|England}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{nat fs player|no=5|pos=DF|name=[[Brian Labone]]|age={{birth date and age2|1968|6|5|1940|1|23|df=y}}|caps=9|club={{flagicon|England}} [[Everton F.C.|Everton]]}}
+{{nat fs player|no=6|pos=DF|name=[[Bobby Moore]] ([[Captain (association football)|c]])|age={{birth date and age2|1968|6|5|1941|4|12|df=y}}|caps=61|club={{flagicon|England}} [[West Ham United F.C.|West Ham United]]}}
+{{nat fs player|no=7|pos=MF|name=[[Alan Ball, Jr.|Alan Ball]]|age={{birth date and age2|1968|6|5|1945|5|12|df=y}}|caps=26|club={{flagicon|England}} [[Everton F.C.|Everton]]}}
+{{nat fs player|no=8|pos=FW|name=[[Roger Hunt]]|age={{birth date and age2|1968|6|5|1938|7|20|df=y}}|caps=30|club={{flagicon|England}} [[Liverpool F.C.|Liverpool]]}}
+{{nat fs player|no=9|pos=MF|name=[[Bobby Charlton]]|age={{birth date and age2|1968|6|5|1937|10|11|df=y}}|caps=85|club={{flagicon|England}} [[Manchester United F.C.|Manchester United]]}}
+{{nat fs player|no=10|pos=FW|name=[[Geoff Hurst]]|age={{birth date and age2|1968|6|5|1941|12|8|df=y}}|caps=20|club={{flagicon|England}} [[West Ham United F.C.|West Ham United]]}}
+{{nat fs player|no=11|pos=MF|name=[[Martin Peters]]|age={{birth date and age2|1968|6|5|1943|11|8|df=y}}|caps=19|club={{flagicon|England}} [[West Ham United F.C.|West Ham United]]}}
+{{nat fs player|no=12|pos=GK|name=[[Alex Stepney]]|age={{birth date and age2|1968|6|5|1942|9|18|df=y}}|caps=1|club={{flagicon|England}} [[Manchester United F.C.|Manchester United]]}}
+{{nat fs player|no=13|pos=GK|name=[[Gordon West]]|age={{birth date and age2|1968|6|5|1943|4|24|df=y}}|caps=0|club={{flagicon|England}} [[Everton F.C.|Everton]]}}
+{{nat fs player|no=14|pos=MF|name=[[Cyril Knowles]]|age={{birth date and age2|1968|6|5|1944|7|13|df=y}}|caps=4|club={{flagicon|England}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{nat fs player|no=15|pos=DF|name=[[Jack Charlton]]|age={{birth date and age2|1968|6|5|1935|5|8|df=y}}|caps=28|club={{flagicon|England}} [[Leeds United A.F.C.|Leeds United]]}}
+{{nat fs player|no=16|pos=DF|name=[[Tommy Wright (footballer born 1944)|Tommy Wright]]|age={{birth date and age2|1968|6|5|1944|10|21|df=y}}|caps=0|club={{flagicon|England}} [[Everton F.C.|Everton]]}}
+{{nat fs player|no=17|pos=MF|name=[[Nobby Stiles]]|age={{birth date and age2|1968|6|5|1942|5|18|df=y}}|caps=24|club={{flagicon|England}} [[Manchester United F.C.|Manchester United]]}}
+{{nat fs player|no=18|pos=FW|name=[[Mike Summerbee]]|age={{birth date and age2|1968|6|5|1942|12|15|df=y}}|caps=3|club={{flagicon|England}} [[Manchester City F.C.|Manchester City]]}}
+{{nat fs player|no=19|pos=DF|name=[[Norman Hunter (footballer)|Norman Hunter]]|age={{birth date and age2|1968|6|5|1943|10|29|df=y}}|caps=8|club={{flagicon|England}} [[Leeds United A.F.C.|Leeds United]]}}
+{{nat fs player|no=20|pos=MF|name=[[Colin Bell]]|age={{birth date and age2|1968|6|5|1946|2|26|df=y}}|caps=2|club={{flagicon|England}} [[Manchester City F.C.|Manchester City]]}}
+{{nat fs player|no=21|pos=FW|name=[[Jimmy Greaves]]|age={{birth date and age2|1968|6|5|1940|2|20|df=y}}|caps=57|club={{flagicon|England}} [[Tottenham Hotspur F.C.|Tottenham Hotspur]]}}
+{{nat fs player|no=22|pos=FW|name=[[Peter Thompson (English footballer)|Peter Thompson]]|age={{birth date and age2|1968|6|5|1942|11|27|df=y}}|caps=14|club={{flagicon|England}} [[Liverpool F.C.|Liverpool]]}}
+{{nat fs end}}
+
+=={{flagicon|Italy}} [[Italy national football team|Italy]]==
+Head coach: [[Ferruccio Valcareggi]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Enrico Albertosi]]|age={{birth date and age2|1968|6|5|1939|11|2|df=y}}|caps=18|club= {{flagicon|Italy}} [[ACF Fiorentina|Fiorentina]]}}
+{{nat fs player|no=2|pos=FW|name=[[Pietro Anastasi]]|age={{birth date and age2|1968|6|5|1948|4|7|df=y}}|caps=0|club={{flagicon|Italy}} [[A.S. Varese 1910|Varese]]}}
+{{nat fs player|no=3|pos=DF|name=[[Angelo Anquilletti]]|age={{birth date and age2|1968|6|5|1943|4|25|df=y}}|caps=0|club={{flagicon|Italy}} [[A.C. Milan|Milan]]}}
+{{nat fs player|no=4|pos=DF|name=[[Giancarlo Bercellino]]|age={{birth date and age2|1968|6|5|1941|10|9|df=y}}|caps=5|club={{flagicon|Italy}} [[Juventus F.C.|Juventus]]}}
+{{nat fs player|no=5|pos=DF|name=[[Tarcisio Burgnich]]|age={{birth date and age2|1968|6|5|1939|4|25|df=y}}|caps=21|club={{flagicon|Italy}} [[F.C. Internazionale Milano|Internazionale]]}}
+{{nat fs player|no=6|pos=FW|name=[[Giacomo Bulgarelli]]|age={{birth date and age2|1968|6|5|1940|10|24|df=y}}|caps=29|club={{flagicon|Italy}} [[Bologna F.C. 1909|Bologna]]}}
+{{nat fs player|no=7|pos=DF|name=[[Ernesto Castano]]|age={{birth date and age2|1968|6|5|1939|5|2|df=y}}|caps=2|club={{flagicon|Italy}} [[Juventus F.C.|Juventus]]}}
+{{nat fs player|no=8|pos=MF|name=[[Giancarlo De Sisti]]|age={{birth date and age2|1968|6|5|1943|3|13|df=y}}|caps=2|club={{flagicon|Italy}} [[ACF Fiorentina|Fiorentina]]}}
+{{nat fs player|no=9|pos=FW|name=[[Angelo Domenghini]]|age={{birth date and age2|1968|6|5|1941|8|25|df=y}}|caps=12|club={{flagicon|Italy}} [[F.C. Internazionale Milano|Internazionale]]}}
+{{nat fs player|no=10|pos=DF|name=[[Giacinto Facchetti]] ([[Captain (association football)|c]])|age={{birth date and age2|1968|6|5|1942|7|18|df=y}}|caps=34|club={{flagicon|Italy}} [[F.C. Internazionale Milano|Internazionale]]}}
+{{nat fs player|no=11|pos=MF|name=[[Giorgio Ferrini]]|age={{birth date and age2|1968|6|5|1939|8|18|df=y}}|caps=5|club={{flagicon|Italy}} [[Torino F.C.|Torino]]}}
+{{nat fs player|no=12|pos=MF|name=[[Aristide Guarneri]]|age={{birth date and age2|1968|6|5|1938|3|7|df=y}}|caps=19|club={{flagicon|Italy}} [[Bologna F.C. 1909|Bologna]]}}
+{{nat fs player|no=13|pos=MF|name=[[Antonio Juliano]]|age={{birth date and age2|1968|6|5|1943|1|1|df=y}}|caps=10|club={{flagicon|Italy}} [[S.S.C. Napoli|Napoli]]}}
+{{nat fs player|no=14|pos=MF|name=[[Giovanni Lodetti]]|age={{birth date and age2|1968|6|5|1942|8|10|df=y}}|caps=16|club={{flagicon|Italy}} [[A.C. Milan|Milan]]}}
+{{nat fs player|no=15|pos=FW|name=[[Sandro Mazzola]]|age={{birth date and age2|1968|6|5|1942|11|8|df=y}}|caps=29|club={{flagicon|Italy}} [[F.C. Internazionale Milano|Internazionale]]}}
+{{nat fs player|no=16|pos=FW|name=[[Pierino Prati]]|age={{birth date and age2|1968|6|5|1946|12|13|df=y}}|caps=2|club={{flagicon|Italy}} [[A.C. Milan|Milan]]}}
+{{nat fs player|no=17|pos=FW|name=[[Luigi Riva]]|age={{birth date and age2|1968|6|5|1944|11|7|df=y}}|caps=6|club={{flagicon|Italy}} [[Cagliari Calcio|Cagliari]]}}
+{{nat fs player|no=18|pos=MF|name=[[Gianni Rivera]]|age={{birth date and age2|1968|6|5|1943|8|18|df=y}}|caps=31|club={{flagicon|Italy}} [[A.C. Milan|Milan]]}}
+{{nat fs player|no=19|pos=DF|name=[[Roberto Rosato]]|age={{birth date and age2|1968|6|5|1943|8|18|df=y}}|caps=15|club={{flagicon|Italy}} [[A.C. Milan|Milan]]}}
+{{nat fs player|no=20|pos=DF|name=[[Sandro Salvadore]]|age={{birth date and age2|1968|6|5|1939|11|29|df=y}}|caps=29|club={{flagicon|Italy}} [[Juventus F.C.|Juventus]]}}
+{{nat fs player|no=21|pos=GK|name=[[Lido Vieri]]|age={{birth date and age2|1968|6|5|1939|7|16|df=y}}|caps=4|club={{flagicon|Italy}} [[Torino F.C.|Torino]]}}
+{{nat fs player|no=22|pos=GK|name=[[Dino Zoff]]|age={{birth date and age2|1968|6|5|1942|2|28|df=y}}|caps=1|club={{flagicon|Italy}} [[S.S.C. Napoli|Napoli]]}}
+{{nat fs end}}
+
+=={{flagicon|Soviet Union}} [[USSR national football team|Soviet Union]]==
+Head coach: [[Mikhail Yakushin]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Yuri Pshenichnikov]]|age={{birth date and age2|1968|6|5|1940|6|2|df=y}}|caps=15|club={{flagicon|Soviet Union}} [[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs player|no=2|pos=MF|name=[[Viktor Anichkin]]|age={{birth date and age2|1968|6|5|1941|12|8|df=y}}|caps=20|club={{flagicon|Soviet Union}} [[FC Dynamo Moscow|Dynamo Moscow]]}}
+{{nat fs player|no=3|pos=DF|name=[[Valentin Afonin]]|age={{birth date and age2|1968|6|5|1939|12|22|df=y}}|caps=32|club={{flagicon|Soviet Union}} [[SKA Rostov]]}}
+{{nat fs player|no=4|pos=FW|name=[[Anatoliy Banishevskiy]]|age={{birth date and age2|1968|6|5|1946|2|23|df=y}}|caps=38|club={{flagicon|Soviet Union}} [[PFC Neftchi|Neftchi Baku]]}}
+{{nat fs player|no=5|pos=FW|name=[[Anatoliy Byshovets]]|age={{birth date and age2|1968|6|5|1946|4|23|df=y}}|caps=16|club={{flagicon|Soviet Union}} [[Dynamo Kyiv]]}}
+{{nat fs player|no=6|pos=MF|name=[[Valery Voronin]]|age={{birth date and age2|1968|6|5|1939|7|17|df=y}}|caps=66|club={{flagicon|Soviet Union}} [[FC Torpedo Moscow|Torpedo Moscow]]}}
+{{nat fs player|no=7|pos=FW|name=[[Gennady Yevriuzhikin]]|age={{birth date and age2|1968|6|5|1944|7|4|df=y}}|caps=7|club={{flagicon|Soviet Union}} [[FC Dynamo Moscow|Dynamo Moscow]]}}
+{{nat fs player|no=8|pos=DF|name=[[Yuri Istomin]]|age={{birth date and age2|1968|6|5|1944|7|3|df=y}}|caps=9|club={{flagicon|Soviet Union}} [[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs player|no=9|pos=GK|name=[[Anzor Kavazashvili]]|age={{birth date and age2|1968|6|5|1940|7|19|df=y}}|caps=20|club={{flagicon|Soviet Union}} [[FC Torpedo Moscow|Torpedo Moscow]]}}
+{{nat fs player|no=10|pos=DF|name=[[Vladimir Kaplichny]]|age={{birth date and age2|1968|6|5|1944|5|26|df=y}}|caps=7|club={{flagicon|Soviet Union}} [[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs player|no=11|pos=FW|name=[[Eduard Malofeyev]]|age={{birth date and age2|1968|6|5|1942|6|2|df=y}}|caps=28|club={{flagicon|Soviet Union}} [[FC Dinamo Minsk|Dynamo Minsk]]}}
+{{nat fs player|no=12|pos=MF|name=[[Vladimir Muntyan]]|age={{birth date and age2|1968|6|5|1946|9|14|df=y}}|caps=0|club={{flagicon|Soviet Union}} [[Dynamo Kyiv]]}}
+{{nat fs player|no=13|pos=FW|name=[[Givi Nodia]]|age={{birth date and age2|1968|6|5|1948|1|2|df=y}}|caps=2|club={{flagicon|Soviet Union}} [[FC Dinamo Tbilisi|Dinamo Tbilisi]]}}
+{{nat fs player|no=14|pos=GK|name=[[Evgeni Rudakov]]|age={{birth date and age2|1968|6|5|1942|1|2|df=y}}|caps=1|club={{flagicon|Soviet Union}} [[Dynamo Kyiv]]}}
+{{nat fs player|no=15|pos=DF|name=[[Vladimir Levchenko]]|age={{birth date and age2|1968|6|5|1944|2|18|df=y}}|caps=2|club={{flagicon|Soviet Union}} [[Dynamo Kyiv]]}}
+{{nat fs player|no=16|pos=MF|name=[[Murtaz Khurtsilava]]|age={{birth date and age2|1968|6|5|1943|1|5|df=y}}|caps=30|club={{flagicon|Soviet Union}} [[FC Dinamo Tbilisi|Dinamo Tbilisi]]}}
+{{nat fs player|no=17|pos=MF|name=[[Igor Chislenko]]|age={{birth date and age2|1968|6|5|1939|1|4|df=y}}|caps=53|club={{flagicon|Soviet Union}} [[FC Dynamo Moscow|Dynamo Moscow]]}}
+{{nat fs player|no=18|pos=DF|name=[[Albert Shesternyov]] ([[Captain (association football)|c]])|age={{birth date and age2|1968|6|5|1941|6|20|df=y}}|caps=59|club={{flagicon|Soviet Union}} [[PFC CSKA Moscow|CSKA Moscow]]}}
+{{nat fs player|no=19|pos=MF|name=[[Aleksandr Lenev]]|age={{birth date and age2|1968|6|5|1944|9|25|df=y}}|caps=6|club={{flagicon|Soviet Union}} [[FC Torpedo Moscow|Torpedo Moscow]]}}
+{{nat fs player|no=20|pos=MF|name=[[Kakhi Asatiani]]|age={{birth date and age2|1968|6|5|1947|1|1|df=y}}|caps=2|club={{flagicon|Soviet Union}} [[FC Dinamo Tbilisi|Tbilisi]]}}
+{{nat fs player|no=21|pos=DF|name=[[Gennady Logofet]]|age={{birth date and age2|1968|6|5|1942|2|15|df=y}}|caps=9|club={{flagicon|Soviet Union}} [[FC Spartak Moscow|Spartak Moscow]]}}
+{{nat fs player|no=22|pos=FW|name=[[Nikolai Smolnikov]]|age={{birth date and age2|1968|6|5|1949|3|10|df=y}}|caps=3|club={{flagicon|Soviet Union}} [[PFC Neftchi|Neftchi Baku]]}}
+{{nat fs end}}
+
+=={{flagicon|Yugoslavia}} [[Yugoslavia national football team|Yugoslavia]]==
+Head coach: [[Rajko Mitić]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ilija Pantelić]]|age={{birth date and age2|1968|6|5|1942|8|2|df=y}}|caps=15|club={{flagicon|Yugoslavia}} [[FK Vojvodina|Vojvodina Novi Sad]]}}
+{{nat fs player|no=2|pos=DF|name=[[Mirsad Fazlagić]]|age={{birth date and age2|1968|6|5|1943|4|4|df=y}}|caps=16|club={{flagicon|Yugoslavia}} [[FK Sarajevo]]}}
+{{nat fs player|no=3|pos=DF|name=[[Milan Damjanović]]|age={{birth date and age2|1968|6|5|1943|10|15|df=y}}|caps=3|club={{flagicon|Yugoslavia}} [[FK Partizan|Partizan Belgrade]]}}
+{{nat fs player|no=4|pos=MF|name=[[Borivoje Đorđević]]|age={{birth date and age2|1968|6|5|1948|8|2|df=y}}|caps=3|club={{flagicon|Yugoslavia}} [[FK Partizan|Partizan Belgrade]]}}
+{{nat fs player|no=5|pos=DF|name=[[Blagoje Paunović]]|age={{birth date and age2|1968|6|5|1947|6|4|df=y}}|caps=3|club={{flagicon|Yugoslavia}} [[FK Partizan|Partizan Belgrade]]}}
+{{nat fs player|no=6|pos=DF|name=[[Dragan Holcer]]|age={{birth date and age2|1968|6|5|1945|1|19|df=y}}|caps=13|club={{flagicon|Yugoslavia}} [[Hajduk Split]]}}
+{{nat fs player|no=7|pos=MF|name=[[Ilija Petković]]|age={{birth date and age2|1968|6|5|1945|9|22|df=y}}|caps=1|club={{flagicon|Yugoslavia}} [[OFK Belgrade]]}}
+{{nat fs player|no=8|pos=MF|name=[[Ivica Osim]]|age={{birth date and age2|1968|6|5|1941|5|6|df=y}}|caps=12|club={{flagicon|Yugoslavia}} [[FK Zeljeznicar]]}}
+{{nat fs player|no=9|pos=FW|name=[[Vahidin Musemić]]|age={{birth date and age2|1968|6|5|1946|10|29|df=y}}|caps=3|club={{flagicon|Yugoslavia}} [[FK Sarajevo]]}}
+{{nat fs player|no=10|pos=MF|name=[[Rudolf Belin]]|age={{birth date and age2|1968|6|5|1942|11|4|df=y}}|caps=20|club={{flagicon|Yugoslavia}} [[Dinamo Zagreb]]}}
+{{nat fs player|no=11|pos=FW|name=[[Dragan Džajić]] ([[Captain (association football)|c]])|age={{birth date and age2|1968|6|5|1946|5|30|df=y}}|caps=25|club={{flagicon|Yugoslavia}} [[Red Star Belgrade]]}}
+{{nat fs player|no=12|pos=GK|name=[[Radomir Vukčević]]|age={{birth date and age2|1968|6|5|1944|9|15|df=y}}|caps=2|club={{flagicon|Yugoslavia}} [[Hajduk Split]]}}
+{{nat fs player|no=13|pos=GK|name=[[Ratomir Dujković]]|age={{birth date and age2|1968|6|5|1946|2|24|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[Red Star Belgrade]]}}
+{{nat fs player|no=14|pos=DF|name=[[Rajko Aleksić]]|age={{birth date and age2|1968|6|5|1947|2|19|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[FK Vojvodina|Vojvodina Novi Sad]]}}
+{{nat fs player|no=15|pos=MF|name=[[Miroslav Pavlović]]|age={{birth date and age2|1968|6|5|1942|10|23|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[Red Star Belgrade]]}}
+{{nat fs player|no=16|pos=MF|name=[[Jovan Aćimović]]|age={{birth date and age2|1968|6|5|1948|6|21|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[Red Star Belgrade]]}}
+{{nat fs player|no=17|pos=DF|name=[[Mladen Ramljak]]|age={{birth date and age2|1968|6|5|1945|7|1|df=y}}|caps=5|club={{flagicon|Yugoslavia}} [[Dinamo Zagreb]]}}
+{{nat fs player|no=18|pos=DF|name=[[Ljubomir Mihajlović]]|age={{birth date and age2|1968|6|5|1943|9|4|df=y}}|caps=6|club={{flagicon|Yugoslavia}} [[FK Partizan|Partizan Belgrade]]}}
+{{nat fs player|no=19|pos=MF|name=[[Ivica Brzić]]|age={{birth date and age2|1968|6|5|1941|0|28|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[FK Vojvodina|Vojvodina Novi Sad]]}}
+{{nat fs player|no=20|pos=FW|name=[[Boško Antić]]|age={{birth date and age2|1968|6|5|1945|1|7|df=y}}|caps=0|club={{flagicon|Yugoslavia}} [[FK Sarajevo]]}}
+{{nat fs player|no=21|pos=MF|name=[[Dobrivoje Trivić]]|age={{birth date and age2|1968|6|5|1943|10|26|df=y}}|caps=5|club={{flagicon|Yugoslavia}} [[FK Vojvodina|Vojvodina Novi Sad]]}}
+{{nat fs player|no=22|pos=FW|name=[[Idriz Hošić]]|age={{birth date and age2|1968|6|5|1944|2|17|df=y}}|caps=1|club={{flagicon|Yugoslavia}} [[FK Partizan|Partizan Belgrade]]}}
+{{nat fs end}}
+
+==External links==
+*[http://www.rsssf.com/tables/68e-det.html RSSSF]
+
+{{International football}}
+{{European Football Championship}}
+{{European Football Championship qualification}}
+{{European Football Championship squads}}
+
+[[Category:UEFA European Championship squads|1968]]
+[[Category:UEFA Euro 1968|Squads]]

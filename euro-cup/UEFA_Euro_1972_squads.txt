@@ -1,0 +1,106 @@
+These are the rosters to the '''[[1972 UEFA European Football Championship]]''', which was in [[Belgium]], from 14 June to 18 June 1972. The players' listed ages is their age on the tournament's opening day (14 June 1972).
+
+The tournament squads were remarkable in that every player in the tournament played for a club in his native country.
+
+==Belgium==
+Head coach: [[Raymond Goethals]]
+
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[Christian Piot]]|age={{birth date and age2|1972|6|14|1947|10|6|df=y}}|caps=|club=[[Standard Liège]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=GK|name=[[Luc Sanders]]|age={{birth date and age2|1972|6|14|1945|10|6|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=DF|name=[[Léon Dolmans]]|age={{birth date and age2|1972|6|14|1945|4|6|df=y}}|caps=|club=[[Standard Liège]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=DF|name=[[Georges Heylens]]|age={{birth date and age2|1972|6|14|1941|8|8|df=y}}|caps=|club=[[RSC Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=DF|name=[[Maurice Martens]]|age={{birth date and age2|1972|6|14|1947|6|5|df=y}}|caps=|club=[[R.W.D. Molenbeek|Molenbeek]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=DF|name=[[Jean Thissen]]|age={{birth date and age2|1972|6|14|1946|4|21|df=y}}|caps=|club=[[Standard Liège]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=DF|name=[[Gilbert Van Binst|Gilbert van Binst]]|age={{birth date and age2|1972|6|14|1951|7|5|df=y}}|caps=|club=[[RSC Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=MF|name=[[Leon Semmeling]]|age={{birth date and age2|1972|6|14|1940|1|4|df=y}}|caps=|club=[[Standard Liège]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=MF|name=[[John Thio]]|age={{birth date and age2|1972|6|14|1944|9|2|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=MF|name=[[Erwin Vandendaele]]|age={{birth date and age2|1972|6|14|1945|3|5|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=MF|name=[[Jan Verheyen (footballer)|Jan Verheyen]]|age={{birth date and age2|1972|6|14|1944|7|9|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Jean Dockx]]|age={{birth date and age2|1972|6|14|1941|5|24|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Frans Janssens]]|age={{birth date and age2|1972|6|14|1945|9|25|df=y}}|caps=|club=[[Lierse SK|Lierse]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Raoul Lambert]]|age={{birth date and age2|1972|6|14|1944|10|20|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Odilon Polleunis]]|age={{birth date and age2|1972|6|14|1943|5|1|df=y}}|caps=|club=[[K. Sint-Truidense V.V.|Sint-Truidense]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Jacques Teugels]]|age={{birth date and age2|1972|6|14|1946|8|3|df=y}}|caps=|club=[[R.W.D. Molenbeek|Molenbeek]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=FW|name=[[Paul Van Himst|Paul van Himst]] ([[Captain (association football)|c]])|age={{birth date and age2|1972|6|14|1943|10|2|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs end}}
+
+==Hungary==
+Head coach: [[Rudolf Illovszky]]
+
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[István Géczi]]|age={{birth date and age2|1972|6|14|1944|6|13|df=y}}|caps=13|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=GK|name=[[Imre Rapp]]|age={{birth date and age2|1972|6|14|1937|9|15|df=y}}|caps=0|club=[[Pécsi Munkás FC|Pécsi MSC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Tibor Fábián]]|age={{birth date and age2|1972|6|14|1946|7|26|df=y}}|caps=9|club=[[Vasas SC|Vasas]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[László Bálint]]|age={{birth date and age2|1972|6|14|1948|2|1|df=y}}|caps=6|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Péter Juhász]]|age={{birth date and age2|1972|6|14|1948|8|3|df=y}}|caps=15|club=[[Újpest FC|Újpesti Dózsa]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Miklós Páncsics]]|age={{birth date and age2|1972|6|14|1944|2|4|df=y}}|caps=28|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Flórián Albert, Sr.|Flórián Albert]]|age={{birth date and age2|1972|6|14|1941|9|15|df=y}}|caps=72|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[István Juhász (footballer)|István Juhász]]|age={{birth date and age2|1972|6|14|1945|7|17|df=y}}|caps=13|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Lajos Kocsis]]|age={{birth date and age2|1972|6|14|1947|6|17|df=y}}|caps=17|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[József Kovács (footballer)|József Kovács]]|age={{birth date and age2|1972|6|14|1949|4|3|df=y}}|caps=3|club=[[Videoton FC Fehérvár|Videoton]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Mihály Kozma]]|age={{birth date and age2|1972|6|14|1949|11|1|df=y}}|caps=5|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Lajos Kű]]|age={{birth date and age2|1972|6|14|1948|7|5|df=y}}|caps=3|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[István Szőke]]|age={{birth date and age2|1972|6|14|1947|2|13|df=y}}|caps=8|club=[[Ferencvárosi TC|Ferencvárosi]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Ferenc Bene]] ([[Captain (association football)|c]])|age={{birth date and age2|1972|6|14|1944|12|17|df=y}}|caps=60|club=[[Újpest FC|Újpesti Dózsa]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Antal Dunai]]|age={{birth date and age2|1972|6|14|1943|3|21|df=y}}|caps=22|club=[[Újpest FC|Újpesti Dózsa]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Lajos Szűcs (footballer born 1943)|Lajos Szűcs]]|age={{birth date and age2|1972|6|14|1943|12|10|df=y}}|caps=28|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Sándor Zámbó]]|age={{birth date and age2|1972|6|14|1944|10|10|df=y}}|caps=24|club=[[Újpest FC|Újpesti Dózsa]]|clubnat=Hungary|df=y}}
+{{nat fs end}}
+
+==Soviet Union==
+Head coach: [[Aleksandr Ponomarev]]
+
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[Vladimir Pilguy]]|age={{birth date and age2|1972|6|14|1948|1|26|df=y}}|caps=1|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=GK|name=[[Evhen Rudakov]]|age={{birth date and age2|1972|6|14|1942|1|2|df=y}}|caps=23|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Nikolay Abramov (footballer, born 1950)|Nikolay Abramov]]|age={{birth date and age2|1972|6|14|1950|1|5|df=y}}|caps=2|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Revaz Dzodzuashvili]]|age={{birth date and age2|1972|6|14|1945|4|10|df=y}}|caps=28|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Yuri Istomin]]|age={{birth date and age2|1972|6|14|1944|7|3|df=y}}|caps=26|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Vladimir Kaplichny]]|age={{birth date and age2|1972|6|14|1944|5|26|df=y}}|caps=38|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Viktor Matvienko]]|age={{birth date and age2|1972|6|14|1948|11|9|df=y}}|caps=6|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Vladimir Troshkin]]|age={{birth date and age2|1972|6|14|1947|9|28|df=y}}|caps=5|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Anatoly Baidachny]]|age={{birth date and age2|1972|6|14|1952|10|1|df=y}}|caps=3|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Oleg Dolmatov]]|age={{birth date and age2|1972|6|14|1948|11|29|df=y}}|caps=6|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Murtaz Khurtsilava]] ([[Captain (association football)|c]])|age={{birth date and age2|1972|6|14|1943|1|5|df=y}}|caps=52|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Viktor Kolotov]]|age={{birth date and age2|1972|6|14|1949|7|3|df=y}}|caps=14|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Anatoly Konjkov]]|age={{birth date and age2|1972|6|14|1949|9|19|df=y}}|caps=8|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Vladimir Muntyan]]|age={{birth date and age2|1972|6|14|1946|9|14|df=y}}|caps=29|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Anatoliy Banishevskiy]]|age={{birth date and age2|1972|6|14|1946|12|23|df=y}}|caps=48|club=[[PFC Neftchi|Neftchi Baku]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Eduard Kozinkevich]]|age={{birth date and age2|1972|6|14|1949|5|23|df=y}}|caps=5|club=[[FC Karpaty Lviv|Karpaty Lviv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Givi Nodia]]|age={{birth date and age2|1972|6|14|1948|1|2|df=y}}|caps=18|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Vladimir Onischenko]]|age={{birth date and age2|1972|6|14|1949|10|28|df=y}}|caps=1|club=[[FC Zorya Luhansk|Zarya Voroshilovgrad]]|clubnat=USSR}}
+{{nat fs end}}
+
+==West Germany==
+Head coach: [[Helmut Schön]]
+
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[Wolfgang Kleff]]|age={{birth date and age2|1972|6|14|1946|11|16|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=GK|name=[[Sepp Maier]]|age={{birth date and age2|1972|6|14|1944|2|28|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Franz Beckenbauer]] ([[Captain (association football)|c]])|age={{birth date and age2|1972|6|14|1945|9|11|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Michael Bella]]|age={{birth date and age2|1972|6|14|1945|9|29|df=y}}|caps=|club=[[MSV Duisburg|Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Paul Breitner]]|age={{birth date and age2|1972|6|14|1951|9|5|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Horst-Dieter Höttges]]|age={{birth date and age2|1972|6|14|1943|9|10|df=y}}|caps=|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Hans-Georg Schwarzenbeck]]|age={{birth date and age2|1972|6|14|1948|4|3|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=DF|name=[[Berti Vogts]]|age={{birth date and age2|1972|6|14|1946|12|30|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=MF|name=[[Rainer Bonhof]]|age={{birth date and age2|1972|6|14|1952|3|29|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=MF|name=[[Uli Hoeneß]]|age={{birth date and age2|1972|6|14|1952|1|5|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=MF|name=[[Horst Köppel]]|age={{birth date and age2|1972|6|14|1948|5|17|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=MF|name=[[Günter Netzer]]|age={{birth date and age2|1972|6|14|1944|9|14|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Jürgen Grabowski]]|age={{birth date and age2|1972|6|14|1944|7|7|df=y}}|caps=|club=[[Eintracht Frankfurt]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Jupp Heynckes]]|age={{birth date and age2|1972|6|14|1945|5|9|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Erwin Kremers]]|age={{birth date and age2|1972|6|14|1949|3|23|df=y}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Johannes Löhr]]|age={{birth date and age2|1972|6|14|1942|7|5|df=y}}|caps=|club=[[1. FC Köln|Köln]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Gerd Müller]]|age={{birth date and age2|1972|6|14|1945|11|3|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=|pos=FW|name=[[Herbert Wimmer]]|age={{birth date and age2|1972|6|14|1944|11|9|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs end}}
+
+==External links==
+*[http://www.rsssf.com/tables/72e-full.html RSSSF]
+
+{{European Football Championship}}
+{{European Football Championship squads}}
+
+[[Category:UEFA European Championship squads|1972]]
+[[Category:UEFA Euro 1972|Squads]]

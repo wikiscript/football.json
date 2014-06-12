@@ -1,0 +1,208 @@
+These are the squads for the '''[[1964 European Football Championship]]''' in [[Spain]], which took place from 17 June to 21 June 1964. The players' listed ages is their age on the tournament's opening day (17 June 1964).
+
+==Denmark==
+
+Head coach: [[Poul Petersen (footballer)|Poul Petersen]]
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[Leif Nielsen]]|age={{Birth date and age2|1964|6|17|1942|5|28|df=y}}|caps=0|club=[[Boldklubben Frem|Frem]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=GK|name=[[Svend Aage Rask]]|age={{Birth date and age2|1964|6|17|1935|7|14|df=y}}|caps=0|club=[[Boldklubben 1909|B 1909]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[John Amdisen]]|age={{Birth date and age2|1964|6|17|1934|7|8|df=y}}|caps=9|club=[[Aarhus Gymnastik Forening|Aarhus GF]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[Bent Hansen]]|age={{Birth date and age2|1964|6|17|1933|9|13|df=y}}|caps=44|club=[[B 1903]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[Jens Jørgen Hansen]]|age={{Birth date and age2|1964|6|17|1939|1|4|df=y}}|caps=13|club=[[Esbjerg fB]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[Kaj Hansen (footballer born 1940)|Kaj Hansen]]|age={{Birth date and age2|1964|6|17|1940|8|16|df=y}}|caps=1|club=[[Boldklubben Frem|Frem]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[Birger Larsen (footballer)|Birger Larsen]]|age={{Birth date and age2|1964|6|17|1942|3|27|df=y}}|caps=2|club=[[Boldklubben Frem|Frem]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=DF|name=[[Bent Wolmar]]|age={{Birth date and age2|1964|6|17|1937|8|8|df=y}}|caps=0|club=[[Aarhus Gymnastik Forening|Aarhus GF]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=MF|name=[[Carl Bertelsen]]|age={{Birth date and age2|1964|6|17|1937|11|15|df=y}}|caps=18|club=[[Esbjerg fB]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=MF|name=[[Leif Hartwing]]|age={{Birth date and age2|1964|6|17|1942|11|9|df=y}}|caps=-|club=[[Boldklubben 1909|B 1909]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=MF|name=[[Helge Jørgensen]]|age={{Birth date and age2|1964|6|17|1937|9|17|df=y}}|caps=6|club=[[KFUM's Boldklub (Odense)|Odense KFUM]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=MF|name=[[Erling Nielsen (footballer)|Erling Nielsen]]|age={{Birth date and age2|1964|6|17|1935|1|2|df=y}}|caps=1|club=[[Boldklubben 1909|B 1909]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=MF|name=[[Ole Sørensen (footballer)|Ole Sørensen]]|age={{Birth date and age2|1964|6|17|1937|11|25|df=y}}|caps=14|club=[[Kjøbenhavns Boldklub|KB]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=FW|name=[[Ole Madsen]] ([[Captain (association football)|c]])|age={{Birth date and age2|1964|6|17|1934|12|21|df=y}}|caps=31|club=[[Hellerup IK|HIK]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=FW|name=[[John Danielsen]]|age={{Birth date and age2|1964|6|17|1939|7|13|df=y}}|caps=24|club=[[Boldklubben 1909|B 1909]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=FW|name=[[Kjeld Thorst]]|age={{Birth date and age2|1964|6|17|1940|5|13|df=y}}|caps=7|club=[[AaB Fodbold|AaB]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=FW|name=[[Jørgen Rasmussen (footballer born 1937)|Jørgen Rasmussen]]|age={{Birth date and age2|1964|6|17|1937|2|19|df=y}}|caps=0|club=[[Boldklubben 1913|B 1913]]|clubnat=Denmark}}
+{{nat fs player|no=|pos=FW|name=[[Tom Søndergaard]]|age={{Birth date and age2|1964|6|17|1944|1|2|df=y}}|caps=0|club=[[Boldklubben 1893|B 93]]|clubnat=Denmark}}
+{{nat fs end}}
+
+==Hungary==
+
+Head coach: [[Lajos Baróti]]
+{{nat fs start}}
+{{nat fs player|no=|pos=FW|name=[[Flórián Albert, Sr.|Flórián Albert]]|age={{Birth date and age2|1964|6|17|1941|9|15|df=y}}|caps=40|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Ferenc Bene]] ([[Captain (association football)|c]])|age={{Birth date and age2|1964|6|17|1944|12|17|df=y}}|caps=6|club=[[Újpest FC|Újpesti Dózsa]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Janos Farkas]]|age={{Birth date and age2|1964|6|17|1942|3|27|df=y}}|caps=63|club=[[Vasas SC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Máté Fenyvesi]]|age={{Birth date and age2|1964|6|17|1933|9|20|df=y}}|caps=63|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=GK|name=[[Gelei József]]|age={{Birth date and age2|1964|6|17|1938|7|29|df=y}}|caps=|club=[[Tatabányai Bányász]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Kálmán Ihász]]|age={{Birth date and age2|1964|6|17|1941|3|6|df=y}}|caps=4|club=[[Vasas SC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Imre Komora]]|age={{Birth date and age2|1964|6|17|1940|6|5|df=y}}|caps=0|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Sándor Mátrai]]|age={{Birth date and age2|1964|6|17|1932|11|20|df=y}}|caps=60|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Kálmán Mészöly]]|age={{Birth date and age2|1964|6|17|1941|7|16|df=y}}|caps=26|club=[[Vasas SC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[István Nagy (footballer born 1939)|István Nagy]]|age={{Birth date and age2|1964|6|17|1939|4|14|df=y}}|caps=12|club=[[MTK Hungária FC|MTK FC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Ferenc Nogrodi]]|age={{Birth date and age2|1964|6|17|1940|11|15|df=y}}|caps=-|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Dezső Novák]]|age={{Birth date and age2|1964|6|17|1939|2|3|df=y}}|caps=5|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Gyula Rákosi]]|age={{Birth date and age2|1964|6|17|1938|10|9|df=y}}|caps=19|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=DF|name=[[László Sárosi (footballer)|László Sárosi]]|age={{Birth date and age2|1964|6|17|1932|2|27|df=y}}|caps=41|club=[[Vasas SC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Ferenc Sipos]]|age={{Birth date and age2|1964|6|17|1932|12|13|df=y}}|caps=60|club=[[MTK Hungária FC|MTK FC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=GK|name=[[Antal Szentmihályi]]|age={{Birth date and age2|1964|6|17|1937|6|3|df=y}}|caps=16|club=[[Vasas SC]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Lajos Tichy]]|age={{Birth date and age2|1964|6|17|1935|3|24|df=y}}|caps=70|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Zoltán Varga (footballer)|Zoltán Varga]]|age={{Birth date and age2|1964|6|17|1945|1|1|df=y}}|caps=0|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary|df=y}}
+<!-- Are these players relevant to the article? After all, the article lists the FINALS squad
+{{nat fs player|no=q|pos=FW|name=[[Károly Sándor]]|age={{Birth date and age2|1964|6|17|1928|11|29|df=y}}|caps=|club=[[MTK Hungária FC|MTK-Hungária]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=q|pos=FW|name=[[János Göröcs]]|age={{Birth date and age2|1964|6|17|1939|5|8|df=y}}|caps=62|club=[[Újpest FC|Újpesti Dozsa]]|clubnat=Hungary|df=y}}
+{{nat fs player|no=q|pos=|name=[[Ferenc Nógrádi]]|age={{?}}|caps=|club=[[Budapest Honvéd FC|Budapesti Honvéd]]|clubnat=Hungary|df=y}}
+
+-->
+{{nat fs end}}
+
+==Spain==
+
+Head coach: [[José Villalonga Llorente|José Villalonga]]
+{{nat fs start}}
+{{nat fs player|no=|pos=FW|name=[[Amancio Amaro]]|age={{Birth date and age2|1964|6|17|1939|10|16|df=y}}|caps=5|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Isacio Calleja]]|age={{Birth date and age2|1964|6|17|1936|12|2|df=y}}|caps=10|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Luis del Sol]]|age={{Birth date and age2|1964|6|17|1935|4|6|df=y}}|caps=13|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=|pos=MF|name=[[Josep Maria Fusté]]|age={{Birth date and age2|1964|6|17|1942|4|15|df=y}}|caps=2|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Gallego (footballer)|Gallego]]|age={{Birth date and age2|1964|6|17|1944|3|4|df=y}}|caps=0|club=[[Sevilla FC|Sevilla]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=GK|name=[[José Ángel Iribar]]|age={{Birth date and age2|1964|6|17|1943|3|1|df=y}}|caps=2|club=[[Athletic Bilbao]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Carlos Lapetra]]|age={{Birth date and age2|1964|6|17|1938|11|29|df=y}}|caps=3|club=[[Real Zaragoza|Zaragoza]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Marcelino Martínez]]|age={{Birth date and age2|1964|6|17|1940|4|29|df=y}}|caps=3|club=[[Real Zaragoza|Zaragoza]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Ferran Olivella]] ([[Captain (association football)|c]])|age={{Birth date and age2|1964|6|17|1936|6|22|df=y}}|caps=10|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Francisco García Gómez|Paquito]]|age={{Birth date and age2|1964|6|17|1938|2|14|df=y}}|caps=5|club=[[Valencia CF|Valencia]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Jesús María Pereda]]|age={{Birth date and age2|1964|6|17|1938|6|15|df=y}}|caps=9|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Severino Reija]]|age={{Birth date and age2|1964|6|17|1938|11|25|df=y}}|caps=5|club=[[Real Zaragoza|Zaragoza]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Feliciano Rivilla]]|age={{Birth date and age2|1964|6|17|1936|8|21|df=y}}|caps=19|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=GK|name=[[Salvador Sadurní]]|age={{Birth date and age2|1964|6|17|1941|4|3|df=y}}|caps=1|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Luis Suárez Miramontes|Luis Suárez]]|age={{Birth date and age2|1964|6|17|1935|5|2|df=y}}|caps=25|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=|pos=MF|name=[[Juan Manuel Villa]]|age={{Birth date and age2|1964|6|17|1938|9|26|df=y}}|caps=2|club=[[Real Zaragoza|Zaragoza]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Pedro Zaballa]]|age={{Birth date and age2|1964|6|17|1938|7|29|df=y}}|caps=1|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Ignacio Zoco]]|age={{Birth date and age2|1964|6|17|1939|7|31|df=y}}|caps=10|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs end}}
+
+==Soviet Union==
+
+Head coach: [[Konstantin Beskov]]
+{{nat fs start}}
+{{nat fs player|no=|pos=MF|name=[[Viktor Anichkin]]|age={{Birth date and age2|1964|6|17|1941|12|8|df=y}}|caps=1|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Albert Shesterniev]]|age={{Birth date and age2|1964|6|17|1941|6|20|df=y}}|caps=5|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Igor Chislenko]]|age={{Birth date and age2|1964|6|17|1939|9|8|df=y}}|caps=13|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Eduard Dubinski]]|age={{Birth date and age2|1964|6|17|1935|4|6|df=y}}|caps=12|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Vladimir Glotov]]|age={{Birth date and age2|1964|6|17|1937|1|23|df=y}}|caps=1|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Gennady Gusarov]]|age={{Birth date and age2|1964|6|17|1937|3|11|df=y}}|caps=7|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Valentin Kozmich Ivanov|Valentin Ivanov]] ([[Captain (association football)|c]])|age={{Birth date and age2|1964|6|17|1934|11|19|df=y}}|caps=48|club=[[Torpedo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Galimzyan Khusainov]]|age={{Birth date and age2|1964|6|17|1937|7|27|df=y}}|caps=8|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Valery Korolenkov]]|age={{Birth date and age2|1964|6|17|1939|5|17|df=y}}|caps=4|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Aleksey Korneyev]]|age={{Birth date and age2|1964|6|17|1939|2|6|df=y}}|caps=0|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Anatoly Krutikov]]|age={{Birth date and age2|1964|6|17|1933|9|21|df=y}}|caps=7|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Eduard Malofeyev]]|age={{Birth date and age2|1964|6|17|1943|6|2|df=y}}|caps=2|club=[[FC Dinamo Minsk|Dynamo Minsk]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Slava Metreveli]]|age={{Birth date and age2|1964|6|17|1936|5|30|df=y}}|caps=20|club=[[FC Dinamo Tbilisi|Dynamo Tblisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Eduard Mudrik]]|age={{Birth date and age2|1964|6|17|1939|7|18|df=y}}|caps=2|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Viktor Ponedelnik]]|age={{Birth date and age2|1964|6|17|1937|5|22|df=y}}|caps=21|club=[[SKA Rostov]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Viktor Shustikov]]|age={{Birth date and age2|1964|6|17|1939|1|28|df=y}}|caps=2|club=[[Torpedo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Kazbek Tuayev]]|age={{Birth date and age2|1964|6|17|1940|11|13|df=y}}|caps=-|club=[[Neftchi Baku]]|clubnat=USSR}}
+{{nat fs player|no=|pos=GK|name=[[Ramaz Urushadze]]|age={{Birth date and age2|1964|6|17|1939|8|17|df=y}}|caps=1|club=[[Torpedo Kutaisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Valery Voronin]]|age={{Birth date and age2|1964|6|17|1939|7|17|df=y}}|caps=22|club=[[Torpedo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=GK|name=[[Lev Yashin]]|age={{Birth date and age2|1964|6|17|1929|10|22|df=y}}|caps=50|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs end}}
+
+<!-- Is the section below really necessary for the article?
+
+==Losing quarterfinalists==
+The following rosters comprise the losing teams in the quarterfinals (final qualifying round) which was played over two legs. 
+
+===France===
+Head coach: [[Henri Guérin]]
+{{nat fs start}}
+{{nat fs player|no=|pos=DF|name=[[Marcel Artelesa]]|age={{Birth date and age2|1964|6|17|1938|7|2|df=y}}|caps=4|club=[[AS Monaco]]|clubnat=France}}
+{{nat fs player|no=|pos=GK|name=[[Marcel Aubour]]|age={{Birth date and age2|1964|6|17|1940|6|17|df=y}}|caps=0|club=[[Olympique Lyonnais]]|clubnat=France}}
+{{nat fs player|no=|pos=GK|name=[[Pierre Bernard (footballer)|Pierre Bernard]]|age={{Birth date and age2|1964|6|17|1932|6|27|df=y}}|caps=18|club=[[AS Saint-Etienne]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Joseph Bonnel]]|age={{Birth date and age2|1964|6|17|1939|1|4|df=y}}|caps=8|club=[[US Valenciennes]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Georges Casolari]]|age={{Birth date and age2|1964|6|17|1941|5|5|df=y}}|caps=1|club=[[AS Monaco]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Daniel Charles-Alfred]]|age={{Birth date and age2|1964|6|17|1934|5|9|df=y}}|caps=0|club=[[Nîmes Olympique]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[André Chorda]]|age={{Birth date and age2|1964|6|17|1938|2|20|df=y}}|caps=9|club=[[FC Girondins de Bordeaux]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Nestor Combin]]|age={{Birth date and age2|1964|6|17|1940|12|29|df=y}}|caps=0|club=[[Olympique Lyonnais]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Fleury Di Nallo]]|age={{Birth date and age2|1964|6|17|1943|4|20|df=y}}|caps=2|club=[[Olympique Lyonnais]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Robert Herbin]]|age={{Birth date and age2|1964|6|17|1939|3|30|df=y}}|caps=8|club=[[AS Saint-Etienne]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Georges Lech]]|age={{Birth date and age2|1964|6|17|1945|6|2|df=y}}|caps=3|club=[[RC Lens]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Pierre Michelin]]|age={{Birth date and age2|1964|6|17|1937|2|7|df=y}}|caps=4|club=[[CS Sedan Ardennes|UA Sedan-Torcy]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Lucien Muller]]|age={{Birth date and age2|1964|6|17|1934|9|3|df=y}}|caps=15|club=[[Real Madrid]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Jean-Claude Piumi]]|age={{Birth date and age2|1964|6|17|1940|5|27|df=y}}|caps=2|club=[[US Valenciennes]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Angel Rambert]]|age={{Birth date and age2|1964|6|17|1936|6|12|df=y}}|caps=1|club=[[Olympique Lyonnais]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Bruno Rodzik]]|age={{Birth date and age2|1964|6|17|1935|5|29|df=y}}|caps=21|club=[[Stade de Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Paul Sauvage]]|age={{Birth date and age2|1964|6|17|1939|3|17|df=y}}|caps=5|club=[[Stade de Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Edouard Stako]]|age={{Birth date and age2|1964|6|17|1934|1|11|df=y}}|caps=2|club=[[Stade Français Paris (football)|Stade Français]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Michel Stievenard]]|age={{Birth date and age2|1964|6|17|1937|9|21|df=y}}|caps=2|club=[[Angers SCO]]|clubnat=France}}
+{{nat fs end}}
+
+===Republic of Ireland===
+Head coach: Committee
+{{nat fs start}}
+{{nat fs player|no=|pos=|name=[[Ray Brady]]|age={{Birth date and age2|1964|6|17|1937|6|3|df=y}}|caps=|club=[[Queens Park Rangers F.C.|QPR]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Willie Browne]]|age=Born 1936 (Aged 27 or 28)|caps=|club=[[Bohemian F.C.]]|clubnat=Ireland}}
+{{nat fs player|no=|pos=DF|name=[[Noel Cantwell]]|age={{Birth date and age2|1964|6|17|1932|2|28|df=y}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Tony Dunne]]|age={{Birth date and age2|1964|6|17|1944|7|24|df=y}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=|pos=|name=[[Amby Fogarty]]|age={{Birth date and age2|1964|6|17|1933|9|11|df=y}}|caps=|club=[[Hartlepool United F.C.|Hartlepool United]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Theo Foley]]|age={{Birth date and age2|1964|6|17|1937|3|2|df=y}}|caps=|club=|clubnat=}}
+{{nat fs player|no=|pos=|name=[[Johnny Fullam]]|age={{Birth date and age2|1964|6|17|1940|3|22|df=y}}|caps=|club=[[Shamrock Rovers F.C.|Shamrock Rovers]]|clubnat=Ireland}}
+{{nat fs player|no=|pos=MF|name=[[Johnny Giles]]|age={{Birth date and age2|1964|6|17|1940|11|6|df=y}}|caps=|club=[[Leeds United A.F.C.|Leeds United]]|clubnat=England}}
+{{nat fs player|no=|pos=FW|name=[[Alfie Hale]]|age={{Birth date and age2|1964|6|17|1939|8|28|df=y}}|caps=|club=[[Doncaster Rovers F.C.|Doncaster Rovers]]|clubnat=England}}
+{{nat fs player|no=|pos=FW|name=[[Joe Haverty]]|age={{Birth date and age2|1964|6|17|1936|2|17|df=y}}|caps=|club=[[Millwall F.C.|Millwall]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Charlie Hurley]]|age={{Birth date and age2|1964|6|17|1936|10|4|df=y}}|caps=|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=England}}
+{{nat fs player|no=|pos=GK|name=[[Alan Kelly, Sr.|Alan Kelly]]|age={{Birth date and age2|1964|6|17|1936|7|5|df=y}}|caps=|club=[[Preston North End F.C.|Preston North End]]|clubnat=England}}
+{{nat fs player|no=|pos=FW|name=[[Andy McEvoy]]|age={{Birth date and age2|1964|6|17|1938|7|15|df=y}}|caps=|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Mick Meagan]]|age={{Birth date and age2|1964|6|17|1934|5|29|df=y}}|caps=|club=[[Everton F.C.|Everton]]|clubnat=England}}
+{{nat fs player|no=|pos=DF|name=[[Tommy Traynor]]|age={{Birth date and age2|1964|6|17|1933|7|22|df=y}}|caps=|club=[[Southampton F.C.|Southampton]]|clubnat=England}}
+{{nat fs player|no=|pos=|name=[[Paddy Turner]]|age=|caps=1|club=|clubnat=}}
+{{nat fs end}}
+
+===Luxembourg===
+Head coach: [[Robert Heinz]]
+{{nat fs start}}
+{{nat fs player|no=|pos=|name=[[Ernest Brenner]]|age=September 13, 1931|caps=54|club=[[Stade Dudelange]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Fernand Brosius]]|age=May 15, 1934|caps=42|club=[[CA Spora Luxembourg|Spora Luxembourg]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Camille Dimmer]]|age=April 20, 1939|caps=18|club=[[FA Red Boys Differdange|Red Boys Differdingen]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Jean-Pierre Fiedler]]|age=January 26, 1935|caps=12|club=[[CA Spora Luxembourg|Spora Luxembourg]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Jean-Pierre Hoffstetter]]|age=October 27, 1937|caps=15|club=[[FC Aris Bonnevoie|Aris Bonnevoie]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Henri Klein]]|age=April 14, 1944|caps=3|club=[[FA Red Boys Differdange|Red Boys Differdingen]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Jean Klein]]|age=December 21, 1942|caps=6|club=[[F91 Dudelange|US Düdelingen]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=DF|name=[[François Konter]]|age=February 20, 1934|caps=51|club=[[R.S.C. Anderlecht|RSC Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=|name=[[Johny Leonard]]|age=October 3, 1941|caps=4|club=[[Union Luxembourg]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=|name=[[Paul May]]|age=June 20, 1935|caps=16|club=[[Jeunesse Esch]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=MF|name=[[Louis Pilot]]|age=November 11, 1940|caps=6|club=[[Standard Liège]]|clubnat=Belgium}}
+{{nat fs player|no=|pos=MF|name=[[Ady Schmit]]|age=August 17, 1940|caps=18|club=[[FC Sochaux-Montbéliard]]|clubnat=France}}
+{{nat fs player|no=|pos=GK|name=[[Nicolas Schmitt]]|age=October 3, 1936|caps=11|club=[[Union Luxembourg]]|clubnat=Luxembourg}}
+{{nat fs player|no=|pos=GK|name=[[Théo Stendebach]]|age=April 20, 1937|caps=5|club=[[Stade Dudelange]]|clubnat=Luxembourg}}
+{{nat fs end}}
+
+===Sweden===
+Head coach: [[Lennart Nyman]]
+{{nat fs start}}
+{{nat fs player|no=|pos=GK|name=[[Arne Arvidsson]]|age=|caps=|club=[[Djurgårdens IF Fotboll]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=DF|name=[[Hans Rosander]]|age=|caps=|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=DF|name=[[Lennart Wing]]|age=[[1935]]|caps=|club=[[Örgryte IS]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=DF|name=[[Orvar Bergmark]]|age=November 16, 1930|caps=|club=[[A.S. Roma]]|clubnat=Italy}}
+{{nat fs player|no=|pos=MF|name=[[Åke Johansson]]|age=[[1928]]|caps=|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=MF|name=[[Hans Mild]]|age=July 31, 1934|caps=|club=[[Djurgårdens IF Fotboll]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=FW|name=[[Kurt Hamrin]]|age=November 19, 1934|caps=|club=[[ACF Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=|pos=FW|name=[[Harry Bild]]|age=December 18, 1936|caps=|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=FW|name=[[Agne Simonsson]]|age=October 19, 1935|caps=|club=[[Örgryte IS]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=|name=[[Örjan Martinsson]]|age=November 1, 1936|caps=|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=FW|name=[[Örjan Persson]]|age=August 27, 1942|caps=|club=[[Örgryte IS]]|clubnat=Sweden}}
+{{nat fs player|no=|pos=|name=[[Anders Svensson]]|age=|caps=|club=|clubnat=}}
+{{nat fs end}}
+
+q-Indicates players on the quarterfinal roster that did not participate in the final round of the tournament.
+-->
+
+==External links==
+*[http://www.rsssf.com/tables/64e-det.html RSSSF]
+*[http://futbol.sportec.es Sportec] [http://futbol.sportec.es/seleccion/ficha_partido.asp?c=32&nj=7&par=IRLESP 1] [http://futbol.sportec.es/seleccion/ficha_partido.asp?c=32&nj=6&par=ESPIRL 2]
+*[http://www.dbu.dk/page.aspx?id=5641 DBU]
+*[http://www.fff.fr FFF] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=287 1] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=288 2]
+
+{{European Football Championship squads}}
+{{European Football Championship}}
+{{International football}}
+
+{{DEFAULTSORT:1964 European Nations' Cup Squads}}
+[[Category:UEFA European Championship squads]]
+[[Category:1964 European Nations' Cup|Squads]]

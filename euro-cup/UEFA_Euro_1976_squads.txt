@@ -1,0 +1,122 @@
+These are the squads for the '''[[1976 European Football Championship]]''' tournament in [[Yugoslavia]], that took place between 16 June and 20 June 1976. The players' listed ages is their age on the tournament's opening day (16 June 1976).
+
+=={{fb|Czechoslovakia}}==
+
+Head coach: [[Václav Ježek]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ivo Viktor]]|age={{birth date and age2|1976|6|16|1942|5|21|df=y}}|caps=|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=2|pos=DF|name=[[Karol Dobiaš]]|age={{birth date and age2|1976|6|16|1947|12|18|df=y}}|caps=|club=[[Spartak Trnava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=3|pos=DF|name=[[Jozef Čapkovič]]|age={{birth date and age2|1976|6|16|1948|11|1|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=4|pos=DF|name=[[Anton Ondruš]] ([[Captain (association football)|c]])|age={{birth date and age2|1976|6|16|1950|3|27|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=5|pos=DF|name=[[Ján Pivarník]]|age={{birth date and age2|1976|6|16|1947|11|13|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=6|pos=DF|name=[[Ladislav Jurkemik]]|age={{birth date and age2|1976|6|16|1953|7|20|df=y}}|caps=|club=[[Inter Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=7|pos=MF|name=[[Antonín Panenka]]|age={{birth date and age2|1976|6|16|1948|12|2|df=y}}|caps=|club=[[Bohemians 1905|Bohemians Praha]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=8|pos=MF|name=[[Jozef Móder]]|age={{birth date and age2|1976|6|16|1947|9|19|df=y}}|caps=|club=[[Lokomotiva Košice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=9|pos=MF|name=[[Jaroslav Pollák]]|age={{birth date and age2|1976|6|16|1947|7|11|df=y}}|caps=|club=[[FC Košice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=10|pos=FW|name=[[Marián Masný]]|age={{birth date and age2|1976|6|16|1950|8|13|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=11|pos=FW|name=[[Zdeněk Nehoda]]|age={{birth date and age2|1976|6|16|1952|5|9|df=y}}|caps=|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=12|pos=DF|name=[[Koloman Gögh]]|age={{birth date and age2|1976|6|16|1948|1|7|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=13|pos=DF|name=[[Jozef Barmoš]]|age={{birth date and age2|1976|6|16|1954|8|28|df=y}}|caps=|club=[[Inter Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=14|pos=DF|name=[[Pavol Biroš]]|age={{birth date and age2|1976|6|16|1953|4|1|df=y}}|caps=|club=[[Slavia Praha]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=15|pos=MF|name=[[Dušan Herda]]|age={{birth date and age2|1976|6|16|1951|7|15|df=y}}|caps=|club=[[Slavia Praha]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=16|pos=MF|name=[[František Veselý]]|age={{birth date and age2|1976|6|16|1943|12|7|df=y}}|caps=|club=[[Slavia Praha]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=17|pos=MF|name=[[Ján Švehlík]]|age={{birth date and age2|1976|6|16|1950|1|17|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=18|pos=FW|name=[[Dušan Galis]]|age={{birth date and age2|1976|6|16|1946|11|24|df=y}}|caps=|club=[[FC Košice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=19|pos=FW|name=[[Ladislav Petráš]]|age={{birth date and age2|1976|6|16|1946|12|1|df=y}}|caps=|club=[[Inter Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=20|pos=MF|name=[[František Štambachr]]|age={{birth date and age2|1976|6|16|1953|2|13|df=y}}|caps=|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=21|pos=MF|name=[[Přemysl Bičovský]]|age={{birth date and age2|1976|6|16|1950|8|18|df=y}}|caps=|club=[[Sklo Union Teplice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=22|pos=GK|name=[[Alexander Vencel (footballer born 1944)|Alexander Vencel]]|age={{birth date and age2|1976|6|16|1944|2|8|df=y}}|caps=|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs end}}
+
+=={{fb|Netherlands}}==
+
+Head coach: [[George Knobel]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Piet Schrijvers]]|age={{birth date and age2|1976|6|16|1946|12|15|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=2|pos=DF|name=[[Wim Suurbier]]|age={{birth date and age2|1976|6|16|1945|1|16|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=3|pos=DF|name=[[Wim Rijsbergen]]|age={{birth date and age2|1976|6|16|1952|1|18|df=y}}|caps=|club=[[Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=4|pos=DF|name=[[Adrie van Kraay]]|age={{birth date and age2|1976|6|16|1953|8|1|df=y}}|caps=|club=[[PSV Eindhoven|PSV]]|clubnat=Netherlands}}
+{{nat fs player|no=5|pos=DF|name=[[Ruud Krol]]|age={{birth date and age2|1976|6|16|1949|3|24|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=6|pos=MF|name=[[Johan Neeskens]]|age={{birth date and age2|1976|6|16|1951|9|15|df=y}}|caps=|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=7|pos=MF|name=[[Wim Jansen]]|age={{birth date and age2|1976|6|16|1946|10|28|df=y}}|caps=|club=[[Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=8|pos=FW|name=[[Johnny Rep]]|age={{birth date and age2|1976|6|16|1951|11|25|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=9|pos=MF|name=[[Johan Cruyff]] ([[Captain (association football)|c]])|age={{birth date and age2|1976|6|16|1947|4|25|df=y}}|caps=|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1945|df=y}}
+{{nat fs player|no=10|pos=MF|name=[[Willy van de Kerkhof]]|age={{birth date and age2|1976|6|16|1951|9|16|df=y}}|caps=|club=[[PSV Eindhoven|PSV]]|clubnat=Netherlands}}
+{{nat fs player|no=11|pos=FW|name=[[Rob Rensenbrink]]|age={{birth date and age2|1976|6|16|1947|7|3|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=12|pos=MF|name=[[Wim van Hanegem]]|age={{birth date and age2|1976|6|16|1944|2|20|df=y}}|caps=|club=[[Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=13|pos=FW|name=[[Ruud Geels]]|age={{birth date and age2|1976|6|16|1948|7|28|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=14|pos=MF|name=[[Jan Peters (footballer)|Jan Peters]]|age={{birth date and age2|1976|6|16|1953|7|20|df=y}}|caps=|club=[[NEC Nijmegen|N.E.C.]]|clubnat=Netherlands}}
+{{nat fs player|no=15|pos=MF|name=[[René van de Kerkhof]]|age={{birth date and age2|1976|6|16|1951|9|16|df=y}}|caps=|club=[[PSV Eindhoven|PSV]]|clubnat=Netherlands}}
+{{nat fs player|no=16|pos=MF|name=[[Peter Arntz]]|age={{birth date and age2|1976|6|16|1953|2|5|df=y}}|caps=|club=[[Go Ahead Eagles]]|clubnat=Netherlands}}
+{{nat fs player|no=17|pos=GK|name=[[Jan Ruiter]]|age={{birth date and age2|1976|6|16|1946|11|24|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=18|pos=GK|name=[[Jan Jongbloed]]|age={{birth date and age2|1976|6|16|1940|11|25|df=y}}|caps=|club=[[FC Amsterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=19|pos=FW|name=[[Kees Kist]]|age={{birth date and age2|1976|6|16|1952|8|7|df=y}}|caps=|club=[[AZ (football club)|AZ '67]]|clubnat=Netherlands}}
+{{nat fs player|no=20|pos=DF|name=[[Wim Meutstege]]|age={{birth date and age2|1976|6|16|1952|6|28|df=y}}|caps=|club=[[Sparta Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=21|pos=DF|name=[[Henk van Rijnsoever]]|age=[[06 November]][[1952]]|caps=|club=[[AZ Alkmaar|AZ '67]]|clubnat=Netherlands}}
+{{nat fs player|no=22|pos=MF|name=[[Jan van Deinsen]]|age=[[19 June]][[1953]]|caps=|club=[[Go Ahead Eagles|Go Ahead]]|clubnat=Netherlands}}
+{{nat fs end}}
+
+=={{fb|West Germany}}==
+
+Head coach: [[Helmut Schön]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sepp Maier]]|age={{birth date and age2|1976|6|16|1944|2|28|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=2|pos=DF|name=[[Berti Vogts]]|age={{birth date and age2|1976|6|16|1946|12|30|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=3|pos=DF|name=[[Bernard Dietz]]|age={{birth date and age2|1976|6|16|1948|3|22|df=y}}|caps=|club=[[MSV Duisburg|Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=4|pos=DF|name=[[Hans-Georg Schwarzenbeck]]|age={{birth date and age2|1976|6|16|1948|4|3|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=5|pos=DF|name=[[Franz Beckenbauer]] ([[Captain (association football)|c]])|age={{birth date and age2|1976|6|16|1945|9|11|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=6|pos=FW|name=[[Herbert Wimmer]]|age={{birth date and age2|1976|6|16|1944|11|9|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=7|pos=MF|name=[[Rainer Bonhof]]|age={{birth date and age2|1976|6|16|1952|3|29|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=8|pos=MF|name=[[Uli Hoeneß]]|age={{birth date and age2|1976|6|16|1952|1|5|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=9|pos=FW|name=[[Dieter Müller]]|age={{birth date and age2|1976|6|16|1954|4|1|df=y}}|caps=|club=[[1. FC Köln|Köln]]|clubnat=West Germany}}
+{{nat fs player|no=10|pos=MF|name=[[Erich Beer]]|age={{birth date and age2|1976|6|16|1946|12|9|df=y}}|caps=|club=[[Hertha BSC]]|clubnat=West Germany}}
+{{nat fs player|no=11|pos=FW|name=[[Bernd Hölzenbein]]|age={{birth date and age2|1976|6|16|1946|3|9|df=y}}|caps=|club=[[Eintracht Frankfurt]]|clubnat=West Germany}}
+{{nat fs player|no=12|pos=FW|name=[[Ronald Worm]]|age={{birth date and age2|1976|6|16|1953|10|7|df=y}}|caps=|club=[[MSV Duisburg|Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=13|pos=MF|name=[[Dietmar Danner]]|age={{birth date and age2|1976|6|16|1950|11|29|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=14|pos=MF|name=[[Hans Bongartz]]|age={{birth date and age2|1976|6|16|1951|10|3|df=y}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=15|pos=MF|name=[[Heinz Flohe]]|age={{birth date and age2|1976|6|16|1948|1|28|df=y}}|caps=|club=[[1. FC Köln|Köln]]|clubnat=West Germany}}
+{{nat fs player|no=16|pos=DF|name=[[Peter Nogly]]|age={{birth date and age2|1976|6|16|1947|1|14|df=y}}|caps=|club=[[Hamburger SV|Hamburg]]|clubnat=West Germany}}
+{{nat fs player|no=17|pos=DF|name=[[Manfred Kaltz]]|age={{birth date and age2|1976|6|16|1953|1|6|df=y}}|caps=|club=[[Hamburger SV|Hamburg]]|clubnat=West Germany}}
+{{nat fs player|no=18|pos=GK|name=[[Rudi Kargus]]|age={{birth date and age2|1976|6|16|1952|8|15|df=y}}|caps=|club=[[Hamburger SV|Hamburg]]|clubnat=West Germany}}
+{{nat fs player|no=19|pos=GK|name=[[Bernd Franke]]|age=[[12 February]][[1948]]|caps=|club=[[Eintracht Braunschweig]]|clubnat=West Germany}}
+{{nat fs player|no=20|pos=DF|name=[[Peter Reichel]]|age=[[30 November]][[1951]]|caps=|club=[[Eintracht Frankfurt]]|clubnat=West Germany}}
+{{nat fs player|no=21|pos=MF|name=[[Uli Stielike]]|age=[[15 November]][[1954]]|caps=|club=[[Borussia Mönchengladbach|Borussia M'gladbach]]|clubnat=West Germany}}
+{{nat fs player|no=22|pos=MF|name=[[Bern Dürnberger]]|age=[[17 September]][[1953]]|caps=|club=[[FC Bayern Munich|Bayern München]]|clubnat=West Germany}}
+{{nat fs end}}
+
+=={{fb|Yugoslavia}}==
+
+Head coach: [[Ante Mladinić]]
+
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ognjen Petrović]]|age={{birth date and age2|1976|6|16|1948|1|2|df=y}}|caps=|club=[[Red Star Belgrade]]|clubnat=Yugoslavia}}
+{{nat fs player|no=2|pos=DF|name=[[Ivan Buljan]]|age={{birth date and age2|1976|6|16|1949|12|11|df=y}}|caps=|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=3|pos=DF|name=[[Džemal Hadžiabdić]]|age={{birth date and age2|1976|6|16|1953|7|25|df=y}}|caps=|club=[[Velez Monstar]]|clubnat=Yugoslavia}}
+{{nat fs player|no=4|pos=DF|name=[[Dražen Mužinić]]|age={{birth date and age2|1976|6|16|1953|1|25|df=y}}|caps=|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=5|pos=DF|name=[[Josip Katalinski]]|age={{birth date and age2|1976|6|16|1948|5|12|df=y}}|caps=|club=[[OGC Nice|Nice]]|clubnat=France}}
+{{nat fs player|no=6|pos=FW|name=[[Ivica Šurjak]]|age={{birth date and age2|1976|6|16|1953|3|23|df=y}}|caps=|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=7|pos=FW|name=[[Danilo Popivoda]]|age={{birth date and age2|1976|6|16|1947|5|1|df=y}}|caps=|club=[[Eintracht Braunschweig]]|clubnat=West Germany}}
+{{nat fs player|no=8|pos=MF|name=[[Branko Oblak]]|age={{birth date and age2|1976|6|16|1947|5|27|df=y}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=9|pos=MF|name=[[Jovan Aćimović]] ([[Captain (association football)|c]])|age={{birth date and age2|1976|6|16|1948|6|21|df=y}}|caps=|club=[[Red Star Belgrade]]|clubnat=Yugoslavia}}
+{{nat fs player|no=10|pos=FW|name=[[Jurica Jerković]]|age={{birth date and age2|1976|6|16|1950|2|25|df=y}}|caps=|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=11|pos=FW|name=[[Dragan Džajić]]|age={{birth date and age2|1976|6|16|1946|5|30|df=y}}|caps=|club=[[SC Bastia|Bastia]]|clubnat=France}}
+{{nat fs player|no=12|pos=GK|name=[[Enver Marić]]|age={{birth date and age2|1976|6|16|1948|4|23|df=y}}|caps=|club=[[Velež Mostar]]|clubnat=Yugoslavia}}
+{{nat fs player|no=13|pos=FW|name=[[Vahid Halilhodžić]]|age={{birth date and age2|1976|6|16|1952|5|15|df=y}}|caps=|club=[[Velež Mostar]]|clubnat=Yugoslavia}}
+{{nat fs player|no=14|pos=MF|name=[[Edhem Šljivo]]|age={{birth date and age2|1976|6|16|1950|3|16|df=y}}|caps=|club=[[FK Sarajevo]]|clubnat=Yugoslavia}}
+{{nat fs player|no=15|pos=MF|name=[[Franjo Vladić]]|age={{birth date and age2|1976|6|16|1951|10|19|df=y}}|caps=|club=[[Velež Mostar]]|clubnat=Yugoslavia}}
+{{nat fs player|no=16|pos=MF|name=[[Momčilo Vukotić]]|age={{birth date and age2|1976|6|16|1950|6|2|df=y}}|caps=|club=[[FK Partizan|Partizan Belgrade]]|clubnat=Yugoslavia}}
+{{nat fs player|no=17|pos=FW|name=[[Slaviša Žungul]]|age={{birth date and age2|1976|6|16|1954|7|28|df=y}}|caps=|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=20|pos=DF|name=[[Luka Peruzović]]|age={{birth date and age2|1976|6|16|1952|2|26|df=y}}|caps=|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=21|pos=DF|name=[[Vladislav Bogićević]]|age=[[07 November]][[1950]]|caps=|club=[[Red Star Belgrade]]|clubnat=Yugoslavia}}
+{{nat fs player|no=22|pos=GK|name=[[Ratko Svilar]]|age=[[06 May]][[1950]]|caps=|club=[[Vojvodina Novi Sad]]|clubnat=Yugoslavia}}
+{{nat fs end}}
+
+==External links==
+*[http://www.rsssf.com/tables/76e-full.html RSSSF]
+
+{{European Football Championship}}
+{{European Football Championship squads}}
+
+[[Category:UEFA European Championship squads|1976]]
+[[Category:UEFA Euro 1976|Squads]]

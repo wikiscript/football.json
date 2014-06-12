@@ -1,0 +1,524 @@
+[[UEFA Euro 2004]] was a [[association football|football]] tournament that took place in Portugal between 12 June and 4 July 2004. The 16 teams that qualified for the competition were required to submit a final 23-man squad by 2 June 2004,<ref>{{cite news |title=Squad deadline looms |url=http://www.uefa.com/uefaeuro/news/newsid=186121.html |publisher=UEFA.com (Union of European Football Associations) |date=2 June 2004 |accessdate=23 May 2014 }}</ref> although injured squad members could be replaced at any time up to 24 hours before their team's first match.
+
+The players' ages, clubs and caps are accurate as of the start of the tournament's opening day.
+
+==Group A==
+===Greece===
+[[Greece national football team|Greece]] named their final squad on 23 May 2004.
+
+Head coach: [[Otto Rehhagel]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Antonios Nikopolidis]]|age={{birth date and age2|2004|6|12|1971|1|14|df=y}}|caps=42|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=Greece}}
+{{nat fs player|no=2|pos=DF|name=[[Giourkas Seitaridis]]|age={{birth date and age2|2004|6|12|1981|6|4|df=y}}|caps=18|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=3|pos=DF|name=[[Stylianos Venetidis]]|age={{birth date and age2|2004|6|12|1976|11|19|df=y}}|caps=36|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=Greece}}
+{{nat fs player|no=4|pos=DF|name=[[Nikos Dabizas]]|age={{birth date and age2|2004|6|12|1973|8|3|df=y}}|caps=67|club=[[Leicester City F.C.|Leicester City]]|clubnat=England}}
+{{nat fs player|no=5|pos=DF|name=[[Traianos Dellas]]|age={{birth date and age2|2004|6|12|1976|1|31|df=y}}|caps=16|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=6|pos=MF|name=[[Angelos Basinas]]|age={{birth date and age2|2004|6|12|1976|1|3|df=y}}|caps=42|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=7|pos=MF|name=[[Theodoros Zagorakis]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1971|10|27|df=y}}|caps=88|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs player|no=8|pos=MF|name=[[Stelios Giannakopoulos]]|age={{birth date and age2|2004|6|12|1974|7|12|df=y}}|caps=36|club=[[Bolton Wanderers F.C.|Bolton Wanderers]]|clubnat=England}}
+{{nat fs player|no=9|pos=FW|name=[[Angelos Charisteas]]|age={{birth date and age2|2004|6|12|1980|2|9|df=y}}|caps=26|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=Germany}}
+{{nat fs player|no=10|pos=MF|name=[[Vassilios Tsiartas]]|age={{birth date and age2|2004|6|12|1972|11|12|df=y}}|caps=57|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs player|no=11|pos=FW|name=[[Demis Nikolaidis]]|age={{birth date and age2|2004|6|12|1973|9|17|df=y}}|caps=50|club=[[Atlético Madrid]]|clubnat=Spain}}
+{{nat fs player|no=12|pos=GK|name=[[Konstantinos Chalkias]]|age={{birth date and age2|2004|6|12|1974|5|30|df=y}}|caps=4|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=13|pos=GK|name=[[Fanis Katergiannakis]]|age={{birth date and age2|2004|6|12|1974|2|16|df=y}}|caps=6|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=Greece}}
+{{nat fs player|no=14|pos=DF|name=[[Takis Fyssas]]|age={{birth date and age2|2004|6|12|1973|6|12|df=y}}|caps=30|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=15|pos=FW|name=[[Zisis Vryzas]]|age={{birth date and age2|2004|6|12|1973|11|9|df=y}}|caps=45|club=[[ACF Fiorentina|Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=16|pos=MF|name=[[Pantelis Kafes]]|age={{birth date and age2|2004|6|12|1978|6|24|df=y}}|caps=18|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=Greece}}
+{{nat fs player|no=17|pos=MF|name=[[Georgios Georgiadis (football player)|Georgios Georgiadis]]|age={{birth date and age2|2004|6|12|1972|3|8|df=y}}|caps=57|club=[[Olympiacos F.C.|Olympiacos]]|clubnat=Greece}}
+{{nat fs player|no=18|pos=DF|name=[[Giannis Goumas]]|age={{birth date and age2|2004|6|12|1975|5|24|df=y}}|caps=27|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=19|pos=DF|name=[[Michalis Kapsis]]|age={{birth date and age2|2004|6|12|1973|10|18|df=y}}|caps=8|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs player|no=20|pos=MF|name=[[Giorgos Karagounis]]|age={{birth date and age2|2004|6|12|1977|3|6|df=y}}|caps=30|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=MF|name=[[Kostas Katsouranis]]|age={{birth date and age2|2004|6|12|1979|6|21|df=y}}|caps=5|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs player|no=22|pos=FW|name=[[Dimitrios Papadopoulos]]|age={{birth date and age2|2004|6|12|1981|9|20|df=y}}|caps=6|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=23|pos=MF|name=[[Vassilis Lakis]]|age={{birth date and age2|2004|6|12|1976|9|10|df=y}}|caps=29|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs end}}
+
+===Portugal===
+[[Portugal national football team|Portugal]] named their final squad on 18 May 2004.
+
+Head coach: [[Luiz Felipe Scolari]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ricardo Pereira|Ricardo]]|age={{birth date and age2|2004|6|12|1976|2|11|df=y}}|caps=26|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=Portugal}}
+{{nat fs player|no=2|pos=DF|name=[[Paulo Ferreira]]|age={{birth date and age2|2004|6|12|1979|1|18|df=y}}|caps=11|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=3|pos=DF|name=[[Rui Jorge]]|age={{birth date and age2|2004|6|12|1973|3|27|df=y}}|caps=42|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=Portugal}}
+{{nat fs player|no=4|pos=DF|name=[[Jorge Andrade]]|age={{birth date and age2|2004|6|12|1978|4|9|df=y}}|caps=21|club=[[Deportivo de La Coruña]]|clubnat=Spain}}
+{{nat fs player|no=5|pos=DF|name=[[Fernando Couto]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1969|8|2|df=y}}|caps=106|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=6|pos=MF|name=[[Costinha]]|age={{birth date and age2|2004|6|12|1974|12|1|df=y}}|caps=23|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=7|pos=MF|name=[[Luis Figo]]|age={{birth date and age2|2004|6|12|1972|11|4|df=y}}|caps=103|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=8|pos=MF|name=[[Petit (Portuguese footballer)|Petit]]|age={{birth date and age2|2004|6|12|1976|9|25|df=y}}|caps=19|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=9|pos=FW|name=[[Pauleta]]|age={{birth date and age2|2004|6|12|1973|4|28|df=y}}|caps=55|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=France}}
+{{nat fs player|no=10|pos=MF|name=[[Rui Costa]]|age={{birth date and age2|2004|6|12|1972|3|29|df=y}}|caps=89|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=11|pos=FW|name=[[Simão Sabrosa|Simão]]|age={{birth date and age2|2004|6|12|1979|10|31|df=y}}|caps=27|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=12|pos=GK|name=[[Quim (footballer born 1975)|Quim]] |age={{birth date and age2|2004|6|12|1975|11|13|df=y}}|caps=21|club=[[S.C. Braga|Braga]]|clubnat=Portugal}}
+{{nat fs player|no=13|pos=DF|name=[[Miguel Monteiro|Miguel]]|age={{birth date and age2|2004|6|12|1980|1|4|df=y}}|caps=13|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=14|pos=DF|name=[[Nuno Valente]]|age={{birth date and age2|2004|6|12|1974|9|12|df=y}}|caps=9|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=15|pos=DF|name=[[Beto (Portuguese footballer born 1976)|Beto]]|age={{birth date and age2|2004|6|12|1976|5|3|df=y}}|caps=30|club=[[Sporting Clube de Portugal|Sporting]]|clubnat=Portugal}}
+{{nat fs player|no=16|pos=DF|name=[[Ricardo Carvalho]]|age={{birth date and age2|2004|6|12|1978|5|18|df=y}}|caps=4|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=17|pos=FW|name=[[Cristiano Ronaldo]]|age={{birth date and age2|2004|6|12|1985|2|5|df=y}}|caps=6|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=18|pos=MF|name=[[Maniche]]|age={{birth date and age2|2004|6|12|1977|11|11|df=y}}|caps=7|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=19|pos=MF|name=[[Tiago Mendes|Tiago]]|age={{birth date and age2|2004|6|12|1981|5|2|df=y}}|caps=9|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=20|pos=MF|name=[[Deco]] |age={{birth date and age2|2004|6|12|1977|8|27|df=y}}|caps=12|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=21|pos=FW|name=[[Nuno Gomes]]|age={{birth date and age2|2004|6|12|1976|7|5|df=y}}|caps=39|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=22|pos=GK|name=[[José Moreira]]|age={{birth date and age2|2004|6|12|1982|3|20|df=y}}|caps=0|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=23|pos=FW|name=[[Hélder Postiga]]|age={{birth date and age2|2004|6|12|1982|8|2|df=y}}|caps=6|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs end}}
+
+===Russia===
+[[Russia national football team|Russia]] named their final squad on 2 June 2004. [[Aleksandr Mostovoi]] was sent home from the tournament on 15 June due to alleged attacks on the cohesion of the group.{{fact|date=May 2014}}
+
+Head coach: [[Georgi Yartsev]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sergei Ovchinnikov (footballer born 1970)|Sergei Ovchinnikov]]|age={{birth date and age2|2004|6|12|1970|11|10|df=y}}|caps=31|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=2|pos=MF|name=[[Vladislav Radimov]]|age={{birth date and age2|2004|6|12|1975|11|26|df=y}}|caps=29|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=3|pos=FW|name=[[Dmitri Sychev]]|age={{birth date and age2|2004|6|12|1983|10|26|df=y}}|caps=15|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=4|pos=MF|name=[[Alexey Smertin]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1975|5|1|df=y}}|caps=40|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=England}}
+{{nat fs player|no=5|pos=MF|name=[[Andrei Karyaka]]|age={{birth date and age2|2004|6|12|1978|4|1|df=y}}|caps=17|club=[[FC Krylya Sovetov Samara|Krylya Sovetov Samara]]|clubnat=Russia}}
+{{nat fs player|no=6|pos=MF|name=[[Igor Semshov]]|age={{birth date and age2|2004|6|12|1978|4|6|df=y}}|caps=6|club=[[FC Torpedo Moscow|Torpedo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=7|pos=MF|name=[[Marat Izmailov]]|age={{birth date and age2|2004|6|12|1982|9|21|df=y}}|caps=17|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=8|pos=MF|name=[[Rolan Gusev]]|age={{birth date and age2|2004|6|12|1977|9|17|df=y}}|caps=25|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=9|pos=FW|name=[[Dmitri Bulykin]]|age={{birth date and age2|2004|6|12|1979|11|20|df=y}}|caps=8|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=10|pos=MF|name=[[Aleksandr Mostovoi]]|age={{birth date and age2|2004|6|12|1968|8|22|df=y}}|caps=64|club=[[Celta de Vigo]]|clubnat=Spain}}
+{{nat fs player|no=11|pos=FW|name=[[Aleksandr Kerzhakov]]|age={{birth date and age2|2004|6|12|1982|11|27|df=y}}|caps=18|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=12|pos=GK|name=[[Vyacheslav Malafeev]]|age={{birth date and age2|2004|6|12|1979|3|4|df=y}}|caps=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=13|pos=DF|name=[[Roman Sharonov]]|age={{birth date and age2|2004|6|12|1976|9|8|df=y}}|caps=3|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=Russia}}
+{{nat fs player|no=14|pos=DF|name=[[Aleksandr Anyukov]]|age={{birth date and age2|2004|6|12|1982|9|28|df=y}}|caps=1|club=[[FC Krylya Sovetov Samara|Krylya Sovetov Samara]]|clubnat=Russia}}
+{{nat fs player|no=15|pos=MF|name=[[Dmitri Alenichev]]|age={{birth date and age2|2004|6|12|1972|10|20|df=y}}|caps=50|club=[[F.C. Porto|Porto]]|clubnat=Portugal}}
+{{nat fs player|no=16|pos=DF|name=[[Vadim Evseev]]|age={{birth date and age2|2004|6|12|1976|1|8|df=y}}|caps=9|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=17|pos=DF|name=[[Dmitri Sennikov]]|age={{birth date and age2|2004|6|12|1976|6|24|df=y}}|caps=13|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=18|pos=FW|name=[[Dmitri Kirichenko]]|age={{birth date and age2|2004|6|12|1977|1|17|df=y}}|caps=4|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=19|pos=MF|name=[[Vladimir Bystrov]]|age={{birth date and age2|2004|6|12|1984|1|31|df=y}}|caps=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=20|pos=MF|name=[[Dmitri Loskov]]|age={{birth date and age2|2004|6|12|1974|2|12|df=y}}|caps=13|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=Russia}}
+{{nat fs player|no=21|pos=DF|name=[[Aleksei Bugayev]]|age={{birth date and age2|2004|6|12|1981|8|25|df=y}}|caps=1|club=[[FC Torpedo Moscow|Torpedo Moscow]]|clubnat=Russia}}
+{{nat fs player|no=22|pos=MF|name=[[Evgeni Aldonin]]|age={{birth date and age2|2004|6|12|1980|1|22|df=y}}|caps=12|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=23|pos=GK|name=[[Igor Akinfeev]]|age={{birth date and age2|2004|6|12|1986|4|8|df=y}}|caps=1|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs end}}
+
+'''Note:''' caps include those for USSR, CIS, and Russia.
+
+===Spain===
+[[Spain national football team|Spain]] named their initial 23-man squad on 20 May 2004.<ref>{{cite news |first=Jon |last=Brodkin |title=Reyes left out of Spain squad for Euro 2004 |url=http://www.theguardian.com/football/2004/may/21/newsstory.sport12 |work=The Guardian |publisher=Guardian News and Media |date=21 May 2004 |accessdate=23 May 2014 }}</ref> Real Madrid right-back [[Michel Salgado]] was originally named in the squad but suffered a torn thigh muscle and was replaced by [[Deportivo de La Coruña|Deportivo La Coruña]] full-back [[Joan Capdevila]].<ref>{{cite news |title=Salgado out of Euro 2004, Capdevila in |url=http://www.espnfc.com/news/story?id=302185&cc=5739 |work=ESPN FC |publisher=ESPN Internet Ventures |date=2 June 2004 |accessdate=23 May 2014 }}</ref>
+
+Head coach: [[Iñaki Sáez]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Santiago Cañizares]]|age={{birth date and age2|2004|6|12|1969|12|18|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain}}
+{{nat fs player|no=2|pos=DF|name=[[Joan Capdevila]]|age={{birth date and age2|2004|6|12|1978|2|3|df=y}}|caps=|club=[[Deportivo de La Coruña]]|clubnat=Spain}}
+{{nat fs player|no=3|pos=DF|name=[[Carlos Marchena]]|age={{birth date and age2|2004|6|12|1979|7|31|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain}}
+{{nat fs player|no=4|pos=MF|name=[[David Albelda]]|age={{birth date and age2|2004|6|12|1977|9|1|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain}}
+{{nat fs player|no=5|pos=DF|name=[[Carles Puyol]]|age={{birth date and age2|2004|6|12|1978|4|13|df=y}}|caps=|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=6|pos=DF|name=[[Iván Helguera]]|age={{birth date and age2|2004|6|12|1975|3|28|df=y}}|caps=|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=7|pos=FW|name=[[Raúl González|Raúl]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1977|6|27|df=y}}|caps=|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=8|pos=MF|name=[[Rubén Baraja]]|age={{birth date and age2|2004|6|12|1975|7|11|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain}}
+{{nat fs player|no=9|pos=FW|name=[[Fernando Torres]]|age={{birth date and age2|2004|6|12|1984|3|20|df=y}}|caps=|club=[[Atlético Madrid]]|clubnat=Spain}}
+{{nat fs player|no=10|pos=FW|name=[[Fernando Morientes]]|age={{birth date and age2|2004|6|12|1976|4|5|df=y}}|caps=|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=11|pos=FW|name=[[Albert Luque]]|age={{birth date and age2|2004|6|12|1978|3|11|df=y}}|caps=|club=[[Deportivo de La Coruña]]|clubnat=Spain}}
+{{nat fs player|no=12|pos=DF|name=[[Gabriel García de la Torre|Gabri]]|age={{birth date and age2|2004|6|12|1979|2|10|df=y}}|caps=|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=13|pos=GK|name=[[Daniel Aranzubia]]|age={{birth date and age2|2004|6|12|1979|9|18|df=y}}|caps=|club=[[Athletic Bilbao]]|clubnat=Spain}}
+{{nat fs player|no=14|pos=MF|name=[[Vicente Rodríguez|Vicente]]|age={{birth date and age2|2004|6|12|1981|7|16|df=y}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain}}
+{{nat fs player|no=15|pos=DF|name=[[Raúl Bravo]]|age={{birth date and age2|2004|6|12|1981|4|14|df=y}}|caps=|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=16|pos=MF|name=[[Xabi Alonso]]|age={{birth date and age2|2004|6|12|1981|11|25|df=y}}|caps=|club=[[Real Sociedad]]|clubnat=Spain}}
+{{nat fs player|no=17|pos=FW|name=[[Joseba Etxeberria]]|age={{birth date and age2|2004|6|12|1977|9|5|df=y}}|caps=|club=[[Athletic Bilbao]]|clubnat=Spain}}
+{{nat fs player|no=18|pos=DF|name=[[César Martín]]|age={{birth date and age2|2004|6|12|1977|4|3|df=y}}|caps=|club=[[Deportivo de La Coruña]]|clubnat=Spain}}
+{{nat fs player|no=19|pos=MF|name=[[Joaquín Sánchez|Joaquín]]|age={{birth date and age2|2004|6|12|1981|7|21|df=y}}|caps=|club=[[Real Betis]]|clubnat=Spain}}
+{{nat fs player|no=20|pos=MF|name=[[Xavi]]|age={{birth date and age2|2004|6|12|1980|1|25|df=y}}|caps=|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=21|pos=MF|name=[[Juan Carlos Valerón]]|age={{birth date and age2|2004|6|12|1975|6|17|df=y}}|caps=|club=[[Deportivo de La Coruña]]|clubnat=Spain}}
+{{nat fs player|no=22|pos=DF|name=[[Juan Gutiérrez Moreno|Juanito]]|age={{birth date and age2|2004|6|12|1976|7|23|df=y}}|caps=|club=[[Real Betis]]|clubnat=Spain}}
+{{nat fs player|no=23|pos=GK|name=[[Iker Casillas]]|age={{birth date and age2|2004|6|12|1981|5|20|df=y}}|caps=|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs end}}
+
+==Group B==
+===Croatia===
+[[Croatia national football team|Croatia]] named their final squad on 2 June 2004. Goalkeeper [[Stipe Pletikosa]] sustained a thigh injury a few days before the beginning of the tournament,<ref>{{cite news |title=Pletikosa doubt for Croatia |url=http://news.bbc.co.uk/sport1/hi/football/euro_2004/croatia/3795353.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=10 June 2004 |accessdate=23 May 2014 }}</ref> and so was withdrawn from the squad, with [[Vladimir Vasilj]] taking his place.<ref>{{cite news |title=Vasilj takes Pletikosa's place |url=http://www.uefa.com/uefaeuro/news/newsid=191430.html |publisher=UEFA.com (Union of European Football Associations) |date=13 June 2004 |accessdate=23 May 2014 }}</ref>
+
+Head coach: [[Otto Barić]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Vladimir Vasilj]]|age={{birth date and age2|2004|6|12|1975|7|6|df=y}}|caps=|club=[[NK Varteks (1958-2010)|Varteks]]|clubnat=Croatia}}
+{{nat fs player|no=2|pos=DF|name=[[Mario Tokić]]|age={{birth date and age2|2004|6|12|1975|7|23|df=y}}|caps=|club=[[Grazer AK]]|clubnat=Austria}}
+{{nat fs player|no=3|pos=DF|name=[[Josip Šimunić]]|age={{birth date and age2|2004|6|12|1978|2|18|df=y}}|caps=|club=[[Hertha BSC]]|clubnat=Germany}}
+{{nat fs player|no=4|pos=DF|name=[[Stjepan Tomas]]|age={{birth date and age2|2004|6|12|1976|3|6|df=y}}|caps=|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=Turkey}}
+{{nat fs player|no=5|pos=DF|name=[[Igor Tudor]]|age={{birth date and age2|2004|6|12|1978|4|16|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=6|pos=DF|name=[[Boris Živković]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1975|11|15|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs player|no=7|pos=MF|name=[[Milan Rapaić]]|age={{birth date and age2|2004|6|12|1973|8|16|df=y}}|caps=|club=[[A.C. Ancona|Ancona]]|clubnat=Italy}}
+{{nat fs player|no=8|pos=MF|name=[[Darijo Srna]]|age={{birth date and age2|2004|6|12|1982|5|1|df=y}}|caps=|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=Ukraine}}
+{{nat fs player|no=9|pos=FW|name=[[Dado Pršo]]|age={{birth date and age2|2004|6|12|1974|11|5|df=y}}|caps=|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=10|pos=MF|name=[[Niko Kovač]]|age={{birth date and age2|2004|6|12|1971|10|15|df=y}}|caps=|club=[[Hertha BSC]]|clubnat=Germany}}
+{{nat fs player|no=11|pos=FW|name=[[Tomislav Šokota]]|age={{birth date and age2|2004|6|12|1977|4|8|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal}}
+{{nat fs player|no=12|pos=GK|name=[[Tomislav Butina]]|age={{birth date and age2|2004|6|12|1974|3|30|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=13|pos=DF|name=[[Dario Šimić]]|age={{birth date and age2|2004|6|12|1975|11|12|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=14|pos=DF|name=[[Mato Neretljak]]|age={{birth date and age2|2004|6|12|1979|6|3|df=y}}|caps=|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=Croatia}}
+{{nat fs player|no=15|pos=MF|name=[[Jerko Leko]]|age={{birth date and age2|2004|6|12|1980|4|9|df=y}}|caps=|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=Ukraine}}
+{{nat fs player|no=16|pos=MF|name=[[Marko Babić (footballer)|Marko Babić]]|age={{birth date and age2|2004|6|12|1981|1|28|df=y}}|caps=|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=Germany}}
+{{nat fs player|no=17|pos=FW|name=[[Ivan Klasnić]]|age={{birth date and age2|2004|6|12|1980|1|29|df=y}}|caps=|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=Germany}}
+{{nat fs player|no=18|pos=FW|name=[[Ivica Olić]]|age={{birth date and age2|2004|6|12|1979|9|14|df=y}}|caps=|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=19|pos=FW|name=[[Ivica Mornar]]|age={{birth date and age2|2004|6|12|1974|1|12|df=y}}|caps=|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=England}}
+{{nat fs player|no=20|pos=MF|name=[[Đovani Roso]]|age={{birth date and age2|2004|6|12|1972|11|17|df=y}}|caps=|club=[[Maccabi Haifa F.C.|Maccabi Haifa]]|clubnat=Israel}}
+{{nat fs player|no=21|pos=DF|name=[[Robert Kovač]]|age={{birth date and age2|2004|6|12|1974|4|6|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=22|pos=MF|name=[[Nenad Bjelica]]|age={{birth date and age2|2004|6|12|1971|8|20|df=y}}|caps=|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=Germany}}
+{{nat fs player|no=23|pos=GK|name=[[Joey Didulica]]|age={{birth date and age2|2004|6|12|1977|10|14|df=y}}|caps=|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs end}}
+
+===England===
+[[England national football team|England]] named their final squad on 17 May 2004.
+
+Head coach: [[Sven-Göran Eriksson]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[David James (footballer)|David James]]|age={{birth date and age2|2004|6|12|1970|8|1|df=y}}|caps=24|club=[[Manchester City F.C.|Manchester City]]|clubnat=England}}
+{{nat fs player|no=2|pos=DF|name=[[Gary Neville]]|age={{birth date and age2|2004|6|12|1975|2|18|df=y}}|caps=63|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=3|pos=DF|name=[[Ashley Cole]]|age={{birth date and age2|2004|6|12|1980|12|20|df=y}}|caps=26|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=4|pos=MF|name=[[Steven Gerrard]]|age={{birth date and age2|2004|6|12|1980|5|30|df=y}}|caps=24|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=5|pos=DF|name=[[John Terry]]|age={{birth date and age2|2004|6|12|1980|12|7|df=y}}|caps=8|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=6|pos=DF|name=[[Sol Campbell]]|age={{birth date and age2|2004|6|12|1974|9|18|df=y}}|caps=58|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=7|pos=MF|name=[[David Beckham]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1975|5|2|df=y}}|caps=68|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=8|pos=MF|name=[[Paul Scholes]]|age={{birth date and age2|2004|6|12|1974|11|16|df=y}}|caps=62|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=9|pos=FW|name=[[Wayne Rooney]]|age={{birth date and age2|2004|6|12|1985|10|24|df=y}}|caps=13|club=[[Everton F.C.|Everton]]|clubnat=England}}
+{{nat fs player|no=10|pos=FW|name=[[Michael Owen]]|age={{birth date and age2|2004|6|12|1979|12|14|df=y}}|caps=56|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=11|pos=MF|name=[[Frank Lampard]]|age={{birth date and age2|2004|6|12|1978|6|20|df=y}}|caps=19|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=12|pos=DF|name=[[Wayne Bridge]]|age={{birth date and age2|2004|6|12|1980|8|5|df=y}}|caps=17|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=13|pos=GK|name=[[Paul Robinson (goalkeeper)|Paul Robinson]]|age={{birth date and age2|2004|6|12|1979|10|15|df=y}}|caps=5|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=14|pos=DF|name=[[Phil Neville]]|age={{birth date and age2|2004|6|12|1977|1|21|df=y}}|caps=48|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=15|pos=DF|name=[[Ledley King]]|age={{birth date and age2|2004|6|12|1980|10|12|df=y}}|caps=5|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=16|pos=DF|name=[[Jamie Carragher]]|age={{birth date and age2|2004|6|12|1978|1|28|df=y}}|caps=12|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=17|pos=MF|name=[[Nicky Butt]]|age={{birth date and age2|2004|6|12|1975|1|21|df=y}}|caps=35|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=18|pos=MF|name=[[Owen Hargreaves]]|age={{birth date and age2|2004|6|12|1981|1|20|df=y}}|caps=19|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=19|pos=MF|name=[[Joe Cole (footballer)|Joe Cole]]|age={{birth date and age2|2004|6|12|1981|11|8|df=y}}|caps=17|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=20|pos=MF|name=[[Kieron Dyer]]|age={{birth date and age2|2004|6|12|1978|12|29|df=y}}|caps=22|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=England}}
+{{nat fs player|no=21|pos=FW|name=[[Emile Heskey]]|age={{birth date and age2|2004|6|12|1978|1|11|df=y}}|caps=42|club=[[Birmingham City F.C.|Birmingham City]]|clubnat=England}}
+{{nat fs player|no=22|pos=GK|name=[[Ian Walker (footballer)|Ian Walker]]|age={{birth date and age2|2004|6|12|1971|10|31|df=y}}|caps=4|club=[[Leicester City F.C.|Leicester City]]|clubnat=England}}
+{{nat fs player|no=23|pos=FW|name=[[Darius Vassell]]|age={{birth date and age2|2004|6|12|1980|6|13|df=y}}|caps=18|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=England}}
+{{nat fs end}}
+
+===France===
+[[France national football team|France]] named their final squad on 18 May 2004.<ref>{{cite news |title=Saha named in French Euro 2004 squad |url=http://www.espnfc.com/news/story?id=301020&cc=5739 |work=ESPN FC |publisher=ESPN Internet Ventures |date=18 May 2004 |accessdate=23 May 2014 }}</ref> Midfielder [[Ludovic Giuly]] tore a groin muscle during the [[2004 UEFA Champions League Final]] on 26 May,<ref>{{cite news |title=Giuly out of Euro 2004 |url=http://news.bbc.co.uk/sport1/hi/football/champions_league/3752123.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=28 May 2004 |accessdate=23 May 2014 }}</ref> and was replaced by striker [[Sidney Govou]] three days later.<ref>{{cite news |title=Govou in for stricken Giuly |url=http://www.uefa.com/uefaeuro/news/newsid=183068.html |publisher=UEFA.com (Union of European Football Associations) |date=29 May 2004 |accessdate=23 May 2014 }}</ref>
+
+Head coach: [[Jacques Santini]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Mickaël Landreau]]|age={{birth date and age2|2004|6|12|1979|5|14|df=y}}|caps=|club=[[FC Nantes|Nantes]]|clubnat=France}}
+{{nat fs player|no=2|pos=DF|name=[[Jean-Alain Boumsong]]|age={{birth date and age2|2004|6|12|1979|12|14|df=y}}|caps=|club=[[AJ Auxerre|Auxerre]]|clubnat=France}}
+{{nat fs player|no=3|pos=DF|name=[[Bixente Lizarazu]]|age={{birth date and age2|2004|6|12|1969|12|9|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=4|pos=MF|name=[[Patrick Vieira]]|age={{birth date and age2|2004|6|12|1976|6|23|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=5|pos=DF|name=[[William Gallas]]|age={{birth date and age2|2004|6|12|1977|8|17|df=y}}|caps=|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=6|pos=MF|name=[[Claude Makélélé]]|age={{birth date and age2|2004|6|12|1973|2|18|df=y}}|caps=|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=7|pos=MF|name=[[Robert Pirès]]|age={{birth date and age2|2004|6|12|1973|10|29|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=8|pos=DF|name=[[Marcel Desailly]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1968|9|7|df=y}}|caps=|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=9|pos=FW|name=[[Louis Saha]]|age={{birth date and age2|2004|6|12|1978|8|8|df=y}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=10|pos=MF|name=[[Zinedine Zidane]]|age={{birth date and age2|2004|6|12|1972|6|23|df=y}}|caps=|club=[[Real Madrid C.F.|Real Madrid]]|clubnat=Spain}}
+{{nat fs player|no=11|pos=FW|name=[[Sylvain Wiltord]]|age={{birth date and age2|2004|6|12|1974|5|10|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=12|pos=FW|name=[[Thierry Henry]]|age={{birth date and age2|2004|6|12|1977|8|17|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=13|pos=DF|name=[[Mikaël Silvestre]]|age={{birth date and age2|2004|6|12|1977|8|9|df=y}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=14|pos=MF|name=[[Jérôme Rothen]]|age={{birth date and age2|2004|6|12|1978|3|31|df=y}}|caps=|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=15|pos=DF|name=[[Lilian Thuram]]|age={{birth date and age2|2004|6|12|1972|1|1|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=16|pos=GK|name=[[Fabien Barthez]]|age={{birth date and age2|2004|6|12|1971|6|28|df=y}}|caps=|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=17|pos=MF|name=[[Olivier Dacourt]]|age={{birth date and age2|2004|6|12|1974|9|25|df=y}}|caps=|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=18|pos=MF|name=[[Benoît Pedretti]]|age={{birth date and age2|2004|6|12|1980|11|12|df=y}}|caps=|club=[[FC Sochaux-Montbéliard|Sochaux]]|clubnat=France}}
+{{nat fs player|no=19|pos=DF|name=[[Willy Sagnol]]|age={{birth date and age2|2004|6|12|1977|3|18|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=20|pos=FW|name=[[David Trezeguet]]|age={{birth date and age2|2004|6|12|1977|10|15|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=FW|name=[[Steve Marlet]]|age={{birth date and age2|2004|6|12|1974|1|10|df=y}}|caps=|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=22|pos=FW|name=[[Sidney Govou]]|age={{birth date and age2|2004|6|12|1979|7|27|df=y}}|caps=|club=[[Olympique Lyonnais|Lyon]]|clubnat=France}}
+{{nat fs player|no=23|pos=GK|name=[[Grégory Coupet]]|age={{birth date and age2|2004|6|12|1972|12|31|df=y}}|caps=|club=[[Olympique Lyonnais|Lyon]]|clubnat=France}}
+{{nat fs end}}
+
+===Switzerland===
+[[Switzerland national football team|Switzerland]] named an initial 26-man squad on 24 May 2004.<ref>{{cite news |title=Swiss recall striker Thurre |url=http://news.bbc.co.uk/sport1/hi/football/euro_2004/switzerland/3743387.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=24 May 2004 |accessdate=23 May 2014 }}</ref> [[Stéphane Grichting]] and [[Rémo Meyer]] were both cut from the final squad, while [[Marco Streller]] broke his left tibia and fibula and [[Leonard Thurre]] tore a calf muscle in training;<ref>{{cite news |title=Swiss striker Streller misses out |url=http://www.espnfc.com/print?id=301955&type=story |work=ESPNsoccernet |publisher=ESPN Internet Ventures |date=30 May 2004 |accessdate=23 May 2014 }}</ref><ref>{{cite news |title=Swiss Streller out for six months |url=http://www.espnfc.com/news/story?id=302187&cc=5739 |work=ESPN FC |publisher=ESPN Internet Ventures |date=2 June 2004 |accessdate=23 May 2014 }}</ref> they were replaced in the final 23-man squad by 18-year-old [[PSV Eindhoven]] forward [[Johan Vonlanthen]].<ref>{{cite news |title=PSV ace gets Swiss call-up |url=http://www1.skysports.com/football/news/11914/2300913/psv-ace-gets-swiss-call-up |publisher=Sky Sports (BSkyB) |date=1 June 2004 |accessdate=23 May 2014 }}</ref>
+
+On 6 June, midfielder [[Johann Lonfat]] was withdrawn from the squad after suffering a back injury; he was originally going to be replaced by [[Juventus F.C.|Juventus]] forward [[Davide Chiumiento]], but he declined the selection in favour of waiting for a call-up by [[Italy national football team|Italy]], meaning that [[Tranquillo Barnetta]] replaced Lonfat instead.<ref>{{cite news |first=Marco |last=Keller |title=Barnetta steps up for Swiss |url=http://www.uefa.com/uefaeuro/news/newsid=188043.html |publisher=UEFA.com (Union of European Football Associations) |date=6 June 2004 |accessdate=23 May 2014 }}</ref> Goalkeeper [[Fabrice Borer]] suffered a broken arm in training on 12 June and was replaced by [[Sébastien Roth]] before Switzerland's opening game against [[Croatia national football team|Croatia]] the next day.<ref>{{cite news |title=Swiss keeper breaks arm |url=http://news.bbc.co.uk/sport1/hi/football/euro_2004/switzerland/3803027.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=13 June 2004 |accessdate=23 May 2014 }}</ref>
+
+Head coach: [[Köbi Kuhn]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Jörg Stiel]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1968|3|3|df=y}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=Germany}}
+{{nat fs player|no=2|pos=DF|name=[[Bernt Haas]]|age={{birth date and age2|2004|6|12|1978|4|8|df=y}}|caps=|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=England}}
+{{nat fs player|no=3|pos=DF|name=[[Bruno Berner]]|age={{birth date and age2|2004|6|12|1977|11|21|df=y}}|caps=|club=[[SC Freiburg|Freiburg]]|clubnat=Germany}}
+{{nat fs player|no=4|pos=DF|name=[[Stéphane Henchoz]]|age={{birth date and age2|2004|6|12|1974|9|7|df=y}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=5|pos=DF|name=[[Murat Yakin]]|age={{birth date and age2|2004|6|12|1974|9|15|df=y}}|caps=|club=[[FC Basel|Basel]]|clubnat=Switzerland}}
+{{nat fs player|no=6|pos=MF|name=[[Johann Vogel]]|age={{birth date and age2|2004|6|12|1977|3|8|df=y}}|caps=|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=7|pos=MF|name=[[Ricardo Cabanas]]|age={{birth date and age2|2004|6|12|1979|1|17|df=y}}|caps=|club=[[Grasshopper Club Zürich|Grasshopper]]|clubnat=Switzerland}}
+{{nat fs player|no=8|pos=MF|name=[[Raphaël Wicky]]|age={{birth date and age2|2004|6|12|1977|4|26|df=y}}|caps=|club=[[Hamburger SV|Hamburg]]|clubnat=Germany}}
+{{nat fs player|no=9|pos=FW|name=[[Alexander Frei]]|age={{birth date and age2|2004|6|12|1979|7|15|df=y}}|caps=|club=[[Stade Rennais FC|Rennes]]|clubnat=France}}
+{{nat fs player|no=10|pos=MF|name=[[Hakan Yakin]]|age={{birth date and age2|2004|6|12|1977|2|22|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs player|no=11|pos=FW|name=[[Stéphane Chapuisat]]|age={{birth date and age2|2004|6|12|1969|6|28|df=y}}|caps=|club=[[BSC Young Boys|Young Boys]]|clubnat=Switzerland}}
+{{nat fs player|no=12|pos=GK|name=[[Pascal Zuberbühler]]|age={{birth date and age2|2004|6|12|1971|1|8|df=y}}|caps=|club=[[FC Basel|Basel]]|clubnat=Switzerland}}
+{{nat fs player|no=13|pos=DF|name=[[Marco Zwyssig]]|age={{birth date and age2|2004|6|12|1971|10|24|df=y}}|caps=|club=[[FC Basel|Basel]]|clubnat=Switzerland}}
+{{nat fs player|no=14|pos=DF|name=[[Ludovic Magnin]]|age={{birth date and age2|2004|6|12|1979|4|20|df=y}}|caps=|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=Germany}}
+{{nat fs player|no=15|pos=MF|name=[[Daniel Gygax]]|age={{birth date and age2|2004|6|12|1981|8|28|df=y}}|caps=|club=[[FC Zürich|Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=16|pos=MF|name=[[Fabio Celestini]]|age={{birth date and age2|2004|6|12|1975|10|31|df=y}}|caps=|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=17|pos=DF|name=[[Christoph Spycher]]|age={{birth date and age2|2004|6|12|1978|3|30|df=y}}|caps=|club=[[Grasshopper Club Zürich|Grasshopper]]|clubnat=Switzerland}}
+{{nat fs player|no=18|pos=MF|name=[[Benjamin Huggel]]|age={{birth date and age2|2004|6|12|1977|7|7|df=y}}|caps=|club=[[FC Basel|Basel]]|clubnat=Switzerland}}
+{{nat fs player|no=19|pos=MF|name=[[Tranquillo Barnetta]]|age={{birth date and age2|2004|6|12|1985|5|22|df=y}}|caps=|club=[[FC St. Gallen|St. Gallen]]|clubnat=Switzerland}}
+{{nat fs player|no=20|pos=DF|name=[[Patrick Müller]]|age={{birth date and age2|2004|6|12|1976|12|17|df=y}}|caps=|club=[[Olympique Lyonnais|Lyon]]|clubnat=France}}
+{{nat fs player|no=21|pos=FW|name=[[Milaim Rama]]|age={{birth date and age2|2004|6|12|1976|2|29|df=y}}|caps=|club=[[FC Thun|Thun]]|clubnat=Switzerland}}
+{{nat fs player|no=22|pos=FW|name=[[Johan Vonlanthen]]|age={{birth date and age2|2004|6|12|1986|2|1|df=y}}|caps=|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=23|pos=GK|name=[[Sébastien Roth]]|age={{birth date and age2|2004|6|12|1978|4|1|df=y}}|caps=|club=[[Servette FC|Servette]]|clubnat=Switzerland}}
+{{nat fs end}}
+
+==Group C==
+===Bulgaria===
+[[Bulgaria national football team|Bulgaria]] named their squad on 19 May 2004.
+
+Head coach: [[Plamen Markov]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Zdravko Zdravkov]]|age={{birth date and age2|2004|6|12|1970|10|4|df=y}}|caps=|club=[[Litex Lovech]]|clubnat=Bulgaria}}
+{{nat fs player|no=2|pos=DF|name=[[Vladimir Ivanov (footballer)|Vladimir Ivanov]]|age={{birth date and age2|2004|6|12|1973|2|6|df=y}}|caps=|club=[[PFC Lokomotiv Plovdiv|Lokomotiv Plovdiv]]|clubnat=Bulgaria}}
+{{nat fs player|no=3|pos=DF|name=[[Rosen Kirilov]]|age={{birth date and age2|2004|6|12|1973|1|4|df=y}}|caps=|club=[[Litex Lovech]]|clubnat=Bulgaria}}
+{{nat fs player|no=4|pos=DF|name=[[Ivaylo Petkov]]|age={{birth date and age2|2004|6|12|1975|12|7|df=y}}|caps=|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=Turkey}}
+{{nat fs player|no=5|pos=DF|name=[[Zlatomir Zagorčić]]|age={{birth date and age2|2004|6|12|1971|6|15|df=y}}|caps=|club=[[Litex Lovech]]|clubnat=Bulgaria}}
+{{nat fs player|no=6|pos=DF|name=[[Kiril Kotev]]|age={{birth date and age2|2004|6|12|1982|4|8|df=y}}|caps=|club=[[PFC Lokomotiv Plovdiv|Lokomotiv Plovdiv]]|clubnat=Bulgaria}}
+{{nat fs player|no=7|pos=MF|name=[[Daniel Borimirov]]|age={{birth date and age2|2004|6|12|1970|1|15|df=y}}|caps=|club=[[Levski Sofia]]|clubnat=Bulgaria}}
+{{nat fs player|no=8|pos=MF|name=[[Milen Petkov]]|age={{birth date and age2|2004|6|12|1974|1|12|df=y}}|caps=|club=[[A.E.K. Athens F.C.|AEK Athens]]|clubnat=Greece}}
+{{nat fs player|no=9|pos=FW|name=[[Dimitar Berbatov]]|age={{birth date and age2|2004|6|12|1981|1|30|df=y}}|caps=|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=Germany}}
+{{nat fs player|no=10|pos=MF|name=[[Velizar Dimitrov]]|age={{birth date and age2|2004|6|12|1979|4|13|df=y}}|caps=|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=Bulgaria}}
+{{nat fs player|no=11|pos=FW|name=[[Zdravko Lazarov]]|age={{birth date and age2|2004|6|12|1976|2|20|df=y}}|caps=|club=[[Gaziantepspor]]|clubnat=Turkey}}
+{{nat fs player|no=12|pos=GK|name=[[Stoyan Kolev]]|age={{birth date and age2|2004|6|12|1976|2|3|df=y}}|caps=|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=Bulgaria}}
+{{nat fs player|no=13|pos=DF|name=[[Georgi Peev]]|age={{birth date and age2|2004|6|12|1979|3|11|df=y}}|caps=|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=Ukraine}}
+{{nat fs player|no=14|pos=FW|name=[[Georgi Chilikov]]|age={{birth date and age2|2004|6|12|1978|8|23|df=y}}|caps=|club=[[Levski Sofia]]|clubnat=Bulgaria}}
+{{nat fs player|no=15|pos=MF|name=[[Marian Hristov]]|age={{birth date and age2|2004|6|12|1973|7|29|df=y}}|caps=|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=Germany}}
+{{nat fs player|no=16|pos=FW|name=[[Vladimir Manchev]]|age={{birth date and age2|2004|6|12|1977|10|6|df=y}}|caps=|club=[[Lille OSC|Lille]]|clubnat=France}}
+{{nat fs player|no=17|pos=MF|name=[[Martin Petrov]]|age={{birth date and age2|2004|6|12|1979|1|15|df=y}}|caps=|club=[[VfL Wolfsburg|Wolfsburg]]|clubnat=Germany}}
+{{nat fs player|no=18|pos=DF|name=[[Predrag Pažin]]|age={{birth date and age2|2004|6|12|1973|3|14|df=y}}|caps=|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=Ukraine}}
+{{nat fs player|no=19|pos=MF|name=[[Stiliyan Petrov]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1979|7|5|df=y}}|caps=|club=[[Celtic F.C.|Celtic]]|clubnat=Scotland}}
+{{nat fs player|no=20|pos=FW|name=[[Valeri Bojinov]]|age={{birth date and age2|2004|6|12|1986|2|15|df=y}}|caps=|club=[[U.S. Lecce|Lecce]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=FW|name=[[Zoran Janković (footballer)|Zoran Janković]]|age={{birth date and age2|2004|6|12|1974|2|8|df=y}}|caps=|club=[[Dalian Shide]]|clubnat=China}}
+{{nat fs player|no=22|pos=DF|name=[[Ilian Stoyanov]]|age={{birth date and age2|2004|6|12|1977|1|20|df=y}}|caps=|club=[[Levski Sofia]]|clubnat=Bulgaria}}
+{{nat fs player|no=23|pos=GK|name=[[Dimitar Ivankov]]|age={{birth date and age2|2004|6|12|1975|10|30|df=y}}|caps=|club=[[Levski Sofia]]|clubnat=Bulgaria}}
+{{nat fs end}}
+
+===Denmark===
+[[Denmark national football team|Denmark]] named their squad on 1 June 2004.
+
+Head coach: [[Morten Olsen]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Thomas Sørensen]]|age={{birth date and age2|2004|6|12|1976|6|12|df=y}}|caps=|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=England}}
+{{nat fs player|no=2|pos=DF|name=[[Kasper Bøgelund]]|age={{birth date and age2|2004|6|12|1980|10|8|df=y}}|caps=|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=3|pos=DF|name=[[René Henriksen]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1969|8|27|df=y}}|caps=|club=[[Panathinaikos F.C.|Panathinaikos]]|clubnat=Greece}}
+{{nat fs player|no=4|pos=DF|name=[[Martin Laursen]]|age={{birth date and age2|2004|6|12|1977|7|26|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=5|pos=DF|name=[[Niclas Jensen]]|age={{birth date and age2|2004|6|12|1974|8|17|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=6|pos=DF|name=[[Thomas Helveg]]|age={{birth date and age2|2004|6|12|1971|6|24|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=7|pos=MF|name=[[Thomas Gravesen]]|age={{birth date and age2|2004|6|12|1976|3|11|df=y}}|caps=|club=[[Everton F.C.|Everton]]|clubnat=England}}
+{{nat fs player|no=8|pos=FW|name=[[Jesper Grønkjær]]|age={{birth date and age2|2004|6|12|1977|8|12|df=y}}|caps=|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=9|pos=MF|name=[[Jon Dahl Tomasson]]|age={{birth date and age2|2004|6|12|1976|8|29|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=10|pos=MF|name=[[Martin Jørgensen]]|age={{birth date and age2|2004|6|12|1975|10|6|df=y}}|caps=|club=[[Udinese Calcio|Udinese]]|clubnat=Italy}}
+{{nat fs player|no=11|pos=FW|name=[[Ebbe Sand]]|age={{birth date and age2|2004|6|12|1972|7|19|df=y}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=Germany}}
+{{nat fs player|no=12|pos=MF|name=[[Thomas Kahlenberg]]|age={{birth date and age2|2004|6|12|1983|3|20|df=y}}|caps=|club=[[Brøndby IF|Brøndby]]|clubnat=Denmark}}
+{{nat fs player|no=13|pos=DF|name=[[Per Krøldrup]]|age={{birth date and age2|2004|6|12|1979|7|31|df=y}}|caps=|club=[[Udinese Calcio|Udinese]]|clubnat=Italy}}
+{{nat fs player|no=14|pos=MF|name=[[Claus Jensen]]|age={{birth date and age2|2004|6|12|1977|4|29|df=y}}|caps=|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=England}}
+{{nat fs player|no=15|pos=MF|name=[[Daniel Jensen]]|age={{birth date and age2|2004|6|12|1979|6|25|df=y}}|caps=|club=[[Real Murcia]]|clubnat=Spain}}
+{{nat fs player|no=16|pos=GK|name=[[Peter Skov-Jensen]]|age={{birth date and age2|2004|6|12|1971|6|9|df=y}}|caps=|club=[[F.C. Midtjylland|Midtjylland]]|clubnat=Denmark}}
+{{nat fs player|no=17|pos=MF|name=[[Christian Poulsen]]|age={{birth date and age2|2004|6|12|1980|2|28|df=y}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=Germany}}
+{{nat fs player|no=18|pos=DF|name=[[Brian Priske]]|age={{birth date and age2|2004|6|12|1977|5|14|df=y}}|caps=|club=[[K.R.C. Genk|Racing Genk]]|clubnat=Belgium}}
+{{nat fs player|no=19|pos=FW|name=[[Dennis Rommedahl]]|age={{birth date and age2|2004|6|12|1978|7|22|df=y}}|caps=|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=20|pos=MF|name=[[Kenneth Perez]]|age={{birth date and age2|2004|6|12|1974|8|29|df=y}}|caps=|club=[[AZ (football club)|AZ]]|clubnat=Netherlands}}
+{{nat fs player|no=21|pos=FW|name=[[Peter Madsen]]|age={{birth date and age2|2004|6|12|1978|4|26|df=y}}|caps=|club=[[VfL Bochum|Bochum]]|clubnat=Germany}}
+{{nat fs player|no=22|pos=GK|name=[[Stephan Andersen]]|age={{birth date and age2|2004|6|12|1981|11|26|df=y}}|caps=|club=[[Akademisk Boldklub|AB]]|clubnat=Denmark}}
+{{nat fs player|no=23|pos=FW|name=[[Peter Løvenkrands]]|age={{birth date and age2|2004|6|12|1980|1|29|df=y}}|caps=|club=[[Rangers F.C.|Rangers]]|clubnat=Scotland}}
+{{nat fs end}}
+
+===Italy===
+[[Italy national football team|Italy]] named their squad on 18 May 2004.
+
+Head coach: [[Giovanni Trapattoni]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Gianluigi Buffon]]|age={{birth date and age2|2004|6|12|1978|1|28|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=2|pos=DF|name=[[Christian Panucci]]|age={{birth date and age2|2004|6|12|1973|4|12|df=y}}|caps=|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=3|pos=DF|name=[[Massimo Oddo]]|age={{birth date and age2|2004|6|12|1976|6|14|df=y}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=4|pos=MF|name=[[Cristiano Zanetti]]|age={{birth date and age2|2004|6|12|1977|4|14|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=5|pos=DF|name=[[Fabio Cannavaro]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1973|9|13|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=6|pos=DF|name=[[Matteo Ferrari]]|age={{birth date and age2|2004|6|12|1979|12|5|df=y}}|caps=|club=[[Parma F.C.|Parma]]|clubnat=Italy}}
+{{nat fs player|no=7|pos=FW|name=[[Alessandro Del Piero]]|age={{birth date and age2|2004|6|12|1974|11|9|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=8|pos=MF|name=[[Gennaro Gattuso]]|age={{birth date and age2|2004|6|12|1978|1|9|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=9|pos=FW|name=[[Christian Vieri]]|age={{birth date and age2|2004|6|12|1973|7|12|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=10|pos=FW|name=[[Francesco Totti]]|age={{birth date and age2|2004|6|12|1976|9|27|df=y}}|caps=|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=11|pos=FW|name=[[Bernardo Corradi]]|age={{birth date and age2|2004|6|12|1976|3|30|df=y}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=12|pos=GK|name=[[Francesco Toldo]]|age={{birth date and age2|2004|6|12|1971|12|2|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=13|pos=DF|name=[[Alessandro Nesta]]|age={{birth date and age2|2004|6|12|1976|3|19|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=14|pos=MF|name=[[Stefano Fiore]]|age={{birth date and age2|2004|6|12|1975|4|17|df=y}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=15|pos=DF|name=[[Giuseppe Favalli]]|age={{birth date and age2|2004|6|12|1972|1|8|df=y}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=16|pos=MF|name=[[Mauro Camoranesi]]|age={{birth date and age2|2004|6|12|1976|10|4|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=17|pos=FW|name=[[Marco Di Vaio]]|age={{birth date and age2|2004|6|12|1976|7|15|df=y}}|caps=|club=[[ACF Fiorentina|Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=18|pos=FW|name=[[Antonio Cassano]]|age={{birth date and age2|2004|6|12|1982|7|12|df=y}}|caps=|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=19|pos=DF|name=[[Gianluca Zambrotta]]|age={{birth date and age2|2004|6|12|1977|2|19|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=20|pos=MF|name=[[Simone Perrotta]]|age={{birth date and age2|2004|6|12|1977|9|17|df=y}}|caps=|club=[[A.C. ChievoVerona|Chievo]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=MF|name=[[Andrea Pirlo]]|age={{birth date and age2|2004|6|12|1979|5|19|df=y}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=22|pos=GK|name=[[Angelo Peruzzi]]|age={{birth date and age2|2004|6|12|1970|2|16|df=y}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=23|pos=DF|name=[[Marco Materazzi]]|age={{birth date and age2|2004|6|12|1973|8|19|df=y}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs end}}
+
+===Sweden===
+[[Sweden national football team|Sweden]] named their squad on 6 May 2004.<ref>{{cite news |title=Larsson in Sweden squad |url=http://news.bbc.co.uk/sport1/hi/football/euro_2004/sweden/3691113.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=6 May 2004 |accessdate=23 May 2014 }}</ref> [[Southampton F.C.|Southampton]] full-back [[Michael Svensson]] was ruled out of the tournament on 26 May after failing to recover from a knee injury; he was replaced by [[Hammarby IF|Hammarby]] defender [[Alexander Östlund]].<ref>{{cite news |title=Injury rules out Svensson |url=http://news.bbc.co.uk/sport1/hi/football/euro_2004/sweden/3750735.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=26 May 2004 |accessdate=23 May 2014 }}</ref>
+
+Head coaches: [[Tommy Söderberg]] and [[Lars Lagerbäck]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Andreas Isaksson]]|age={{birth date and age2|2004|6|12|1981|10|3|df=y}}|caps=|club=[[Djurgårdens IF Fotboll|Djurgården]]|clubnat=Sweden}}
+{{nat fs player|no=2|pos=DF|name=[[Teddy Lučić]]|age={{birth date and age2|2004|6|12|1973|4|15|df=y}}|caps=|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=Germany}}
+{{nat fs player|no=3|pos=DF|name=[[Olof Mellberg]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1977|9|3|df=y}}|caps=|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=England}}
+{{nat fs player|no=4|pos=DF|name=[[Johan Mjällby]]|age={{birth date and age2|2004|6|12|1971|2|9|df=y}}|caps=|club=[[Celtic F.C.|Celtic]]|clubnat=Scotland}}
+{{nat fs player|no=5|pos=DF|name=[[Erik Edman]]|age={{birth date and age2|2004|6|12|1978|11|11|df=y}}|caps=|club=[[SC Heerenveen|Heerenveen]]|clubnat=Netherlands}}
+{{nat fs player|no=6|pos=MF|name=[[Tobias Linderoth]]|age={{birth date and age2|2004|6|12|1979|4|21|df=y}}|caps=|club=[[Everton F.C.|Everton]]|clubnat=England}}
+{{nat fs player|no=7|pos=MF|name=[[Mikael Nilsson (born 1978)|Mikael Nilsson]]|age={{birth date and age2|2004|6|12|1978|6|24|df=y}}|caps=|club=[[Halmstads BK|Halmstad]]|clubnat=Sweden}}
+{{nat fs player|no=8|pos=MF|name=[[Anders Svensson (footballer)|Anders Svensson]]|age={{birth date and age2|2004|6|12|1976|7|17|df=y}}|caps=|club=[[Southampton F.C.|Southampton]]|clubnat=England}}
+{{nat fs player|no=9|pos=MF|name=[[Fredrik Ljungberg]]|age={{birth date and age2|2004|6|12|1977|4|16|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=10|pos=FW|name=[[Zlatan Ibrahimović]]|age={{birth date and age2|2004|6|12|1981|10|3|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=11|pos=FW|name=[[Henrik Larsson]]|age={{birth date and age2|2004|6|12|1971|9|20|df=y}}|caps=|club=[[Celtic F.C.|Celtic]]|clubnat=Scotland}}
+{{nat fs player|no=12|pos=GK|name=[[Magnus Hedman]]|age={{birth date and age2|2004|6|12|1973|3|19|df=y}}|caps=|club=[[A.C. Ancona|Ancona]]|clubnat=Italy}}
+{{nat fs player|no=13|pos=DF|name=[[Petter Hansson]]|age={{birth date and age2|2004|6|12|1976|12|14|df=y}}|caps=|club=[[SC Heerenveen|Heerenveen]]|clubnat=Netherlands}}
+{{nat fs player|no=14|pos=DF|name=[[Alexander Östlund]]|age={{birth date and age2|2004|6|12|1978|2|11|df=y}}|caps=|club=[[Hammarby IF|Hammarby]]|clubnat=Sweden}}
+{{nat fs player|no=15|pos=DF|name=[[Andreas Jakobsson]]|age={{birth date and age2|2004|6|12|1972|10|6|df=y}}|caps=|club=[[Brøndby IF|Brøndby]]|clubnat=Denmark}}
+{{nat fs player|no=16|pos=MF|name=[[Kim Källström]]|age={{birth date and age2|2004|6|12|1982|8|24|df=y}}|caps=|club=[[Stade Rennais FC|Rennes]]|clubnat=France}}
+{{nat fs player|no=17|pos=MF|name=[[Anders Andersson (footballer)|Anders Andersson]]|age={{birth date and age2|2004|6|12|1974|3|15|df=y}}|caps=|club=[[C.F. Os Belenenses|Belenenses]]|clubnat=Portugal}}
+{{nat fs player|no=18|pos=FW|name=[[Mattias Jonson]]|age={{birth date and age2|2004|6|12|1974|1|16|df=y}}|caps=|club=[[Brøndby IF|Brøndby]]|clubnat=Denmark}}
+{{nat fs player|no=19|pos=MF|name=[[Pontus Farnerud]]|age={{birth date and age2|2004|6|12|1980|6|4|df=y}}|caps=|club=[[RC Strasbourg|Strasbourg]]|clubnat=France}}
+{{nat fs player|no=20|pos=FW|name=[[Marcus Allbäck]]|age={{birth date and age2|2004|6|12|1973|7|5|df=y}}|caps=|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=England}}
+{{nat fs player|no=21|pos=MF|name=[[Christian Wilhelmsson]]|age={{birth date and age2|2004|6|12|1979|12|8|df=y}}|caps=|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=22|pos=DF|name=[[Erik Wahlstedt]]|age={{birth date and age2|2004|6|12|1976|4|16|df=y}}|caps=|club=[[Helsingborgs IF|Helsingborg]]|clubnat=Sweden}}
+{{nat fs player|no=23|pos=GK|name=[[Magnus Kihlstedt]]|age={{birth date and age2|2004|6|12|1972|2|29|df=y}}|caps=|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=Denmark}}
+{{nat fs end}}
+
+==Group D==
+===Czech Republic===
+The [[Czech Republic national football team|Czech Republic]] named an initial 24-man squad on 19 May 2004.
+
+Head coach: [[Karel Brückner]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Petr Čech]]|age={{birth date and age2|2004|6|12|1982|5|20|df=y}}|caps=|club=[[Stade Rennais F.C.|Rennes]]|clubnat=France}}
+{{nat fs player|no=2|pos=DF|name=[[Zdeněk Grygera]]|age={{birth date and age2|2004|6|12|1980|5|14|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=3|pos=DF|name=[[Pavel Mareš]]|age={{birth date and age2|2004|6|12|1976|1|18|df=y}}|caps=|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=Russia}}
+{{nat fs player|no=4|pos=MF|name=[[Tomáš Galásek]]|age={{birth date and age2|2004|6|12|1973|1|15|df=y}}|caps=|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=5|pos=DF|name=[[René Bolf]]|age={{birth date and age2|2004|6|12|1974|2|25|df=y}}|caps=|club=[[FC Baník Ostrava|Baník Ostrava]]|clubnat=Czech Republic}}
+{{nat fs player|no=6|pos=DF|name=[[Marek Jankulovski]]|age={{birth date and age2|2004|6|12|1977|5|9|df=y}}|caps=|club=[[Udinese Calcio|Udinese]]|clubnat=Italy}}
+{{nat fs player|no=7|pos=FW|name=[[Vladimír Šmicer]]|age={{birth date and age2|2004|6|12|1973|5|24|df=y}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=8|pos=FW|name=[[Karel Poborský]]|age={{birth date and age2|2004|6|12|1972|3|30|df=y}}|caps=|club=[[Sparta Prague]]|clubnat=Czech Republic}}
+{{nat fs player|no=9|pos=FW|name=[[Jan Koller]]|age={{birth date and age2|2004|6|12|1973|3|30|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=10|pos=MF|name=[[Tomáš Rosický]]|age={{birth date and age2|2004|6|12|1980|10|4|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=11|pos=MF|name=[[Pavel Nedvěd]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1972|8|30|df=y}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=12|pos=FW|name=[[Vratislav Lokvenc]]|age={{birth date and age2|2004|6|12|1973|9|27|df=y}}|caps=|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=Germany}}
+{{nat fs player|no=13|pos=DF|name=[[Martin Jiránek]]|age={{birth date and age2|2004|6|12|1979|5|25|df=y}}|caps=|club=[[Reggina Calcio|Reggina]]|clubnat=Italy}}
+{{nat fs player|no=14|pos=MF|name=[[Štěpán Vachoušek]]|age={{birth date and age2|2004|6|12|1979|7|26|df=y}}|caps=|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=15|pos=FW|name=[[Milan Baroš]]|age={{birth date and age2|2004|6|12|1981|10|28|df=y}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=16|pos=GK|name=[[Jaromír Blažek]]|age={{birth date and age2|2004|6|12|1972|12|29|df=y}}|caps=|club=[[Sparta Prague]]|clubnat=Czech Republic}}
+{{nat fs player|no=17|pos=DF|name=[[Tomáš Hübschman]]|age={{birth date and age2|2004|6|12|1981|9|4|df=y}}|caps=|club=[[Sparta Prague]]|clubnat=Czech Republic}}
+{{nat fs player|no=18|pos=FW|name=[[Marek Heinz]]|age={{birth date and age2|2004|6|12|1977|8|4|df=y}}|caps=|club=[[FC Baník Ostrava|Baník Ostrava]]|clubnat=Czech Republic}}
+{{nat fs player|no=19|pos=MF|name=[[Roman Týce]]|age={{birth date and age2|2004|6|12|1977|5|7|df=y}}|caps=|club=[[TSV 1860 München|1860 Munich]]|clubnat=Germany}}
+{{nat fs player|no=20|pos=MF|name=[[Jaroslav Plašil]]|age={{birth date and age2|2004|6|12|1982|1|5|df=y}}|caps=|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=21|pos=DF|name=[[Tomáš Ujfaluši]]|age={{birth date and age2|2004|6|12|1978|3|24|df=y}}|caps=|club=[[Hamburger SV|Hamburg]]|clubnat=Germany}}
+{{nat fs player|no=22|pos=DF|name=[[David Rozehnal]]|age={{birth date and age2|2004|6|12|1980|7|5|df=y}}|caps=|club=[[Club Brugge K.V.|Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=23|pos=GK|name=[[Antonín Kinský]]|age={{birth date and age2|2004|6|12|1975|5|31|df=y}}|caps=|club=[[FC Saturn Ramenskoye|Saturn Ramenskoye]]|clubnat=Russia}}
+{{nat fs end}}
+
+===Germany===
+[[Germany national football team|Germany]] named an initial 22-man squad on 24 May 2004, with coach [[Rudi Völler]] leaving one space open for an under-21 player.<ref>{{cite news |first=James |last=Pearson |title=Voller unveils 22-man Germany squad |url=http://www1.skysports.com/FIFA-World-Cup-2014/news/12023/2299978/voller-unveils-22-man-germany-squad |publisher=Sky Sports (BSkyB) |date=24 May 2004 |accessdate=23 May 2014 }}</ref> [[Hamburger SV|Hamburg]] defender [[Christian Rahn]] withdrew from the squad on 26 May and was replaced by left-back [[Christian Ziege]], who had recently been released by [[Tottenham Hotspur F.C.|Tottenham Hotspur]].<ref>{{cite news |title=Rahn withdrawal benefits Ziege |url=http://www.uefa.com/uefaeuro/news/newsid=182331.html |publisher=UEFA.com (Union of European Football Associations) |date=26 May 2004 |accessdate=23 May 2014 }}</ref> [[VfL Bochum]] winger [[Paul Freier]] was also ruled out on 29 May after damaging knee ligaments in a warm-up friendly against [[Malta national football team|Malta]] on 27 May;<ref>{{cite news |title=Freier out of Euro 2004 |url=http://news.bbc.co.uk/sport1/hi/football/internationals/3760451.stm |publisher=BBC Sport (British Broadcasting Corporation) |date=29 May 2004 |accessdate=23 May 2014 }}</ref> his withdrawal allowed both early contenders for the 23rd place in the squad, [[Bastian Schweinsteiger]] and [[Lukas Podolski]], to be selected.
+
+Head coach: [[Rudi Völler]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Oliver Kahn]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1969|6|15|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=2|pos=DF|name=[[Andreas Hinkel]]|age={{birth date and age2|2004|6|12|1982|3|26|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs player|no=3|pos=DF|name=[[Arne Friedrich]]|age={{birth date and age2|2004|6|12|1979|5|29|df=y}}|caps=|club=[[Hertha BSC|Hertha Berlin]]|clubnat=Germany}}
+{{nat fs player|no=4|pos=DF|name=[[Christian Wörns]]|age={{birth date and age2|2004|6|12|1972|5|10|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=5|pos=DF|name=[[Jens Nowotny]]|age={{birth date and age2|2004|6|12|1974|1|11|df=y}}|caps=|club=[[Bayer Leverkusen]]|clubnat=Germany}}
+{{nat fs player|no=6|pos=DF|name=[[Frank Baumann (footballer)|Frank Baumann]]|age={{birth date and age2|2004|6|12|1975|10|29|df=y}}|caps=|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=Germany}}
+{{nat fs player|no=7|pos=MF|name=[[Bastian Schweinsteiger]]|age={{birth date and age2|2004|6|12|1984|8|1|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=8|pos=MF|name=[[Dietmar Hamann]]|age={{birth date and age2|2004|6|12|1973|8|27|df=y}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=9|pos=FW|name=[[Fredi Bobic]]|age={{birth date and age2|2004|6|12|1971|10|30|df=y}}|caps=|club=[[Hertha BSC]]|clubnat=Germany}}
+{{nat fs player|no=10|pos=FW|name=[[Kevin Kurányi]]|age={{birth date and age2|2004|6|12|1982|3|2|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs player|no=11|pos=FW|name=[[Miroslav Klose]]|age={{birth date and age2|2004|6|12|1978|6|9|df=y}}|caps=|club=[[1. FC Kaiserslautern|Kaiserslautern]]|clubnat=Germany}}
+{{nat fs player|no=12|pos=GK|name=[[Jens Lehmann]]|age={{birth date and age2|2004|6|12|1969|11|10|df=y}}|caps=|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=13|pos=MF|name=[[Michael Ballack]]|age={{birth date and age2|2004|6|12|1976|9|26|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=14|pos=FW|name=[[Thomas Brdarić]]|age={{birth date and age2|2004|6|12|1975|1|23|df=y}}|caps=|club=[[Hannover 96|Hannover]]|clubnat=Germany}}
+{{nat fs player|no=15|pos=MF|name=[[Sebastian Kehl]]|age={{birth date and age2|2004|6|12|1980|2|13|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=16|pos=MF|name=[[Jens Jeremies]]|age={{birth date and age2|2004|6|12|1974|3|5|df=y}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=17|pos=DF|name=[[Christian Ziege]]|age={{birth date and age2|2004|6|12|1972|2|1|df=y}}|caps=|club=Unattached|clubnat=}}
+{{nat fs player|no=18|pos=MF|name=[[Fabian Ernst]]|age={{birth date and age2|2004|6|12|1979|5|30|df=y}}|caps=|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=Germany}}
+{{nat fs player|no=19|pos=MF|name=[[Bernd Schneider (footballer)|Bernd Schneider]]|age={{birth date and age2|2004|6|12|1973|11|17|df=y}}|caps=|club=[[Bayer Leverkusen]]|clubnat=Germany}}
+{{nat fs player|no=20|pos=MF|name=[[Lukas Podolski]]|age={{birth date and age2|2004|6|12|1985|6|4|df=y}}|caps=|club=[[1. FC Köln|Köln]]|clubnat=Germany}}
+{{nat fs player|no=21|pos=DF|name=[[Philipp Lahm]]|age={{birth date and age2|2004|6|12|1983|11|11|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs player|no=22|pos=MF|name=[[Torsten Frings]]|age={{birth date and age2|2004|6|12|1976|11|22|df=y}}|caps=|club=[[Borussia Dortmund]]|clubnat=Germany}}
+{{nat fs player|no=23|pos=GK|name=[[Timo Hildebrand]]|age={{birth date and age2|2004|6|12|1979|4|5|df=y}}|caps=|club=[[VfB Stuttgart|Stuttgart]]|clubnat=Germany}}
+{{nat fs end}}
+
+===Latvia===
+[[Latvia national football team|Latvia]] named their squad on 29 May 2004.
+
+Head coach: [[Aleksandrs Starkovs]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Aleksandrs Koļinko]]|age={{birth date and age2|2004|6|12|1975|6|18|df=y}}|caps=|club=[[FC Rostov|Rostov]]|clubnat=Russia}}
+{{nat fs player|no=2|pos=DF|name=[[Igors Stepanovs]]|age={{birth date and age2|2004|6|12|1976|1|21|df=y}}|caps=|club=[[K.S.K. Beveren|Beveren]]|clubnat=Belgium}}
+{{nat fs player|no=3|pos=MF|name=[[Vitālijs Astafjevs]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1971|4|3|df=y}}|caps=|club=[[VfB Admira Wacker Mödling|Admira Wacker Mödling]]|clubnat=Austria}}
+{{nat fs player|no=4|pos=DF|name=[[Mihails Zemļinskis]]|age={{birth date and age2|2004|6|12|1969|12|21|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=5|pos=MF|name=[[Juris Laizāns]]|age={{birth date and age2|2004|6|12|1979|1|6|df=y}}|caps=|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=Russia}}
+{{nat fs player|no=6|pos=DF|name=[[Oļegs Blagonadeždins]]|age={{birth date and age2|2004|6|12|1973|5|16|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=7|pos=DF|name=[[Aleksandrs Isakovs]]|age={{birth date and age2|2004|6|12|1973|9|16|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=8|pos=MF|name=[[Imants Bleidelis]]|age={{birth date and age2|2004|6|12|1975|8|16|df=y}}|caps=|club=[[Viborg FF|Viborg]]|clubnat=Denmark}}
+{{nat fs player|no=9|pos=FW|name=[[Māris Verpakovskis]]|age={{birth date and age2|2004|6|12|1979|10|15|df=y}}|caps=|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=Ukraine}}
+{{nat fs player|no=10|pos=MF|name=[[Andrejs Rubins]]|age={{birth date and age2|2004|6|12|1978|11|26|df=y}}|caps=|club=[[FC Shinnik Yaroslavl|Shinnik Yaroslavl]]|clubnat=Russia}}
+{{nat fs player|no=11|pos=FW|name=[[Andrejs Prohorenkovs]]|age={{birth date and age2|2004|6|12|1977|2|5|df=y}}|caps=|club=[[Maccabi Tel Aviv FC|Maccabi Tel Aviv]]|clubnat=Israel}}
+{{nat fs player|no=12|pos=GK|name=[[Andrejs Piedels]]|age={{birth date and age2|2004|6|12|1970|9|17|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=13|pos=MF|name=[[Jurģis Pučinskis]]|age={{birth date and age2|2004|6|12|1973|3|1|df=y}}|caps=|club=[[FC Luch-Energiya Vladivostok|Luch-Energiya Vladivostok]]|clubnat=Russia}}
+{{nat fs player|no=14|pos=MF|name=[[Valentīns Lobaņovs]]|age={{birth date and age2|2004|6|12|1971|10|23|df=y}}|caps=|club=[[FC Metalurh Zaporizhya|Metalurh Zaporizhzhya]]|clubnat=Ukraine}}
+{{nat fs player|no=15|pos=DF|name=[[Māris Smirnovs]]|age={{birth date and age2|2004|6|12|1976|6|2|df=y}}|caps=|club=[[FK Ventspils|Ventspils]]|clubnat=Latvia}}
+{{nat fs player|no=16|pos=DF|name=[[Dzintars Zirnis]]|age={{birth date and age2|2004|6|12|1977|4|25|df=y}}|caps=|club=[[FK Liepājas Metalurgs|Liepājas Metalurgs]]|clubnat=Latvia}}
+{{nat fs player|no=17|pos=FW|name=[[Marian Pahars]]|age={{birth date and age2|2004|6|12|1976|8|5|df=y}}|caps=|club=[[Southampton F.C.|Southampton]]|clubnat=England}}
+{{nat fs player|no=18|pos=DF|name=[[Igors Korabļovs]]|age={{birth date and age2|2004|6|12|1974|11|23|df=y}}|caps=|club=[[FK Ventspils|Ventspils]]|clubnat=Latvia}}
+{{nat fs player|no=19|pos=MF|name=[[Andrejs Štolcers]]|age={{birth date and age2|2004|6|12|1974|8|7|df=y}}|caps=|club=[[Fulham F.C.|Fulham]]|clubnat=England}}
+{{nat fs player|no=20|pos=GK|name=[[Andrejs Pavlovs]]|age={{birth date and age2|2004|6|12|1979|2|22|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=21|pos=FW|name=[[Mihails Miholaps]]|age={{birth date and age2|2004|6|12|1974|8|24|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=22|pos=DF|name=[[Artūrs Zakreševskis]]|age={{birth date and age2|2004|6|12|1971|8|7|df=y}}|caps=|club=[[Skonto FC|Skonto]]|clubnat=Latvia}}
+{{nat fs player|no=23|pos=FW|name=[[Vīts Rimkus]]|age={{birth date and age2|2004|6|12|1973|6|21|df=y}}|caps=|club=[[FK Ventspils|Ventspils]]|clubnat=Latvia}}
+{{nat fs end}}
+
+===Netherlands===
+The [[Netherlands national football team|Netherlands]] named their squad on 19 May 2004.
+
+Head coach: [[Dick Advocaat]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Edwin van der Sar]]|age={{birth date and age2|2004|6|12|1970|10|29|df=y}}|caps=82|club=[[Fulham F.C.|Fulham]]|clubnat=England}}
+{{nat fs player|no=2|pos=DF|name=[[Michael Reiziger]]|age={{birth date and age2|2004|6|12|1973|5|3|df=y}}|caps=66|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=3|pos=DF|name=[[Jaap Stam]]|age={{birth date and age2|2004|6|12|1972|7|17|df=y}}|caps=60|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=4|pos=DF|name=[[Wilfred Bouma]]|age={{birth date and age2|2004|6|12|1978|6|15|df=y}}|caps=10|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=5|pos=DF|name=[[Giovanni van Bronckhorst]]|age={{birth date and age2|2004|6|12|1975|2|5|df=y}}|caps=34|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=6|pos=MF|name=[[Phillip Cocu]]|age={{birth date and age2|2004|6|12|1970|10|29|df=y}}|caps=77|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=7|pos=MF|name=[[Andy van der Meyde]]|age={{birth date and age2|2004|6|12|1979|9|30|df=y}}|caps=11|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=8|pos=MF|name=[[Edgar Davids]]|age={{birth date and age2|2004|6|12|1973|3|13|df=y}}|caps=61|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=9|pos=FW|name=[[Patrick Kluivert]]|age={{birth date and age2|2004|6|12|1976|7|1|df=y}}|caps=77|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=10|pos=FW|name=[[Ruud van Nistelrooy]]|age={{birth date and age2|2004|6|12|1976|7|1|df=y}}|caps=31|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=11|pos=MF|name=[[Rafael van der Vaart]]|age={{birth date and age2|2004|6|12|1983|2|11|df=y}}|caps=16|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=12|pos=FW|name=[[Roy Makaay]]|age={{birth date and age2|2004|6|12|1975|3|9|df=y}}|caps=13|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=Germany}}
+{{nat fs player|no=13|pos=GK|name=[[Sander Westerveld]]|age={{birth date and age2|2004|6|12|1974|10|23|df=y}}|caps=6|club=[[Real Sociedad]]|clubnat=Spain}}
+{{nat fs player|no=14|pos=MF|name=[[Wesley Sneijder]]|age={{birth date and age2|2004|6|12|1984|6|9|df=y}}|caps=7|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=15|pos=DF|name=[[Frank de Boer]] ([[Captain (association football)|c]])|age={{birth date and age2|2004|6|12|1970|5|15|df=y}}|caps=110|club=[[Rangers F.C.|Rangers]]|clubnat=Scotland}}
+{{nat fs player|no=16|pos=MF|name=[[Marc Overmars]]|age={{birth date and age2|2004|6|12|1973|3|29|df=y}}|caps=82|club=[[FC Barcelona|Barcelona]]|clubnat=Spain}}
+{{nat fs player|no=17|pos=FW|name=[[Pierre van Hooijdonk]]|age={{birth date and age2|2004|6|12|1969|11|29|df=y}}|caps=38|club=[[Fenerbahçe S.K.|Fenerbahçe]]|clubnat=Turkey}}
+{{nat fs player|no=18|pos=DF|name=[[John Heitinga]]|age={{birth date and age2|2004|6|12|1983|11|15|df=y}}|caps=6|club=[[AFC Ajax|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=19|pos=MF|name=[[Arjen Robben]]|age={{birth date and age2|2004|6|12|1984|1|23|df=y}}|caps=4|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=20|pos=MF|name=[[Clarence Seedorf]]|age={{birth date and age2|2004|6|12|1976|4|1|df=y}}|caps=71|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=MF|name=[[Paul Bosvelt]]|age={{birth date and age2|2004|6|12|1970|3|26|df=y}}|caps=21|club=[[Manchester City F.C.|Manchester City]]|clubnat=England}}
+{{nat fs player|no=22|pos=FW|name=[[Boudewijn Zenden]]|age={{birth date and age2|2004|6|12|1976|8|15|df=y}}|caps=51|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=England}}
+{{nat fs player|no=23|pos=GK|name=[[Ronald Waterreus]]|age={{birth date and age2|2004|6|12|1970|8|25|df=y}}|caps=6|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs end}}
+
+==Player representation==
+{| class="wikitable"
+|-
+! Players !! Clubs
+|-
+|9
+|[[FC Bayern Munich|Bayern Munich]], [[FC Barcelona|Barcelona]], [[Juventus F.C.|Juventus]]
+|-
+|8
+|[[S.L. Benfica|Benfica]], [[F.C. Internazionale Milano|Internazionale]], [[A.C. Milan|Milan]], [[Chelsea F.C.|Chelsea]], [[Manchester United F.C.|Manchester United]], [[Arsenal F.C.|Arsenal]]
+|-
+|7
+|[[Panathinaikos F.C.|Panathinaikos]], [[F.C. Porto|Porto]], [[S.S. Lazio|Lazio]], [[Real Madrid C.F.|Real Madrid]], [[Liverpool F.C.|Liverpool]], [[PSV Eindhoven]], [[Skonto FC|Skonto]]
+|-
+|6
+|[[A.S. Roma|Roma]], [[A.E.K. Athens F.C.|AEK Athens]], [[FC Lokomotiv Moscow|Lokomotiv Moscow]], [[PFC CSKA Moscow|CSKA Moscow]], [[VfB Stuttgart|Stuttgart]], [[AFC Ajax|Ajax]], [[Borussia Dortmund]]
+|-
+|5
+|[[SV Werder Bremen|Werder Bremen]], [[Deportivo de La Coruña|Deportivo La Coruña]], [[FC Zenit Saint Petersburg|Zenit Saint Petersburg]], [[Valencia CF|Valencia]], [[Bayer 04 Leverkusen|Bayer Leverkusen]]
+|}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://www.euro2004.com EURO 2004 official site]
+
+{{European Football Championship squads}}
+{{European Football Championship}}
+
+[[Category:UEFA European Championship squads|2004]]
+[[Category:UEFA Euro 2004|Squads]]

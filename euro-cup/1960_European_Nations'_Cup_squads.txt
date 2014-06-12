@@ -1,0 +1,192 @@
+Here are the squads for the '''[[1960 European Football Championship]]''' in France, which took place from 6 to 10 July 1960.
+
+==Czechoslovakia==
+Head coach: [[Rudolf Vytlačil]]
+{{nat fs start}}
+{{nat fs player|no=|pos=MF|name=[[Titus Buberník]]|age={{Birth date and age2|df=yes|1960|7|6|1933|10|12}}|caps=10|club=[[FK Inter Bratislava|CH Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Vlastimil Bubník]]|age={{Birth date and age2|df=yes|1960|7|6|1931|3|18}}|caps=7|club=[[RH Brno|Brno]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Milan Dolinský]]|age={{Birth date and age2|df=yes|1960|7|6|1935|7|14}}|caps=6|club=[[FK Inter Bratislava|ČH Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=GK|name=[[Justin Javorek]]|age={{Birth date and age2|df=yes|1960|7|6|1932|8|23}}|caps=0|club=[[FK Inter Bratislava|ČH Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Andrej Kvašňák]]|age={{Birth date and age2|df=yes|1960|7|6|1936|5|19}}|caps=1|club=[[AC Sparta Praha|Spartak Praha Sokolovo]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=MF|name=[[Josef Masopust]]|age={{Birth date and age2|df=yes|1960|7|6|1931|2|9}}|caps=30|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Pavol Molnár]]|age={{Birth date and age2|df=yes|1960|7|6|1936|2|13}}|caps=19|club=[[FK Inter Bratislava|CH Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=MF|name=[[Anton Moravčík]]|age={{Birth date and age2|df=yes|1960|7|6|1931|6|3}}|caps=24|club=[[ŠK Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=DF|name=[[Ladislav Novák]]|age={{Birth date and age2|df=yes|1960|7|6|1931|12|5}}|caps=48|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Ladislav Pavlovič]]|age={{Birth date and age2|df=yes|1960|7|6|1926|4|8}}|caps=11|club=[[Tatran Prešov]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=MF|name=[[Svatopluk Pluskal]]|age={{Birth date and age2|df=yes|1960|7|6|1930|10|28}}|caps=28|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=DF|name=[[Ján Popluhár]]|age={{Birth date and age2|df=yes|1960|7|6|1935|8|12}}|caps=14|club=[[ŠK Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=DF|name=[[František Šafránek]]|age={{Birth date and age2|df=yes|1960|7|6|1931|1|2}}|caps=15|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=GK|name=[[Viliam Schrojf]]|age={{Birth date and age2|df=yes|1960|7|6|1931|8|2}}|caps=9|club=[[ŠK Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=DF|name=[[Jiri Tichy]]|age={{Birth date and age2|df=yes|1960|7|6|1933|12|6}}|caps=7|club=[[FK Inter Bratislava|CH Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Josef Vacenovský]]|age={{Birth date and age2|df=yes|1960|7|6|1937|7|9}}|caps=0|club=[[Dukla Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=|pos=FW|name=[[Josef Vojta]]|age={{Birth date and age2|df=yes|1960|7|6|1935|4|19}}|caps=2|club=[[AC Sparta Praha|Spartak Praha Sokolovo]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=q|pos=DF|name=[[Jozef Bomba]]|age={{Birth date and age2|df=yes|1960|7|6|1939|3|30}}|caps=1|club=[[Tatran Prešov]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=q|pos=GK|name=[[Imrich Stacho]]|age={{Birth date and age2|df=yes|1960|7|6|1931|11|4}}|caps=22|club=[[FC Spartak Trnava|Spartak Trnava]]|clubnat=Czechoslovakia}}
+{{nat fs end}}
+
+==France==
+
+Head coach: [[Albert Batteux]]
+{{nat fs start}}
+{{nat fs player|no=|pos=DF|name=[[André Chorda]]|age={{Birth date and age2|df=yes|1960|7|6|1938|2|20}}|caps=1|club=[[OGC Nice|Nice]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Yvon Douis]]|age={{Birth date and age2|df=yes|1960|7|6|1935|5|16}}|caps=9|club=[[Le Havre AC|Le Havre]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[René Ferrier]]|age={{Birth date and age2|df=yes|1960|7|6|1936|12|7}}|caps=7|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Robert Herbin]]|age={{Birth date and age2|df=yes|1960|7|6|1939|3|30}}|caps=0|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[François Heutte]]|age={{Birth date and age2|df=yes|1960|7|6|1938|2|21}}|caps=4|club=[[RC Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Robert Jonquet]]|age={{Birth date and age2|df=yes|1960|7|6|1925|5|3}}|caps=57|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=GK|name=[[Georges Lamia]]|age={{Birth date and age2|df=yes|1960|7|6|1933|3|14}}|caps=5|club=[[OGC Nice|Nice]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Jean-Jacques Marcel]]|age={{Birth date and age2|df=yes|1960|7|6|1931|6|13}}|caps=35|club=[[RC Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=|pos=MF|name=[[Lucien Muller]]|age={{Birth date and age2|df=yes|1960|7|6|1934|9|3}}|caps=7|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Bruno Rodzik]]|age={{Birth date and age2|df=yes|1960|7|6|1935|5|29}}|caps=1|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Paul Sauvage (footballer)|Paul Sauvage]]|age={{Birth date and age2|df=yes|1960|7|6|1939|3|17}}|caps=0|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Robert Siatka]]|age={{Birth date and age2|df=yes|1960|7|6|1934|6|20}}|caps=0|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Michel Stievenard]]|age={{Birth date and age2|df=yes|1960|7|6|1937|9|21}}|caps=0|club=[[RC Lens|Lens]]|clubnat=France}}
+{{nat fs player|no=|pos=GK|name=[[Jean Taillandier]]|age={{Birth date and age2|df=yes|1960|7|6|1938|1|22}}|caps=0|club=[[RC Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Jean Vincent (footballer)|Jean Vincent]]|age={{Birth date and age2|df=yes|1960|7|6|1930|11|29}}|caps=39|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=DF|name=[[Jean Wendling]]|age={{Birth date and age2|df=yes|1960|7|6|1934|4|29}}|caps=6|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=|pos=FW|name=[[Maryan Wisnieski]]|age={{Birth date and age2|df=yes|1960|7|6|1937|2|1}}|caps=18|club=[[RC Lens|Lens]]|clubnat=France}}
+{{nat fs player|no=q|pos=GK|name=[[Dominique Colonna]]|age={{Birth date and age2|df=yes|1960|7|6|1928|9|4}}|caps=10|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=q|pos=FW|name=[[Pierre Grillet]]|age={{Birth date and age2|df=yes|1960|7|6|1932|3|21}}|caps=8|club=[[RC Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=q|pos=DF|name=[[Raymond Kaelbel]]|age={{Birth date and age2|df=yes|1960|7|6|1932|1|31}}|caps=33|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=q|pos=FW|name=[[Raymond Kopa]]|age={{Birth date and age2|df=yes|1960|7|6|1931|10|13}}|caps=33|club=[[Stade de Reims|Reims]]|clubnat=France}}
+{{nat fs player|no=q|pos=DF|name=[[Roger Marche]]|age={{Birth date and age2|df=yes|1960|7|6|1924|3|5}}|caps=61|club=[[Racing Club de Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=q|pos=DF|name=[[Armand Penverne]]|age={{Birth date and age2|df=yes|1960|7|6|1926|11|26}}|caps=38|club=[[Limoges FC|Limoges]]|clubnat=France}}
+{{nat fs player|no=q|pos=FW|name=[[Georges Peyroche]]|age={{Birth date and age2|df=yes|1960|7|6|1937|1|27}}|caps=1|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=q|pos=FW|name=[[Bernard Rahis]]|age={{Birth date and age2|df=yes|1960|7|6|1933|2|12}}|caps=1|club=[[Nîmes Olympique|Nîmes]]|clubnat=France}}
+{{nat fs player|no=q|pos=GK|name=[[Francois Remetter]]|age={{Birth date and age2|df=yes|1960|7|6|1928|8|8}}|caps=25|club=[[Le Havre AC|Le Havre]]|clubnat=France}}
+{{nat fs player|no=q|pos=DF|name=[[Guy Senac]]|age={{Birth date and age2|df=yes|1960|7|6|1932|3|13}}|caps=0|club=[[RC Paris|Racing Paris]]|clubnat=France}}
+{{nat fs player|no=q|pos=FW|name=[[Henri Skiba]]|age={{Birth date and age2|df=yes|1960|7|6|1927|7|14}}|caps=1|club=[[Nîmes Olympique|Nîmes]]|clubnat=France}}
+{{nat fs end}}
+
+==Soviet Union==
+Head coach: [[Gavriil Kachalin]]
+{{nat fs start}}
+{{nat fs player|no=|pos=FW|name=[[Gherman Apukhtin]]|age={{birth date and age2|1960|7|6|1936|6|12|df=y}}|caps=3|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Valentin Bubukin]]|age={{birth date and age2|1960|7|6|1933|4|23|df=y}}|caps=3|club=[[Lokomotiv Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Givi Chokheli]]|age={{birth date and age2|1960|7|6|1937|6|27|df=y}}|caps=0|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Valentin Kozmich Ivanov|Valentin Ivanov]]|age={{birth date and age2|1960|7|6|1934|11|19|df=y}}|caps=26|club=[[Torpedo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Zaur Kaloyev]]|age={{birth date and age2|1960|7|6|1931|3|24|df=y}}|caps=0|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Vladimir Kesarev]]|age={{birth date and age2|1960|7|6|1930|2|26|df=y}}|caps=13|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Yury Kovalyov]]|age={{birth date and age2|1960|7|6|1934|2|6|df=y}}|caps=1|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Anatoly Krutikov]]|age={{birth date and age2|1960|7|6|1933|9|21|df=y}}|caps=2|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=GK|name=[[Vladimir Maslachenko]]|age={{birth date and age2|1960|7|6|1936|3|5|df=y}}|caps=1|club=[[Lokomotiv Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Anatoli Maslyonkin]]|age={{birth date and age2|1960|7|6|1930|6|29|df=y}}|caps=15|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Mikheil Meskhi]]|age={{birth date and age2|1960|7|6|1937|1|12|df=y}}|caps=3|club=[[FC Dinamo Tbilisi|Dinamo Tbilisi]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Slava Metreveli]]|age={{birth date and age2|1960|7|6|1936|5|30|df=y}}|caps=4|club=[[Torpedo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Igor Netto]]|age={{birth date and age2|1960|7|6|1930|1|9|df=y}}|caps=35|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=FW|name=[[Viktor Ponedelnik]]|age={{birth date and age2|1960|7|6|1937|5|22|df=y}}|caps=1|club=[[SKA Rostov]]|clubnat=USSR}}
+{{nat fs player|no=|pos=DF|name=[[Viktor Tsarev]]|age={{birth date and age2|1960|7|6|1931|6|2|df=y}}|caps=11|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs player|no=|pos=MF|name=[[Yury Voinov]]|age={{birth date and age2|1960|7|6|1931|11|29|df=y}}|caps=20|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=USSR}}
+{{nat fs player|no=|pos=GK|name=[[Lev Yashin]]|age={{birth date and age2|1960|7|6|1929|10|22|df=y}}|caps=30|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=USSR}}
+{{nat fs end}}
+
+==Yugoslavia==
+Head coaches: [[Aleksandar Tirnanić]], [[Ljubomir Lovrić]], [[Dragomir Nikolić]]
+{{nat fs start}}
+
+{{nat fs player|no=|pos=FW|name=[[Muhamed Mujić]]|age={{Birth date and age2|df=yes|1960|7|6|1932|4|25}}|caps=19|club=[[Velež Mostar]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=DF|name=[[Vladimir Durković]]|age={{Birth date and age2|df=yes|1960|7|6|1937|11|6}}|caps=10|club=[[Red Star Belgrade|Crvena Zvezda]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=MF|name=[[Željko Perušić]]|age={{Birth date and age2|df=yes|1960|7|6|1936|3|23}}|caps=4|club=[[Dinamo Zagreb]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Bora Kostić]]|age={{Birth date and age2|df=yes|1960|7|6|1930|6|14}}|caps=16|club=[[Red Star Belgrade|Crvena Zvezda]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=DF|name=[[Fahrudin Jusufi]]|age={{Birth date and age2|df=yes|1960|7|6|1939|12|8}}|caps=6|club=[[FK Partizan]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Milan Galić]]|age={{Birth date and age2|df=yes|1960|7|6|1938|3|8}}|caps=4|club=[[FK Partizan]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Dražan Jerković]]|age={{Birth date and age2|df=yes|1960|7|6|1936|8|6}}|caps=1|club=[[Dinamo Zagreb]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Željko Matuš]]|age={{Birth date and age2|df=yes|1960|7|6|1935|8|9}}|caps=0|club=[[Dinamo Zagreb]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Tomislav Knez]]|age={{Birth date and age2|df=yes|1960|7|6|1935|6|5}}|caps=4|club=[[Borac Banja Luka]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=GK|name=[[Milutin Šoškić]]|age={{Birth date and age2|df=yes|1960|7|6|1937|12|31}}|caps=9|club=[[FK Partizan]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=DF|name=[[Tomislav Crnković]]|age={{Birth date and age2|df=yes|1960|7|6|1929|6|17}}|caps=50|club=[[Dinamo Zagreb]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=FW|name=[[Dragoslav Šekularac]]|age={{Birth date and age2|df=yes|1960|7|6|1937|11|8}}|caps=15|club=[[Red Star Belgrade|Crvena Zvezda]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=MF|name=[[Jovan Miladinović]]|age={{Birth date and age2|df=yes|1960|7|6|1939|1|30}}|caps=6|club=[[FK Partizan]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=MF|name=[[Ante Žanetić]]|age={{Birth date and age2|df=yes|1960|7|6|1936|11|18}}|caps=4|club=[[Hajduk Split]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=MF|name=[[Branko Zebec]]|age={{Birth date and age2|df=yes|1960|7|6|1929|5|17}}|caps=59|club=[[Red Star Belgrade|Crvena Zvezda]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=DF|name=[[Žarko Nikolić]]|age={{Birth date and age2|df=yes|1960|7|6|1938|10|16}}|caps=1|club=[[FK Vojvodina|Vojvodina Novi Sad]]|clubnat=Yugoslavia}}
+{{nat fs player|no=|pos=GK|name=[[Blagoje Vidinić]]|age={{Birth date and age2|df=yes|1960|7|6|1934|6|11}}|caps=4|club=[[Radnički Beograd]]|clubnat=Yugoslavia}}
+{{nat fs end}}
+
+==Losing quarterfinalists==
+The following rosters comprise the losing teams in the quarterfinals (final qualifying round) which was played over two legs.
+
+===Austria===
+Head coach: [[Karl Decker (footballer)|Karl Decker]]
+{{nat fs start}}
+{{nat fs player|no=|pos=DF|name=[[Paul Halla]]|age={{Birth date and age2|df=yes|1960|7|6|1931|4|10}}|caps=|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=DF|name=[[Gerhard Hanappi]]|age={{Birth date and age2|df=yes|1960|7|6|1929|7|9}}|caps=|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=DF|name=[[Erich Hasenkopf]]|age={{Birth date and age2|df=yes|1960|7|6|1935|2|20}}|caps=|club=[[Wiener Sportclub|Wiener]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Karl Höfer]]|age={{Birth date and age2|df=yes|1960|7|6|1925|4|10}}|caps=|club=[[LASK Linz]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Walter Horak]]|age={{Birth date and age2|df=yes|1960|7|6|1931|6|1}}|caps=|club=[[Wiener Sportclub|Wiener]]|clubnat=Austria}}
+{{nat fs player|no=|pos=MF|name=[[Wilhelm Huberts]]|age={{Birth date and age2|df=yes|1960|7|6|1938|2|22}}|caps=|club=[[Grazer AK|Grazer]]|clubnat=Austria}}
+{{nat fs player|no=|pos=MF|name=[[Karl Koller (footballer)|Karl Koller]]|age={{Birth date and age2|df=yes|1960|7|6|1929|2|8}}|caps=|club=[[First Vienna FC|First Vienna]]|clubnat=Austria}}
+{{nat fs player|no=|pos=MF|name=[[Giuseppe Koschier|Giose Koschier]]|age={{Birth date and age2|df=yes|1960|7|6|1936|3|16}}|caps=|club=[[1. Simmeringer SC|Simmeringer]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Paul Kozlicek]]|age={{Birth date and age2|df=yes|1960|7|6|1937|7|22}}|caps=|club=[[Wacker Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Horst Nemec]]|age={{Birth date and age2|df=yes|1960|7|6|1939|1|25}}|caps=|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=DF|name=[[Karl Nickerl]]|age={{Birth date and age2|df=yes|1960|7|6|1931|6|9}}|caps=|club=[[First Vienna FC|First Vienna]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Rudolf Pichler]]|age={{Birth date and age2|df=yes|1960|7|6|1930|9|20}}|caps=|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Erich Probst]]|age={{Birth date and age2|df=yes|1960|7|6|1927|12|5}}|caps=|club=[[FC Red Bull Salzburg|Austria Salzburg]]|clubnat=Austria}}
+{{nat fs player|no=|pos=GK|name=[[Kurt Schmied]]|age={{Birth date and age2|df=yes|1960|7|6|1926|6|14}}|caps=|club=[[First Vienna FC|First Vienna]]|clubnat=Austria}}
+{{nat fs player|no=|pos=FW|name=[[Helmut Senekowitsch]]|age={{Birth date and age2|df=yes|1960|7|6|1933|10|22}}|caps=|club=[[SK Sturm Graz|Sturm Graz]]|clubnat=Austria}}
+{{nat fs player|no=|pos=MF|name=[[Karl Stotz]]|age={{Birth date and age2|df=yes|1960|7|6|1927|3|27}}|caps=|club=[[Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=|pos=GK|name=[[Rudolf Szanwald]]|age={{Birth date and age2|df=yes|1960|7|6|1931|7|6}}|caps=|club=[[Wiener Sportclub|Wiener]]|clubnat=Austria}}
+{{nat fs player|no=|pos=DF|name=[[Johann Windisch]]|age={{Birth date and age2|df=yes|1960|7|6|1941|1|5}}|caps=|club=[[Wiener Sportclub|Wiener]]|clubnat=Austria}}
+{{nat fs end}}
+
+===Portugal===
+Head coach: [[José Maria Antunes]]
+{{nat fs start|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Germano de Figueiredo|Germano]]|age={{birth date and age2|1960|7|6|1933|1|18|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=GK|name=[[Acurcio Carrelo]]|age={{birth date and age2|1960|7|6|1931|3|16|df=y}}|caps=|club=[[F.C. Porto|Porto]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Domiciano Cavém]]|age={{birth date and age2|1960|7|6|1932|12|21|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Mário Coluna]]|age={{birth date and age2|1960|7|6|1935|8|6|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Sebastião Matateu|Lucas Da Fonseca]]|age={{birth date and age2|1960|7|6|1927|7|26|df=y}}|caps=|club=[[C.F. Os Belenenses|Belenenses]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Hernâni Ferreira da Silva|Hernani Da Silva]]|age={{birth date and age2|1960|7|6|1931|9|1|df=y}}|caps=|club=[[F.C. Porto|Porto]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Mário João]]|age={{birth date and age2|1960|7|6|1935|6|6|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=MF|name=[[David Júlio]]|age={{birth date and age2|1960|7|6|1932|1|8|df=y}}|caps=|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=DF|name=[[Ângelo Martins]]|age={{birth date and age2|1960|7|6|1930|4|19|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=MF|name=[[Fernando Mendes (footballer born 1937)|Fernando Mamede Mendes]]|age={{birth date and age2|1960|7|6|1937|7|15|df=y}}|caps=|club=[[Sporting Clube de Portugal|Sporting CP]]|clubnat=Portugal|df=y}} 
+{{nat fs player|no=|pos=DF|name=[[Virgílio|Virgilio Mendes]]|age={{birth date and age2|1960|7|6|1926|11|17|df=y}}|caps=|club=[[F.C. Porto|Porto]]|clubnat=Portugal|df=y}}
+{{nat fs player|no=|pos=FW|name=[[Joaquim Santana]]|age={{birth date and age2|1960|7|6|1936|3|22|df=y}}|caps=|club=[[S.L. Benfica|Benfica]]|clubnat=Portugal|df=y}}
+{{nat fs end}}
+
+===Romania===
+Head coach: [[Augustin Botescu]]
+{{nat fs start}}
+{{nat fs player|no=|pos=|name=[[Vasile Alexandru]]|age={{Birth date and age2|df=yes|1960|7|6|1935|7|18}}|caps=|club=[[FC Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=MF|name=[[Andrei Bărbulescu]]|age={{Birth date and age2|df=yes|1960|7|6|1917|3|25}}|caps=|club=[[Venus Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=DF|name=[[Alexandru Apolzan]]|age={{Birth date and age2|df=yes|1960|7|6|1927|2|6}}|caps=|club=[[FC Steaua Bucureşti|CCA Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=MF|name=[[Cornel Cacoveanu|Gheorghe Cacoveanu]]|age={{Birth date and age2|df=yes|1960|7|6|1935|9|16}}|caps=|club=[[FC Steaua Bucureşti|CCA Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Gheorghe Constantin]]|age={{Birth date and age2|df=yes|1960|7|6|1932|12|14}}|caps=|club=[[FC Steaua Bucureşti|CCA Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Constantin Dinulescu]]|age={{Birth date and age2|df=yes|1960|7|6|1931|4|19}}|caps=|club=[[FC Progresul Bucureşti|Progresul Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Haralambie Eftimie]]|age={{Birth date and age2|df=yes|1960|7|6|1934|9|1}}|caps=|club=[[FC Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=DF|name=[[Alexandru Fronea]]|age={{Birth date and age2|df=yes|1960|7|6|1933|11|15}}|caps=|club=[[FC Petrolul Ploieşti|Petrolul Ploieşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Emanoil Hasoti]]|age={{Birth date and age2|df=yes|1960|7|6|1932|9|14}}|caps=|club=[[FC Braşov|Steagul Roşu Braşov]]|clubnat=Romania}}
+{{nat fs player|no=|pos=MF|name=[[Emerich Jenei|Emeric Ienei]]|age={{Birth date and age2|df=yes|1960|7|6|1937|3|22}}|caps=|club=[[FC Steaua Bucureşti|Steaua Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=MF|name=[[Viorel Mateianu]]|age={{Birth date and age2|df=yes|1960|7|6|1938|6|1}}|caps=|club=[[Universitatea Cluj]]|clubnat=Romania}}
+{{nat fs player|no=|pos=GK|name=[[Petre Mindru]]|age={{Birth date and age2|df=yes|1960|7|6|1935|9|13}}|caps=|club=[[FC Progresul Bucureşti|Progresul Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=DF|name=[[Ion Nunweiller]]|age={{Birth date and age2|df=yes|1960|7|6|1936|1|9}}|caps=|club=[[FC Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=DF|name=[[Cornel Popa]]|age={{Birth date and age2|df=yes|1960|7|6|1935|3|17}}|caps=|club=[[FC Dinamo Bucureşti|Dinamo Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Gabriel Raksi|Gavril Raksi]]|age={{Birth date and age2|df=yes|1960|7|6|1938|11|1}}|caps=|club=[[FC Steaua Bucureşti|CCA Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Valeriu Soare]]|age={{Birth date and age2|df=yes|1960|7|6|1932|6|25}}|caps=|club=[[FC Progresul Bucureşti|Progresul Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=|pos=FW|name=[[Nicolae Tataru]]|age={{Birth date and age2|df=yes|1960|7|6|1931|12|16}}|caps=|club=[[FC Steaua Bucureşti|CCA Bucureşti]]|clubnat=Romania}}
+{{nat fs end}}
+
+===Spain===
+Head coach: Committee
+{{nat fs start}}
+{{nat fs end}}
+Spain qualified for the quarterfinals but withdrew.
+
+q-Indicates players on the quarterfinal roster that did not participate in the final round of the tournament.
+
+==External links==
+*[http://www.rsssf.com/tables/60e-det.html RSSSF]
+*[http://www.fff.fr FFF] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=255 1] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=259 2] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=260 3] [http://www.fff.fr/cgi-bin/historique/hist_detail.pl?nomatch=261 4]
+*[http://www.fotbal.cz FOTBAL.CZ] [http://www.fotbal.cz/c/nat/AM/1960/match2.asp 1] [http://www.fotbal.cz/c/nat/AM/1960/match3.asp 2] [http://www.fotbal.cz/c/nat/AM/1960/match4.asp 3] [http://www.fotbal.cz/c/nat/AM/1960/match5.asp 4]
+
+{{International football}}
+{{European Football Championship}}
+{{European Football Championship squads}}
+
+{{DEFAULTSORT:1960 European Nations' Cup Squads}}
+[[Category:UEFA European Championship squads]]
+[[Category:1960 European Nations' Cup|Squads]]
+
+{{Use dmy dates|date=June 2013}}
