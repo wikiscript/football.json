@@ -149,7 +149,7 @@ class SquadsBuilder
 
   def read( name, opts={} )
 
-    path = "#{include_path}/#{name}.wiki"
+    path = "#{include_path}/#{name}.txt"
 
     @squads = []
     squad  = nil   ## current squad

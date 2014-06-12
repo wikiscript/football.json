@@ -1,0 +1,413 @@
+Below are the '''squads''' for the '''[[1938 FIFA World Cup]]''' final tournament in France.
+
+Hungary and Switzerland were the only teams who had players from foreign clubs. All the three such players represented French clubs.
+
+==Italy==
+Head coach: [[Vittorio Pozzo]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Michele Andreolo]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|6}} |caps=11|club=[[Bologna F.C. 1909|Bologna]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Sergio Bertoni]]|age={{Birth date and age2|df=yes|1938|6|4|1915|9|23}} |caps=3|club=[[Pisa Calcio|Pisa]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Amedeo Biavati]]|age={{Birth date and age2|df=yes|1938|6|4|1915|4|4}} |caps=0|club=[[Bologna F.C. 1909|Bologna]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=GK|name=[[Carlo Ceresoli]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|14}} |caps=7|club=[[Bologna F.C. 1909|Bologna]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Bruno Chizzo]]|age={{Birth date and age2|df=yes|1938|6|4|1916|4|19}} |caps=0|club=[[U.S. Triestina Calcio|Triestina]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Gino Colaussi]]|age={{Birth date and age2|df=yes|1938|6|4|1914|3|4}} |caps=12|club=[[U.S. Triestina Calcio|Triestina]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Aldo Donati]]|age={{Birth date and age2|df=yes|1938|6|4|1910|9|29}} |caps=0|club=[[A.S. Roma|Roma]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Giovanni Ferrari]]|age={{Birth date and age2|df=yes|1938|6|4|1907|12|6}} |caps=38|club=[[F.C. Internazionale Milano|Ambrosiana-Inter]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Pietro Ferraris]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|15}} |caps=3|club=[[F.C. Internazionale Milano|Ambrosiana-Inter]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=DF|name=[[Alfredo Foni]]|age={{Birth date and age2|df=yes|1938|6|4|1911|11|20}} |caps=6|club=[[Juventus F.C.|Juventus]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Mario Genta]]|age={{Birth date and age2|df=yes|1938|6|4|1912|3|1}} |caps=0|club=[[Genoa C.F.C.|Genoa]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Ugo Locatelli]]|age={{Birth date and age2|df=yes|1938|6|4|1916|2|5}} |caps=7|club=[[F.C. Internazionale Milano|Ambrosiana-Inter]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=GK|name=[[Guido Masetti]]|age={{Birth date and age2|df=yes|1938|6|4|1907|11|22}} |caps=1|club=[[A.S. Roma|Roma]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Giuseppe Meazza]]|age={{Birth date and age2|df=yes|1938|6|4|1910|8|23}} |caps=43|club=[[F.C. Internazionale Milano|Ambrosiana-Inter]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=DF|name=[[Eraldo Monzeglio]]|age={{Birth date and age2|df=yes|1938|6|4|1906|6|5}} |caps=32|club=[[A.S. Roma|Roma]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=GK|name=[[Aldo Olivieri]]|age={{Birth date and age2|df=yes|1938|6|4|1910|10|2}} |caps=8|club=[[A.S. Lucchese Libertas 1905|Lucchese]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Renato Olmi]]|age={{Birth date and age2|df=yes|1938|6|4|1914|7|12}} |caps=0|club=[[F.C. Internazionale Milano|Ambrosiana-Inter]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Pietro Pasinati]]|age={{Birth date and age2|df=yes|1938|6|4|1910|7|21}} |caps=10|club=[[U.S. Triestina Calcio|Triestina]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Mario Perazzolo]]|age={{Birth date and age2|df=yes|1938|6|4|1911|6|7}} |caps=2|club=[[Genoa C.F.C.|Genoa]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=FW|name=[[Silvio Piola]]|age={{Birth date and age2|df=yes|1938|6|4|1913|9|29}} |caps=14|club=[[S.S. Lazio|Lazio]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=DF|name=[[Pietro Rava]]|age={{Birth date and age2|df=yes|1938|6|4|1916|1|21}} |caps=11|club=[[Juventus F.C.|Juventus]]|clubnat=Italy|natvar=1861}}
+{{nat fs player|no=-|pos=MF|name=[[Pietro Serantoni]]|age={{Birth date and age2|df=yes|1938|6|4|1906|12|11}} |caps=9|club=[[A.S. Roma|Roma]]|clubnat=Italy|natvar=1861}}
+{{nat fs end}}
+
+==Hungary==
+Head coach: [[Károly Dietz]] and [[Alfréd Schaffer]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[István Balogh (footballer)|István Balogh]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|21}} |caps=3|club=[[Újpest FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Mihály Bíró]]|age={{Birth date and age2|df=yes|1938|6|4|1914|7|20}} |caps=0|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=DF|name=[[Sándor Bíró]]|age={{Birth date and age2|df=yes|1938|6|4|1911|8|19}} |caps=26|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[László Cseh (footballer)|László Cseh]]|age={{Birth date and age2|df=yes|1938|6|4|1910|4|4}} |caps=32|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[János Dudás]]|age={{Birth date and age2|df=yes|1938|6|4|1911|2|13}} |caps=12|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=GK|name=[[József Háda]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|2}} |caps=15|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Vilmos Kohut]]|age={{Birth date and age2|df=yes|1938|6|4|1906|7|17}} |caps=24|club=[[Olympique de Marseille|Olympique Marseille]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Lajos Korányi]]|age={{Birth date and age2|df=yes|1938|6|4|1907|5|15}} |caps=30|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[Gyula Lázár]]|age={{Birth date and age2|df=yes|1938|6|4|1911|1|24}} |caps=34|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=GK|name=[[József Pálinkás (footballer)|József Pálinkás]]|age={{Birth date and age2|df=yes|1938|6|4|1912|1|1}} |caps=5|club=[[Szeged FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=DF|name=[[Gyula Polgár]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|8}} |caps=14|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[Béla Sárosi]]|age={{Birth date and age2|df=yes|1938|6|4|1919|5|15}} |caps=0|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[György Sárosi]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|15}} |caps=42|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Ferenc Sas]]|age={{Birth date and age2|df=yes|1938|6|4|1915|3|15}} |caps=13|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=GK|name=[[Antal Szabó]]|age={{Birth date and age2|df=yes|1938|6|4|1910|9|4}} |caps=32|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[Antal Szalay]]|age={{Birth date and age2|df=yes|1938|6|4|1912|3|12}} |caps=19|club=[[Újpest FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[György Szűcs]]|age={{Birth date and age2|df=yes|1938|6|4|1912|4|23}} |caps=23|club=[[Újpest FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Pál Titkos]]|age={{Birth date and age2|df=yes|1938|6|4|1908|1|8}} |caps=45|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Géza Toldi]]|age={{Birth date and age2|df=yes|1938|6|4|1909|2|11}} |caps=39|club=[[Ferencvárosi Torna Club|Ferencváros FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=MF|name=[[József Turay]]|age={{Birth date and age2|df=yes|1938|6|4|1905|3|1}} |caps=41|club=[[MTK Hungária FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Jenő Vincze]]|age={{Birth date and age2|df=yes|1938|6|4|1908|11|20}} |caps=22|club=[[Újpest FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs player|no=-|pos=FW|name=[[Gyula Zsengellér]]|age={{Birth date and age2|df=yes|1938|6|4|1915|12|27}} |caps=9|club=[[Újpest FC]]|clubnat=Hungary|natvar=1940}}
+{{nat fs end}}
+
+==Brazil==
+Head coach: [[Adhemar Pimenta]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Afonso Guimarães da Silva|Afonsinho]]|age={{Birth date and age2|df=yes|1938|6|4|1914|3|8}} |caps=|club=[[São Cristóvão de Futebol e Regatas|São Cristóvão]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Pinheiro da Silva|Argemiro]]|age={{Birth date and age2|df=yes|1938|6|4|1915|6|3}} |caps=|club=[[Associação Atlética Portuguesa Santista|Portuguesa Santista]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=GK|name=[[Algisto Lorenzato|Batatais]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|20}} |caps=|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[José Augusto Brandão|Brandão]]|age={{Birth date and age2|df=yes|1938|6|4|1910|1|1}} |caps=|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Hermínio de Brito|Britto]]|age={{Birth date and age2|df=yes|1938|6|4|1914|5|6}} |caps=|club=[[América Futebol Clube (MG)|América Mineiro]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Domingos da Guia]]|age={{Birth date and age2|df=yes|1938|6|4|1912|11|19}} |caps=|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Hércules de Miranda|Hércules]]|age={{Birth date and age2|df=yes|1938|6|4|1912|7|2}} |caps=|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Euclydes Barbosa|Jaú]]|age={{Birth date and age2|df=yes|1938|6|4|1909|12|17}} |caps=|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Leônidas da Silva|Leônidas]]|age={{Birth date and age2|df=yes|1938|6|4|1913|6|9}} |caps=|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[José dos Santos Lopes|Lopes]]|age={{Birth date and age2|df=yes|1938|6|4|1910|11|1}} |caps=|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Luís Mesquita de Oliveira|Luizinho]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|29}} |caps=|club=[[Sociedade Esportiva Palmeiras|SS Palestra Italia]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Arthur Machado|Machado]]|age={{Birth date and age2|df=yes|1938|6|4|1909|1|1}} |caps=|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Martim Mércio da Silveira|Martim]]|age={{Birth date and age2|df=yes|1938|6|4|1911|4|21}} |caps=|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Álvaro Lopes Cançado|Nariz]]|age={{Birth date and age2|df=yes|1938|6|4|1912|12|8}} |caps=|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Niginho]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|12}} |caps=|club=[[Club de Regatas Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Rodolpho Barteczko|Patesko]]|age={{Birth date and age2|df=yes|1938|6|4|1910|11|12}} |caps=|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[José Perácio|Perácio]]|age={{Birth date and age2|df=yes|1938|6|4|1917|11|2}} |caps=|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Roberto Emílio da Cunha|Roberto]]|age={{Birth date and age2|df=yes|1938|6|4|1912|6|20}} |caps=|club=[[São Cristóvão de Futebol e Regatas|São Cristóvão]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Romeu Pellicciari|Romeu]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|26}} |caps=|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Elba de Pádua Lima|Tim]]|age={{Birth date and age2|df=yes|1938|6|4|1915|2|20}} |caps=|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=GK|name=[[Walter de Souza Goulart|Walter]]|age={{Birth date and age2|df=yes|1938|6|4|1912|7|17}} |caps=|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Zezé Procópio]]|age={{Birth date and age2|df=yes|1938|6|4|1913|8|12}} |caps=|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs end}}
+
+==Sweden==
+Head coach: {{flagicon|Hungary|1940}} [[József Nagy (football coach)|József Nagy]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=GK|name=[[Henock Abrahamsson]]|age={{Birth date and age2|df=yes|1938|6|4|1909|10|29}} |caps=0|club=[[Gårda BK|Gårda BK Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Erik Almgren]]|age={{Birth date and age2|df=yes|1938|6|4|1908|1|28}} |caps=5|club=[[AIK Fotboll|AIK]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Åke Andersson (footballer)|Åke Andersson]]|age={{Birth date and age2|df=yes|1938|6|4|1917|4|22}} |caps=2|club=[[GAIS|GAIS Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Harry Andersson]]|age={{Birth date and age2|df=yes|1938|6|4|1913|3|7}} |caps=0|club=[[IK Sleipner|IK Sleipner Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Curt Bergsten]]|age={{Birth date and age2|df=yes|1938|6|4|1915|8|21}}|caps=6|club=[[Landskrona BoIS]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Lennart Bunke]]|age=|caps=|club=[[Helsingborgs IF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Ivar Eriksson]]|age={{Birth date and age2|df=yes|1938|6|4|1909|12|25}} |caps=1|club=[[Sandvikens IF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Karl-Erik Grahn]]|age={{Birth date and age2|df=yes|1938|6|4|1914|11|5}} |caps=15|club=[[IF Elfsborg|IF Elfsborg Borås]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Knut Hansson]]|age={{Birth date and age2|df=yes|1938|6|4|1911|5|9}} |caps=4|club=[[Landskrona BoIS]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Sven Jacobsson]]|age={{Birth date and age2|df=yes|1938|6|4|1914|4|17}} |caps=2|club=[[GAIS|GAIS Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Sven Jonasson]]|age={{Birth date and age2|df=yes|1938|6|4|1909|7|9}} |caps=28|club=[[IF Elfsborg|IF Elfsborg Borås]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Olle Källgren]]|age={{Birth date and age2|df=yes|1938|6|4|1907|9|7}} |caps=6|club=[[Sandvikens IF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Tore Keller]]|age={{Birth date and age2|df=yes|1938|6|4|1905|1|4}} |caps=22|club=[[IK Sleipner|IK Sleipner Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Arne Linderholm]]|age={{Birth date and age2|df=yes|1938|6|4|1916|2|22}} |caps=0|club=[[IK Sleipner|IK Sleipner Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Erik Nilsson]]|age={{Birth date and age2|df=yes|1938|6|4|1916|8|6}} |caps=0|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Harry Nilsson (footballer)|Harry Nilsson]]|age=|caps=0|club=[[Landskrona BoIS]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Arne Nyberg]]|age={{Birth date and age2|df=yes|1938|6|4|1913|6|20}} |caps=2|club=[[IFK Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Erik Persson]]|age={{Birth date and age2|df=yes|1938|6|4|1909|11|19}} |caps=27|club=[[AIK Fotboll|AIK]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=GK|name=[[Gustav Sjöberg]]|age={{Birth date and age2|df=yes|1938|6|4|1913|3|23}} |caps=7|club=[[AIK Fotboll|AIK]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Kurt Svanström]]|age={{Birth date and age2|df=yes|1938|6|4|1915|3|24}} |caps=4|club=[[Örgryte IS|Örgryte IS Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Sven Unger]]|age=|caps=|club=[[Sleinper IK]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Gustav Wetterström]]|age={{Birth date and age2|df=yes|1938|6|4|1911|10|15}} |caps=4|club=[[IK Sleipner| IK Sleipner Norrköping]]|clubnat=Sweden}}
+{{nat fs end}}
+
+==Czechoslovakia==
+Head coach: [[Josef Meissner]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Jaroslav Bouček]]|age={{Birth date and age2|df=yes|1938|6|4|1912|11|13}} |caps=22|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Vojtěch Bradáč]]|age={{Birth date and age2|df=yes|1938|6|4|1913|10|6}} |caps=7|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=DF|name=[[Jaroslav Burgr]]|age={{Birth date and age2|df=yes|1938|6|4|1906|3|7}} |caps=51|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=GK|name=[[Karel Burkert]]|age={{Birth date and age2|df=yes|1938|6|4|1909|12|1}} |caps=1|club=[[1. FC Brno|SK Židenice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=DF|name=[[Karel Černý (footballer born 1910)|Karel Černý]]|age={{Birth date and age2|df=yes|1938|6|4|1910|2|1}} |caps=|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=DF|name=[[Ferdinand Daučík]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|30}} |caps=10|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Václav Horák]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|27}} |caps=9|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=MF|name=[[Karel Kolský]]|age={{Birth date and age2|df=yes|1938|6|4|1914|9|21}} |caps=10|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=MF|name=[[Vlastimil Kopecký]]|age={{Birth date and age2|df=yes|1938|6|4|1912|10|14}} |caps=13|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=MF|name=[[Josef Košťálek]]|age={{Birth date and age2|df=yes|1938|6|4|1909|8|31}} |caps=36|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Arnošt Kreuz]]|age={{Birth date and age2|df=yes|1938|6|4|1910|3|14}} |caps=2|club=[[SK Pardubice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Josef Ludl]]|age={{Birth date and age2|df=yes|1938|6|4|1916|6|3}} |caps=3|club=[[FK Viktoria Žižkov|Viktoria Žižkov]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Oldřich Nejedlý]]|age={{Birth date and age2|df=yes|1938|6|4|1909|12|26}} |caps=38|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=MF|name=[[Otakar Nožíř]]|age={{Birth date and age2|df=yes|1938|6|4|1917|3|12}} |caps=0|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=DF|name=[[Josef Orth]]|age=|caps=|club=[[ŠK Slovan Bratislava]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=GK|name=[[František Plánička]]|age={{Birth date and age2|df=yes|1938|6|4|1904|6|2}} |caps=71|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Antonín Puč]]|age={{Birth date and age2|df=yes|1938|6|4|1907|5|16}} |caps=59|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Jan Říha]]|age={{Birth date and age2|df=yes|1938|6|4|1915|11|11}} |caps=9|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Oldřich Rulc]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|28}} |caps=15|club=[[1. FC Brno|SK Židenice]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Karel Senecký]]|age={{Birth date and age2|df=yes|1938|6|4|1919|3|17}} |caps=2|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Ladislav Šimůnek]]|age={{Birth date and age2|df=yes|1938|6|4|1916|10|4}} |caps=2|club=[[SK Slavia Prague]]|clubnat=Czechoslovakia}}
+{{nat fs player|no=-|pos=FW|name=[[Josef Zeman]]|age={{Birth date and age2|df=yes|1938|6|4|1915|1|23}} |caps=3|club=[[AC Sparta Prague]]|clubnat=Czechoslovakia}}
+{{nat fs end}}
+
+==Switzerland==
+Head coach: {{flagicon|Austria}} [[Karl Rappan]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[André Abegglen]]|age={{Birth date and age2|df=yes|1938|6|4|1909|3|7}} |caps=|club=[[FC Sochaux-Montbéliard]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Georges Aeby]]|age={{Birth date and age2|df=yes|1938|6|4|1910|9|10}} |caps=|club=[[Servette FC|Servette]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Paul Aeby]]|age={{Birth date and age2|df=yes|1938|6|4|1910|9|10}} |caps=|club=[[BSC Young Boys|Young Boys Bern]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Lauro Amadò]]|age={{Birth date and age2|df=yes|1938|6|4|1912|3|14}} |caps=|club=[[FC Lugano]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Erwin Ballabio]]|age={{Birth date and age2|df=yes|1938|6|4|1918|10|20}} |caps=|club=[[FC Grenchen]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Alfred Bickel]]|age={{Birth date and age2|df=yes|1938|6|4|1918|5|2}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Renato Bizzozero]]|age=1912|caps=|club=[[FC Lugano]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Alessandro Frigerio]]|age={{Birth date and age2|df=yes|1938|6|4|1914|11|15}} |caps=|club=[[Le Havre AC]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Tullio Grassi]]|age={{Birth date and age2|df=yes|1938|6|4|1910|2|5}} |caps=|club=[[FC Lugano]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Albert Guinchard]]|age={{Birth date and age2|df=yes|1938|6|4|1914|11|10}} |caps=|club=[[Servette FC|Servette]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Willy Huber]]|age={{Birth date and age2|df=yes|1938|6|4|1913|12|17}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Leopold Kielholz]]|age={{Birth date and age2|df=yes|1938|6|4|1911|6|9}} |caps=|club=[[SC YF Juventus]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[August Lehmann]]|age={{Birth date and age2|df=yes|1938|6|4|1909|1|26}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Ernst Lörtscher]]|age={{Birth date and age2|df=yes|1938|6|4|1913|3|15}} |caps=|club=[[Servette FC|Servette]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Severino Minelli]]|age={{Birth date and age2|df=yes|1938|6|4|1909|9|6}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Oscar Rauch]]|age=|caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Eugen Rupf]]|age=|caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Hermann Springer]]|age={{Birth date and age2|df=yes|1938|6|4|1908|12|4}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Adolf Stelzer]]|age={{Birth date and age2|df=yes|1938|6|4|1908|9|1}} |caps=|club=[[Lausanne Sports]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Sirio Vernati]]|age={{Birth date and age2|df=yes|1938|6|4|1907|5|12}} |caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Fritz Wagner (footballer)|Fritz Wagner]]|age=|caps=|club=[[Grasshopper Club Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Eugen Walaschek]]|age={{Birth date and age2|df=yes|1938|6|4|1916|6|20}} |caps=|club=[[Servette FC|Servette]]|clubnat=Switzerland}}
+{{nat fs end}}
+
+==Cuba==
+Head coach: [[José Tapia]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Alonzo]]|age=1911|caps=|club=[[Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=MF|name=[[Joaquín Arias (footballer)|Joaquín Arias]]|age={{Birth date and age2|df=yes|1938|6|4|1914|11|12}} |caps=|club=[[Juventud Asturiana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=GK|name=[[Juan Ayra]]|age={{Birth date and age2|df=yes|1938|6|4|1911|6|23}} |caps=|club=[[Hispano America]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=DF|name=[[Jacinto Barquín]]|age={{Birth date and age2|df=yes|1938|6|4|1915|9|3}} |caps=|club=[[Juventud Aturiana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=MF|name=[[Pedro Berges]]|age=1906|caps=|club=[[Iberia Havana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=GK|name=[[Benito Carvajales]]|age=1913|caps=|club=[[Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=DF|name=[[Manuel Chorens]]|age={{Birth date and age2|df=yes|1938|6|4|1916|1|22}} |caps=|club=[[CD Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[Tomás Fernández]]|age=1915|caps=|club=[[CD Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[Pedro Ferrer]]|age=1908|caps=|club=[[Iberia Havana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[José Magriñá]]|age={{Birth date and age2|df=yes|1938|6|4|1917|12|14}}|caps=|club=[[CD Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=*|pos=FW|name=[[Carlos Oliveira (footballer)|Carlos Oliveira]]|age=|caps=|club=[[Hispano America]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=MF|name=[[José Antonio Rodríguez (footballer)|José Antonio Rodríguez]]|age=|caps=|club=[[CD Centro Gallego]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[Héctor Socorro]]|age={{Birth date and age2|df=yes|1938|6|4|1912|6|26}} |caps=|club=[[Iberia Habana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[Mario Sosa]]|age=1910|caps=|club=[[Iberia Havana]]|clubnat=Cuba}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Tuñas]]|age={{Birth date and age2|df=yes|1938|6|4|1917|2|1}}||caps=|club=[[Centro Gallego]]|clubnat=Cuba}}
+{{nat fs end}}
+
+==France==
+Head coach: [[Gaston Barreau]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Alfred Aston]]|age={{Birth date and age2|df=yes|1938|6|4|1912|5|16}} |caps=15|club=[[Red Star Olympique]]|clubnat=France}}
+{{nat fs player|no=-|pos=MF|name=[[Jean Bastien]]|age={{Birth date and age2|df=yes|1938|6|4|1915|6|21}} |caps=0|club=[[Olympique de Marseille]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Abdelkader Ben Bouali]]|age={{Birth date and age2|df=yes|1938|6|4|1912|10|25}} |caps=1|club=[[Olympique de Marseille]]|clubnat=France}}
+{{nat fs player|no=-|pos=MF|name=[[François Bourbotte]]|age={{Birth date and age2|df=yes|1938|6|4|1913|2|24}} |caps=9|club=[[Lille OSC|SC Fives]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Michel Brusseaux]]|age={{Birth date and age2|df=yes|1938|6|4|1913|3|19}} |caps=1|club=[[FC Sète]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Hector Cazenave]]|age={{Birth date and age2|df=yes|1938|6|4|1914|4|13}} |caps=6|club=[[FC Sochaux-Montbéliard]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Roger Courtois]]|age={{Birth date and age2|df=yes|1938|6|4|1912|5|30}} |caps=19|club=[[FC Sochaux-Montbéliard]]||clubnat=France}}
+{{nat fs player|no=-|pos=GK|name=[[Julien Darui]]|age={{Birth date and age2|df=yes|1938|6|4|1916|2|16}} |caps=0|club=[[Lille OSC|Olympique Lillois]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Edmond Delfour]]|age={{Birth date and age2|df=yes|1938|6|4|1907|11|1}} |caps=39|club=[[RC Roubaix]]|clubnat=France}}
+{{nat fs player|no=-|pos=GK|name=[[Laurent Di Lorto]]|age={{Birth date and age2|df=yes|1938|6|4|1909|1|1}} |caps=9|club=[[FC Sochaux-Montbéliard]]|clubnat=France}}
+{{nat fs player|no=-|pos=MF|name=[[Raoul Diagne]]|age={{Birth date and age2|df=yes|1938|6|4|1910|11|10}} |caps=11|club=[[Racing Club de Paris|RC Paris]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Oscar Heisserer]]|age={{Birth date and age2|df=yes|1938|6|4|1918|7|18}} |caps=6|club=[[RC Strasbourg]]|clubnat=France}}
+{{nat fs player|no=-|pos=MF|name=[[Lucien Jasseron]]|age={{Birth date and age2|df=yes|1938|6|4|1913|12|29}} |caps=0|club=[[Le Havre AC|FC Le Havre]]|clubnat=France}}
+{{nat fs player|no=-|pos=MF|name=[[Auguste Jordan]]|age={{Birth date and age2|df=yes|1938|6|4|1909|2|21}} |caps=3|club=[[Racing Club de Paris|RC Paris]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Ignace Kowalczyk]]|age={{Birth date and age2|df=yes|1938|6|4|1913|12|27}} |caps=5|club=[[FC Metz]]|clubnat=France}}
+{{nat fs player|no=-|pos=GK|name=[[René Llense]]|age={{Birth date and age2|df=yes|1938|6|4|1913|7|14}} |caps=9|club=[[FC Sète]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Étienne Mattler]]|age={{Birth date and age2|df=yes|1938|6|4|1905|12|25}} |caps=38|club=[[FC Sochaux-Montbéliard]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Jean Nicolas]]|age={{Birth date and age2|df=yes|1938|6|4|1913|6|9}} |caps=22|club=[[FC Rouen]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Martin Povolny]]|age={{Birth date and age2|df=yes|1938|6|4|1914|7|19}} |caps=0|club=[[Le Havre AC|FC Le Havre]]|clubnat=France}}
+{{nat fs player|no=-|pos=DF|name=[[Jules Vandooren]]|age={{Birth date and age2|df=yes|1938|6|4|1908|12|30}} |caps=14|club=[[Lille OSC|Olympique Lillois]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Émile Veinante]]|age={{Birth date and age2|df=yes|1938|6|4|1907|6|12}} |caps=18|club=[[Racing Club de Paris|RC Paris]]|clubnat=France}}
+{{nat fs player|no=-|pos=FW|name=[[Mario Zatelli]]|age={{Birth date and age2|df=yes|1938|6|4|1912|12|21}} |caps=0|club=[[Olympique de Marseille]]|clubnat=France}}
+{{nat fs end}}
+
+==Romania==
+Head coach: [[Alexandru Săvulescu]] and [[Costel Rădulescu]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Iuliu Baratky]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|14}} |caps=10|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Andrei Bărbulescu]]|age={{Birth date and age2|df=yes|1938|6|4|1917|3|25}} |caps=2|club=[[Venus Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Silviu Bindea]]|age={{Birth date and age2|df=yes|1938|6|4|1912|10|24}} |caps=18|club=[[Ripensia Timişoara]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Iuliu Bodola]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|26}} |caps=39|club=[[Venus Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Ion Bogdan]]|age={{Birth date and age2|df=yes|1938|6|4|1915|3|6}} |caps=1|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Gheorghe Brandabura]]|age={{Birth date and age2|df=yes|1938|6|4|1913|2|23}} |caps=4|club=[[FC Petrolul Ploiești|Juventus Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=DF|name=[[Rudolf Bürger]]|age={{Birth date and age2|df=yes|1938|6|4|1908|10|31}} |caps=27|club=[[Ripensia Timişoara]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=DF|name=[[Vasile Chiroiu]]|age={{Birth date and age2|df=yes|1938|6|4|1910|8|13}} |caps=5|club=[[Ripensia Timişoara]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Vintilă Cossini]]|age={{Birth date and age2|df=yes|1938|6|4|1913|11|21}} |caps=12|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=GK|name=[[Mircea David]]|age={{Birth date and age2|df=yes|1938|6|4|1914|10|16}} |caps=4|club=[[Venus Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Ştefan Dobay]]|age={{Birth date and age2|df=yes|1938|6|4|1909|9|26}} |caps=33|club=[[Ripensia Timişoara]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Stefan Dobra]]|age=|caps=-|club=[[Gloria Arad]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=DF|name=[[Iacob Felecan]]|age=1914|caps=4|club=[[Victoria Cluj]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Nicolae Kovács]]|age={{Birth date and age2|df=yes|1938|6|4|1911|10|29}} |caps=35|club=[[CAO Oradea]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Ioachim Moldoveanu]]|age={{Birth date and age2|df=yes|1938|6|4|1913|8|17}} |caps=3|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Miklós Nagy (footballer)|Miklós Nagy]]|age=|caps=0|club=[[Crişana Oradea]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=GK|name=[[Dumitru Pavlovici]]|age={{Birth date and age2|df=yes|1938|6|4|1912|4|26}} |caps=8|club=[[Ripensia Timişoara]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=FW|name=[[Gyula Prassler]]|age=1916|caps=1|club=[[AMEF Arad]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Gheorghe Rasinaru]]|age={{Birth date and age2|df=yes|1938|6|4|1915|2|10}} |caps=1|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=MF|name=[[Ladislau Raffinsky]]|age={{Birth date and age2|df=yes|1938|6|4|1905|4|23}} |caps=18|club=[[FC Rapid Bucureşti|Rapid Bucureşti]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=GK|name=[[Róbert Szádowsky]]|age={{Birth date and age2|df=yes|1938|6|4|1914|8|16}} |caps=1|club=[[AMEF Arad]]|clubnat=Romania}}
+{{nat fs player|no=-|pos=DF|name=[[Lazăr Sfera]]|age={{Birth date and age2|df=yes|1938|6|4|1909|4|29}} |caps=5|club=[[Venus Bucureşti]]|clubnat=Romania}}
+{{nat fs end}}
+
+==Germany==
+Head coach: [[Sepp Herberger]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=GK|name=[[Fritz Buchloh]]|age={{Birth date and age2|df=yes|1938|6|4|1909|11|26}} |caps=17|club=[[VfB Speldorf]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Josef Gauchel]]|age={{Birth date and age2|df=yes|1938|6|4|1916|9|11}} |caps=6|club=[[TuS Koblenz|TuS Koblenz-Neuendorf]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Rudolf Gellesch]]|age={{Birth date and age2|df=yes|1938|6|4|1914|5|1}} |caps=14|club=[[FC Schalke 04]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=DF|name=[[Ludwig Goldbrunner]]|age={{Birth date and age2|df=yes|1938|6|4|1908|3|5}} |caps=31|club=[[Bayern Munich|FC Bayern Munchen]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Wilhelm Hahnemann]]*|age={{Birth date and age2|df=yes|1938|6|4|1914|4|14}} |caps=0|club=[[VfB Admira Wacker Mödling|Admira Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=GK|name=[[Hans Jakob (footballer)|Hans Jakob]]|age={{Birth date and age2|df=yes|1938|6|4|1908|6|16}} |caps=35|club=[[Jahn Regensburg]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=DF|name=[[Paul Janes]]|age={{Birth date and age2|df=yes|1938|6|4|1912|3|10}} |caps=34|club=[[Fortuna Düsseldorf]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=MF|name=[[Albin Kitzinger]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|1}} |caps=18|club=[[1. FC Schweinfurt 05]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=MF|name=[[Andreas Kupfer]]|age={{Birth date and age2|df=yes|1938|6|4|1914|5|7}} |caps=10|club=[[1. FC Schweinfurt 05]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Ernst Lehner]]|age={{Birth date and age2|df=yes|1938|6|4|1912|11|7}} |caps=39|club=[[FC Augsburg|Schwaben Augsburg]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=MF|name=[[Hans Mock]]*|age={{Birth date and age2|df=yes|1938|6|4|1906|12|9}} |caps=0|club=[[FK Austria Wien|Austria Wien]]*|clubnat=Germany|natvar=Nazi}}*
+{{nat fs player|no=-|pos=DF|name=[[Reinhold Münzenberg]]|age={{Birth date and age2|df=yes|1938|6|4|1909|1|25}} |caps=39|club=[[Alemannia Aachen]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Leopold Neumer]]*|age={{Birth date and age2|df=yes|1938|6|4|1919|2|8}} |caps=0|club=[[FK Austria Wien|Austria Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Hans Pesser]]*|age={{Birth date and age2|df=yes|1938|6|4|1911|11|7}} |caps=1|club=[[SK Rapid Wien|Rapid Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=GK|name=[[Rudolf Raftl]]*|age={{Birth date and age2|df=yes|1938|6|4|1911|2|7}} |caps=0|club=[[SK Rapid Wien|Rapid Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=DF|name=[[Willibald Schmaus]]*|age={{Birth date and age2|df=yes|1938|6|4|1911|6|16}} |caps=0|club=[[First Vienna FC|First Vienna]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Otto Siffling]]|age={{Birth date and age2|df=yes|1938|6|4|1912|8|3}} |caps=31|club=[[Waldhof Mannheim]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=MF|name=[[Stefan Skoumal]]*|age={{Birth date and age2|df=yes|1938|6|4|1909|11|29}} |caps=0|club=[[SK Rapid Wien|Rapid Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=DF|name=[[Jakob Streitle]]|age={{Birth date and age2|df=yes|1938|6|4|1916|12|11}} |caps=0|club=[[Bayern Munich|FC Bayern Munchen]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Josef Stroh]]*|age={{Birth date and age2|df=yes|1938|6|4|1913|3|5}} |caps=0|club=[[FK Austria Wien|Austria Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=FW|name=[[Fritz Szepan]]|age={{Birth date and age2|df=yes|1938|6|4|1907|9|2}} |caps=30|club=[[FC Schalke 04]]|clubnat=Germany|natvar=Nazi}}
+{{nat fs player|no=-|pos=MF|name=[[Franz Wagner]]*|age={{Birth date and age2|df=yes|1938|6|4|1911|9|23}} |caps=0|club=[[SK Rapid Wien|Rapid Wien]]*|clubnat=Germany|natvar=Nazi}}
+{{nat fs end}}
+::''*Austria was a part of Nazi Germany. See [[Anschluss]].''
+
+::''*Denotes a player previously capped for Austria prior to the Anschluss.''
+
+==Poland==
+Head coach: [[Józef Kałuża]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Stanisław Baran]]|age={{Birth date and age2|df=yes|1938|6|4|1920|4|26}} |caps=0|club=[[Warszawianka Warszawa]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=GK|name=[[Walter Brom]]|age={{Birth date and age2|df=yes|1938|6|4|1921|2|14}} |caps=0|club=[[Ruch Chorzów]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Ewald Cebula]]|age={{Birth date and age2|df=yes|1938|6|4|1917|3|22}} |caps=0|club=[[Śląsk Świętochłowice]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Ewald Dytko]]|age={{Birth date and age2|df=yes|1938|6|4|1914|10|18}} |caps=16|club=[[Dąb Katowice]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=DF|name=[[Antoni Gałecki]]|age={{Birth date and age2|df=yes|1938|6|4|1906|6|4}} |caps=16|club=[[ŁKS Łódź]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=DF|name=[[Edmund Giemsa]]|age={{Birth date and age2|df=yes|1938|6|4|1912|10|16}} |caps=6|club=[[Ruch Chorzów]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Wilhelm Góra]]|age={{Birth date and age2|df=yes|1938|6|4|1916|1|18}} |caps=8|club=[[Cracovia (football club)|Cracovia]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Bolesław Habowski]]|age={{Birth date and age2|df=yes|1938|6|4|1914|9|13}} |caps=1|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Józef Korbas]]|age={{Birth date and age2|df=yes|1938|6|4|1914|11|11}} |caps=1|club=[[Cracovia (football club)|Cracovia]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Kazimierz Lis]]|age={{Birth date and age2|df=yes|1938|6|4|1910|4|9}} |caps=0|club=[[Warta Poznań]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Antoni Łyko]]|age={{Birth date and age2|df=yes|1938|6|4|1907|5|27}} |caps=1|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=GK|name=[[Edward Madejski]]|age={{Birth date and age2|df=yes|1938|6|4|1914|8|11}} |caps=6|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Erwin Nyc]]|age={{Birth date and age2|df=yes|1938|6|4|1914|5|24}} |caps=4|club=[[Polonia Warszawa]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Leonard Piątek]]|age={{Birth date and age2|df=yes|1938|6|4|1913|10|3}} |caps=9|club=[[AKS Chorzów]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Ryszard Piec]]|age={{Birth date and age2|df=yes|1938|6|4|1913|8|17}} |caps=18|club=[[Naprzód Lipiny]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Wilhelm Piec]]|age={{Birth date and age2|df=yes|1938|6|4|1915|1|7}} |caps=3|club=[[Naprzód Lipiny]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Fryderyk Scherfke]]|age={{Birth date and age2|df=yes|1938|6|4|1909|9|7}} |caps=12|club=[[Warta Poznań]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=DF|name=[[Władysław Szczepaniak]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|19}} |caps=22|club=[[Polonia Warszawa]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=DF|name=[[Edmund Twórz]]|age=1914|caps=2|club=[[Warta Poznań]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=MF|name=[[Jan Wasiewicz]]|age={{Birth date and age2|df=yes|1938|6|4|1911|1|6}} |caps=14|club=[[Pogoń Lwów]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Ernst Wilimowski]]|age={{Birth date and age2|df=yes|1938|6|4|1916|6|23}} |caps=14|club=[[Ruch Chorzów]]|clubnat=Poland}}
+{{nat fs player|no=-|pos=FW|name=[[Gerard Wodarz]]|age={{Birth date and age2|df=yes|1938|6|4|1913|8|10}} |caps=24|club=[[Ruch Chorzów]]|clubnat=Poland}}
+{{nat fs end}}
+
+==Norway==
+Head coach: [[Asbjørn Halvorsen]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Arne Brustad]]|age={{Birth date and age2|df=yes|1938|6|4|1912|4|14}} |caps=19|club=[[F.C. Lyn Oslo|Lyn]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Knut Brynildsen]]|age={{Birth date and age2|df=yes|1938|6|4|1917|7|23}} |caps=1|club=[[Fredrikstad FK|Fredrikstad]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Nils Eriksen]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|5}} |caps=34|club=[[Odd Grenland B.K.|Odd]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Odd Frantzen]]|age={{Birth date and age2|df=yes|1938|6|4|1913|1|20}} |caps=14|club=[[Hardy FK|Hardy]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=MF|name=[[Kristian Henriksen]]|age={{Birth date and age2|df=yes|1938|6|4|1911|3|3}} |caps=12|club=[[F.C. Lyn Oslo|Lyn]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=MF|name=[[Rolf Holmberg]]|age={{Birth date and age2|df=yes|1938|6|4|1914|8|24}} |caps=18|club=[[Odd Grenland B.K.|Odd]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Øivind Holmsen]]|age={{Birth date and age2|df=yes|1938|6|4|1912|4|28}} |caps=22|club=[[F.C. Lyn Oslo|Lyn]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Arne Ileby]]|age={{Birth date and age2|df=yes|1938|6|4|1913|12|2}} |caps=0|club=[[Fredrikstad FK|Fredrikstad]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Magnar Isaksen]]|age={{Birth date and age2|df=yes|1938|6|4|1910|10|13}} |caps=12|club=[[F.C. Lyn Oslo|Lyn]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Rolf Johannessen]]|age={{Birth date and age2|df=yes|1938|6|4|1910|3|15}} |caps=11|club=[[Fredrikstad FK|Fredrikstad]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=GK|name=[[Henry Johansen]]|age={{Birth date and age2|df=yes|1938|6|4|1904|7|21}} |caps=44|club=[[Vålerenga I.F. Fotball|Vålerengen]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Jørgen Juve]]|age={{Birth date and age2|df=yes|1938|6|4|1906|11|22}} |caps=45|club=[[F.C. Lyn Oslo|Lyn]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Reidar Kvammen]]|age={{Birth date and age2|df=yes|1938|6|4|1914|7|23}} |caps=29|club=[[Viking FK|Viking]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=GK|name=[[Sverre Nordby]]|age={{Birth date and age2|df=yes|1938|6|4|1910|3|13}} |caps=2|club=[[Mjøndalen IF|Mjøndalen]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Roald Amundsen (footballer)|Roald Amundsen]]*|age={{Birth date and age2|df=yes|1938|6|4|1913|9|18}} |caps=0|club=[[Mjøndalen IF|Mjøndalen]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=MF|name=[[Oddmund Andersen]]*|age={{Birth date and age2|df=yes|1938|6|4|1915|12|21}} |caps=1|club=[[Mjøndalen IF|Mjøndalen]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=MF|name=[[Gunnar Andreassen]]*|age={{Birth date and age2|df=yes|1938|6|4|1913|1|5}} |caps=0|club=[[Fredrikstad FK|Fredrikstad]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Hjalmar Andresen]]*|age={{Birth date and age2|df=yes|1938|6|4|1914|7|18}} |caps=0|club=[[Sarpsborg FK|Sarpsborg]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=DF|name=[[Sigurd Hansen]]*|age= |caps=0|club=[[Fram Larvik]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=GK|name=[[Anker Kihle]]*|age={{Birth date and age2|df=yes|1938|6|4|1917|4|19}} |caps=0|club=[[Storm BK|Storm]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Alf Martinsen]]*|age={{Birth date and age2|df=yes|1938|6|4|1911|12|29}} |caps=17|club=[[Lillestrøm SK|Lillestrøm]]|clubnat=Norway}}
+{{nat fs player|no=-|pos=FW|name=[[Sverre Berglie]]*|age={{Birth date and age2|df=yes|1938|6|4|1910|10|21}} |caps=-|club=[[Drafn]]|clubnat=Norway}}
+{{nat fs end}}
+* Only 14 members of the squad actually travelled to France for the 1938 tournament. The remaining eight players (marked with an asterisk) stayed home on reserve.<ref>{{cite news|title=Norges 22 spillere til verdensmesterskapet anmeldt|newspaper=[[Aftenposten]]|url=http://eavis.aftenposten.no/aftenposten/7861/archive/demo/?page=10|date=25 May 1938|page=10|accessdate=14 July 2010|language=Norwegian}}</ref><ref>{{cite news|title=Våre 14 verdensmesterskapsspillere uttatt|newspaper=[[Aftenposten]]|url=http://eavis.aftenposten.no/aftenposten/7871/archive/demo/?page=10|date=1 June 1938|page=10|accessdate=14 July 2010|language=Norwegian}}</ref>
+
+==Belgium==
+Head coach: {{flagicon|England}} [[Jack Butler (footballer)|Jack Butler]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=GK|name=[[Arnold Badjou]]|age={{Birth date and age2|df=yes|1938|6|4|1909|6|26}} |caps=29|club=[[R. Daring Club Molenbeek|Daring Club de Bruxelles Societe Royale]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=GK|name=[[Robert Braet]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|11}} |caps=14|club=[[Cercle Brugge K.S.V.|Cercle Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Raymond Braine]]|age={{Birth date and age2|df=yes|1938|6|4|1907|4|28}} |caps=47|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Fernand Buyle]]|age={{Birth date and age2|df=yes|1938|6|4|1918|3|3}} |caps=10|club=[[R. Daring Club Molenbeek|Daring Club de Bruxelles Societe Royale]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Jean Capelle]]|age={{Birth date and age2|df=yes|1938|6|4|1913|10|26}} |caps=30|club=[[Standard Liège|Royal Standard Club Liège]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Arthur Ceuleers]]|age={{Birth date and age2|df=yes|1938|6|4|1916|2|28}} |caps=4|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=MF|name=[[Pierre Dalem]]|age={{Birth date and age2|df=yes|1938|6|4|1912|3|16}} |caps=22|club=[[Standard Liège|Royal Standard Club Liège]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=MF|name=[[Alfons De Winter]]|age={{Birth date and age2|df=yes|1938|6|4|1908|9|12}} |caps=18|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Jean Fievez]]|age={{Birth date and age2|df=yes|1938|6|4|1910|11|30}} |caps=4|club=[[R.W.D. Molenbeek|White Star Brüssel]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=DF|name=[[Frans Gommers]]|age={{Birth date and age2|df=yes|1938|6|4|1917|4|5}} |caps=1|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=MF|name=[[Paul Henry (Belgian footballer)|Paul Henry]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|6}} |caps=1|club=[[R. Daring Club Molenbeek|Daring Club de Bruxelles Societe Royale]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Henri Isemborghs]]|age={{Birth date and age2|df=yes|1938|6|4|1914|1|30}} |caps=11|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Joseph Nelis]]|age={{Birth date and age2|df=yes|1938|6|4|1917|4|1}} |caps=2|club=[[K. Berchem Sport|Berchem Sport]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=DF|name=[[Robert Paverick]]|age={{Birth date and age2|df=yes|1938|6|4|1912|11|29}} |caps=26|club=[[Royal Antwerp FC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=DF|name=[[Jean Petit (Belgian footballer)|Jean Petit]]|age={{Birth date and age2|df=yes|1938|6|4|1914|2|25}} |caps=4|club=[[Standard Liège|Royal Standard Club Liege]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=DF|name=[[Corneel Seys]]|age={{Birth date and age2|df=yes|1938|6|4|1912|2|12}} |caps=1|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=DF|name=[[Philibert Smellinckx]]|age={{Birth date and age2|df=yes|1938|6|4|1911|1|17}} |caps=19|club=[[R. Union Saint-Gilloise|Union Royale Saint-Gilloise]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=MF|name=[[Émile Stijnen]]|age={{Birth date and age2|df=yes|1938|6|4|1907|11|2}} |caps=25|club=[[R.O.C. de Charleroi-Marchienne|Royal Olympic Club de Charleroi]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=MF|name=[[John Van Alphen]]|age={{Birth date and age2|df=yes|1938|6|4|1914|6|17}} |caps=4|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Charles Vanden Wouwer]]|age={{Birth date and age2|df=yes|1938|6|4|1916|9|7}} |caps=5|club=[[K. Beerschot V.A.C.|Royal Beerschot AC]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=GK|name=[[André Vandeweyer]]|age={{Birth date and age2|df=yes|1938|6|4|1909|6|21}} |caps=5|club=[[R. Union Saint-Gilloise|Union Royale Saint-Gilloise]]|clubnat=Belgium}}
+{{nat fs player|no=-|pos=FW|name=[[Bernard Voorhoof]]|age={{Birth date and age2|df=yes|1938|6|4|1910|5|10}} |caps=54|club=[[K. Lierse S.K.|KSK Liersche]]|clubnat=Belgium}}
+{{nat fs end}}
+
+==Netherlands==
+Head coach: {{flagicon|England}} [[Bob Glendenning]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Wim Anderiesen]]|age={{Birth date and age2|df=yes|1938|6|4|1903|11|27}} |caps=40|club=[[Ajax Amsterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=DF|name=[[Dick Been]]|age={{Birth date and age2|df=yes|1938|6|4|1909|7|2}}|caps=0|club=[[Ajax Amsterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=DF|name=[[Bertus Caldenhove]]|age={{Birth date and age2|df=yes|1938|6|4|1914|1|19}} |caps=18|club=[[DWS Amsterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Piet de Boer]]|age={{Birth date and age2|df=yes|1938|6|4|1919|10|10}} |caps=1|club=[[AZ Alkmaar|KFC]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Bertus de Harder]]|age={{Birth date and age2|df=yes|1938|6|4|1920|1|14}} |caps=1|club=[[VUC Den Haag]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Arie de Winter]]|age={{Birth date and age2|df=yes|1938|6|4|1913|10|27}}|caps=0|club=[[HFC Haarlem]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Daaf Drok]]|age={{Birth date and age2|df=yes|1938|6|4|1914|5|23}} |caps=7|club=[[RFC Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=MF|name=[[Frans Hogenbirk]]|age={{Birth date and age2|df=yes|1938|6|4|1919|3|18}}|caps=0|club=[[Quick Groningen]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=GK|name=[[Niek Michel]]|age={{Birth date and age2|df=yes|1938|6|4|1912|9|30}} |caps=0|club=[[Stormvogels Telstar|VSV Velsen]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Klaas Ooms]]|age={{Birth date and age2|df=yes|1938|6|4|1917|6|9}}|caps=0|club=[[DWV Amsterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=MF|name=[[Bas Paauwe]]|age={{Birth date and age2|df=yes|1938|6|4|1911|10|4}} |caps=21|club=[[Feyenoord Rotterdam|SC Feyenoord Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=MF|name=[[Rene Pijpers]]|age={{Birth date and age2|df=yes|1938|6|4|1917|9|15}}|caps=0|club=[[RFC Roermond]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=DF|name=[[Hendrikus Plenter]]|age={{Birth date and age2|df=yes|1938|6|4|1913|6|23}}|caps=0|club=[[Quick Groningen]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Piet Punt]]|age={{Birth date and age2|df=yes|1938|6|4|1909|2|6}} |caps=1|club=[[FC Dordrecht|DFC Dordrecht]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Kick Smit]]|age={{Birth date and age2|df=yes|1938|6|4|1911|11|3}} |caps=21|club=[[HFC Haarlem]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Frans van der Veen]]|age={{Birth date and age2|df=yes|1938|6|4|1918|3|25}} |caps=1|club=[[Heracles Almelo]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=MF|name=[[Puck van Heel]]|age={{Birth date and age2|df=yes|1938|6|4|1904|1|21}} |caps=62|club=[[Feyenoord Rotterdam|SC Feyenoord Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=GK|name=[[Adri van Male]]|age={{Birth date and age2|df=yes|1938|6|4|1910|10|7}} |caps=9|club=[[Feyenoord Rotterdam|SC Feyenoord Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Henk van Spaandonck]]|age={{Birth date and age2|df=yes|1938|6|4|1913|6|25}} |caps=7|club=[[Neptunus Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Leen Vente]]|age={{Birth date and age2|df=yes|1938|6|4|1911|5|14}} |caps=14|club=[[Neptunus Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=DF|name=[[Mauk Weber]]|age={{Birth date and age2|df=yes|1938|6|4|1914|3|1}} |caps=25|club=[[ADO Den Haag]]|clubnat=Netherlands}}
+{{nat fs player|no=-|pos=FW|name=[[Frank Wels]]|age={{Birth date and age2|df=yes|1938|6|4|1909|2|21}} |caps=35|club=[[Unitas Gorinchem]]|clubnat=Netherlands}}
+{{nat fs end}}
+
+==Dutch East Indies==
+Head coach: [[Johan Mastenbroek]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Sutan Anwar]]|age={{Birth date and age2|df=yes|1938|6|4|1914|3|21}} |caps=|club=[[VIOS Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=|pos=GK|name=[[Van Beusekom L.N.]]|age=|caps=|club=[[Hercules Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=MF|name=[[G.H.V.L. Faulhaber]]|age=|caps=|club=[[Djocoja Djokjakarta]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=DF|name=[[J. Harting]]|age=|caps=|club=[[HBS Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=DF|name=[[Frans G. Hu Kon]]|age=1917|caps=|club=[[Sparta Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=MF|name=[[Frans Alfred Meeng]]|age={{Birth date and age2|df=yes|1938|6|4|1910|01|18}}|caps=|club=[[SVVB Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=MF|name=[[Achmad Nawir]]|age=1911|caps=|club=[[HBS Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[Isaak "Tjaak" Pattiwael]]|age={{Birth date and age2|df=yes|1938|6|4|1914|2|23}} |caps=|club=[[VV Jong Ambon Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=DF|name=[[Jack Samuels Kolle]]|age=1912|caps=|club=[[Excelsior Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[Suvarte Soedarmadji]]|age={{Birth date and age2|df=yes|1938|6|4|1915|12|6}} |caps=|club=[[HBS Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[M.J. Hans Taihuttu]]|age=1909|caps=|club=[[VV Jong Ambon Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[Tan Hong Djien]]|age={{Birth date and age2|df=yes|1938|6|4|1916|1|12}} |caps=|club=[[Tiong Hoa Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=GK|name=[[Tan "Bing" Mo Heng]]|age={{Birth date and age2|df=yes|1938|6|4|1913|2|28}} |caps=|club=[[HCTNH Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[Tan See Han]]|age=|caps=|club=[[Gie Hoo Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[R. Telwe]]|age=|caps=|club=[[HBS Soerabaja]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=MF|name=[[G. Van Den Burgh]]|age=|caps=|club=[[SVV Semarang]]|clubnat=Dutch East Indies}}
+{{nat fs player|no=-|pos=FW|name=[[Hendrikus V. "Henk" Zomers]]|age=|caps=|club=[[Hercules Batavia]]|clubnat=Dutch East Indies}}
+{{nat fs end}}
+
+*NB*: Rosters include reserves, alternates, and preselected players that may have participated in qualifiers and/or pre-tournament friendlies but not in the finals themselves.
+
+==References==
+{{reflist|2}}
+
+{{FIFA World Cup}}
+
+{{Use dmy dates|date=June 2013}}
+
+{{DEFAULTSORT:1938 Fifa World Cup Squads}}
+[[Category:1938 FIFA World Cup|Squads]]
+[[Category:FIFA World Cup squads]]

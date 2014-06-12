@@ -1,0 +1,371 @@
+Below are the '''squads''' for the '''[[1950 FIFA World Cup]]''' final tournament in [[Brazil]]. This was the first World Cup where the players' jerseys featured back numbers (allowed in football since 1944), though no teams had fixed numbers for each player (that would only be compulsory from the next World Cup, in 1954). Thus, the players are ordered by name.
+
+The only player representing a foreign club at the tournament was [[George Robledo]] of Chile.
+
+==Group 1==
+
+===Brazil===
+Head coach: [[Flávio Costa]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Moacyr Barbosa|Barbosa]]|age={{Birth date and age2|df=yes|1950|6|24|1921|3|27}} |caps=13|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=2|pos=DF|name=[[Augusto da Costa|Augusto]]|age={{Birth date and age2|df=yes|1950|6|24|1920|10|22}} |caps=12|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=3|pos=DF|name=[[Nílton Santos]]|age={{Birth date and age2|df=yes|1950|6|24|1927|5|16}} |caps=5|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=4|pos=MF|name=[[José Carlos Bauer|Bauer]]|age={{Birth date and age2|df=yes|1950|6|24|1925|11|21}} |caps=6|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=5|pos=MF|name=[[Danilo Alvim|Danilo]]|age={{Birth date and age2|df=yes|1950|6|24|1920|12|3}} |caps=15|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=6|pos=MF|name=[[Bigode]]|age={{Birth date and age2|df=yes|1950|6|24|1922|4|4}} |caps=5|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=7|pos=FW|name=[[Friaça]]|age={{Birth date and age2|df=yes|1950|6|24|1924|10|20}} |caps=6|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=8|pos=FW|name=[[Zizinho]]|age={{Birth date and age2|df=yes|1950|6|24|1922|9|14}} |caps=30|club=[[Bangu Atlético Clube|Bangu]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=9|pos=FW|name=[[Ademir Marques de Menezes|Ademir]]|age={{Birth date and age2|df=yes|1950|6|24|1922|11|8}} |caps=25|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=10|pos=FW|name=[[Jair da Rosa Pinto|Jair]]|age={{Birth date and age2|df=yes|1950|6|24|1921|3|21}} |caps=32|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=11|pos=FW|name=[[Francisco Aramburu|Chico]]|age={{Birth date and age2|df=yes|1950|6|24|1922|1|7}} |caps=15|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Adão Nunes Dornelles|Adãozinho]]|age={{Birth date and age2|df=yes|1950|6|24|1923|4|2}} |caps=2|club=[[Sport Club Internacional|Internacional]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Alfredo Ramos dos Santos|Alfredo]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|1}} |caps=0|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Baltazar (footballer)|Baltazar]]|age={{Birth date and age2|df=yes|1950|6|24|1926|1|14}} |caps=4|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=GK|name=[[Carlos José Castilho|Castilho]]|age={{Birth date and age2|df=yes|1950|6|24|1927|11|27}} |caps=2|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Ely do Amparo|Ely]]|age={{Birth date and age2|df=yes|1950|6|24|1921|5|14}} |caps=8|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Juvenal Amarijo|Juvenal]]|age={{Birth date and age2|df=yes|1950|6|24|1923|11|27}} |caps=4|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Manuel Marinho Alves|Maneca]]|age={{Birth date and age2|df=yes|1950|6|24|1926|1|28}} |caps=3|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=DF|name=[[Olavo Rodrigues Barbosa|Nena]]|age={{Birth date and age2|df=yes|1950|6|24|1921|3|27}} |caps=5|club=[[Sport Club Internacional|Internacional]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Alfredo Eduardo Barreto de Freitas Noronha|Noronha]]|age={{Birth date and age2|df=yes|1950|6|24|1918|9|25}} |caps=15|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=FW|name=[[Francisco Rodrigues (Brazilian footballer)|Rodrigues]]|age={{Birth date and age2|df=yes|1950|6|24|1925|6|27}} |caps=2|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1889}}
+{{nat fs player|no=-|pos=MF|name=[[Rui Campos|Rui]]|age={{Birth date and age2|df=yes|1950|6|24|1922|8|2}} |caps=27|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1889}}
+{{nat fs end}}
+
+===Switzerland===
+Head coach: [[Franco Andreoli]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Charles Antenen]]|age={{Birth date and age2|df=yes|1950|6|24|1929|11|3}} |caps=|club=[[FC La Chaux-de-Fonds]]|clubnat=Switzerland }}
+{{nat fs player|no=-|pos=FW|name=[[René Bader]]|age={{Birth date and age2|df=yes|1950|6|24|1922|8|7}} |caps=|club=[[FC Basel]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Walter Beerli]]|age={{Birth date and age2|df=yes|1950|6|24|1928|7|23}}|caps=|club=[[BSC Young Boys|Young Boys Bern]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Alfred Bickel]]|age={{Birth date and age2|df=yes|1950|6|24|1918|5|2}} |caps=|club=[[Grasshopper Club Zürich|Grasshoppers Club Zurich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Roger Bocquet]]|age={{Birth date and age2|df=yes|1950|6|24|1921|4|9}}|caps=|club=[[Lausanne Sports|Lausanne-Sport]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Eugen Corrodi]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|2}}|caps=|club=[[FC Lugano]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Oliver Eggimann]]|age={{Birth date and age2|df=yes|1950|6|24|1921|8|6}} |caps=|club=[[Servette FC]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Jacques Fatton]]|age={{Birth date and age2|df=yes|1950|6|24|1925|12|19}} |caps=|club=[[Servette FC]]|clubnat=Switzerland }}
+{{nat fs player|no=-|pos=FW|name=[[Hans-Peter Friedländer]]|age={{Birth date and age2|df=yes|1950|6|24|1920|11|6}} |caps=|club=[[Lausanne Sports|Lausanne-Sport]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Rudolf Gyger]]|age={{Birth date and age2|df=yes|1950|6|24|1920|4|16}} |caps=|club=[[Neuchâtel Xamax|Cantonal Neuchâtel]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Robert Hasler]]|age=|caps=|club=[[FC Lugano]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Adolphe Hug]]|age={{Birth date and age2|df=yes|1950|6|24|1923|9|23}} |caps=|club=[[Urania Genf]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Willy Kernen]]|age={{Birth date and age2|df=yes|1950|6|24|1929|8|6}} |caps=|club=[[FC La Chaux-de-Fonds]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Gerhard Lusenti]]|age={{Birth date and age2|df=yes|1950|6|24|1921|4|24}} |caps=|club=[[AC Bellinzona]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[André Neury]]|age={{Birth date and age2|df=yes|1950|6|24|1921|9|3}} |caps=|club=[[FC Locarno]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=MF|name=[[Roger Quinche]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|22}} |caps=|club=[[BSC Young Boys|Young Boys Bern]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Kurt Rey]]|age={{Birth date and age2|df=yes|1950|6|24|1923|12|10}}|caps=|club=[[SC YF Juventus|SC Young Fellows]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Walter Schneiter]]|age=2 July 1923 (age 26)|caps=|club=[[FC Zurich]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Hans Siegenthaler]]|age=5 February 1923 (age 27)|caps=|club=[[SC YF Juventus|SC Young Fellows]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=DF|name=[[Willi Steffen]]|age={{Birth date and age2|df=yes|1950|6|24|1923|5|24}} |caps=|club=[[Neuchâtel Xamax|Cantonal Neuchâtel]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=GK|name=[[Georges Stuber]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|11}} |caps=|club=[[Lausanne Sports|Lausanne-Sport]]|clubnat=Switzerland}}
+{{nat fs player|no=-|pos=FW|name=[[Jean Tamini]]|age={{Birth date and age2|df=yes|1950|6|24|1919|12|9}} |caps=|club=[[Servette FC]]|clubnat=Switzerland}}
+{{nat fs end}}
+
+Felice Soldini travel with the team but was ineligible to play
+
+===Yugoslavia ===
+Head coach: [[Milorad Arsenijević]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Aleksandar Atanacković (footballer born 1920)|Aleksandar Atanacković]]|age={{Birth date and age2|df=yes|1950|6|4|1920|4|29}} |caps=15|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=GK|name=[[Vladimir Beara]]|age={{Birth date and age2|df=yes|1950|6|24|1928|11|2}} |caps=0|club=[[Hajduk Split]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Stjepan Bobek]]|age={{Birth date and age2|df=yes|1950|6|24|1923|12|3}} |caps=26|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Božo Broketa]]|age={{Birth date and age2|df=yes|1950|6|24|1921|12|24}} |caps=3|club=[[Hajduk Split]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Željko Čajkovski]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|5}} |caps=16|club=[[Dinamo Zagreb]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=MF|name=[[Zlatko Čajkovski]]|age={{Birth date and age2|df=yes|1950|6|24|1923|1|24}} |caps=25|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Ratko Čolić]]|age={{Birth date and age2|df=yes|1950|6|24|1918|3|17}} |caps=6|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=MF|name=[[Predrag Đajić]]|age={{Birth date and age2|df=yes|1950|6|24|1922|5|1}} |caps=5|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Vladimir Firm]]|age=1923|caps=3|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Ivica Horvat]]|age={{Birth date and age2|df=yes|1950|6|24|1926|7|16}} |caps=13|club=[[Dinamo Zagreb]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Miodrag Jovanović (footballer born 1922)|Miodrag Jovanović]]|age={{Birth date and age2|df=yes|1950|6|4|1922|1|17}} |caps=18|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=MF|name=[[Ervin Katnić]]|age=|caps=|club=[[Hajduk Split]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Prvoslav Mihajlović]]|age={{Birth date and age2|df=yes|1950|6|24|1921|4|13}} |caps=12|club=[[FK Partizan|Partizan Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Rajko Mitić]]|age={{Birth date and age2|df=yes|1950|6|24|1922|9|6}} |caps=19|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=GK|name=[[Srđan Mrkušić]]|age={{Birth date and age2|df=yes|1950|6|24|1915|6|26}} |caps=4|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Tihomir Ognjanov]]|age={{Birth date and age2|df=yes|1950|6|24|1927|3|2}} |caps=2|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=MF|name=[[Bela Palfi]]|age={{Birth date and age2|df=yes|1950|6|24|1923|2|16}} |caps=1|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=MF|name=[[Ivo Radovniković]]|age=|caps=|club=[[Hajduk Split]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Branko Stanković]]|age={{Birth date and age2|df=yes|1950|6|24|1921|10|31}} |caps=19|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Kosta Tomašević]]|age={{Birth date and age2|df=yes|1950|6|24|1924|5|26}} |caps=6|club=[[Red Star Belgrade]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=FW|name=[[Bernard Vukas]]|age={{Birth date and age2|df=yes|1950|6|24|1927|5|1}} |caps=6|club=[[Hajduk Split]]|clubnat=SFR Yugoslavia}}
+{{nat fs player|no=-|pos=DF|name=[[Siniša Zlatković]]|age=|caps=|club=[[Nasa Krila]]|clubnat=SFR Yugoslavia}}
+{{nat fs end}}
+
+===Mexico ===
+Head coach: [[Octavio Vial]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[José Luis Borbolla]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|31}} |caps=|club=[[Club América]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=GK|name=[[Antonio Carbajal]]|age={{Birth date and age2|df=yes|1950|6|24|1929|6|7}} |caps=|club=[[España FC]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[Horacio Casarín]]|age={{Birth date and age2|df=yes|1950|6|24|1918|5|25}} |caps=|club=[[España FC]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=GK|name=[[Raúl Córdoba]]|age=|caps=|club=[[Club San Sebastian de Leon|San Sebastian Leon]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Samuel Cuburu]]|age={{Birth date and age2|df=yes|1950|6|24|1928|2|20}} |caps=|club=[[Puebla F.C.|FC Puebla]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Antonio Flores (footballer)|Antonio Flores]]|age={{Birth date and age2|df=yes|1950|6|24|1923|7|13}} |caps=|club=[[Club Atlas|Atlas]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[Gregorio Gómez]]|age={{Birth date and age2|df=yes|1950|6|24|1924|6|26}} |caps=|club=[[Chivas de Guadalajara|Deportivo Guadalajara]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Carlos Guevara (footballer)|Carlos Guevara]]|age=|caps=|club=[[Asturias F.C.]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[Manuel Gutiérrez]]|age={{Birth date and age2|df=yes|1950|6|24|1920|4|8}} |caps=|club=[[Club América]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Francisco Hernández (Mexican footballer)|Francisco Hernández]]|age=|caps=|club=[[Asturias F.C.]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[Alfonso Montemayor]]|age={{Birth date and age2|df=yes|1950|6|24|1922|4|28}} |caps=|club=[[Club León|FC Leon]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[José Naranjo]]|age={{Birth date and age2|df=yes|1950|6|24|1926|3|19}} |caps=|club=[[CD Oro|Oro Guadalajara]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[Leonardo Navarro]]|age=|caps=|club=[[Atlante F.C.|FC Atlante]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Mario Ochoa (footballer)|Mario Ochoa]]|age={{Birth date and age2|df=yes|1950|6|24|1927|11|7}} |caps=|club=[[Club América]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Héctor Ortiz (footballer)|Héctor Ortiz]]|age={{Birth date and age2|df=yes|1950|6|24|1928|12|20}} |caps=|club=[[Club Deportivo Marte|CD Marte]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=MF|name=[[Mario Pérez (footballer born 1927)|Mario Pérez]]|age={{Birth date and age2|df=yes|1950|6|24|1927|2|19}} |caps=|club=[[Club Deportivo Marte|CD Marte]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[Max Prieto]]|age={{Birth date and age2|df=yes|1950|6|24|1919|3|28}} |caps=|club=[[Chivas de Guadalajara|Deportivo Guadalajara]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[José Antonio Roca]]|age={{Birth date and age2|df=yes|1950|6|24|1928|5|24}} |caps=|club=[[Necaxa]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[Rodrígo Ruíz (footballer born 1923)|Rodrígo Ruíz]]|age={{Birth date and age2|df=yes|1950|6|24|1923|4|14}} |caps=|club=[[Chivas de Guadalajara|Deportivo Guadalajara]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[Carlos Septién (footballer)|Carlos Septién]]|age={{Birth date and age2|df=yes|1950|6|24|1923|1|18}} |caps=|club=[[España FC]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=FW|name=[[José Velázquez]]|age={{Birth date and age2|df=yes|1950|6|24|1923|8|12}} |caps=|club=[[FC Veracruz]]|clubnat=Mexico|natvar=1934}}
+{{nat fs player|no=-|pos=DF|name=[[Felipe Zetter]]|age={{Birth date and age2|df=yes|1950|6|24|1923|7|3}} |caps=|club=[[Club Atlas|Atlas]]|clubnat=Mexico|natvar=1934}}
+{{nat fs end}}
+
+==Group 2==
+
+===Spain ===
+Head coach: [[Guillermo Eizaguirre]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=GK|name=[[Juan Acuña]]|age={{Birth date and age2|df=yes|1950|6|4|1923|1|11}} |caps=1|club=[[Deportivo de La Coruña]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Gabriel Alonso]]|age={{Birth date and age2|df=yes|1950|6|24|1923|11|9}} |caps=4|club=[[Celta de Vigo]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Francisco Antúnez]]|age={{Birth date and age2|df=yes|1950|6|24|1922|11|1}} |caps=2|club=[[Sevilla FC|CF Sevilla]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Vicente Asensi]]|age={{Birth date and age2|df=yes|1950|6|24|1919|1|28}} |caps=5|club=[[Valencia CF]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Estanislao Basora]]|age={{Birth date and age2|df=yes|1950|6|24|1926|11|18}} |caps=4|club=[[FC Barcelona|CF Barcelona]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[César Rodríguez Álvarez|César]]|age={{Birth date and age2|df=yes|1950|6|24|1920|6|29}} |caps=8|club=[[FC Barcelona|CF Barcelona]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Agustín Gaínza]]|age={{Birth date and age2|df=yes|1950|6|24|1922|5|28}} |caps=14|club=[[Athletic Bilbao|Atlético Bilbao]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Josep Gonzalvo]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|16}} |caps=3|club=[[FC Barcelona|CF Barcelona]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=MF|name=[[Marià Gonzalvo]]|age={{Birth date and age2|df=yes|1950|6|24|1922|3|22}} |caps=8|club=[[FC Barcelona|CF Barcelona]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Rosendo Hernández]]|age={{Birth date and age2|df=yes|1950|6|24|1921|3|1}} |caps=2|club=[[RCD Espanyol]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Silvestre Igoa]]|age={{Birth date and age2|df=yes|1950|6|24|1920|9|5}} |caps=5|club=[[Valencia CF]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=GK|name=[[Ignacio Eizaguirre]]|age={{Birth date and age2|df=yes|1950|6|24|1920|11|7}} |caps=14|club=[[Valencia CF]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[José Juncosa]]|age={{Birth date and age2|df=yes|1950|6|24|1922|2|2}} |caps=1|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Rafael Lesmes]]|age={{Birth date and age2|df=yes|1950|6|24|1926|11|9}} |caps=0|club=[[Real Valladolid|Valladolid]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Luis Molowny]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|12}} |caps=2|club=[[Real Madrid]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=MF|name=[[Fernando González Valenciaga|Nando]]|age={{Birth date and age2|df=yes|1950|6|24|1921|2|1}} |caps=5|club=[[Athletic Bilbao|Atlético Bilbao]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[José Luis Panizo]]|age={{Birth date and age2|df=yes|1950|6|24|1922|1|12}} |caps=6|club=[[Athletic Bilbao|Atlético Bilbao]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[José Parra Martínez|José Parra]]|age={{Birth date and age2|df=yes|1950|6|24|1925|8|28}} |caps=1|club=[[RCD Espanyol]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=MF|name=[[Antonio Puchades]]|age={{Birth date and age2|df=yes|1950|6|24|1925|6|4}} |caps=6|club=[[Valencia CF]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=GK|name=[[Antoni Ramallets]]|age={{Birth date and age2|df=yes|1950|6|24|1924|6|4}} |caps=0|club=[[FC Barcelona|CF Barcelona]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=DF|name=[[Alfonso Silva Placeres|Alfonso Silva]]|age={{Birth date and age2|df=yes|1950|6|24|1926|3|19}} |caps=3|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1945}}
+{{nat fs player|no=-|pos=FW|name=[[Telmo Zarraonaindía|Zarra]]|age={{Birth date and age2|df=yes|1950|6|24|1921|1|20}} |caps=11|club=[[Athletic Bilbao|Atlético Bilbao]]|clubnat=Spain|natvar=1945}}
+{{nat fs end}}
+
+===England ===
+Head coach: [[Walter Winterbottom]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=DF|name=[[John Aston, Sr.|John Aston]]|age={{Birth date and age2|df=yes|1950|6|24|1921|9|2}} |caps=14|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Eddie Baily]]|age={{Birth date and age2|df=yes|1950|6|24|1925|8|6}} |caps=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Roy Bentley]]|age={{Birth date and age2|df=yes|1950|6|24|1924|5|17}} |caps=4|club=[[Chelsea F.C.|Chelsea]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Henry Cockburn (footballer)|Henry Cockburn]]|age={{Birth date and age2|df=yes|1950|6|24|1921|9|14}} |caps=10|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Jimmy Dickinson]]|age={{Birth date and age2|df=yes|1950|6|24|1925|4|24}} |caps=7|club=[[Portsmouth F.C.|Portsmouth]]|clubnat=England}}
+{{nat fs player|no=-|pos=GK|name=[[Ted Ditchburn]]|age={{Birth date and age2|df=yes|1950|6|24|1921|10|24}} |caps=2|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=-|pos=DF|name=[[Bill Eckersley]]|age={{Birth date and age2|df=yes|1950|6|24|1925|7|16}} |caps=0|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Tom Finney]]|age={{Birth date and age2|df=yes|1950|6|24|1922|4|5}} |caps=25|club=[[Preston North End F.C.|Preston North End]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Laurie Hughes]]|age={{Birth date and age2|df=yes|1950|6|24|1924|3|2}} |caps=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Wilf Mannion]]|age={{Birth date and age2|df=yes|1950|6|24|1918|5|16}} |caps=19|club=[[Middlesbrough F.C.|Middlesbrough]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Stanley Matthews]]|age={{Birth date and age2|df=yes|1950|6|24|1915|2|1}} |caps=30|club=[[Blackpool F.C.|Blackpool]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Jackie Milburn]]|age={{Birth date and age2|df=yes|1950|6|24|1924|5|11}} |caps=7|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Stan Mortensen]]|age={{Birth date and age2|df=yes|1950|6|24|1921|5|26}} |caps=18|club=[[Blackpool F.C.|Blackpool]]|clubnat=England}}
+{{nat fs player|no=-|pos=FW|name=[[Jimmy Mullen (footballer born 1923)|Jimmy Mullen]]|age={{Birth date and age2|df=yes|1950|6|24|1923|1|6}} |caps=4|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Bill Nicholson (footballer)|Bill Nicholson]]|age={{Birth date and age2|df=yes|1950|6|24|1919|1|26}} |caps=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=-|pos=DF|name=[[Alf Ramsey]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|22}} |caps=5|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=England}}
+{{nat fs player|no=-|pos=DF|name=[[Laurie Scott (footballer)|Laurie Scott]]|age={{Birth date and age2|df=yes|1950|6|24|1917|4|23}} |caps=17|club=[[Arsenal F.C.|Arsenal]]|clubnat=England}}
+{{nat fs player|no=-|pos=DF|name=[[Jim Taylor (footballer born 1917)|Jim Taylor]]|age={{Birth date and age2|df=yes|1950|6|24|1917|11|5}} |caps=0|club=[[Fulham F.C.|Fulham]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Willie Watson (England cricketer)|Willie Watson]]|age={{Birth date and age2|df=yes|1950|6|24|1920|3|7}} |caps=2|club=[[Sunderland A.F.C.|Sunderland]]|clubnat=England }}
+{{nat fs player|no=-|pos=GK|name=[[Bert Williams (footballer)|Bert Williams]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|31}} |caps=7|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=England}}
+{{nat fs player|no=-|pos=DF|name=[[Billy Wright (footballer born 1924)|Billy Wright]]|age={{Birth date and age2|df=yes|1950|6|24|1924|2|6}} |caps=29|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=England}}
+{{nat fs end}}
+
+===Chile ===
+Head coach: [[Arturo Bucciardi]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=DF|name=[[Manuel Álvarez Jiménez]]|age={{Birth date and age2|df=yes|1950|6|24|1928|5|23}} |caps=3|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=MF|name=[[Miguel Busquets]]|age={{Birth date and age2|df=yes|1950|6|24|1920|10|15}} |caps=15|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=MF|name=[[Fernando Campos]]|age={{Birth date and age2|df=yes|1950|6|24|1921|8|9}}|caps=5|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=MF|name=[[Hernán Carvallo]]|age={{Birth date and age2|df=yes|1950|6|24|1922|8|19}} |caps=5|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Atilio Cremaschi]]|age={{Birth date and age2|df=yes|1950|6|24|1923|3|8}} |caps=10|club=[[Unión Española]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Guillermo Díaz (Chilean footballer)|Guillermo Díaz]]|age={{Birth date and age2|df=yes|1950|6|4|1930|12|29}} |caps=4|club=[[Santiago Wanderers]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=DF|name=[[Arturo Farías]]|age={{Birth date and age2|df=yes|1950|6|24|1927|11|1}} |caps=4|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=DF|name=[[Miguel Flores (footballer)|Miguel Flores]]|age=|caps=0|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Carlos Ibáñez (footballer)|Carlos Ibáñez]]|age={{Birth date and age2|df=yes|1950|6|24|1931|11|30}} |caps=0|club=[[C.D. Magallanes|Magallanes]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Raimundo Infante]]|age={{Birth date and age2|df=yes|1950|6|24|1928|2|2}}|caps=13|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=GK|name=[[Sergio Livingstone]]|age={{Birth date and age2|df=yes|1950|6|24|1920|3|26}} |caps=31|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=DF|name=[[Manuel Machuca]]|age={{Birth date and age2|df=yes|1950|6|24|1924|6|6}}
+|caps=18|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Luis Mayanés]]|age={{Birth date and age2|df=yes|1950|6|24|1925|1|15}} |caps=0|club=[[C.F. Universidad de Chile|Universidad de Chile]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Manuel Muñoz (footballer)|Manuel Muñoz]]|age={{Birth date and age2|df=yes|1950|6|24|1928|4|28}}|caps=0|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Andrés Prieto]]|age={{Birth date and age2|df=yes|1950|6|24|1928|12|19}} |caps=9|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=GK|name=[[René Quitral]]|age={{Birth date and age2|df=yes|1950|6|24|1920|7|22}}|caps=0|club=[[Santiago Wanderers]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[Fernando Riera]]|age={{Birth date and age2|df=yes|1950|6|24|1920|6|27}} |caps=16|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=FW|name=[[George Robledo]]|age={{Birth date and age2|df=yes|1950|6|24|1926|4|14}} |caps=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=England}}
+{{nat fs player|no=-|pos=MF|name=[[Carlos Rojas]]|age={{Birth date and age2|df=yes|1950|6|24|1928|10|2}}|caps=5|club=[[Unión Española]]|clubnat=Chile}} 
+{{nat fs player|no=-|pos=DF|name=[[Fernando Roldán]]|age={{Birth date and age2|df=yes|1950|6|24|1921|4|1}}|caps=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=MF|name=[[Osvaldo Saez]]|age={{Birth date and age2|df=yes|1950|6|24|1923|8|13}}|caps=11|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs player|no=-|pos=DF|name=[[Francisco Urroz]]|age={{Birth date and age2|df=yes|1950|6|24|1921|10|31}}|caps=10|club=[[Colo-Colo]]|clubnat=Chile}}
+{{nat fs end}}
+
+===United States ===
+Head coach: [[William Jeffrey (soccer)|William Jeffrey]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=DF|name=[[Robert Annis]]|age={{Birth date and age2|df=yes|1950|6|24|1928|9|5}} |caps=1|club=[[St. Louis Simpkins-Ford]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=MF|name=[[Walter Bahr]]|age={{Birth date and age2|df=yes|1950|6|24|1927|4|1}} |caps=7|club=[[Philadelphia Nationals]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=GK|name=[[Frank Borghi]]|age={{Birth date and age2|df=yes|1950|6|24|1925|4|9}} |caps=4|club=[[St. Louis Simpkins-Ford]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=MF|name=[[Charlie Colombo]]|age={{Birth date and age2|df=yes|1950|6|24|1920|7|20}} |caps=7|club=[[St. Louis Simpkins-Ford]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=DF|name=[[Geoff Coombes]]|age={{Birth date and age2|df=yes|1950|6|24|1919|4|23}} |caps=0|club=[[Chicago Vikings]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Robert Craddock]]|age={{Birth date and age2|df=yes|1950|6|24|1923|9|5}} |caps=0|club=[[Pittsburgh Harmarville S.C.]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Nicholas DiOrio]]|age={{Birth date and age2|df=yes|1950|6|24|1921|2|4}} |caps=0|club=[[Pittsburgh Harmarville S.C.]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Joe Gaetjens]]|age={{Birth date and age2|df=yes|1950|6|24|1924|3|19}} |caps=0|club=[[Brookhattan]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=GK|name=[[Gino Gardassanich]]|age={{Birth date and age2|df=yes|1950|6|24|1922|11|26}} |caps=0|club=[[Chicago Slovaks]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=DF|name=[[Harry Keough]]|age={{Birth date and age2|df=yes|1950|6|24|1927|11|15}} |caps=3|club=[[St. Louis McMahon]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=DF|name=[[Joe Maca]]|age={{Birth date and age2|df=yes|1950|6|24|1920|9|28}} |caps=0|club=[[Brooklyn Hispano]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=MF|name=[[Ed McIlvenny]]|age={{Birth date and age2|df=yes|1950|6|24|1924|10|21}} |caps=0|club=[[Philadelphia Nationals]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Benny McLaughlin]]|age={{Birth date and age2|df=yes|1950|6|24|1928|4|10}}|caps=0|club=[[Philadelphia Nationals]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Frank Moniz]]|age={{Birth date and age2|df=yes|1950|6|24|1911|9|26}}|caps=0|club=[[Ponta Delgada S.C.]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Gino Pariani]]|age={{Birth date and age2|df=yes|1950|6|24|1928|2|21}} |caps=2|club=[[St. Louis Simpkins-Ford]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Ed Souza]]|age={{Birth date and age2|df=yes|1950|6|24|1921|9|22}} |caps=2|club=[[Ponta Delgada S.C.]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[John Souza]]|age={{Birth date and age2|df=yes|1950|6|24|1920|7|12}} |caps=9|club=[[Ponta Delgada S.C.]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Frank Wallace (soccer)|Frank Wallace]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|15}} |caps=4|club=[[St. Louis Simpkins-Ford]]|clubnat=United States|natvar=1912}}
+{{nat fs player|no=-|pos=FW|name=[[Adam Wolanin]]|age={{Birth date and age2|df=yes|1950|6|24|1919|11|13}} |caps=0|club=[[Chicago Eagles]]|clubnat=United States|natvar=1912}}
+{{nat fs end}}
+
+==Group 3==
+
+===Sweden===
+Head coach: {{flagicon|England}} [[George Raynor]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=MF|name=[[Olle Åhlund]]|age={{Birth date and age2|df=yes|1950|6|24|1920|8|22}} |caps=15|club=[[Degerfors IF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Sune Andersson]]|age={{Birth date and age2|df=yes|1950|6|24|1921|2|22}} |caps=23|club=[[AIK Fotboll|AIK Stockholm]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Ivan Bodin]]|age={{Birth date and age2|df=yes|1950|6|24|1923|7|20}} |caps=0|club=[[AIK Fotboll|AIK Stockholm]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Ingvar Gärd]]|age={{Birth date and age2|df=yes|1950|6|24|1921|10|6}} |caps=1|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Hasse Jeppson]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|10}} |caps=1|club=[[Djurgårdens IF Fotboll|Djurgårdens IF Stockholm]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Gunnar Johansson (footballer)|Gunnar Johansson]]|age={{Birth date and age2|df=yes|1950|6|4|1924|2|29}} |caps=0|club=[[GAIS]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Egon Jönsson]]|age={{Birth date and age2|df=yes|1950|6|24|1926|12|6}} |caps=7|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=GK|name=[[Torsten Lindberg]]|age={{Birth date and age2|df=yes|1950|6|24|1917|4|14}} |caps=18|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=*|pos=DF|name=[[Arne Månsson]]|age={{Birth date and age2|df=yes|1950|6|24|1925|11|11}} |caps=1|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Bror Mellberg]]|age={{Birth date and age2|df=yes|1950|6|24|1923|12|9}} |caps=1|club=[[AIK Fotboll|AIK Stockholm]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Erik Nilsson]]|age={{Birth date and age2|df=yes|1950|6|24|1916|8|6}} |caps=28|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Stellan Nilsson]]|age={{Birth date and age2|df=yes|1950|6|24|1922|5|28}} |caps=15|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=MF|name=[[Knut Nordahl]]|age={{Birth date and age2|df=yes|1950|6|24|1920|1|13}} |caps=22|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Karl-Erik Palmér]]|age={{Birth date and age2|df=yes|1950|6|24|1929|4|17}} |caps=5|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Ingvar Rydell]]|age={{Birth date and age2|df=yes|1950|6|24|1922|5|7}} |caps=2|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=DF|name=[[Lennart Samuelsson]]|age={{Birth date and age2|df=yes|1950|6|24|1924|7|7}} |caps=1|club=[[IF Elfsborg|IF Elfsborg Borås]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Lennart Skoglund]]|age={{Birth date and age2|df=yes|1950|6|24|1929|12|24}} |caps=1|club=[[AIK Fotboll|AIK Stockholm]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Stig Sundqvist]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|19}} |caps=6|club=[[IFK Norrköping]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=GK|name=[[Kalle Svensson]]|age={{Birth date and age2|df=yes|1950|6|24|1925|11|11}} |caps=4|club=[[Helsingborgs IF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Kurt Svensson]]|age={{Birth date and age2|df=yes|1950|6|24|1927|4|15}} |caps=0|club=[[IS Halmia]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=GK|name=[[Tore Svensson]]|age={{Birth date and age2|df=yes|1950|6|24|1927|12|6}} |caps=0|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=-|pos=FW|name=[[Börje Tapper]]|age={{Birth date and age2|df=yes|1950|6|24|1922|5|20}} |caps=4|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs end}}
+
+===Italy ===
+Head coach: [[Ferruccio Novo]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Amedeo Amadei]]|age={{Birth date and age2|df=yes|1950|6|24|1921|7|26}} |caps=6|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=DF|name=[[Carlo Annovazzi]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|24}} |caps=10|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=DF|name=[[Ivano Blason]]|age={{Birth date and age2|df=yes|1950|6|24|1923|5|24}} |caps=0|club=[[U.S. Triestina Calcio|Triestina]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Giampiero Boniperti]]|age={{Birth date and age2|df=yes|1950|6|24|1928|7|4}} |caps=6|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Aldo Campatelli]]|age={{Birth date and age2|df=yes|1950|6|24|1919|4|7}} |caps=6|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Gino Cappello]]|age={{Birth date and age2|df=yes|1950|6|24|1920|6|2}} |caps=3|club=[[Bologna F.C. 1909|Bologna]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Emilio Caprile]]|age={{Birth date and age2|df=yes|1950|6|24|1928|9|30}} |caps=2|club=[[Atalanta B.C.|Atalanta]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Riccardo Carapellese]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|1}} |caps=11|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=GK|name=[[Giuseppe Casari]]|age={{Birth date and age2|df=yes|1950|6|24|1922|4|10}} |caps=2|club=[[Atalanta B.C.|Atalanta]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=DF|name=[[Osvaldo Fattori]]|age={{Birth date and age2|df=yes|1950|6|24|1922|6|22}} |caps=3|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=DF|name=[[Zeffiro Furiassi]]|age={{Birth date and age2|df=yes|1950|6|24|1923|1|19}} |caps=0|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=DF|name=[[Attilio Giovannini]]|age={{Birth date and age2|df=yes|1950|6|24|1924|7|30}} |caps=4|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Benito Lorenzi]]|age={{Birth date and age2|df=yes|1950|6|24|1925|12|20}} |caps=5|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=MF|name=[[Augusto Magli]]|age={{Birth date and age2|df=yes|1950|6|24|1923|3|9}} |caps=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=MF|name=[[Giacomo Mari]]|age={{Birth date and age2|df=yes|1950|6|24|1924|10|17}} |caps=3|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=GK|name=[[Giuseppe Moro]]|age={{Birth date and age2|df=yes|1950|6|24|1921|1|16}} |caps=2|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Ermes Muccinelli]]|age={{Birth date and age2|df=yes|1950|6|24|1927|7|28}} |caps=2|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=FW|name=[[Egisto Pandolfini]]|age={{Birth date and age2|df=yes|1950|6|24|1926|2|19}} |caps=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=MF|name=[[Carlo Parola]]|age={{Birth date and age2|df=yes|1950|6|24|1921|9|20}} |caps=9|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=MF|name=[[Leandro Remondini]]|age={{Birth date and age2|df=yes|1950|6|24|1917|11|17}} |caps=0|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=GK|name=[[Lucidio Sentimenti]]|age={{Birth date and age2|df=yes|1950|6|24|1920|7|1}} |caps=7|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=-|pos=MF|name=[[Omero Tognon]]|age={{Birth date and age2|df=yes|1950|6|24|1924|3|3}} |caps=4|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs end}}
+
+===Paraguay ===
+Head coach: [[Manuel Fleitas Solich]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Enrique Avalos]]|age=1922|caps=|club=[[Cerro Porteño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Marcial Avalos]]|age=|caps=|club=[[Cerro Porteño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=MF|name=[[Melanio Baez]]|age=|caps=|club=[[Club Nacional|Nacional]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Ángel Berni]]|age={{Birth date and age2|df=yes|1950|6|24|1931|1|9}} |caps=|club=[[Club Sportivo Luqueño|Sportivo Luqueño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=DF|name=[[Antonio Cabrera]]|age=|caps=|club=[[Club Libertad|Libertad]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Lorenzo Calonga]]|age=|caps=|club=[[Club Guaraní|Guaraní]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Cañete]]|age={{Birth date and age2|df=yes|1950|6|24|1929|7|27}} |caps=|club=[[Club Presidente Hayes|Presidente Hayes]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=MF|name=[[Castor Cantero]]|age={{Birth date and age2|df=yes|1950|6|24|1918|1|12}} |caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=GK|name=[[Pablo Centurión]]|age=|caps=|club=[[Cerro Porteño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=DF|name=[[Casiano Céspedes]]|age=1924|caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=DF|name=[[Manuel Gavilán]]|age=1921|caps=|club=[[Club Libertad|Libertad]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=DF|name=[[Alberto González Gonzalito|Alberto González]]|age=1922|caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=MF|name=[[Armando González]]|age=|caps=|club=[[Club Guaraní|Guaraní]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=MF|name=[[Victoriano Leguizamón]]|age=1923|caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Atilio López]]|age={{Birth date and age2|df=yes|1950|6|24|1925|2|5}} |caps=|club=[[Club Nacional|Nacional]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[César López Fretes]]|age={{Birth date and age2|df=yes|1950|6|24|1923|3|21}} |caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Hilarión Osorio]]|age=|caps=|club=[[Club Sportivo Luqueño|Sportivo Luqueño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=DF|name=[[Elioro Paredes]]|age={{Birth date and age2|df=yes|1950|6|24|1921|6|19}} |caps=|club=[[Club Sportivo Luqueño|Sportivo Luqueño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Darío Saguier]]|age={{Birth date and age2|df=yes|1950|6|24|1926|9|11}} |caps=|club=[[Cerro Porteño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Francisco Sosa]]|age=1918|caps=|club=[[Cerro Porteño]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=FW|name=[[Leongino Unzaim]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|16}} |caps=|club=[[Club Olimpia|Olimpia]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs player|no=-|pos=GK|name=[[Marcelino Vargas]]|age=1921|caps=|club=[[Club Libertad|Libertad]]|clubnat=Paraguay|natvar=1842}}
+{{nat fs end}}
+
+==Group 4==
+
+===Uruguay===
+Head coach: [[Juan López Fontana|Juan López]]
+{{nat fs start}}
+{{nat fs player|no=-|pos=FW|name=[[Julio César Britos]]|age={{Birth date and age2|df=yes|1950|6|24|1926|5|18}} |caps=10|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Burgueño]]|age={{Birth date and age2|df=yes|1950|6|24|1923|2|4}} |caps=4|club=[[Danubio F.C.|Danubio]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[Schubert Gambetta]]|age={{Birth date and age2|df=yes|1950|6|24|1920|4|14}} |caps=39|club=[[Club Nacional de Football|Nacional]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Alcides Ghiggia]]|age={{Birth date and age2|df=yes|1950|6|24|1926|12|22}} |caps=3|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[Juan Carlos González]]|age={{Birth date and age2|df=yes|1950|6|24|1924|8|22}} |caps=3|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[Matías González]]|age={{Birth date and age2|df=yes|1950|6|24|1925|8|6}} |caps=7|club=[[C.A. Cerro|Cerro]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[William Martínez]]|age={{Birth date and age2|df=yes|1950|6|24|1928|1|13}} |caps=3|club=[[Rampla Juniors]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=GK|name=[[Roque Máspoli]]|age={{Birth date and age2|df=yes|1950|6|24|1917|10|12}} |caps=27|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Oscar Míguez]]|age={{Birth date and age2|df=yes|1950|6|24|1927|12|5}} |caps=5|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Rubén Morán]]|age={{Birth date and age2|df=yes|1950|6|24|1930|8|6}} |caps=2|club=[[C.A. Cerro|Cerro]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=MF|name=[[Washington Ortuño]]|age={{Birth date and age2|df=yes|1950|6|24|1928|5|13}} |caps=0|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=GK|name=[[Aníbal Paz]]|age={{Birth date and age2|df=yes|1950|6|24|1918|2|18}} |caps=23|club=[[Club Nacional de Football|Nacional]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Julio Pérez]]|age={{Birth date and age2|df=yes|1950|6|24|1926|6|19}} |caps=7|club=[[Club Nacional de Football|Nacional]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=MF|name=[[Rodolfo Pini]]|age=1926|caps=6|club=[[Club Nacional de Football|Nacional]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Luis Rijo]]|age={{Birth date and age2|df=yes|1950|6|24|1927|9|28}} |caps=0|club=[[Central Español|Central]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=MF|name=[[Víctor Rodríguez Andrade]]|age={{Birth date and age2|df=yes|1950|6|24|1927|5|2}} |caps=11|club=[[Central Español|Central]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Carlos Romero (footballer)|Carlos Romero]]|age={{Birth date and age2|df=yes|1950|6|24|1927|9|7}} |caps=3|club=[[Danubio F.C.|Danubio]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Alberto Schiaffino]]|age={{Birth date and age2|df=yes|1950|6|24|1925|7|28}} |caps=9|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[Eusebio Tejera]]|age={{Birth date and age2|df=yes|1950|6|24|1922|1|6}} |caps=28|club=[[Club Nacional de Football|Nacional]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=MF|name=[[Obdulio Varela]]|age={{Birth date and age2|df=yes|1950|6|24|1917|9|20}} |caps=39|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=FW|name=[[Ernesto Vidal]]|age={{Birth date and age2|df=yes|1950|6|24|1921|11|15}} |caps=0|club=[[C.A. Peñarol|Peñarol]]|clubnat=Uruguay}}
+{{nat fs player|no=-|pos=DF|name=[[Héctor Vilches]]|age={{Birth date and age2|df=yes|1950|6|24|1926|2|14}} |caps=5|club=[[C.A. Cerro|Cerro]]|clubnat=Uruguay}}
+{{nat fs end}}
+
+===Bolivia ===
+Head coach: {{flagicon|Italy}}
+[[Mario Pretto]] {{nat fs start}}
+{{nat fs player|no=-|pos=DF|name=[[Alberto Figueroa de Acha]]|age={{Birth date and age2|df=yes|1950|6|4|1920|4|3}} |caps=23|club=[[The Strongest]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Víctor Celestino Algarañaz]]|age={{Birth date and age2|df=yes|1950|6|24|1926|4|6}} |caps=8|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Alberto Aparicio]]|age={{Birth date and age2|df=yes|1950|6|24|1923|11|11}} |caps=0|club=[[Ferroviario La Paz]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Duberty Aráoz]]|age={{Birth date and age2|df=yes|1950|6|24|1920|12|21}} |caps=10|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=GK|name=[[Vicente Arraya]]|age={{Birth date and age2|df=yes|1950|6|24|1922|1|25}} |caps=26|club=[[Ferroviario La Paz]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Juan Arricio]]|age={{Birth date and age2|df=yes|1950|6|24|1923|12|11}} |caps=0|club=[[Ayacucho La Paz]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Víctor Brown]]|age={{Birth date and age2|df=yes|1950|6|24|1927|3|7}} |caps=2|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=DF|name=[[José Bustamante (footballer born 1921)|José Bustamante]]|age={{Birth date and age2|df=yes|1950|6|24|1922|3|5}} |caps=31|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[René Cabrera]]|age={{Birth date and age2|df=yes|1950|6|24|1925|10|21}} |caps=8|club=[[Club Jorge Wilstermann]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Roberto Capparelli]]|age={{Birth date and age2|df=yes|1950|6|24|1921|11|18}} |caps=0|club=[[The Strongest]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Leonardo Ferrel]]|age={{Birth date and age2|df=yes|1950|6|24|1923|7|7}} |caps=18|club=[[The Strongest]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Benedicto Godoy Véizaga]]|age={{Birth date and age2|df=yes|1950|6|24|1924|7|28}} |caps=9|club=[[Ferroviario La Paz]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=DF|name=[[Antonio Greco]]|age={{Birth date and age2|df=yes|1950|6|24|1923|9|17}} |caps=0|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Juan Guerra (footballer)|Juan Guerra]]|age={{Birth date and age2|df=yes|1950|6|24|1927|4|13}} |caps=9|club=[[Ferroviario La Paz]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Benigno Gutiérrez]]|age={{Birth date and age2|df=yes|1950|6|24|1925|9|1}} |caps=15|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=GK|name=[[Eduardo Gutiérrez (footballer)|Eduardo Gutiérrez]]|age={{Birth date and age2|df=yes|1950|6|24|1922|9|2}} |caps=12|club=[[CD Ingavi]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Benjamin Maldonado]]|age={{Birth date and age2|df=yes|1950|6|24|1928|1|4}} |caps=4|club=[[Club San José|San Jose de Oruro]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Mario Mena]]|age={{Birth date and age2|df=yes|1950|6|24|1928|7|28}} |caps=9|club=[[Club Bolívar]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Humberto Saavedra]]|age={{Birth date and age2|df=yes|1950|6|24|1923|8|3}} |caps=0|club=[[The Strongest]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Eulogio Sandoval]]|age={{Birth date and age2|df=yes|1950|6|24|1922|7|22}} |caps=0|club=[[Club Litoral]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=FW|name=[[Víctor Agustín Ugarte]]|age={{Birth date and age2|df=yes|1950|6|24|1926|5|5}} |caps=16|club=[[Club Bolívar]]|clubnat=Bolivia}}
+{{nat fs player|no=-|pos=MF|name=[[Antonio Valencia (Bolivian footballer)|Antonio Valencia]]|age={{Birth date and age2|df=yes|1950|6|24|1925|5|10}} |caps=9|club=[[Club Bolívar]]|clubnat=Bolivia}}
+{{nat fs end}}
+
+*NB*: Rosters include reserves, alternates, and preselected players that may have participated in qualifiers and/or pre-tournament friendlies but not in the finals themselves.
+
+{{FIFA World Cup}}
+
+{{Use dmy dates|date=June 2013}}
+
+{{DEFAULTSORT:1950 Fifa World Cup Squads}}
+[[Category:1950 FIFA World Cup|Squads]]
+[[Category:FIFA World Cup squads]]

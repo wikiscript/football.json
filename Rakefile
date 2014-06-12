@@ -7,10 +7,10 @@ task :default => :build
 
 task :build  do
   puts 'hello from squad reader/builder'
-  
-  b = SquadsBuilder.new( './world-cup'  )
-  
-  b.read( '2014--brazil' )
+
+  b = SquadsBuilder.new( './world-cup' )
+
+  b.read( '2014_FIFA_World_Cup_squads' )
   ## b.dump
 
   # filenames for teams
