@@ -1,0 +1,459 @@
+Below are the '''squads''' for the '''[[1978 FIFA World Cup]]''' final tournament in [[Argentina]].
+
+==Group 1==
+
+==={{fb|ARG|alt}}===
+
+Head coach: [[César Luis Menotti]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=MF|name=[[Norberto Alonso]]|age={{Birth date and age2|df=yes|1978|6|1|1953|1|4}}|caps=|club=[[Club Atlético River Plate|River Plate]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=2|pos=MF|name=[[Osvaldo Ardiles]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|3}}|caps=|club=[[Club Atlético Huracán|Huracán]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=3|pos=GK|name=[[Héctor Baley]]|age={{Birth date and age2|df=yes|1978|6|1|1950|11|16}}|caps=|club=[[Club Atlético Huracán|Huracán]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=4|pos=MF|name=[[Daniel Bertoni]]|age={{Birth date and age2|df=yes|1978|6|1|1955|3|14}}|caps=|club=[[Club Atlético Independiente|Independiente]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=5|pos=GK|name=[[Ubaldo Fillol]]|age={{Birth date and age2|df=yes|1978|6|1|1950|7|21}}|caps=|club=[[Club Atlético River Plate|River Plate]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=6|pos=MF|name=[[Américo Gallego]]|age={{Birth date and age2|df=yes|1978|6|1|1955|5|24}}|caps=|club=[[Newell's Old Boys]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=7|pos=DF|name=[[Luis Galván]]|age={{Birth date and age2|df=yes|1978|6|1|1948|2|24}}|caps=|club=[[Talleres de Córdoba]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=8|pos=MF|name=[[Rubén Galván (footballer)|Rubén Galván]]|age={{Birth date and age2|df=yes|1978|6|1|1952|4|7}}|caps=|club=[[Club Atlético Independiente|Independiente]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=9|pos=MF|name=[[René Houseman]]|age={{Birth date and age2|df=yes|1978|6|1|1953|7|19}}|caps=|club=[[Club Atlético Huracán|Huracán]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=10|pos=FW|name=[[Mario Kempes]]|age={{Birth date and age2|df=yes|1978|6|1|1954|7|15}}|caps=|club=[[Valencia CF|Valencia]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=11|pos=DF|name=[[Daniel Killer]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|21}}|caps=|club=[[Racing Club de Avellaneda|Racing Club]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=12|pos=MF|name=[[Omar Larrosa]]|age={{Birth date and age2|df=yes|1978|6|1|1947|11|18}}|caps=|club=[[Club Atlético Independiente|Independiente]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=13|pos=GK|name=[[Ricardo La Volpe]]|age={{Birth date and age2|df=yes|1978|6|1|1952|2|6}}|caps=|club=[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=14|pos=FW|name=[[Leopoldo Luque]]|age={{Birth date and age2|df=yes|1978|6|1|1949|5|3}}|caps=|club=[[Club Atlético River Plate|River Plate]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=15|pos=DF|name=[[Jorge Olguín]]|age={{Birth date and age2|df=yes|1978|6|1|1952|5|17}}|caps=|club=[[Club Atlético San Lorenzo de Almagro|San Lorenzo]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=16|pos=MF|name=[[Oscar Alberto Ortiz|Oscar Ortiz]]|age={{Birth date and age2|df=yes|1978|6|1|1953|4|8}}|caps=|club=[[Club Atlético River Plate|River Plate]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=17|pos=MF|name=[[Miguel Oviedo]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|12}}|caps=|club=[[Talleres de Córdoba]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=18|pos=DF|name=[[Rubén Pagnanini]]|age={{Birth date and age2|df=yes|1978|6|1|1949|1|31}}|caps=|club=[[Club Atlético Independiente|Independiente]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=19|pos=DF|name=[[Daniel Passarella]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1953|5|25}}|caps=|club=[[Club Atlético River Plate|River Plate]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=20|pos=DF|name=[[Alberto Tarantini]]|age={{Birth date and age2|df=yes|1978|6|1|1955|12|3}}|caps=|club=[[Boca Juniors]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=21|pos=MF|name=[[José Daniel Valencia]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|3}}|caps=|club=[[Talleres de Córdoba]]|clubnat=Argentina|natvar=alt}}
+{{nat fs player|no=22|pos=MF|name=[[Ricardo Villa]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|18}} |caps=|club=[[Racing Club de Avellaneda|Racing Club]]|clubnat=Argentina|natvar=alt}}
+{{nat fs end}}
+Note that this squad is numbered alphabetically by surname, unlike traditional numbering systems where the [[Goalkeeper (association football)|goalkeeper]] has shirt number 1 and so forth.
+
+==={{fb|FRA}}===
+
+Head coach: [[Michel Hidalgo]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Dominique Baratelli]]|age={{Birth date and age2|df=yes|1978|6|1|1947|12|26}}|caps=18|club=[[OGC Nice|Nice]]|clubnat=France}}
+{{nat fs player|no=2|pos=DF|name=[[Patrick Battiston]]|age={{Birth date and age2|df=yes|1978|6|1|1957|3|12}}|caps=5|club=[[FC Metz|Metz]]|clubnat=France}}
+{{nat fs player|no=3|pos=DF|name=[[Maxime Bossis]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|26}}|caps=11|club=[[FC Nantes Atlantique|Nantes]]|clubnat=France}}
+{{nat fs player|no=4|pos=DF|name=[[Gérard Janvion]]|age={{Birth date and age2|df=yes|1978|6|1|1953|8|21}}|caps=15|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=5|pos=DF|name=[[François Bracci]]|age={{Birth date and age2|df=yes|1978|6|1|1951|11|3}}|caps=15|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=6|pos=DF|name=[[Christian Lopez]]|age={{Birth date and age2|df=yes|1978|6|1|1953|3|15}}|caps=12|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=7|pos=DF|name=[[Patrice Rio]]|age={{Birth date and age2|df=yes|1978|6|1|1948|8|15}}|caps=15|club=[[FC Nantes Atlantique|Nantes]]|clubnat=France}}
+{{nat fs player|no=8|pos=DF|name=[[Marius Trésor]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1950|1|15}}|caps=36|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=9|pos=MF|name=[[Dominique Bathenay]]|age={{Birth date and age2|df=yes|1978|6|1|1954|2|13}}|caps=12|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=10|pos=MF|name=[[Jean-Marc Guillou]]|age={{Birth date and age2|df=yes|1978|6|1|1945|12|20}}|caps=18|club=[[OGC Nice|Nice]]|clubnat=France}}
+{{nat fs player|no=11|pos=MF|name=[[Henri Michel]]|age={{Birth date and age2|df=yes|1978|6|1|1947|10|28}}|caps=52|club=[[FC Nantes Atlantique|Nantes]]|clubnat=France}}
+{{nat fs player|no=12|pos=MF|name=[[Claude Papi]]|age={{Birth date and age2|df=yes|1978|6|1|1949|4|16}}|caps=2|club=[[Sporting Club de Bastia|Bastia]]|clubnat=France}}
+{{nat fs player|no=13|pos=MF|name=[[Jean Petit]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|25}}|caps=3|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=14|pos=FW|name=[[Marc Berdoll]]|age={{Birth date and age2|df=yes|1978|6|1|1953|4|6}}|caps=10|club=[[Olympique de Marseille|Marseille]]|clubnat=France}}
+{{nat fs player|no=15|pos=MF|name=[[Michel Platini]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|21}}|caps=15|club=[[AS Nancy|Nancy]]|clubnat=France}}
+{{nat fs player|no=16|pos=FW|name=[[Christian Dalger]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|19}}|caps=5|club=[[AS Monaco FC|AS Monaco]]|clubnat=France}}
+{{nat fs player|no=17|pos=FW|name=[[Bernard Lacombe]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|15}}|caps=14|club=[[Olympique Lyonnais|Lyon]]|clubnat=France}}
+{{nat fs player|no=18|pos=MF|name=[[Dominique Rocheteau]]|age={{Birth date and age2|df=yes|1978|6|1|1955|1|14}}|caps=10|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=France}}
+{{nat fs player|no=19|pos=MF|name=[[Didier Six]]|age={{Birth date and age2|df=yes|1978|6|1|1954|8|21}}|caps=15|club=[[RC Lens|Lens]]|clubnat=France}}
+{{nat fs player|no=20|pos=FW|name=[[Olivier Rouyer]]|age={{Birth date and age2|df=yes|1978|6|1|1955|12|1}}|caps=9|club=[[AS Nancy|Nancy]]|clubnat=France}}
+{{nat fs player|no=21|pos=GK|name=[[Jean-Paul Bertrand-Demanes]]|age={{Birth date and age2|df=yes|1978|6|1|1952|5|23}}|caps=9|club=[[FC Nantes Atlantique|Nantes]]|clubnat=France}}
+{{nat fs player|no=22|pos=GK|name=[[Dominique Dropsy]]|age={{Birth date and age2|df=yes|1978|6|1|1951|12|9}}|caps=0|club=[[RC Strasbourg|Strasbourg]]|clubnat=France}}
+{{nat fs end}}
+
+==={{fb|HUN}}===
+
+Head coach: [[Lajos Baróti]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sándor Gujdár]]|age={{Birth date and age2|df=yes|1978|6|1|1951|11|8}}|caps=19|club=[[Budapest Honvéd FC]]|clubnat=Hungary}}
+{{nat fs player|no=2|pos=DF|name=[[Péter Török]]|age={{Birth date and age2|df=yes|1978|6|1|1951|4|18}}|caps=29|club=[[Vasas SC]]|clubnat=Hungary}}
+{{nat fs player|no=3|pos=DF|name=[[István Kocsis]]|age={{Birth date and age2|df=yes|1978|6|1|1949|10|6}}|caps=6|club=[[Budapest Honvéd FC]]|clubnat=Hungary}}
+{{nat fs player|no=4|pos=MF|name=[[József Tóth (born 1951)|József Tóth]]|age={{Birth date and age2|df=yes|1978|6|1|1951|12|2}}|caps=25|club=[[Újpesti Dózsa FC]]|clubnat=Hungary}}
+{{nat fs player|no=5|pos=MF|name=[[Sándor Zombori]]|age={{Birth date and age2|df=yes|1978|6|1|1951|10|31}}|caps=16|club=[[Vasas SC]]|clubnat=Hungary}}
+{{nat fs player|no=6|pos=DF|name=[[Zoltán Kereki]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1953|7|13}}|caps=24|club=[[Haladás VSE]]|clubnat=Hungary}}
+{{nat fs player|no=7|pos=FW|name=[[László Fazekas]]|age={{Birth date and age2|df=yes|1978|6|1|1947|10|15}}|caps=71|club=[[Újpesti Dózsa FC]]|clubnat=Hungary}}
+{{nat fs player|no=8|pos=FW|name=[[Tibor Nyilasi]]|age={{Birth date and age2|df=yes|1978|6|1|1955|1|18}}|caps=26|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary}}
+{{nat fs player|no=9|pos=FW|name=[[András Törőcsik]]|age={{Birth date and age2|df=yes|1978|6|1|1955|5|1}}|caps=11|club=[[Újpesti Dózsa FC]]|clubnat=Hungary}}
+{{nat fs player|no=10|pos=MF|name=[[Sándor Pintér (footballer)|Sándor Pintér]]|age={{Birth date and age2|df=yes|1978|6|1|1950|7|18}}|caps=32|club=[[Budapest Honvéd FC]]|clubnat=Hungary}}
+{{nat fs player|no=11|pos=FW|name=[[Béla Várady]]|age={{Birth date and age2|df=yes|1978|6|1|1953|4|12}}|caps=28|club=[[Vasas SC]]|clubnat=Hungary}}
+{{nat fs player|no=12|pos=DF|name=[[Győző Martos]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|15}}|caps=11|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary}}
+{{nat fs player|no=13|pos=MF|name=[[Károly Csapó]]|age={{Birth date and age2|df=yes|1978|6|1|1952|2|23}}|caps=5|club=[[Tatabányai BSK]]|clubnat=Hungary}}
+{{nat fs player|no=14|pos=DF|name=[[László Bálint]]|age={{Birth date and age2|df=yes|1978|6|1|1948|2|1}}|caps=54|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary}}
+{{nat fs player|no=15|pos=DF|name=[[Tibor Rab]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|2}}|caps=11|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary}}
+{{nat fs player|no=16|pos=MF|name=[[István Halász]]|age={{Birth date and age2|df=yes|1978|6|1|1951|10|12}}|caps=3|club=[[Tatabányai BSK]]|clubnat=Hungary}}
+{{nat fs player|no=17|pos=FW|name=[[László Pusztai]]|age={{Birth date and age2|df=yes|1978|6|1|1946|3|1}}|caps=22|club=[[Ferencvárosi Torna Club|Ferencvárosi TC]]|clubnat=Hungary}}
+{{nat fs player|no=18|pos=MF|name=[[László Nagy (footballer)|László Nagy]]|age={{Birth date and age2|df=yes|1978|6|1|1949|10|21}}|caps=21|club=[[Újpesti Dózsa FC]]|clubnat=Hungary}}
+{{nat fs player|no=19|pos=FW|name=[[András Tóth (born 1949)|András Tóth]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|5}}|caps=14|club=[[Újpesti Dózsa FC]]|clubnat=Hungary}}
+{{nat fs player|no=20|pos=MF|name=[[Ferenc Fülöp]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|22}}|caps=0|club=[[MTK FC]]|clubnat=Hungary}}
+{{nat fs player|no=21|pos=GK|name=[[Ferenc Mészáros]]|age={{Birth date and age2|df=yes|1978|6|1|1950|4|11}}|caps=13|club=[[Vasas SC]]|clubnat=Hungary}}
+{{nat fs player|no=22|pos=GK|name=[[László Kovács (footballer)|László Kovács]]|age={{Birth date and age2|df=yes|1978|6|1|1951|4|24}}|caps=12|club=[[Videoton FCF]]|clubnat=Hungary}}
+{{nat fs end}}
+
+==={{fb|ITA}}===
+
+Head coach: [[Enzo Bearzot]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Dino Zoff]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1942|2|28}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=2|pos=DF|name=[[Mauro Bellugi]]|age={{Birth date and age2|df=yes|1978|6|1|1950|2|7}}|caps=|club=[[Bologna F.C. 1909|Bologna]]|clubnat=Italy}}
+{{nat fs player|no=3|pos=DF|name=[[Antonio Cabrini]]|age={{Birth date and age2|df=yes|1978|6|1|1957|10|8}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=4|pos=DF|name=[[Antonello Cuccureddu]]|age={{Birth date and age2|df=yes|1978|6|1|1949|10|4}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=5|pos=DF|name=[[Claudio Gentile]]|age={{Birth date and age2|df=yes|1978|6|1|1953|9|27}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=6|pos=DF|name=[[Aldo Maldera]]|age={{Birth date and age2|df=yes|1978|6|1|1953|10|14}}|caps=|club=[[A.C. Milan|Milan]]|clubnat=Italy}}
+{{nat fs player|no=7|pos=DF|name=[[Lionello Manfredonia]]|age={{Birth date and age2|df=yes|1978|6|1|1956|11|27}}|caps=|club=[[S.S. Lazio|Lazio]]|clubnat=Italy}}
+{{nat fs player|no=8|pos=DF|name=[[Gaetano Scirea]]|age={{Birth date and age2|df=yes|1978|6|1|1953|5|25}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=9|pos=MF|name=[[Giancarlo Antognoni]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|1}}|caps=|club=[[ACF Fiorentina|Fiorentina]]|clubnat=Italy}}
+{{nat fs player|no=10|pos=MF|name=[[Romeo Benetti]]|age={{Birth date and age2|df=yes|1978|6|1|1945|10|20}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=11|pos=MF|name=[[Eraldo Pecci]]|age={{Birth date and age2|df=yes|1978|6|1|1955|4|12}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=12|pos=GK|name=[[Paolo Conti]]|age={{Birth date and age2|df=yes|1978|6|1|1950|4|1}}|caps=|club=[[A.S. Roma|Roma]]|clubnat=Italy}}
+{{nat fs player|no=13|pos=MF|name=[[Patrizio Sala]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|16}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=14|pos=MF|name=[[Marco Tardelli]]|age={{Birth date and age2|df=yes|1978|6|1|1954|9|24}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=15|pos=MF|name=[[Renato Zaccarelli]]|age={{Birth date and age2|df=yes|1978|6|1|1951|1|18}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=16|pos=MF|name=[[Franco Causio]]|age={{Birth date and age2|df=yes|1978|6|1|1949|2|1}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=17|pos=MF|name=[[Claudio Sala]]|age={{Birth date and age2|df=yes|1978|6|1|1947|9|8}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=18|pos=FW|name=[[Roberto Bettega]]|age={{Birth date and age2|df=yes|1978|6|1|1950|12|27}}|caps=|club=[[Juventus F.C.|Juventus]]|clubnat=Italy}}
+{{nat fs player|no=19|pos=FW|name=[[Francesco Graziani]]|age={{Birth date and age2|df=yes|1978|6|1|1952|12|16}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=20|pos=FW|name=[[Paolo Pulici]]|age={{Birth date and age2|df=yes|1978|6|1|1950|4|27}}|caps=|club=[[Torino F.C.|Torino]]|clubnat=Italy}}
+{{nat fs player|no=21|pos=FW|name=[[Paolo Rossi]]|age={{Birth date and age2|df=yes|1978|6|1|1956|9|23}}|caps=|club=[[Vicenza Calcio|Vicenza]]|clubnat=Italy}}
+{{nat fs player|no=22|pos=GK|name=[[Ivano Bordon]]|age={{Birth date and age2|df=yes|1978|6|1|1951|4|13}}|caps=|club=[[F.C. Internazionale Milano|Internazionale]]|clubnat=Italy}}
+{{nat fs end}}
+
+==Group 2==
+
+==={{fb|MEX}}===
+Head coach: [[José Antonio Roca]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[José Pilar Reyes]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|12}}|caps=|club=[[UANL Tigres]]|clubnat=Mexico}}
+{{nat fs player|no=2|pos=DF|name=[[Manuel Nájera]]|age={{Birth date and age2|df=yes|1978|6|1|1952|12|20}}|caps=|club=[[Club Universidad de Guadalajara|Leones Negros]]|clubnat=Mexico}}
+{{nat fs player|no=3|pos=DF|name=[[Alfredo Tena]]|age={{Birth date and age2|df=yes|1978|6|1|1956|11|21}}|caps=|club=[[Club América]]|clubnat=Mexico}}
+{{nat fs player|no=4|pos=DF|name=[[Eduardo Ramos (footballer)|Eduardo Ramos]]|age={{Birth date and age2|df=yes|1978|6|1|1949|11|8}}|caps=|club=[[Chivas de Guadalajara|CD Guadalajara]]|clubnat=Mexico}}
+{{nat fs player|no=5|pos=DF|name=[[Arturo Vázquez Ayala]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1949|6|26}}|caps=|club=[[Club Universidad Nacional|Club UNAM]]|clubnat=Mexico}}
+{{nat fs player|no=6|pos=MF|name=[[Guillermo Mendizábal]]|age={{Birth date and age2|df=yes|1978|6|1|1954|10|8}}|caps=|club=[[Club Deportivo Cruz Azul|Cruz Azul]]|clubnat=Mexico}}
+{{nat fs player|no=7|pos=MF|name=[[Antonio de la Torre Villalpando|Antonio de la Torre]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|21}}|caps=|club=[[Club América]]|clubnat=Mexico}}
+{{nat fs player|no=8|pos=FW|name=[[Enrique López Zarza]]|age={{Birth date and age2|df=yes|1978|6|1|1957|10|25}}|caps=|club=[[Club Universidad Nacional|Club UNAM]]|clubnat=Mexico}}
+{{nat fs player|no=9|pos=FW|name=[[Víctor Rangel]]|age={{Birth date and age2|df=yes|1978|6|1|1957|3|11}}|caps=|club=[[Chivas de Guadalajara|CD Guadalajara]]|clubnat=Mexico}}
+{{nat fs player|no=10|pos=MF|name=[[Cristóbal Ortega]]|age={{Birth date and age2|df=yes|1978|6|1|1956|7|25}}|caps=|club=[[Club América]]|clubnat=Mexico}}
+{{nat fs player|no=11|pos=FW|name=[[Hugo Sánchez]]|age={{Birth date and age2|df=yes|1978|6|1|1958|7|11}}|caps=|club=[[Club Universidad Nacional|Club UNAM]]|clubnat=Mexico}}
+{{nat fs player|no=12|pos=DF|name=[[Jesús Martínez (footballer)|Jesús Martínez]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|7}}|caps=|club=[[Club América|Club América]]|clubnat=Mexico}}
+{{nat fs player|no=13|pos=DF|name=[[Rigoberto Cisneros]]|age={{Birth date and age2|df=yes|1978|6|1|1953|8|15}}|caps=|club=[[Club Toluca|CD Toluca]]|clubnat=Mexico}}
+{{nat fs player|no=14|pos=DF|name=[[Carlos Gómez (footballer)|Carlos Gómez]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|16}}|caps=|club=[[Club León|CSD León]]|clubnat=Mexico}}
+{{nat fs player|no=15|pos=DF|name=[[Ignacio Flores Ocaranza]]|age={{Birth date and age2|df=yes|1978|6|1|1953|7|31}}|caps=|club=[[Club Deportivo Cruz Azul|Cruz Azul]]|clubnat=Mexico}}
+{{nat fs player|no=16|pos=MF|name=[[Javier Cárdenas]]|age={{Birth date and age2|df=yes|1978|6|1|1952|12|8}}|caps=|club=[[Club Toluca|CD Toluca]]|clubnat=Mexico}}
+{{nat fs player|no=17|pos=MF|name=[[Leonardo Cuéllar]]|age={{Birth date and age2|df=yes|1978|6|1|1952|1|14}}|caps=|club=[[Club Universidad Nacional|Club UNAM]]|clubnat=Mexico}}
+{{nat fs player|no=18|pos=MF|name=[[Gerardo Lugo Gómez|Gerardo Lugo]]|age={{Birth date and age2|df=yes|1978|6|1|1955|3|13}}|caps=|club=[[Atlante F.C.]]|clubnat=Mexico}}
+{{nat fs player|no=19|pos=FW|name=[[Hugo René Rodríguez]]|age={{Birth date and age2|df=yes|1978|6|1|1959|3|14}}|caps=|club=[[Club Santos Laguna|Santos Laguna]]|clubnat=Mexico}}
+{{nat fs player|no=20|pos=FW|name=[[Mario Medina]]|age={{Birth date and age2|df=yes|1978|6|1|1952|9|2}}|caps=|club=[[Club Toluca|CD Toluca]]|clubnat=Mexico}}
+{{nat fs player|no=21|pos=FW|name=[[Raúl Isiordia]]|age={{Birth date and age2|df=yes|1978|6|1|1952|12|22}}|caps=|club=[[Atlético Español]]|clubnat=Mexico}}
+{{nat fs player|no=22|pos=GK|name=[[Pedro Soto]]|age={{Birth date and age2|df=yes|1978|6|1|1952|10|22}}|caps=|club=[[Club América]]|clubnat=Mexico}}
+{{nat fs end}}
+
+==={{fb|POL}}===
+Head coach: [[Jacek Gmoch]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Jan Tomaszewski]]|age={{Birth date and age2|df=yes|1978|6|1|1948|1|9}}|caps=|club=[[ŁKS Łódź]]|clubnat=Poland}}
+{{nat fs player|no=2|pos=FW|name=[[Włodzimierz Mazur]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|18}}|caps=|club=[[Zagłębie Sosnowiec]]|clubnat=Poland}}
+{{nat fs player|no=3|pos=DF|name=[[Henryk Maculewicz]]|age={{Birth date and age2|df=yes|1978|6|1|1950|4|24}}|caps=|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=4|pos=DF|name=[[Antoni Szymanowski]]|age={{Birth date and age2|df=yes|1978|6|1|1951|1|13}}|caps=|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=5|pos=MF|name=[[Adam Nawałka]]|age={{Birth date and age2|df=yes|1978|6|1|1957|10|23}}|caps=|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=6|pos=DF|name=[[Jerzy Gorgoń]]|age={{Birth date and age2|df=yes|1978|6|1|1949|7|18}}|caps=|club=[[Górnik Zabrze]]|clubnat=Poland}}
+{{nat fs player|no=7|pos=FW|name=[[Andrzej Iwan]]|age={{Birth date and age2|df=yes|1978|6|1|1959|11|10}}|caps=|club=[[Wisła Kraków]]|clubnat=Poland}}
+{{nat fs player|no=8|pos=MF|name=[[Henryk Kasperczak]]|age={{Birth date and age2|df=yes|1978|6|1|1946|7|10}}|caps=|club=[[Stal Mielec]]|clubnat=Poland}}
+{{nat fs player|no=9|pos=DF|name=[[Władysław Żmuda]]|age={{Birth date and age2|df=yes|1978|6|1|1954|6|6}}|caps=|club=[[Śląsk Wrocław]]|clubnat=Poland}}
+{{nat fs player|no=10|pos=DF|name=[[Wojciech Rudy]]|age={{Birth date and age2|df=yes|1978|6|1|1952|10|24}}|caps=|club=[[Zagłębie Sosnowiec]]|clubnat=Poland}}
+{{nat fs player|no=11|pos=MF|name=[[Bohdan Masztaler]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|19}}|caps=|club=[[ŁKS Łódź]]|clubnat=Poland}}
+{{nat fs player|no=12|pos=MF|name=[[Kazimierz Deyna]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1947|10|23}}|caps=|club=[[Legia Warszawa]]|clubnat=Poland}}
+{{nat fs player|no=13|pos=DF|name=[[Janusz Kupcewicz]]|age={{Birth date and age2|df=yes|1978|6|1|1955|12|9}}|caps=|club=[[Arka Gdynia]]|clubnat=Poland}}
+{{nat fs player|no=14|pos=DF|name=[[Mirosław Justek]]|age={{Birth date and age2|df=yes|1978|6|1|1948|9|23}}|caps=|club=[[Lech Poznań]]|clubnat=Poland}}
+{{nat fs player|no=15|pos=MF|name=[[Marek Kusto]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|29}}|caps=|club=[[Legia Warszawa]]|clubnat=Poland}}
+{{nat fs player|no=16|pos=FW|name=[[Grzegorz Lato]]|age={{Birth date and age2|df=yes|1978|6|1|1950|4|8}}|caps=|club=[[Stal Mielec]]|clubnat=Poland}}
+{{nat fs player|no=17|pos=FW|name=[[Andrzej Szarmach]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|3}}|caps=|club=[[Stal Mielec]]|clubnat=Poland}}
+{{nat fs player|no=18|pos=MF|name=[[Zbigniew Boniek]]|age={{Birth date and age2|df=yes|1978|6|1|1956|3|3}}|caps=|club=[[Widzew Łódź]]|clubnat=Poland}}
+{{nat fs player|no=19|pos=FW|name=[[Włodzimierz Lubański]]|age={{Birth date and age2|df=yes|1978|6|1|1947|2|28}}|caps=|club=[[K.S.C. Lokeren Oost-Vlaanderen|KSC Lokeren]]|clubnat=Belgium}}
+{{nat fs player|no=20|pos=DF|name=[[Roman Wójcicki]]|age={{Birth date and age2|df=yes|1978|6|1|1958|1|8}}|caps=|club=[[Odra Opole]]|clubnat=Poland}}
+{{nat fs player|no=21|pos=GK|name=[[Zygmunt Kukla]]|age={{Birth date and age2|df=yes|1978|6|1|1948|1|21}}|caps=|club=[[Stal Mielec]]|clubnat=Poland}}
+{{nat fs player|no=22|pos=GK|name=[[Zdzisław Kostrzewa]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|26}}|caps=|club=[[Zagłębie Sosnowiec]]|clubnat=Poland}}
+{{nat fs end}}
+
+==={{fb|TUN}}===
+Head coach: [[Abdelmajid Chetali]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sadok Sassi]]|age={{Birth date and age2|df=yes|1978|6|1|1945|11|15}}|caps=|club=[[Club Africain]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=2|pos=DF|name=[[Mokhtar Dhouib]]|age={{Birth date and age2|df=yes|1978|6|1|1952|3|23}}|caps=|club=[[CS Sfaxien]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=3|pos=DF|name=[[Ali Kaabi]]|age={{Birth date and age2|df=yes|1978|6|1|1953|11|15}}|caps=|club=[[COT Tunis]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=4|pos=MF|name=[[Khaled Gasmi]]|age={{Birth date and age2|df=yes|1978|6|1|1953|4|8}}|caps=|club=[[Club Bizerta]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=5|pos=DF|name=[[Mohsen Labidi]]|age={{Birth date and age2|df=yes|1978|6|1|1954|1|15}}|caps=|club=[[Stade Tunis]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=6|pos=MF|name=[[Néjib Ghommidh]]|age={{Birth date and age2|df=yes|1978|6|1|1953|3|12}}|caps=|club=[[Club Africain]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=7|pos=FW|name=[[Témime Lahzami]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1949|1|1}}|caps=|club=[[Al-Ittihad (Jeddah)|Al-Ittihad]]|clubnat=Saudi Arabia}}
+{{nat fs player|no=8|pos=MF|name=[[Mohamed Ben Rehaiem]]|age={{Birth date and age2|df=yes|1978|6|1|1951|3|20}}|caps=|club=[[CS Sfaxien]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=9|pos=FW|name=[[Mohamed Akid]]|age={{Birth date and age2|df=yes|1978|6|1|1949|7|5}}|caps=|club=[[CS Sfaxien]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=10|pos=MF|name=[[Tarak Dhiab]]|age={{Birth date and age2|df=yes|1978|6|1|1954|7|15}}|caps=|club=[[Espérance Sportive de Tunis|Espérance]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=11|pos=FW|name=[[Abderraouf Ben Aziza]]|age={{Birth date and age2|df=yes|1978|6|1|1953|9|23}}|caps=|club=[[Étoile Sportive du Sahel]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=12|pos=MF|name=[[Khemais Labidi]]|age={{Birth date and age2|df=yes|1978|6|1|1950|8|30}}|caps=|club=[[JS Kairouan]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=13|pos=FW|name=[[Néjib Liman]]|age={{Birth date and age2|df=yes|1978|6|1|1953|6|12}}|caps=|club=[[Stade Tunis]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=14|pos=FW|name=[[Slah Karoui]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|11}}|caps=|club=[[Étoile Sportive du Sahel]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=15|pos=FW|name=[[Mohamed Ben Mouza]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|5}}|caps=|club=[[Club Africain]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=16|pos=FW|name=[[Ohman Chehaibi]]|age={{Birth date and age2|df=yes|1978|6|1|1954|12|23}}|caps=|club=[[JS Kairouan]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=17|pos=DF|name=[[Ridha El Louze]]|age={{Birth date and age2|df=yes|1978|6|1|1953|4|27}}|caps=|club=[[Sfax Railways Sports]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=18|pos=DF|name=[[Kamel Chebli]]|age={{Birth date and age2|df=yes|1978|6|1|1954|3|9}}|caps=|club=[[Club Africain]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=19|pos=FW|name=[[Mokhtar Hasni]]|age={{Birth date and age2|df=yes|1978|6|1|1952|3|19}}|caps=|club=[[R.A.A. Louviéroise|La Louviére]]|clubnat=Belgium}}
+{{nat fs player|no=20|pos=DF|name=[[Amor Jebali]]|age={{Birth date and age2|df=yes|1978|6|1|1956|12|24}}|caps=|club=[[AS Marsa]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=21|pos=GK|name=[[Lamine Ben Aziza]]|age={{Birth date and age2|df=yes|1978|6|1|1952|11|10}}|caps=|club=[[Étoile Sportive du Sahel]]|clubnat=Tunisia|natvar=old}}
+{{nat fs player|no=22|pos=GK|name=[[Mokhtar Naili]]|age={{Birth date and age2|df=yes|1978|6|1|1953|9|3}}|caps=|club=[[Club Africain]]|clubnat=Tunisia|natvar=old}}
+{{nat fs end}}
+
+==={{fb|FRG}}===
+Head coach: [[Helmut Schön]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Sepp Maier]]|age={{Birth date and age2|df=yes|1978|6|1|1944|2|28}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=2|pos=DF|name=[[Berti Vogts]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1946|12|30}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=3|pos=DF|name=[[Bernard Dietz]]|age={{Birth date and age2|df=yes|1978|6|1|1948|3|22}}|caps=|club=[[MSV Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=4|pos=MF|name=[[Rolf Rüssmann]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|13}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=5|pos=DF|name=[[Manfred Kaltz]]|age={{Birth date and age2|df=yes|1978|6|1|1953|1|6}}|caps=|club=[[Hamburger SV]]|clubnat=West Germany}}
+{{nat fs player|no=6|pos=MF|name=[[Rainer Bonhof]]|age={{Birth date and age2|df=yes|1978|6|1|1952|3|29}}|caps=|club=[[Borussia Mönchengladbach]]|clubnat=West Germany}}
+{{nat fs player|no=7|pos=FW|name=[[Rüdiger Abramczik]]|age={{Birth date and age2|df=yes|1978|6|1|1956|2|18}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=8|pos=FW|name=[[Herbert Zimmermann (footballer)|Herbert Zimmermann]]|age={{Birth date and age2|df=yes|1978|6|1|1954|7|1}}|caps=|club=[[1. FC Köln|FC Köln]]|clubnat=West Germany}}
+{{nat fs player|no=9|pos=FW|name=[[Klaus Fischer]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|27}}|caps=|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=10|pos=MF|name=[[Heinz Flohe]]|age={{Birth date and age2|df=yes|1978|6|1|1948|1|28}}|caps=|club=[[1. FC Köln|FC Köln]]|clubnat=West Germany}}
+{{nat fs player|no=11|pos=FW|name=[[Karl-Heinz Rummenigge]]|age={{Birth date and age2|df=yes|1978|6|1|1955|9|25}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=12|pos=DF|name=[[Hans-Georg Schwarzenbeck]]|age={{Birth date and age2|df=yes|1978|6|1|1948|4|3}}|caps=|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=West Germany}}
+{{nat fs player|no=13|pos=DF|name=[[Harald Konopka]]|age={{Birth date and age2|df=yes|1978|6|1|1952|11|18}}|caps=|club=[[1. FC Köln|FC Köln]]|clubnat=West Germany}}
+{{nat fs player|no=14|pos=FW|name=[[Dieter Müller]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|1}}|caps=|club=[[1. FC Köln|FC Köln]]|clubnat=West Germany}}
+{{nat fs player|no=15|pos=MF|name=[[Erich Beer]]|age={{Birth date and age2|df=yes|1978|6|1|1946|12|9}}|caps=|club=[[Hertha BSC Berlin|Hertha Berlin]]|clubnat=West Germany}}
+{{nat fs player|no=16|pos=MF|name=[[Bernhard Cullmann]]|age={{Birth date and age2|df=yes|1978|6|1|1949|11|1}}|caps=|club=[[1. FC Köln|FC Köln]]|clubnat=West Germany}}
+{{nat fs player|no=17|pos=FW|name=[[Bernd Hölzenbein]]|age={{Birth date and age2|df=yes|1978|6|1|1946|3|9}}|caps=|club=[[Eintracht Frankfurt]]|clubnat=West Germany}}
+{{nat fs player|no=18|pos=MF|name=[[Gerd Zewe]]|age={{Birth date and age2|df=yes|1978|6|1|1950|6|13}}|caps=|club=[[Fortuna Düsseldorf]]|clubnat=West Germany}}
+{{nat fs player|no=19|pos=FW|name=[[Ronald Worm]]|age={{Birth date and age2|df=yes|1978|6|1|1953|10|7}}|caps=|club=[[MSV Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=20|pos=MF|name=[[Hansi Müller]]|age={{Birth date and age2|df=yes|1978|6|1|1957|7|27}}|caps=|club=[[VfB Stuttgart]]|clubnat=West Germany}}
+{{nat fs player|no=21|pos=GK|name=[[Rudolf Kargus]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|15}}|caps=|club=[[Hamburger SV]]|clubnat=West Germany}}
+{{nat fs player|no=22|pos=GK|name=[[Dieter Burdenski]]|age={{Birth date and age2|df=yes|1978|6|1|1950|11|26}}|caps=|club=[[Werder Bremen]]|clubnat=West Germany}}
+{{nat fs end}}
+
+==Group 3==
+
+==={{fb|AUT}}===
+Head coach: [[Helmut Senekowitsch]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Friedrich Koncilia]]|age={{Birth date and age2|df=yes|1978|6|1|1948|2|25}}|caps=37|club=[[FC Wacker Innsbruck|SSW Innsbruck]]|clubnat=Austria}}
+{{nat fs player|no=2|pos=DF|name=[[Robert Sara]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1946|6|9}}|caps=37|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=3|pos=DF|name=[[Erich Obermayer]]|age={{Birth date and age2|df=yes|1978|6|1|1953|1|23}}|caps=10|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=4|pos=DF|name=[[Gerhard Breitenberger]]|age={{Birth date and age2|df=yes|1978|6|1|1954|10|14}}|caps=11|club=[[VÖEST Linz]]|clubnat=Austria}}
+{{nat fs player|no=5|pos=DF|name=[[Bruno Pezzey]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|3}}|caps=25|club=[[FC Wacker Innsbruck|SSW Innsbruck]]|clubnat=Austria}}
+{{nat fs player|no=6|pos=MF|name=[[Roland Hattenberger]]|age={{Birth date and age2|df=yes|1978|6|1|1948|12|7}}|caps=23|club=[[VfB Stuttgart]]|clubnat=West Germany}}
+{{nat fs player|no=7|pos=MF|name=[[Josef Hickersberger]]|age={{Birth date and age2|df=yes|1978|6|1|1948|4|27}}|caps=33|club=[[Fortuna Düsseldorf]]|clubnat=West Germany}}
+{{nat fs player|no=8|pos=MF|name=[[Herbert Prohaska]]|age={{Birth date and age2|df=yes|1978|6|1|1955|8|8}}|caps=27|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=9|pos=FW|name=[[Hans Krankl]]|age={{Birth date and age2|df=yes|1978|6|1|1953|2|14}}|caps=34|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=Austria}}
+{{nat fs player|no=10|pos=FW|name=[[Wilhelm Kreuz]]|age={{Birth date and age2|df=yes|1978|6|1|1949|5|29}}|caps=35|club=[[Feyenoord Rotterdam|Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=11|pos=MF|name=[[Kurt Jara]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|14}}|caps=29|club=[[MSV Duisburg]]|clubnat=West Germany}}
+{{nat fs player|no=12|pos=MF|name=[[Eduard Krieger]]|age={{Birth date and age2|df=yes|1978|6|1|1946|12|16}}|caps=20|club=[[Club Brugge]]|clubnat=Belgium}}
+{{nat fs player|no=13|pos=MF|name=[[Günther Happich]]|age={{Birth date and age2|df=yes|1978|6|1|1952|1|28}}|caps=4|club=[[Wiener Sportclub]]|clubnat=Austria}}
+{{nat fs player|no=14|pos=DF|name=[[Heinrich Strasser]]|age={{Birth date and age2|df=yes|1978|6|1|1948|10|26}}|caps=20|club=[[VfB Admira Wacker Mödling|Admira/Wacker]]|clubnat=Austria}}
+{{nat fs player|no=15|pos=DF|name=[[Heribert Weber]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|28}}|caps=7|club=[[SK Sturm Graz]]|clubnat=Austria}}
+{{nat fs player|no=16|pos=DF|name=[[Peter Persidis]]|age={{Birth date and age2|df=yes|1978|6|1|1947|3|8}}|caps=7|club=[[SK Rapid Wien|Rapid Wien]]|clubnat=Austria}}
+{{nat fs player|no=17|pos=FW|name=[[Franz Oberacher]]|age={{Birth date and age2|df=yes|1978|6|1|1954|3|24}}|caps=3|club=[[FC Wacker Innsbruck|SSW Innsbruck]]|clubnat=Austria}}
+{{nat fs player|no=18|pos=FW|name=[[Walter Schachner]]|age={{Birth date and age2|df=yes|1978|6|1|1957|2|1}}|caps=6|club=[[DSV Leoben|DSV Alpine Donawitz]]|clubnat=Austria}}
+{{nat fs player|no=19|pos=FW|name=[[Hans Pirkner]]|age={{Birth date and age2|df=yes|1978|6|1|1946|3|25}}|caps=18|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=20|pos=MF|name=[[Ernst Baumeister]]|age={{Birth date and age2|df=yes|1978|6|1|1957|1|22}}|caps=1|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs player|no=21|pos=GK|name=[[Erwin Fuchsbichler]]|age={{Birth date and age2|df=yes|1978|6|1|1952|3|27}}|caps=2|club=[[VÖEST Linz]]|clubnat=Austria}}
+{{nat fs player|no=22|pos=GK|name=[[Hubert Baumgartner]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|25}}|caps=1|club=[[FK Austria Wien|Austria Wien]]|clubnat=Austria}}
+{{nat fs end}}
+
+==={{fb|BRA|1968}}===
+Head coach: [[Cláudio Coutinho]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Émerson Leão|Leão]]|age={{Birth date and age2|df=yes|1978|6|1|1949|7|11}}|caps=50|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=2|pos=DF|name=[[Antônio Dias dos Santos|Toninho]]|age={{Birth date and age2|df=yes|1978|6|1|1948|6|7}}|caps=4|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=3|pos=DF|name=[[José Oscar Bernardi|Oscar]]|age={{Birth date and age2|df=yes|1978|6|1|1954|6|20}}|caps=4|club=[[Associação Atlética Ponte Preta|Ponte Preta]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=4|pos=DF|name=[[João Justino Amaral dos Santos|Amaral]]|age={{Birth date and age2|df=yes|1978|6|1|1954|12|25}}|caps=22|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=5|pos=MF|name=[[Toninho Cerezo]]|age={{Birth date and age2|df=yes|1978|6|1|1955|4|21}}|caps=16|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=6|pos=DF|name=[[Edino Nazareth Filho|Edinho]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|5}}|caps=12|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=7|pos=FW|name=[[Zé Sérgio]]|age={{Birth date and age2|df=yes|1978|6|1|1957|3|8}}|caps=2|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=8|pos=MF|name=[[Zico]]|age={{Birth date and age2|df=yes|1978|6|1|1953|3|3}}|caps=21|club=[[Clube de Regatas do Flamengo|Flamengo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=9|pos=FW|name=[[José Reinaldo de Lima|Reinaldo]]|age={{Birth date and age2|df=yes|1978|6|1|1957|1|11}}|caps=12|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=10|pos=FW|name=[[Roberto Rivelino|Rivelino]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1946|1|1}}|caps=88|club=[[Fluminense Football Club|Fluminense]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=11|pos=MF|name=[[Dirceu]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|15}}|caps=14|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=12|pos=GK|name=[[Carlos Roberto Gallo|Carlos]]|age={{Birth date and age2|df=yes|1978|6|1|1956|3|4}}|caps=0|club=[[Associação Atlética Ponte Preta|Ponte Preta]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=13|pos=DF|name=[[Nelinho]]|age={{Birth date and age2|df=yes|1978|6|1|1950|7|26}}|caps=13|club=[[Cruzeiro Esporte Clube|Cruzeiro]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=14|pos=DF|name=[[Abel Braga|Abel]]|age={{Birth date and age2|df=yes|1978|6|1|1952|9|1}}|caps=1|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=15|pos=DF|name=[[José Fernando Polozzi|Polozzi]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|1}}|caps=0|club=[[Associação Atlética Ponte Preta|Ponte Preta]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=16|pos=DF|name=[[José Rodrigues Neto|Rodrigues Neto]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|6}}|caps=7|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=17|pos=MF|name=[[João Batista da Silva (footballer)|Batista]]|age={{Birth date and age2|df=yes|1978|6|1|1955|3|8}}|caps=4|club=[[Sport Club Internacional|Internacional]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=18|pos=FW|name=[[Gilberto Alves|Gil]]|age={{Birth date and age2|df=yes|1978|6|1|1950|12|24}}|caps=22|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=19|pos=FW|name=[[Jorge Mendonça]]|age={{Birth date and age2|df=yes|1978|6|1|1954|6|6}}|caps=0|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=20|pos=FW|name=[[Roberto Dinamite]]|age={{Birth date and age2|df=yes|1978|6|1|1954|4|13}}|caps=20|club=[[CR Vasco da Gama|Vasco da Gama]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=21|pos=MF|name=[[Francisco Jezuíno Avanzi|Chicão]]|age={{Birth date and age2|df=yes|1978|6|1|1949|1|30}}|caps=5|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs player|no=22|pos=GK|name=[[Valdir Peres]]|age={{Birth date and age2|df=yes|1978|6|1|1951|2|2}}|caps=5|club=[[São Paulo FC|São Paulo]]|clubnat=Brazil|natvar=1968}}
+{{nat fs end}}
+
+==={{fb|ESP|1977}}===
+Head coach: [[Ladislao Kubala]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Luis Arconada]]|age={{Birth date and age2|df=yes|1978|6|1|1954|6|26}}|caps=|club=[[Real Sociedad]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=2|pos=DF|name=[[Antonio de la Cruz]]|age={{Birth date and age2|df=yes|1978|6|1|1947|5|7}}|caps=|club=[[FC Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=3|pos=MF|name=[[Francisco Javier Uría]]|age={{Birth date and age2|df=yes|1978|6|1|1950|2|1}}|caps=|club=[[Sporting de Gijón]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=4|pos=MF|name=[[Juan Manuel Asensi]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|23}}|caps=|club=[[FC Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=5|pos=DF|name=[[Migueli]]|age={{Birth date and age2|df=yes|1978|6|1|1951|12|19}}|caps=|club=[[FC Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=6|pos=DF|name=[[Antonio Biosca]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|8}}|caps=|club=[[Real Betis]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=7|pos=FW|name=[[Daniel Ruiz|Dani]]|age={{Birth date and age2|df=yes|1978|6|1|1951|6|28}}|caps=|club=[[Athletic Bilbao]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=8|pos=FW|name=[[Juan Gómez González|Juanito]]|age={{Birth date and age2|df=yes|1978|6|1|1954|11|10}}|caps=|club=[[Real Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=9|pos=FW|name=[[Quini]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|23}}|caps=|club=[[Sporting de Gijón]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=10|pos=FW|name=[[Santillana (footballer)|Santillana]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|23}}|caps=|club=[[Real Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=11|pos=MF|name=[[Julio Cardeñosa]]|age={{Birth date and age2|df=yes|1978|6|1|1949|10|27}}|caps=|club=[[Real Betis]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=12|pos=MF|name=[[Antonio Guzmán Núñez|Antonio Guzmán]]|age={{Birth date and age2|df=yes|1978|6|1|1953|12|2}}|caps=|club=[[Rayo Vallecano]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=13|pos=GK|name=[[Miguel Ángel González (footballer, born 1947)|Miguel Ángel]]|age={{Birth date and age2|df=yes|1978|6|1|1947|12|24}}|caps=|club=[[Real Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=14|pos=MF|name=[[Eugenio Leal]]|age={{Birth date and age2|df=yes|1978|6|1|1953|5|13}}|caps=|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=15|pos=FW|name=[[Marañón (footballer)|Marañón]]|age={{Birth date and age2|df=yes|1978|6|1|1948|7|23}}|caps=|club=[[RCD Espanyol|RCD Español]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=16|pos=DF|name=[[Antonio Olmo]]|age={{Birth date and age2|df=yes|1978|6|1|1954|1|18}}|caps=|club=[[FC Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=17|pos=DF|name=[[Marcelino Pérez|Marcelino]]|age={{Birth date and age2|df=yes|1978|6|1|1955|8|13}}|caps=|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=18|pos=DF|name=[[Pirri]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1945|3|11}}|caps=|club=[[Real Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=19|pos=FW|name=[[Carles Rexach]]|age={{Birth date and age2|df=yes|1978|6|1|1947|1|13}}|caps=|club=[[FC Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=20|pos=FW|name=[[Rubén Cano]]|age={{Birth date and age2|df=yes|1978|6|1|1951|2|5}}|caps=|club=[[Atlético Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=21|pos=MF|name=[[Isidoro San José]]|age={{Birth date and age2|df=yes|1978|6|1|1956|10|27}}|caps=|club=[[Real Madrid]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=22|pos=GK|name=[[Javier Urruticoechea|Urruti]]|age={{Birth date and age2|df=yes|1978|6|1|1952|2|17}}|caps=|club=[[RCD Espanyol|RCD Español]]|clubnat=Spain|natvar=1977}}
+{{nat fs end}}
+
+==={{fb|SWE}}===
+Head coach: [[Georg Ericson]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ronnie Hellström]]|age={{Birth date and age2|df=yes|1978|6|1|1949|2|21}}|caps=|club=[[1. FC Kaiserslautern]]|clubnat=West Germany}}
+{{nat fs player|no=2|pos=DF|name=[[Hasse Borg]]|age={{Birth date and age2|df=yes|1978|6|1|1953|8|4}}|caps=|club=[[Eintracht Braunschweig]]|clubnat=West Germany}}
+{{nat fs player|no=3|pos=DF|name=[[Roy Andersson (footballer)|Roy Andersson]]|age={{Birth date and age2|df=yes|1978|6|1|1949|8|2}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=4|pos=MF|name=[[Björn Nordqvist]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1942|10|6}}|caps=|club=[[IFK Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=5|pos=DF|name=[[Ingemar Erlandsson]]|age={{Birth date and age2|df=yes|1978|6|1|1957|11|16}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=6|pos=MF|name=[[Staffan Tapper]]|age={{Birth date and age2|df=yes|1978|6|1|1948|7|10}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=7|pos=MF|name=[[Anders Linderoth]]|age={{Birth date and age2|df=yes|1978|6|1|1950|3|21}}|caps=|club=[[Olympique de Marseille]]|clubnat=France}}
+{{nat fs player|no=8|pos=FW|name=[[Bo Larsson]]|age={{Birth date and age2|df=yes|1978|6|1|1944|5|5}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=9|pos=MF|name=[[Lennart Larsson (footballer)|Lennart Larsson]]|age={{Birth date and age2|df=yes|1978|6|1|1953|7|9}}|caps=|club=[[FC Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=10|pos=FW|name=[[Thomas Sjöberg]]|age={{Birth date and age2|df=yes|1978|6|1|1952|7|6}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=11|pos=FW|name=[[Benny Wendt]]|age={{Birth date and age2|df=yes|1978|6|1|1950|11|4}}|caps=|club=[[1. FC Kaiserslautern]]|clubnat=West Germany}}
+{{nat fs player|no=12|pos=GK|name=[[Göran Hagberg]]|age={{Birth date and age2|df=yes|1978|6|1|1947|11|8}}|caps=|club=[[Östers IF]]|clubnat=Sweden}}
+{{nat fs player|no=13|pos=DF|name=[[Magnus Andersson (footballer born 1958)|Magnus Andersson]]|age={{Birth date and age2|df=yes|1978|6|1|1958|4|23}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=14|pos=MF|name=[[Ronald Åhman]]|age={{Birth date and age2|df=yes|1978|6|1|1957|1|31}}|caps=|club=[[Örebro SK]]|clubnat=Sweden}}
+{{nat fs player|no=15|pos=FW|name=[[Torbjörn Nilsson]]|age={{Birth date and age2|df=yes|1978|6|1|1954|7|9}}|caps=|club=[[IFK Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=16|pos=FW|name=[[Conny Torstensson]]|age={{Birth date and age2|df=yes|1978|6|1|1949|8|28}}|caps=|club=[[Fussballclub Zürich|FC Zürich]]|clubnat=Switzerland}}
+{{nat fs player|no=17|pos=GK|name=[[Jan Möller]]|age={{Birth date and age2|df=yes|1978|6|1|1953|9|17}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=18|pos=MF|name=[[Olle Nordin]]|age={{Birth date and age2|df=yes|1978|6|1|1949|11|23}}|caps=|club=[[IFK Göteborg]]|clubnat=Sweden}}
+{{nat fs player|no=19|pos=DF|name=[[Kent Karlsson]]|age={{Birth date and age2|df=yes|1978|6|1|1945|11|25}}|caps=|club=[[IFK Eskilstuna]]|clubnat=Sweden}}
+{{nat fs player|no=20|pos=DF|name=[[Roland Andersson]]|age={{Birth date and age2|df=yes|1978|6|1|1950|3|28}}|caps=|club=[[Malmö FF]]|clubnat=Sweden}}
+{{nat fs player|no=21|pos=FW|name=[[Sanny Åslund]]|age={{Birth date and age2|df=yes|1978|6|1|1952|8|29}}|caps=|club=[[AIK Fotboll]]|clubnat=Sweden}}
+{{nat fs player|no=22|pos=FW|name=[[Ralf Edström]]|age={{Birth date and age2|df=yes|1978|6|1|1952|10|7}}|caps=|club=[[IFK Göteborg]]|clubnat=Sweden}}
+{{nat fs end}}
+
+==Group 4==
+
+==={{fb|IRN|1964}}===
+Head coach: [[Heshmat Mohajerani]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Nasser Hejazi]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|14}}|caps=|club=[[Shahbaz F.C.|Shahbaz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=2|pos=MF|name=[[Iraj Danaeifard]]|age={{Birth date and age2|df=yes|1978|6|1|1951|3|19}}|caps=|club=[[Esteghlal F.C.|Taj]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=3|pos=FW|name=[[Behtash Fariba]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|11}}|caps=|club=[[Pas F.C.|Pas]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=4|pos=FW|name=[[Majid Bishkar]]|age={{Birth date and age2|df=yes|1978|6|1|1956|8|6}}|caps=|club=[[Shahbaz F.C.|Shahbaz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=5|pos=DF|name=[[Javad Allahverdi]]|age={{Birth date and age2|df=yes|1978|6|1|1954|7|16}}|caps=|club=[[Persepolis F.C.|Persepolis]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=6|pos=MF|name=[[Hassan Nayebagha]]|age={{Birth date and age2|df=yes|1978|6|1|1950|9|17}}|caps=|club=[[Homa F.C.|Homa]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=7|pos=MF|name=[[Ali Parvin]]|age={{Birth date and age2|df=yes|1978|6|1|1946|10|12}}|caps=|club=[[Persepolis F.C.|Persepolis]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=8|pos=MF|name=[[Ebrahim Ghasempour]]|age={{Birth date and age2|df=yes|1978|6|1|1956|8|24}}|caps=|club=[[Shahbaz F.C.|Shahbaz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=9|pos=MF|name=[[Mohammad Sadeghi]]|age={{Birth date and age2|df=yes|1978|6|1|1951|3|17}}|caps=|club=[[Pas F.C.|Pas]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=10|pos=FW|name=[[Hassan Roshan]]|age={{Birth date and age2|df=yes|1978|6|1|1955|6|2}}|caps=|club=[[Esteghlal F.C.|Taj]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=11|pos=DF|name=[[Ali Reza Ghesghayan]]|age={{Birth date and age2|df=yes|1978|6|1|1954|2|27}}|caps=|club=[[Bargh Shiraz F.C.|Bargh Shiraz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=12|pos=GK|name=[[Bahram Mavaddat]]|age={{Birth date and age2|df=yes|1978|6|1|1950|1|30}}|caps=|club=[[Sepahan F.C.|Sepahan]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=13|pos=FW|name=[[Hamid Majd Teymouri]]|age={{Birth date and age2|df=yes|1978|6|1|1953|6|3}}|caps=|club=[[Shahbaz F.C.|Shahbaz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=14|pos=DF|name=[[Hassan Nazari]]|age={{Birth date and age2|df=yes|1978|6|1|1955|8|19}}|caps=|club=[[Esteghlal F.C.|Taj]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=15|pos=DF|name=[[Andranik Eskandarian]]|age={{Birth date and age2|df=yes|1978|6|1|1951|12|31}}|caps=|club=[[Esteghlal F.C.|Taj]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=16|pos=FW|name=[[Nasser Nouraei]]|age={{Birth date and age2|df=yes|1978|6|1|1956|7|9}}|caps=|club=[[Homa F.C.|Homa]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=17|pos=FW|name=[[Ghafour Jahani]]|age={{Birth date and age2|df=yes|1978|6|1|1950|6|18}}|caps=|club=[[Malavan F.C.|Malavan]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=18|pos=FW|name=[[Hossein Faraki]]|age={{Birth date and age2|df=yes|1978|6|1|1956|4|19}}|caps=|club=[[Pas F.C.|Pas]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=19|pos=MF|name=[[Ali Shojaei]]|age={{Birth date and age2|df=yes|1978|6|1|1953|3|23}}|caps=|club=[[Sepahan F.C.|Sepahan]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=20|pos=DF|name=[[Nasrollah Abdollahi]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|2}}|caps=|club=[[Shahbaz F.C.|Shahbaz]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=21|pos=DF|name=[[Hossein Kazerani]]|age={{Birth date and age2|df=yes|1978|6|1|1947|4|13}}|caps=|club=[[Pas F.C.|Pas]]|clubnat=Iran|natvar=1964}}
+{{nat fs player|no=22|pos=GK|name=[[Rasoul Korbekandi]]|age={{Birth date and age2|df=yes|1978|6|1|1953|1|27}}|caps=|club=[[Zob Ahan F.C.|Zob Ahan]]|clubnat=Iran|natvar=1964}}
+{{nat fs end}}
+
+==={{fb|NED}}===
+Head coach: {{flagicon|Austria}} [[Ernst Happel]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Piet Schrijvers]]|age={{Birth date and age2|df=yes|1978|6|1|1946|12|15}}|caps=16|club=[[Ajax Amsterdam|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=2|pos=DF|name=[[Jan Poortvliet]]|age={{Birth date and age2|df=yes|1978|6|1|1955|9|21}}|caps=1|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=3|pos=MF|name=[[Dick Schoenaker]]|age={{Birth date and age2|df=yes|1978|6|1|1952|11|30}}|caps=0|club=[[Ajax Amsterdam|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=4|pos=DF|name=[[Adrie van Kraay]]|age={{Birth date and age2|df=yes|1978|6|1|1953|8|1}}|caps=13|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=5|pos=DF|name=[[Ruud Krol]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1949|3|24}}|caps=52|club=[[Ajax Amsterdam|Ajax]]|clubnat=Netherlands}}
+{{nat fs player|no=6|pos=MF|name=[[Wim Jansen]]|age={{Birth date and age2|df=yes|1978|6|1|1946|10|28}}|caps=50|club=[[Feyenoord Rotterdam|Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=7|pos=DF|name=[[Piet Wildschut]]|age={{Birth date and age2|df=yes|1978|6|1|1957|10|25}}|caps=1|club=[[FC Twente|Twente]]|clubnat=Netherlands}}
+{{nat fs player|no=8|pos=GK|name=[[Jan Jongbloed]]|age={{Birth date and age2|df=yes|1978|6|1|1940|11|25}}|caps=19|club=[[Roda JC Kerkrade|Roda JC]]|clubnat=Netherlands}}
+{{nat fs player|no=9|pos=MF|name=[[Arie Haan]]|age={{Birth date and age2|df=yes|1978|6|1|1948|11|16}}|caps=24|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=10|pos=MF|name=[[René van de Kerkhof]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|16}}|caps=20|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=11|pos=MF|name=[[Willy van de Kerkhof]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|16}}|caps=18|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=12|pos=FW|name=[[Rob Rensenbrink]]|age={{Birth date and age2|df=yes|1978|6|1|1947|7|3}}|caps=34|club=[[R.S.C. Anderlecht|Anderlecht]]|clubnat=Belgium}}
+{{nat fs player|no=13|pos=MF|name=[[Johan Neeskens]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|15}}|caps=38|club=[[FC Barcelona|Barcelona]]|clubnat=Spain|natvar=1977}}
+{{nat fs player|no=14|pos=MF|name=[[Johan Boskamp]]|age={{Birth date and age2|df=yes|1978|6|1|1948|10|21}}|caps=1|club=[[R.W.D. Molenbeek|Molenbeek]]|clubnat=Belgium}}
+{{nat fs player|no=15|pos=DF|name=[[Hugo Hovenkamp]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|5}}|caps=7|club=[[AZ Alkmaar|AZ]]|clubnat=Netherlands}}
+{{nat fs player|no=16|pos=FW|name=[[Johnny Rep]]|age={{Birth date and age2|df=yes|1978|6|1|1951|11|25}}|caps=23|club=[[Sporting Club de Bastia|SEC Bastia]]|clubnat=France}}
+{{nat fs player|no=17|pos=DF|name=[[Wim Rijsbergen]]|age={{Birth date and age2|df=yes|1978|6|1|1952|1|18}}|caps=25|club=[[Feyenoord Rotterdam|Feyenoord]]|clubnat=Netherlands}}
+{{nat fs player|no=18|pos=FW|name=[[Dick Nanninga]]|age={{Birth date and age2|df=yes|1978|6|1|1949|1|17}}|caps=1|club=[[Roda JC Kerkrade|Roda JC]]|clubnat=Netherlands}}
+{{nat fs player|no=19|pos=GK|name=[[Pim Doesburg]]|age={{Birth date and age2|df=yes|1978|6|1|1943|10|28}}|caps=2|club=[[Sparta Rotterdam]]|clubnat=Netherlands}}
+{{nat fs player|no=20|pos=DF|name=[[Wim Suurbier]]|age={{Birth date and age2|df=yes|1978|6|1|1945|1|16}}|caps=56|club=[[FC Schalke 04|Schalke 04]]|clubnat=West Germany}}
+{{nat fs player|no=21|pos=FW|name=[[Harry Lubse]]|age={{Birth date and age2|df=yes|1978|6|1|1951|9|23}}|caps=1|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs player|no=22|pos=DF|name=[[Ernie Brandts]]|age={{Birth date and age2|df=yes|1978|6|1|1956|2|3}}|caps=1|club=[[PSV Eindhoven]]|clubnat=Netherlands}}
+{{nat fs end}}
+
+Jan Jongbloed wore number 8 because some of the players who had been in the Dutch squad at the [[1974 FIFA World Cup]], where the Netherlands used a purely alphabetical numbering system, were given the same numbers again in 1978. Hugo Hovenkamp withdrew from the squad before the tournament began, but after the deadline for naming replacement players had passed. The Netherlands thus went to the World Cup with only 21 players.
+
+==={{fb|PER}}===
+Head coach: [[Marcos Calderón]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Ottorino Sartor]]|age={{Birth date and age2|df=yes|1978|6|1|1945|9|18}}|caps=|club=[[Colegio Nacional de Iquitos]]|clubnat=Peru}}
+{{nat fs player|no=2|pos=DF|name=[[Jaime Duarte]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|27}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=3|pos=DF|name=[[Rodolfo Manzo]]|age={{Birth date and age2|df=yes|1978|6|1|1949|6|5}}|caps=|club=[[Deportivo Municipal (Peru)|Deportivo Municipal]]|clubnat=Peru}}
+{{nat fs player|no=4|pos=DF|name=[[Héctor Chumpitaz]] [[captain (association football)|(c)]]|age={{Birth date and age2|df=yes|1978|6|1|1944|4|12}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=5|pos=DF|name=[[Rubén Toribio Díaz]]|age={{Birth date and age2|df=yes|1978|6|1|1952|4|17}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=6|pos=MF|name=[[José Velásquez (footballer)|José Velásquez]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|4}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=7|pos=FW|name=[[Juan Muñante]]|age={{Birth date and age2|df=yes|1978|6|1|1952|5|4}}|caps=|club=[[Club Universidad Nacional|Club UNAM]]|clubnat=Mexico}}
+{{nat fs player|no=8|pos=MF|name=[[César Cueto]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|16}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=9|pos=MF|name=[[Percy Rojas]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|16}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=10|pos=MF|name=[[Teófilo Cubillas]]|age={{Birth date and age2|df=yes|1978|6|1|1949|3|8}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=11|pos=FW|name=[[Juan Carlos Oblitas]]|age={{Birth date and age2|df=yes|1978|6|1|1951|2|16}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=12|pos=FW|name=[[Roberto Mosquera]]|age={{Birth date and age2|df=yes|1978|6|1|1956|6|21}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=13|pos=GK|name=[[Juan Cáceres (footballer)|Juan Cáceres]]|age={{Birth date and age2|df=yes|1978|6|1|1949|12|27}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=14|pos=DF|name=[[José Navarro (footballer)|José Navarro]]|age={{Birth date and age2|df=yes|1978|6|1|1948|9|24}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=15|pos=MF|name=[[Germán Leguía]]|age={{Birth date and age2|df=yes|1978|6|1|1954|1|2}}|caps=|club=[[Deportivo Municipal (Peru)|Deportivo Municipal]]|clubnat=Peru}}
+{{nat fs player|no=16|pos=MF|name=[[Raúl Gorriti]]|age={{Birth date and age2|df=yes|1978|6|1|1956|10|10}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=17|pos=MF|name=[[Alfredo Quesada]]|age={{Birth date and age2|df=yes|1978|6|1|1949|9|22}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=18|pos=MF|name=[[Ernesto Labarthe]]|age={{Birth date and age2|df=yes|1978|6|1|1956|6|2}}|caps=|club=[[Sport Boys]]|clubnat=Peru}}
+{{nat fs player|no=19|pos=FW|name=[[Guillermo La Rosa]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|6}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=20|pos=FW|name=[[Hugo Sotil]]|age={{Birth date and age2|df=yes|1978|6|1|1946|5|18}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs player|no=21|pos=GK|name=[[Ramón Quiroga]]|age={{Birth date and age2|df=yes|1978|6|1|1950|7|23}}|caps=|club=[[Sporting Cristal]]|clubnat=Peru}}
+{{nat fs player|no=22|pos=DF|name=[[Roberto Rojas (Peruvian footballer)|Roberto Rojas]]|age={{Birth date and age2|df=yes|1978|6|1|1955|10|26}}|caps=|club=[[Alianza Lima]]|clubnat=Peru}}
+{{nat fs end}}
+
+==={{fb|SCO}}===
+Manager: [[Ally MacLeod]]
+{{nat fs start}}
+{{nat fs player|no=1|pos=GK|name=[[Alan Rough]]|age={{Birth date and age2|df=yes|1978|6|1|1951|11|25}}|caps=|club=[[Partick Thistle F.C.|Partick Thistle]]|clubnat=Scotland}}
+{{nat fs player|no=2|pos=DF|name=[[Sandy Jardine]]|age={{Birth date and age2|df=yes|1978|6|1|1948|12|31}}|caps=|club=[[Rangers F.C.|Rangers]]|clubnat=Scotland}}
+{{nat fs player|no=3|pos=DF|name=[[Willie Donachie]]|age={{Birth date and age2|df=yes|1978|6|1|1951|10|5}}|caps=|club=[[Manchester City F.C.|Manchester City]]|clubnat=England}}
+{{nat fs player|no=4|pos=DF|name=[[Martin Buchan]]|age={{Birth date and age2|df=yes|1978|6|1|1949|3|6}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=5|pos=DF|name=[[Gordon McQueen]]|age={{Birth date and age2|df=yes|1978|6|1|1952|6|26}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=6|pos=MF|name=[[Bruce Rioch]]|age={{Birth date and age2|df=yes|1978|6|1|1947|9|6}}|caps=|club=[[Derby County F.C.|Derby County]]|clubnat=England}}
+{{nat fs player|no=7|pos=MF|name=[[Don Masson]]|age={{Birth date and age2|df=yes|1978|6|1|1949|8|26}}|caps=|club=[[Derby County F.C.|Derby County]]|clubnat=England}}
+{{nat fs player|no=8|pos=FW|name=[[Kenny Dalglish]]|age={{Birth date and age2|df=yes|1978|6|1|1951|3|4}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=9|pos=FW|name=[[Joe Jordan (footballer)|Joe Jordan]]|age={{Birth date and age2|df=yes|1978|6|1|1951|12|15}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=10|pos=MF|name=[[Asa Hartford]]|age={{Birth date and age2|df=yes|1978|6|1|1950|10|24}}|caps=|club=[[Manchester City F.C.|Manchester City]]|clubnat=England}}
+{{nat fs player|no=11|pos=MF|name=[[Willie Johnston]]|age={{Birth date and age2|df=yes|1978|6|1|1946|12|19}}|caps=|club=[[West Bromwich Albion F.C.|West Bromwich]]|clubnat=England}}
+{{nat fs player|no=12|pos=GK|name=[[Jim Blyth]]|age={{Birth date and age2|df=yes|1978|6|1|1955|2|2}}|caps=|club=[[Coventry City F.C.|Coventry City]]|clubnat=England}}
+{{nat fs player|no=13|pos=DF|name=[[Stuart Kennedy]]|age={{Birth date and age2|df=yes|1978|6|1|1953|5|31}}|caps=|club=[[Aberdeen F.C.|Aberdeen]]|clubnat=Scotland}}
+{{nat fs player|no=14|pos=DF|name=[[Tom Forsyth]]|age={{Birth date and age2|df=yes|1978|6|1|1949|1|23}}|caps=|club=[[Rangers F.C.|Rangers]]|clubnat=Scotland}}
+{{nat fs player|no=15|pos=MF|name=[[Archie Gemmill]]|age={{Birth date and age2|df=yes|1978|6|1|1947|3|24}}|caps=|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=England}}
+{{nat fs player|no=16|pos=FW|name=[[Lou Macari]]|age={{Birth date and age2|df=yes|1978|6|1|1949|6|7}}|caps=|club=[[Manchester United F.C.|Manchester United]]|clubnat=England}}
+{{nat fs player|no=17|pos=FW|name=[[Derek Johnstone]]|age={{Birth date and age2|df=yes|1978|6|1|1953|11|4}}|caps=|club=[[Rangers F.C.|Rangers]]|clubnat=Scotland}}
+{{nat fs player|no=18|pos=MF|name=[[Graeme Souness]]|age={{Birth date and age2|df=yes|1978|6|1|1953|5|6}}|caps=|club=[[Liverpool F.C.|Liverpool]]|clubnat=England}}
+{{nat fs player|no=19|pos=FW|name=[[John Robertson (footballer born 1953)|John Robertson]]|age={{Birth date and age2|df=yes|1978|6|1|1953|1|20}}|caps=|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=England}}
+{{nat fs player|no=20|pos=GK|name=[[Bobby Clark (footballer)|Bobby Clark]]|age={{Birth date and age2|df=yes|1978|6|1|1945|9|26}}|caps=|club=[[Aberdeen F.C.|Aberdeen]]|clubnat=Scotland}}
+{{nat fs player|no=21|pos=FW|name=[[Joe Harper (footballer)|Joe Harper]]|age={{Birth date and age2|df=yes|1978|6|1|1948|1|11}}|caps=|club=[[Aberdeen F.C.|Aberdeen]]|clubnat=Scotland}}
+{{nat fs player|no=22|pos=DF|name=[[Kenny Burns]]|age={{Birth date and age2|df=yes|1978|6|1|1953|9|23}}|caps=|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=England}}
+{{nat fs end}}
+
+==References==
+*{{en icon}} [http://www.planetworldcup.com/CUPS/1978/wc78squads.html Planet World Cup website]
+
+{{FIFA World Cup}}
+
+{{DEFAULTSORT:1978 Fifa World Cup Squads}}
+[[Category:1978 FIFA World Cup|Squads]]
+[[Category:FIFA World Cup squads]]
+
+{{Use dmy dates|date=June 2013}}
