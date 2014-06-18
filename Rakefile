@@ -10,14 +10,21 @@ task :build  do
 
   b = SquadsBuilder.new( './world-cup' )
 
-  [1930,2014].each do |year|
+  [1930,1934,2014].each do |year|
     config = YAML.load_file( "./config/world_cup_#{year}.yml" )
     pp config
 
     page  = config['page']
     teams = config['teams'] # filenames for teams (note: MUST match order in page)
 
-    b.read( page )
+    ## skip player no from 1930-1950
+    if [1930,1934,1938,1950].include? year
+      opts = { skip_player_no: true }
+    else
+      opts = {}
+    end
+    
+    b.read( page, opts )
     ## b.dump
 
     outpath = "./o/#{year}"

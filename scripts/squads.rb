@@ -32,7 +32,9 @@ class Squad   # Squad record
 
   def cmp_by_pos( l, r )
     res =  POS_TO_I[ l.pos] <=> POS_TO_I[ r.pos ]  # pass 1: sort by pos (e.g. GK,DF,MF,FW,nil)
-    if res == 0
+    
+    # note: make sure no values are present (e.g. not nil)
+    if res == 0 && l.no && r.no
       res =  l.no <=> r.no         # pass 2: sort by (shirt) no (e.g. 1,2,3.etc.)
     end
     res
@@ -44,14 +46,19 @@ class Squad   # Squad record
     sort_by_pos =  opts[:sort] ? true : false
 
     if sort_by_pos
-      players = @players.sort { |l,r| cmp_by_pos( l,r) }
+      players = @players.sort { |l,r| cmp_by_pos( l,r ) }
     else
-      players = @players  
+      players = @players
     end
 
     last_pos = nil
 
+
     buf = ''
+    buf << "#############################\n"
+    buf << "#  #{@players.size} players\n"
+    buf << "\n"
+
     players.each do |p|
       if last_pos && last_pos != p.pos   # add newline break for new pos (GK,DF,MF,FW,etc.)
         buf << "\n"
@@ -80,12 +87,15 @@ class Player   # Player record
   end
 
   def to_rec
+    no_str   = no.nil?    ? '-' : "(#{no})"
+    caps_str = caps.nil?  ? '-' : caps.to_s
+
     buf = ''
-    buf << "%4s  "   % "(#{no})"
+    buf << "%4s  "   % no_str
     buf << "%2s  "   % "#{pos}"
     buf << "%-33s  " % "#{name}"
     buf << '## '
-    buf << "%4s "    % "#{caps},"
+    buf << "%4s, "   % caps_str
     buf << "#{club} "
     buf << "(#{clubnat})"  if clubnat
     buf
@@ -106,6 +116,9 @@ class SquadsBuilder
   end
 
 
+  ###
+  ## todo: fix? - strip spaces from link and title
+  ##   spaces possible? strip in ruby later e.g. use strip - why? why not?
 
   WIKI_LINK_PATTERN = %q{
     \[\[
@@ -134,11 +147,17 @@ class SquadsBuilder
                             (?<clubnat>[A-Z]{3})
                              \b/x
 
+
+  ## todo:
+  ##  check for empty (no number) e.g.   no=-      -- see world cup squads 1930
+  ##  check for multiple numbers e.g.  no=9 & 8    -- see world cup squads 1930
   FS_PLAYER_NO_REGEX = /\b
                           no=\s*
                            (?<no>[0-9]+)
                         \b/x
 
+  ## todo:
+  ##  check for empty (no caps) e.g.   caps=-      -- see world cup squads 1930
   FS_PLAYER_CAPS_REGEX = /\b
                           caps=
                            (?<caps>[0-9]+)
@@ -149,7 +168,11 @@ class SquadsBuilder
                            (?<pos>[A-Z]{2,})
                           \b/x
 
+
   def read( name, opts={} )
+
+    ## e.g. world cup 1930 to 1950 has no player nos (allows to skip player nos - will all be nil)
+    skip_player_no = opts[:skip_player_no].nil? ? false : opts[:skip_player_no]
 
     path = "#{include_path}/#{name}.txt"
 
@@ -157,6 +180,18 @@ class SquadsBuilder
     squad  = nil   ## current squad
 
     File.readlines( path ).each_with_index do |line,lineno|  # note: starts w/ 0 (use lineno+1)
+
+      ## clean line
+      ##   remove {{0}}  - todo: find out what is it good for? what does it mean?
+      ##   remove '''
+      ###  e.g.
+      ##    no='''{{0}}1'''    or no={{0}}1
+      ##      becomes
+      ##     no=1              or no=1
+
+      line = line.gsub( '{{0}}}', '' )  ## remove {{0}}  empty infoset? or what does it mean? check/find out
+      line = line.gsub( "'''", '' )   ## remove bold marker
+
 
       if line =~ FS_START_REGEX
         logger.info "start squads block (line #{lineno+1})"
@@ -202,8 +237,10 @@ class SquadsBuilder
         md=FS_PLAYER_CLUBNAT_REGEX.match( line )
         player.clubnat = md[:clubnat]  if md
 
-        md=FS_PLAYER_NO_REGEX.match( line )
-        player.no = md[:no].to_i  if md     # note: convert string to number (integer)
+        unless skip_player_no
+          md=FS_PLAYER_NO_REGEX.match( line )
+          player.no = md[:no].to_i  if md     # note: convert string to number (integer)
+        end
 
         md = FS_PLAYER_CAPS_REGEX.match( line )
         player.caps = md[:caps].to_i  if md   # note: convert string to number (integer)
@@ -233,6 +270,10 @@ class SquadsBuilder
   end
   
   def write( names )
+
+    ##
+    ## fix/todo:
+    ##   assert that names.size and @squads.size match
 
     ## dump squads
     @squads.each_with_index do |squad,i|
