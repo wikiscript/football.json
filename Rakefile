@@ -10,48 +10,22 @@ task :build  do
 
   b = SquadsBuilder.new( './world-cup' )
 
-  b.read( '2014_FIFA_World_Cup_squads' )
-  ## b.dump
+  [1930,2014].each do |year|
+    config = YAML.load_file( "./config/world_cup_#{year}.yml" )
+    pp config
 
-  # filenames for teams
-  teams = [
-    'br-brazil',   # Group A
-    'cm-cameroon',
-    'hr-croatia',
-    'mx-mexico', 
-    'au-australia', # Group B
-    'cl-chile',
-    'nl-netherlands',
-    'es-espana',
-    'co-colombia',  # Group C
-    'gr-greece',
-    'ci-cote-d-ivoire',
-    'jp-japan',
-    'cr-costa-rica', # Group D
-    'en-england',
-    'it-italy',
-    'uy-uruguay',
-    'ec-ecuador', # Group E
-    'fr-france',
-    'hn-honduras',
-    'ch-switzerland',
-    'ar-argentina', # Group F
-    'ba-bosnia-herzegovina',
-    'ir-iran',
-    'ng-nigeria',
-    'de-deutschland', # Group G
-    'gh-ghana',
-    'pt-portugal',
-    'us-united-states',
-    'dz-algeria', # Group H
-    'be-belgium',
-    'ru-russia',
-    'kr-south-korea'
-  ]
+    page  = config['page']
+    teams = config['teams'] # filenames for teams (note: MUST match order in page)
 
-  mkdir( './o' ) unless Dir.exists?( './o' )
+    b.read( page )
+    ## b.dump
 
-  b.write( teams )
+    outpath = "./o/#{year}"
+    mkdir_p( outpath ) unless Dir.exists?( outpath )
+
+    b.output_path = outpath
+    b.write( teams )
+  end
 
 end
 

@@ -1,0 +1,19 @@
+
+page: 1930_FIFA_World_Cup_squads
+
+# filenames for teams (note: MUST match order in source page)
+teams:
+- ar-argentina     # Group 1
+- cl-chile
+- fr-france
+- mx-mexico
+- yug-yugoslavia   # Group 2
+- br-brazil
+- bo-bolivia
+- uy-uruguay        # Group 3
+- ro-romania
+- pe-peru
+- us-united-states   # Group 4
+- py-paraguay
+- be-belgium
+

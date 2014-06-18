@@ -98,11 +98,13 @@ class SquadsBuilder
 
   include LogUtils::Logging
 
-  attr_reader :include_path
+  attr_accessor :include_path, :output_path
 
   def initialize( include_path, opts = {} )
     @include_path = include_path
+    @output_path  = './'  # set default to current directory
   end
+
 
 
   WIKI_LINK_PATTERN = %q{
@@ -237,7 +239,7 @@ class SquadsBuilder
       name = names[i]
       next if name.nil?   # no more filename? skip squad for now
 
-      path = "./o/#{name}.txt"
+      path = "#{output_path}/#{name}.txt"
 
       puts " squad ##{i+1} writing to #{path} (sorted)..."
 
