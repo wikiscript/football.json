@@ -15,6 +15,7 @@ TEAMS = {
   usa: [ 'us-united-states', 'United States (USA)' ],
   mex: [ 'mx-mexico',        'Mexico (MEX)' ],
 
+  slv: [ 'sv-el-salvador',   'El Salvador (SLV)' ],
   crc: [ 'cr-costa-rica',    'Costa Rica (CRC)' ],
   hon: [ 'hn-honduras',      'Honduras (HON)' ],
   cub: [ 'cu-cuba',          'Cuba (CUB)' ],
@@ -23,10 +24,15 @@ TEAMS = {
   dei: [ 'dei-dutch-east-indies', 'Dutch East Indies (DEI)' ],
 
   jpn: [ 'jp-japan',         'Japan (JPN)' ],
-  kor: [ 'kr-south-korea',   'Korea (KOR)' ],
+  kor: [ 'kr-south-korea',   'South Korea (KOR)' ],
+  prk: [ 'kp-north-korea',   'North Korea (PRK)' ],
+
   irn: [ 'ir-iran',          'Iran (IRN)' ],
+  isr: [ 'il-israel',        'Israel (ISR)' ],
+
 
   alg: [ 'dz-algeria',       'Algeria (ALG)' ],
+  mar: [ 'ma-morocco',       'Morocco (MAR)' ],
   egy: [ 'eg-egypt',         'Egypt (EGY)' ],
   cmr: [ 'cm-cameroon',      'Cameroon (CMR)' ],
   civ: [ 'ci-cote-d-ivoire', "Côte d'Ivoire (CIV)" ],
@@ -37,9 +43,12 @@ TEAMS = {
   yug: [ 'yug-yugoslavia',     'Yuguslavia (YUG)' ],
   tch: [ 'tch-czechoslovakia', 'Czechoslovakia (TCH)' ],
   frg: [ 'frg-west-germany',   'West Germany (FRG)' ],
+  urs: [ 'urs-soviet-union',   'Soviet Union (URS)' ],
 
   fra: [ 'fr-france',      'France (FRA)' ],
   rou: [ 'ro-romania',     'Romania (ROU)' ],
+  bul: [ 'bg-bulgaria',    'Bulgaria (BUL)' ],
+
   bel: [ 'be-belgium',     'Belgium (BEL)' ],
   ita: [ 'it-italy',       'Italy (ITA)' ],
   ger: [ 'de-deutschland', 'Deutschland (GER)' ],
@@ -54,7 +63,8 @@ TEAMS = {
   gre: [ 'gr-greece',      'Greece (GRE)' ],
   eng: [ 'en-england',     'England (ENG)' ],
   sco: [ 'sco-scotland',   'Scotland (SCO)' ],
-
+  nir: [ 'nir-northern-ireland', 'Northern Ireland (NIR)'],
+  wal: [ 'wal-wales', 'Wales (WAL)' ],
   bih: [ 'ba-bosnia-herzegovina', 'Bosnia n Herzegovina (BIH)' ],
   por: [ 'pt-portugal',    'Portugal (POR)' ],
   rus: [ 'ru-russia',      'Russia (RUS)' ],
