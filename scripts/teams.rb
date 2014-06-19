@@ -14,36 +14,35 @@ TEAMS = {
 
   usa: [ 'us-united-states', 'United States (USA)' ],
   mex: [ 'mx-mexico',        'Mexico (MEX)' ],
+  can: [ 'ca-canada',        'Canada (CAN)' ],
 
   slv: [ 'sv-el-salvador',   'El Salvador (SLV)' ],
   crc: [ 'cr-costa-rica',    'Costa Rica (CRC)' ],
   hon: [ 'hn-honduras',      'Honduras (HON)' ],
   cub: [ 'cu-cuba',          'Cuba (CUB)' ],
+  hai: [ 'ht-haiti',         'Haiti (HAI)' ],
 
   aus: [ 'au-australia',     'Australia (AUS)' ],
-  dei: [ 'dei-dutch-east-indies', 'Dutch East Indies (DEI)' ],
+  nzl: [ 'nz-new-zealand',   'New Zealand (NZL)' ],
+
 
   jpn: [ 'jp-japan',         'Japan (JPN)' ],
   kor: [ 'kr-south-korea',   'South Korea (KOR)' ],
   prk: [ 'kp-north-korea',   'North Korea (PRK)' ],
 
   irn: [ 'ir-iran',          'Iran (IRN)' ],
+  irq: [ 'iq-iraq',          'Iraq (IRQ)' ],
   isr: [ 'il-israel',        'Israel (ISR)' ],
-
+  kuw: [ 'kw-kuwait',        'Kuwait (KUW)' ],
 
   alg: [ 'dz-algeria',       'Algeria (ALG)' ],
   mar: [ 'ma-morocco',       'Morocco (MAR)' ],
+  tun: [ 'tn-tunisia',       'Tunisia (TUN)' ],
   egy: [ 'eg-egypt',         'Egypt (EGY)' ],
   cmr: [ 'cm-cameroon',      'Cameroon (CMR)' ],
   civ: [ 'ci-cote-d-ivoire', "Côte d'Ivoire (CIV)" ],
   nga: [ 'ng-nigeria',       'Nigeria (NGA)' ],
   gha: [ 'gh-ghana',         'Ghana (GHA)' ],
-
-
-  yug: [ 'yug-yugoslavia',     'Yuguslavia (YUG)' ],
-  tch: [ 'tch-czechoslovakia', 'Czechoslovakia (TCH)' ],
-  frg: [ 'frg-west-germany',   'West Germany (FRG)' ],
-  urs: [ 'urs-soviet-union',   'Soviet Union (URS)' ],
 
   fra: [ 'fr-france',      'France (FRA)' ],
   rou: [ 'ro-romania',     'Romania (ROU)' ],
@@ -58,6 +57,7 @@ TEAMS = {
   sui: [ 'ch-switzerland', 'Switzerland (SUI)' ],
   swe: [ 'se-sweden',      'Sweden (SWE)' ],
   swe_ii: [ 'se-sweden',   'Sweden (SWE) Reserves in Standby', 'a' ],  ## file mode append!!!
+  den: [ 'dk-denmark',     'Denmark (DEN)' ],
   ned: [ 'nl-netherlands', 'Netherlands (NED)' ],
   cro: [ 'hr-croatia',     'Croatia (CRO)' ],
   gre: [ 'gr-greece',      'Greece (GRE)' ],
@@ -71,5 +71,14 @@ TEAMS = {
   pol: [ 'pl-poland',      'Poland (POL)' ],
   nor: [ 'no-norway',      'Norway (NOR)' ],
   tur: [ 'tr-turkey',      'Turkey (TUR)' ],
+
+  ### old (historic) teams
+  yug: [ 'yug-yugoslavia',     'Yuguslavia (YUG)' ],
+  tch: [ 'tch-czechoslovakia', 'Czechoslovakia (TCH)' ],
+  frg: [ 'frg-west-germany',   'West Germany (FRG)' ],
+  gdr: [ 'gdr-east-germany',   'East Germany (GDR)' ],
+  urs: [ 'urs-soviet-union',   'Soviet Union (URS)' ],
+  zai: [ 'zai-zaire',          'Zaire (ZAI)' ],  # now Congo DR
+  dei: [ 'dei-dutch-east-indies', 'Dutch East Indies (DEI)' ],  # now Indonesia
 }
 
