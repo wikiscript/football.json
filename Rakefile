@@ -1,5 +1,5 @@
 
-require './scripts/squads'
+require './scripts/builder'
 
 
 task :default => :build
@@ -7,6 +7,9 @@ task :default => :build
 
 task :build  do
   puts 'hello from squad reader/builder'
+
+  logger = LogUtils::Logger.root
+  logger.level = :info   # :debug, :warn
 
   b = SquadsBuilder.new( './world-cup' )
 
