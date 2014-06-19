@@ -17,9 +17,10 @@ TEAMS = {
 
   crc: [ 'cr-costa-rica',    'Costa Rica (CRC)' ],
   hon: [ 'hn-honduras',      'Honduras (HON)' ],
-
+  cub: [ 'cu-cuba',          'Cuba (CUB)' ],
 
   aus: [ 'au-australia',     'Australia (AUS)' ],
+  dei: [ 'dei-dutch-east-indies', 'Dutch East Indies (DEI)' ],
 
   jpn: [ 'jp-japan',         'Japan (JPN)' ],
   kor: [ 'kr-south-korea',   'Korea (KOR)' ],
@@ -35,6 +36,7 @@ TEAMS = {
 
   yug: [ 'yug-yugoslavia',     'Yuguslavia (YUG)' ],
   tch: [ 'tch-czechoslovakia', 'Czechoslovakia (TCH)' ],
+  frg: [ 'frg-west-germany',   'West Germany (FRG)' ],
 
   fra: [ 'fr-france',      'France (FRA)' ],
   rou: [ 'ro-romania',     'Romania (ROU)' ],
@@ -51,8 +53,13 @@ TEAMS = {
   cro: [ 'hr-croatia',     'Croatia (CRO)' ],
   gre: [ 'gr-greece',      'Greece (GRE)' ],
   eng: [ 'en-england',     'England (ENG)' ],
+  sco: [ 'sco-scotland',   'Scotland (SCO)' ],
+
   bih: [ 'ba-bosnia-herzegovina', 'Bosnia n Herzegovina (BIH)' ],
   por: [ 'pt-portugal',    'Portugal (POR)' ],
-  rus: [ 'ru-russia',      'Russia (RUS)' ]
+  rus: [ 'ru-russia',      'Russia (RUS)' ],
+  pol: [ 'pl-poland',      'Poland (POL)' ],
+  nor: [ 'no-norway',      'Norway (NOR)' ],
+  tur: [ 'tr-turkey',      'Turkey (TUR)' ],
 }
 
