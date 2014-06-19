@@ -51,9 +51,9 @@ class SquadsBuilder
     \]\]
   }
 
-  FS_START_REGEX  = /fs start/
-  FS_PLAYER_REGEX = /fs player/
-  FS_END_REGEX    = /fs end/
+  FS_START_REGEX  = /(nat fs|National football squad) start/
+  FS_PLAYER_REGEX = /(nat fs|National football squad) player/
+  FS_END_REGEX    = /(nat fs|National football squad) end/
 
   FS_PLAYER_NAME_REGEX = /\b
                           name=#{WIKI_LINK_PATTERN}
@@ -194,11 +194,13 @@ class SquadsBuilder
   
   def write( names )
 
-    ##
-    ## fix/todo:
-    ##   assert that names.size and @squads.size match
-
     ## dump squads
+    
+    puts " #{@squads.size} squad blocks,  #{names.size} squads recs"
+    if @squads.size != names.size
+      puts " !!!! squad blocks do NOT match / mismatch"
+    end
+
     @squads.each_with_index do |squad,i|
       team_key = names[i]
       team = TEAMS[ team_key.to_sym ]

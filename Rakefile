@@ -13,8 +13,8 @@ task :build  do
 
   b = SquadsBuilder.new( './world-cup' )
 
-  ## [1930,1934,1938,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,2014].each do |year|
-  [1986].each do |year|
+  ## [1930,1934,1938,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,1990,1994,1998,2002,2006,2010,2014].each do |year|
+  [2010].each do |year|
     config = YAML.load_file( "./config/world_cup_#{year}.yml" )
     pp config
 

@@ -644,7 +644,7 @@ Head coach: {{flagicon|England}} [[Jack Charlton]]
 {{nat fs player|no=20|pos=DF|name=[[John Byrne (Irish footballer)|John Byrne]]|age={{Birth date and age2|df=yes|1990|6|8|1961|2|1}}|caps=19|goals=1|club=[[Le Havre AC|Le Havre]]|clubnat=France}}
 {{nat fs player|no=21|pos=MF|name=[[Alan McLoughlin]]|age={{Birth date and age2|df=yes|1990|6|8|1967|4|20}}|caps=1|goals=0|club=[[Swindon Town F.C.|Swindon Town]]|clubnat=England}}
 {{nat fs player|no=22|pos=GK|name=[[Gerry Peyton]]|age={{Birth date and age2|df=yes|1990|6|8|1956|5|20}}|caps=28|goals=0|club=[[A.F.C. Bournemouth|Bournemouth]]|clubnat=England}}
-{{nat fs g end}}
+{{nat fs end}}
 
 <nowiki>*</nowiki>Niall Quinn was registered as Ireland's third goalkeeper
 

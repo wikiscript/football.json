@@ -295,7 +295,7 @@ Coach: [[Bob Bradley]]
 {{nat fs player|no=21|pos=DF|name=[[Clarence Goodson]]|age={{Birth date and age2|2010|6|11|1982|5|17|df=y}}|caps=14|club=[[IK Start|Start]]|clubnat=NOR}}
 {{nat fs player|no=22|pos=MF|name=[[Benny Feilhaber]]|age={{Birth date and age2|2010|6|11|1985|1|19|df=y}}|caps=32|club=[[Aarhus Gymnastikforening|AGF]]|clubnat=DEN}}
 {{nat fs player|no=23|pos=GK|name=[[Marcus Hahnemann]]|age={{Birth date and age2|2010|6|11|1972|6|15|df=y}}|caps=7|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
-{{nat fs g end}}
+{{nat fs end}}
 
 ===Algeria===
 Coach: [[Rabah Saâdane]]
