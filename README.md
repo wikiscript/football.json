@@ -1,4 +1,4 @@
-# football.squads.ruby
+# football.squads
 
 Wikipedia Script for Football Squads (World Cup, etc.) in Ruby
 
