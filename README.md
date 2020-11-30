@@ -1,4 +1,6 @@
-# football- Wikipedia Scripts for Football Data (Squads, Players, World Cup, etc.)
+# football
+
+Wikipedia Scripts for Football Data (Squads, Players, World Cup, etc.)
 
 
 
