@@ -1,6 +1,4 @@
-# football.squads
-
-Wikipedia Script for Football Squads (World Cup, etc.) in Ruby
+# football- Wikipedia Scripts for Football Data (Squads, Players, World Cup, etc.)
 
 
 
