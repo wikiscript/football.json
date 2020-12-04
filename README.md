@@ -1,4 +1,4 @@
-# `football.json` - Football Players, World Cup Squads 'n' More Sourced from Wikipedia's Players and Squad's Pages Converted into JSON
+# `football.json` - Football Players, World Cup Squads 'n' More Sourced from Wikipedia's Players and Squads' Pages Converted into JSON
 
 
 
