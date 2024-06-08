@@ -37,8 +37,7 @@ On 2 May 2012, Smuda named a provisional list of 26 players for the tournament, 
 {{nat fs g player|no=18|pos=MF|name= [[Adrian Mierzejewski]] |age={{Birth date and age2|2012|6|8|df=yes|1986|11|4}}|caps=25|goals=1|club=[[Trabzonspor]]|clubnat=TUR}}
 {{nat fs g player|no=19|pos=MF|name= [[Rafał Wolski]] |age={{Birth date and age2|2012|6|8|df=yes|1992|11|10}}|caps=3|goals=0|club= [[Legia Warsaw]]|clubnat=POL}}
 {{nat fs g player|no=20|pos=DF|name= [[Łukasz Piszczek]] |age={{Birth date and age2|2012|6|8|df=yes|1985|6|3}}|caps=27|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
-{{nat fs g player|no=21|pos=MF|name= [[Kamil Grosicki]] |age={{Birth date and age2|2012|6|8|df=yes|1988|6|8}}|caps=14|goals=0||club=
-[[Sivasspor]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=MF|name= [[Kamil Grosicki]] |age={{Birth date and age2|2012|6|8|df=yes|1988|6|8}}|caps=14|goals=0||club=[[Sivasspor]]|clubnat=TUR}}
 {{nat fs g player|no=22|pos=GK|name= [[Przemysław Tytoń]] |age={{Birth date and age2|2012|6|8|df=yes|1987|01|4}}|caps=8|goals=0||club=[[PSV Eindhoven]]|clubnat=NED}}
 {{nat fs g player|no=23|pos=FW|name= [[Paweł Brożek]]|age={{Birth date and age2|2012|6|8|df=yes|1983|4|21}}|caps=36|goals=8|club=[[Trabzonspor]]|clubnat=TUR}}
 {{nat fs g end}}
