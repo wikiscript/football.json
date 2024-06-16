@@ -1,0 +1,830 @@
+<!-- 
+     source: en.wikipedia.org/wiki/UEFA_Euro_2020_squads
+     added: Jun/16 2024
+     use "raw source" e.g.:
+      en.wikipedia.org/w/index.php?title=UEFA_Euro_2020_squads&action=raw  
+
+      note_ part of the intro skipped 
+              and all statistics 
+  -->
+
+==Group A==
+===Italy===
+Manager: [[Roberto Mancini]]
+
+[[Italy national football team|Italy]] announced a 33-man preliminary squad on 17 May 2021.<ref>{{cite news |url=https://www.figc.it/en/national-teams/news/italy-s-33-man-squad-for-san-marino-friendly-first-call-up-for-raspadori/ |title=Italy's 33-man squad for San Marino friendly, first call-up for Raspadori |work=[[Italian Football Federation]] |date=17 May 2021 |access-date=17 May 2021}}</ref> The squad was extended to 34 players on 25 May,<ref>{{cite news |url=https://figc.it/it/nazionali/news/verso-l-europeo-primo-allenamento-di-gruppo-per-gli-azzurri-presente-anche-ferrari/ |title=Primo allenamento di gruppo per gli Azzurri al Forte Village, presente anche Ferrari |trans-title=First group training for the Azzurri at Forte Village, Ferrari also present |work=[[Italian Football Federation]] |date=26 May 2021 |access-date=26 May 2021 |language=it}}</ref> then reduced to 28 players on 30 May (with two players added and eight removed).<ref>{{cite news |url=https://figc.it/en/national-teams/news/ahead-of-announcing-his-squad-list-for-the-euros-mancini-calls-on-28-azzurri-players-tomorrow-meet-up-in-rome/ |title=Ahead of announcing his squad list for the Euros, Mancini calls on 28 Azzurri players: tomorrow, meet-up in Rome |work=[[Italian Football Federation]] |date=30 May 2021 |access-date=30 May 2021}}</ref> The final squad was announced on 2 June.<ref>{{cite news |url=https://figc.it/en/national-teams/news/26-man-squad-announcement-for-the-euros-giacomo-raspadori-makes-it/ |title=26-man squad announcement for the Euros: Giacomo Raspadori makes it |work=[[Italian Football Federation]] |date=2 June 2021 |access-date=2 June 2021}}</ref> [[Stefano Sensi]] withdrew injured and was replaced by [[Matteo Pessina]] on 7 June.<ref>{{cite news |url=https://figc.it/en/national-teams/news/bonucci-s-contagious-enthusiasm-we-re-a-great-group-i-couldn-t-wait-to-return-to-coverciano/ |title=Bonucci's contagious enthusiasm: "We're a great group, I couldn't wait to return to Coverciano" |work=[[Italian Football Federation]] |date=7 June 2021 |access-date=7 June 2021}}</ref> [[Lorenzo Pellegrini]] withdrew injured and was replaced by [[Gaetano Castrovilli]] on 10 June.<ref>{{cite news |url=https://www.figc.it/en/national-teams/news/request-submitted-to-uefa-to-replace-midfielder-lorenzo-pellegrini/ |title=Request submitted to UEFA to replace midfielder Lorenzo Pellegrini |work=[[Italian Football Federation]] |date=10 June 2021 |access-date=10 June 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Salvatore Sirigu]]|sortname=Sirigu, Salvatore|age={{birth date and age2|df=y|2021|6|11|1987|1|12}}|caps=26|goals=0|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=2|pos=DF|name=[[Giovanni Di Lorenzo]]|sortname=Di Lorenzo, Giovanni|age={{birth date and age2|df=y|2021|6|11|1993|8|4}}|caps=7|goals=0|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Giorgio Chiellini]]|sortname=Chiellini, Giorgio|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1984|8|14}}|caps=107|goals=8|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Leonardo Spinazzola]]|sortname=Spinazzola, Leonardo|age={{birth date and age2|df=y|2021|6|11|1993|3|25}}|caps=14|goals=0|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=MF|name=[[Manuel Locatelli]]|sortname=Locatelli, Manuel|age={{birth date and age2|df=y|2021|6|11|1998|1|8}}|caps=10|goals=1|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=MF|name=[[Marco Verratti]]|sortname=Verratti, Marco|age={{birth date and age2|df=y|2021|6|11|1992|11|5}}|caps=40|goals=3|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=MF|name=[[Gaetano Castrovilli]]|sortname=Castrovilli, Gaetano|age={{birth date and age2|df=y|2021|6|11|1997|2|17}}|caps=2|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Jorginho (footballer, born December 1991)|Jorginho]]|sortname=Jorginho|age={{birth date and age2|df=y|2021|6|11|1991|12|20}}|caps=28|goals=5|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Andrea Belotti]]|sortname=Belotti, Andrea|age={{birth date and age2|df=y|2021|6|11|1993|12|20}}|caps=33|goals=12|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=FW|name=[[Lorenzo Insigne]]|sortname=Insigne, Lorenzo|age={{birth date and age2|df=y|2021|6|11|1991|6|4}}|caps=41|goals=8|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Domenico Berardi]]|sortname=Berardi, Domenico|age={{birth date and age2|df=y|2021|6|11|1994|8|1}}|caps=11|goals=5|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=MF|name=[[Matteo Pessina]]|sortname=Pessina, Matteo|age={{birth date and age2|df=y|2021|6|11|1997|4|21}}|caps=5|goals=2|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=DF|name=[[Emerson Palmieri]]|sortname=Emerson|age={{birth date and age2|df=y|2021|6|11|1994|8|3}}|caps=15|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Federico Chiesa]]|sortname=Chiesa, Federico|age={{birth date and age2|df=y|2021|6|11|1997|10|25}}|caps=25|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Francesco Acerbi]]|sortname=Acerbi, Francesco|age={{birth date and age2|df=y|2021|6|11|1988|2|10}}|caps=14|goals=1|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Bryan Cristante]]|sortname=Cristante, Bryan|age={{birth date and age2|df=y|2021|6|11|1995|3|3}}|caps=11|goals=1|club=[[A.S. Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=FW|name=[[Ciro Immobile]]|sortname=Immobile, Ciro|age={{birth date and age2|df=y|2021|6|11|1990|2|20}}|caps=46|goals=13|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Nicolò Barella]]|sortname=Barella, Nicolo|age={{birth date and age2|df=y|2021|6|11|1997|2|7}}|caps=23|goals=5|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=DF|name=[[Leonardo Bonucci]]|sortname=Bonucci, Leonardo|age={{birth date and age2|df=y|2021|6|11|1987|5|1}}|caps=102|goals=7|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=MF|name=[[Federico Bernardeschi]]|sortname=Bernardeschi, Federico|age={{birth date and age2|df=y|2021|6|11|1994|2|16}}|caps=30|goals=6|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=GK|name=[[Gianluigi Donnarumma]]|sortname=Donnarumma, Gianluigi|age={{birth date and age2|df=y|2021|6|11|1999|2|25}}|caps=26|goals=0|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=FW|name=[[Giacomo Raspadori]]|sortname=Raspadori, Giacomo|age={{birth date and age2|df=y|2021|6|11|2000|2|18}}|caps=1|goals=0|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=DF|name=[[Alessandro Bastoni]]|sortname=Bastoni, Alessandro|age={{birth date and age2|df=y|2021|6|11|1999|4|13}}|caps=5|goals=0|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=24|pos=DF|name=[[Alessandro Florenzi]]|sortname=Florenzi, Alessandro|age={{birth date and age2|df=y|2021|6|11|1991|3|11}}|caps=43|goals=2|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Rafael Tolói]]|sortname=Toloi, Rafael|age={{birth date and age2|df=y|2021|6|11|1990|10|10}}|caps=3|goals=0|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=26|pos=GK|name=[[Alex Meret]]|sortname=Meret, Alex|age={{birth date and age2|df=y|2021|6|11|1997|3|22}}|caps=2|goals=0|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Switzerland===
+Manager: [[Vladimir Petković]]
+
+[[Switzerland national football team|Switzerland]] announced a 29-man preliminary squad on 19 May 2021.<ref name="SUI squad">{{cite news |url=https://football.ch/sfv/nationalteams/a-team/news/mit-29-spielern-richtung-uefa-euro.aspx |title=Mit 29 Spielern Richtung UEFA EURO |trans-title=With 29 players towards UEFA Euro |work=[[Swiss Football Association]] |date=19 May 2021 |access-date=19 May 2021 |language=de |archive-date=2 June 2021 |archive-url=https://web.archive.org/web/20210602073150/https://football.ch/sfv/nationalteams/a-team/news/mit-29-spielern-richtung-uefa-euro.aspx |url-status=dead }}</ref><ref>{{cite tweet |author=Swiss Football Association |author-link=Swiss Football Association |user=nati_sfv_asf |number=1395032575211671557 |date=19 May 2021 |title=Das Aufgebot für Bad Ragaz. 26 Spieler werden zur EM fahren. |trans-title=The squad for Bad Ragaz. 26 players will go to the European Championship. |language=de, fr, it |access-date=19 May 2021 |url-status=live |archive-url=https://web.archive.org/web/20210519221914/https://twitter.com/nati_sfv_asf/status/1395032575211671557 |archive-date=19 May 2021}}</ref> The final squad was announced on 31 May.<ref>{{cite news |url=https://www.football.ch/sfv/nationalteams/a-team/news/das-kader-des-schweizer-nationalteams-fuer-die-uefa-euro-ist-bekannt.aspx |title=Das Kader des Schweizer Nationalteams für die UEFA EURO ist bekannt |trans-title=The squad of the Swiss national team for the UEFA Euro is known |work=[[Swiss Football Association]] |date=31 May 2021 |access-date=31 May 2021 |language=de}}</ref><ref>{{cite web |url=https://www.football.ch/PortalData/27/Resources/dokumente/nationalteams/a-team/em_2020/Spielerliste_UEFA_EURO_2020_FINAL.pdf |title=Spielerliste Nationalteam UEFA EURO 2020 |trans-title=Player list national team UEFA Euro 2020 |work=[[Swiss Football Association]] |date=31 May 2021 |access-date=31 May 2021 |language=de |archive-url=https://web.archive.org/web/20210601064006/https://www.football.ch/PortalData/27/Resources/dokumente/nationalteams/a-team/em_2020/Spielerliste_UEFA_EURO_2020_FINAL.pdf |archive-date=1 June 2021 |url-status=live}}</ref> After the team's first match, goalkeeper [[Jonas Omlin]] withdrew injured and was replaced by [[Gregor Kobel]] on 13 June.<ref>{{cite news |url=https://football.ch/sfv/nationalteams/a-team/news/jonas-omlin-verletzt-gregor-kobel-rueckt-nach.aspx |title=Jonas Omlin verletzt – Gregor Kobel rückt nach |trans-title=Jonas Omlin injured – Gregor Kobel steps in |work=[[Swiss Football Association]] |date=13 June 2021 |access-date=14 June 2021 |language=de |archive-date=3 July 2021 |archive-url=https://web.archive.org/web/20210703120828/https://www.football.ch/sfv/nationalteams/a-team/news/jonas-omlin-verletzt-gregor-kobel-rueckt-nach.aspx |url-status=dead }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Yann Sommer]]|sortname=Sommer, Yann|age={{birth date and age2|df=y|2021|6|11|1988|12|17}}|caps=61|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Kevin Mbabu]]|sortname=Mbabu, Kevin|age={{birth date and age2|df=y|2021|6|11|1995|4|19}}|caps=12|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Silvan Widmer]]|sortname=Widmer, Silvan|age={{birth date and age2|df=y|2021|6|11|1993|3|5}}|caps=16|goals=1|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs g player|no=4|pos=DF|name=[[Nico Elvedi]]|sortname=Elvedi, Nico|age={{birth date and age2|df=y|2021|6|11|1996|9|30}}|caps=26|goals=1|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Manuel Akanji]]|sortname=Akanji, Manuel|age={{birth date and age2|df=y|2021|6|11|1995|7|19}}|caps=29|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Denis Zakaria]]|sortname=Zakaria, Denis|age={{birth date and age2|df=y|2021|6|11|1996|11|20}}|caps=32|goals=3|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=FW|name=[[Breel Embolo]]|sortname=Embolo, Breel|age={{birth date and age2|df=y|2021|6|11|1997|2|14}}|caps=43|goals=5|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Remo Freuler]]|sortname=Freuler, Remo|age={{birth date and age2|df=y|2021|6|11|1992|4|15}}|caps=29|goals=3|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Haris Seferovic]]|sortname=Seferovic, Haris|age={{birth date and age2|df=y|2021|6|11|1992|2|22}}|caps=74|goals=21|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=10|pos=MF|name=[[Granit Xhaka]]|sortname=Xhaka, Granit|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1992|9|27}}|caps=94|goals=12|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ruben Vargas]]|sortname=Vargas, Ruben|age={{birth date and age2|df=y|2021|6|11|1998|8|5}}|caps=12|goals=2|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Yvon Mvogo]]|sortname=Mvogo, Yvon|age={{birth date and age2|df=y|2021|6|11|1994|6|6}}|caps=4|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=13|pos=DF|name=[[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]|sortname=Rodriguez, Ricardo|age={{birth date and age2|df=y|2021|6|11|1992|8|25}}|caps=81|goals=9|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name=[[Steven Zuber]]|sortname=Zuber, Steven|age={{birth date and age2|df=y|2021|6|11|1991|8|17}}|caps=37|goals=8|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=MF|name=[[Djibril Sow]]|sortname=Sow, Djibril|age={{birth date and age2|df=y|2021|6|11|1997|2|6}}|caps=16|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Christian Fassnacht]]|sortname=Fassnacht, Christian|age={{birth date and age2|df=y|2021|6|11|1993|11|11}}|caps=8|goals=3|club=[[BSC Young Boys|Young Boys]]|clubnat=SUI}}
+{{nat fs g player|no=17|pos=DF|name=[[Loris Benito]]|sortname=Benito, Loris|age={{birth date and age2|df=y|2021|6|11|1992|1|7}}|caps=12|goals=1|club=[[FC Girondins de Bordeaux|Bordeaux]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Admir Mehmedi]]|sortname=Mehmedi, Admir|age={{birth date and age2|df=y|2021|6|11|1991|3|16}}|caps=74|goals=10|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=FW|name=[[Mario Gavranović]]|sortname=Gavranovic, Mario|age={{birth date and age2|df=y|2021|6|11|1989|11|24}}|caps=30|goals=14|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=20|pos=MF|name=[[Edimilson Fernandes]]|sortname=Fernandes, Edimilson|age={{birth date and age2|df=y|2021|6|11|1996|4|15}}|caps=22|goals=2|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=GK|name=[[Jonas Omlin]]|sortname=Omlin, Jonas|other=until 13 June|age={{birth date and age2|df=y|2021|6|11|1994|1|10}}|caps=2|goals=0|club=[[Montpellier HSC|Montpellier]]|clubnat=FRA}}
+{{nat fs g player|no=21|pos=GK|name=[[Gregor Kobel]]|sortname=Kobel, Gregor|other=from 13 June|age={{birth date and age2|df=y|2021|6|11|1997|12|6}}|caps=0|goals=0|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=DF|name=[[Fabian Schär]]|sortname=Schar, Fabian|age={{birth date and age2|df=y|2021|6|11|1991|12|20}}|caps=60|goals=8|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=MF|name=[[Xherdan Shaqiri]]|sortname=Shaqiri, Xherdan|age={{birth date and age2|df=y|2021|6|11|1991|10|10}}|caps=91|goals=23|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Bećir Omeragić]]|sortname=Omeragic, Becir|age={{birth date and age2|df=y|2021|6|11|2002|1|20}}|caps=4|goals=0|club=[[FC Zürich|Zürich]]|clubnat=SUI}}
+{{nat fs g player|no=25|pos=DF|name=[[Eray Cömert]]|sortname=Comert, Eray|age={{birth date and age2|df=y|2021|6|11|1998|2|4}}|caps=6|goals=0|club=[[FC Basel|Basel]]|clubnat=SUI}}
+{{nat fs g player|no=26|pos=DF|name=[[Jordan Lotomba]]|sortname=Lotomba, Jordan|age={{birth date and age2|df=y|2021|6|11|1998|9|29}}|caps=2|goals=0|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Turkey===
+Manager: [[Şenol Güneş]]
+
+[[Turkey national football team|Turkey]] announced a 30-man preliminary squad on 14 May 2021.<ref>{{cite news |url=https://tff.org/default.aspx?pageID=628&ftxtID=35106 |title=A Millî Takım'ın kamp kadrosu açıklandı |trans-title=National team camp squad announced |work=[[Turkish Football Federation]] |date=14 May 2021 |access-date=14 May 2021 |language=tr}}</ref> The final squad was announced on 1 June.<ref>{{cite news |url=https://tff.org/default.aspx?pageID=202&ftxtID=35271 |title=A Millî Takımın nihai kadrosu açıklandı |trans-title=Final squad of the national team announced |work=[[Turkish Football Federation]] |date=1 June 2021 |access-date=1 June 2021 |language=tr}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Mert Günok]]|sortname=Gunok, Mert|age={{birth date and age2|df=y|2021|6|11|1989|3|1}}|caps=22|goals=0|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=2|pos=DF|name=[[Zeki Çelik]]|sortname=Celik, Zeki|age={{birth date and age2|df=y|2021|6|11|1997|2|17}}|caps=20|goals=2|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Merih Demiral]]|sortname=Demiral, Merih|age={{birth date and age2|df=y|2021|6|11|1998|3|5}}|caps=21|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Çağlar Söyüncü]]|sortname=Soyuncu, Caglar|age={{birth date and age2|df=y|2021|6|11|1996|5|23}}|caps=35|goals=2|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=MF|name=[[Okay Yokuşlu]]|sortname=Yokuslu, Okay|age={{birth date and age2|df=y|2021|6|11|1994|3|9}}|caps=34|goals=1|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Ozan Tufan]]|sortname=Tufan, Ozan|age={{birth date and age2|df=y|2021|6|11|1995|3|23}}|caps=60|goals=9|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=7|pos=FW|name=[[Cengiz Ünder]]|sortname=Under, Cengiz|age={{birth date and age2|df=y|2021|6|11|1997|7|14}}|caps=29|goals=9|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Dorukhan Toköz]]|sortname=Tokoz, Dorukhan|age={{birth date and age2|df=y|2021|6|11|1996|5|21}}|caps=9|goals=1|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=9|pos=FW|name=[[Kenan Karaman]]|sortname=Karaman, Kenan|age={{birth date and age2|df=y|2021|6|11|1994|3|5}}|caps=22|goals=5|club=[[Fortuna Düsseldorf]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Hakan Çalhanoğlu]]|sortname=Calhanoglu, Hakan|age={{birth date and age2|df=y|2021|6|11|1994|2|8}}|caps=56|goals=13|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Yusuf Yazıcı]]|sortname=Yazici, Yusuf|age={{birth date and age2|df=y|2021|6|11|1997|1|29}}|caps=31|goals=1|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Altay Bayındır]]|sortname=Bayindir, Altay|age={{birth date and age2|df=y|2021|6|11|1998|4|14}}|caps=1|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=13|pos=DF|name=[[Umut Meraş]]|sortname=Meras, Umut|age={{birth date and age2|df=y|2021|6|11|1995|12|20}}|caps=13|goals=0|club=[[Le Havre AC|Le Havre]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Taylan Antalyalı]]|sortname=Antalyali, Taylan|age={{birth date and age2|df=y|2021|6|11|1995|1|8}}|caps=6|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=15|pos=DF|name=[[Ozan Kabak]]|sortname=Kabak, Ozan|age={{birth date and age2|df=y|2021|6|11|2000|3|25}}|caps=12|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=FW|name=[[Enes Ünal]]|sortname=Unal, Enes|age={{birth date and age2|df=y|2021|6|11|1997|5|10}}|caps=22|goals=2|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=FW|name=[[Burak Yılmaz]]|sortname=Yilmaz, Burak|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1985|7|15}}|caps=67|goals=29|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=DF|name=[[Rıdvan Yılmaz]]|sortname=Yilmaz, Ridvan|age={{birth date and age2|df=y|2021|6|11|2001|5|21}}|caps=2|goals=0|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=19|pos=MF|name=[[Orkun Kökçü]]|sortname=Kokcu, Orkun|age={{birth date and age2|df=y|2021|6|11|2000|12|29}}|caps=6|goals=0|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=20|pos=MF|name=[[Abdülkadir Ömür]]|sortname=Omur, Abdulkadir|age={{birth date and age2|df=y|2021|6|11|1999|6|25}}|caps=9|goals=0|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=MF|name=[[İrfan Kahveci]]|sortname=Kahveci, Irfan|age={{birth date and age2|df=y|2021|6|11|1995|7|15}}|caps=18|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=22|pos=DF|name=[[Kaan Ayhan]]|sortname=Ayhan, Kaan|age={{birth date and age2|df=y|2021|6|11|1994|11|10}}|caps=37|goals=4|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Uğurcan Çakır]]|sortname=Cakir, Ugurcan|age={{birth date and age2|df=y|2021|6|11|1996|4|5}}|caps=8|goals=0|club=[[Trabzonspor]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=MF|name=[[Kerem Aktürkoğlu]]|sortname=Akturkoglu, Kerem|age={{birth date and age2|df=y|2021|6|11|1998|10|21}}|caps=1|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=DF|name=[[Mert Müldür]]|sortname=Muldur, Mert|age={{birth date and age2|df=y|2021|6|11|1999|4|3}}|caps=8|goals=0|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=26|pos=MF|name=[[Halil Dervişoğlu]]|sortname=Dervisoglu, Halil|age={{birth date and age2|df=y|2021|6|11|1999|12|8}}|caps=2|goals=1|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs end}}
+
+===Wales===
+Manager: [[Rob Page]]
+
+[[Wales national football team|Wales]] announced on 23 April 2021 that [[Rob Page]] would act as manager for the tournament, after regular manager [[Ryan Giggs]] was charged by the [[Crown Prosecution Service]].<ref>{{cite news |url=https://www.faw.cymru/en/news/faw-statement5/ |title=FAW Statement |work=[[Football Association of Wales]] |date=23 April 2021 |access-date=23 April 2021}}</ref> The team announced a 28-man preliminary squad on 24 May.<ref>{{cite news |url=https://www.faw.cymru/en/news/robert-page-takes-28-player-squad-portugal-training-camp/ |title=Robert Page takes 28-player squad to Portugal training camp |work=[[Football Association of Wales]] |date=24 May 2021 |access-date=24 May 2021}}</ref> The final squad was announced on 30 May.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/57301006 |title=Euro 2020: Uncapped Rubin Colwill in Wales' European Championship squad |work=[[BBC Sport]] |date=30 May 2021 |access-date=1 June 2021}}</ref> [[James Lawrence (footballer)|James Lawrence]] withdrew injured and was replaced by [[Tom Lockyer]] on 31 May.<ref>{{cite news |url=https://www.faw.cymru/en/news/tom-lockyer-called-euro-2020-squad/ |title=Tom Lockyer called up to EURO 2020 squad |work=[[Football Association of Wales]] |date=31 May 2021 |access-date=31 May 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Wayne Hennessey]]|sortname=Hennessey, Wayne|age={{birth date and age2|df=y|2021|6|11|1987|1|24}}|caps=96|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Chris Gunter]]|sortname=Gunter, Chris|age={{birth date and age2|df=y|2021|6|11|1989|7|21}}|caps=101|goals=0|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Neco Williams]]|sortname=Williams, Neco|age={{birth date and age2|df=y|2021|6|11|2001|4|13}}|caps=11|goals=1|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Ben Davies (footballer, born 1993)|Ben Davies]]|sortname=Davies, Ben|age={{birth date and age2|df=y|2021|6|11|1993|4|24}}|caps=60|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Tom Lockyer]]|sortname=Lockyer, Tom|age={{birth date and age2|df=y|2021|6|11|1994|12|3}}|caps=13|goals=0|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Joe Rodon]]|sortname=Rodon, Joe|age={{birth date and age2|df=y|2021|6|11|1997|10|22}}|caps=14|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Joe Allen]]|sortname=Allen, Joe|age={{birth date and age2|df=y|2021|6|11|1990|3|14}}|caps=59|goals=2|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Harry Wilson (footballer, born 1997)|Harry Wilson]]|sortname=Wilson, Harry|age={{birth date and age2|df=y|2021|6|11|1997|3|22}}|caps=26|goals=5|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs g player|no=9|pos=FW|name=[[Tyler Roberts]]|sortname=Roberts, Tyler|age={{birth date and age2|df=y|2021|6|11|1999|1|12}}|caps=14|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Aaron Ramsey]]|sortname=Ramsey, Aaron|age={{birth date and age2|df=y|2021|6|11|1990|12|26}}|caps=63|goals=16|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Gareth Bale]]|sortname=Bale, Gareth|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1989|7|16}}|caps=92|goals=33|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Danny Ward (Welsh footballer)|Danny Ward]]|sortname=Ward, Danny|age={{birth date and age2|df=y|2021|6|11|1993|6|22}}|caps=13|goals=0|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=FW|name=[[Kieffer Moore]]|sortname=Moore, Kieffer|age={{birth date and age2|df=y|2021|6|11|1992|8|8}}|caps=17|goals=5|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs g player|no=14|pos=DF|name=[[Connor Roberts (footballer, born 1995)|Connor Roberts]]|sortname=Roberts, Connor|age={{birth date and age2|df=y|2021|6|11|1995|9|23}}|caps=26|goals=1|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=15|pos=DF|name=[[Ethan Ampadu]]|sortname=Ampadu, Ethan|age={{birth date and age2|df=y|2021|6|11|2000|9|14}}|caps=23|goals=0|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Joe Morrell]]|sortname=Morrell, Joe|age={{birth date and age2|df=y|2021|6|11|1997|1|3}}|caps=15|goals=0|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Rhys Norrington-Davies]]|sortname=Norrington-Davies, Rhys|age={{birth date and age2|df=y|2021|6|11|1999|4|22}}|caps=5|goals=0|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Jonny Williams]]|sortname=Williams, Jonny|age={{birth date and age2|df=y|2021|6|11|1993|10|9}}|caps=28|goals=1|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs g player|no=19|pos=MF|name=[[David Brooks (footballer)|David Brooks]]|sortname=Brooks, David|age={{birth date and age2|df=y|2021|6|11|1997|7|8}}|caps=18|goals=2|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Daniel James (footballer)|Daniel James]]|sortname=James, Daniel|age={{birth date and age2|df=y|2021|6|11|1997|11|10}}|caps=20|goals=4|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=GK|name=[[Adam Davies (footballer, born 1992)|Adam Davies]]|sortname=Davies, Adam|age={{birth date and age2|df=y|2021|6|11|1992|7|17}}|caps=2|goals=0|club=[[Stoke City F.C.|Stoke City]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Chris Mepham]]|sortname=Mepham, Chris|age={{birth date and age2|df=y|2021|6|11|1997|11|5}}|caps=18|goals=0|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=MF|name=[[Dylan Levitt]]|sortname=Levitt, Dylan|age={{birth date and age2|df=y|2021|6|11|2000|11|17}}|caps=8|goals=0|club=[[NK Istra 1961|Istra 1961]]|clubnat=CRO}}
+{{nat fs g player|no=24|pos=DF|name=[[Ben Cabango]]|sortname=Cabango, Ben|age={{birth date and age2|df=y|2021|6|11|2000|5|30}}|caps=3|goals=0|club=[[Swansea City A.F.C.|Swansea City]]|clubnat=WAL}}
+{{nat fs g player|no=25|pos=MF|name=[[Rubin Colwill]]|sortname=Colwill, Rubin|age={{birth date and age2|df=y|2021|6|11|2002|4|27}}|caps=1|goals=0|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs g player|no=26|pos=MF|name=[[Matthew Smith (footballer, born 1999)|Matthew Smith]]|sortname=Smith, Matthew|age={{birth date and age2|df=y|2021|6|11|1999|11|22}}|caps=14|goals=0|club=[[Doncaster Rovers F.C.|Doncaster Rovers]]|clubnat=ENG}}
+{{nat fs end}}
+
+==Group B==
+===Belgium===
+Manager: {{flagicon|ESP}} [[Roberto Martínez]]
+
+[[Belgium national football team|Belgium]] announced their final squad on 17 May 2021.<ref>{{cite news |url=https://www.rbfa.be/en/news/selection-red-devils-euro-2020-has-been-announced |title=Selection of the Red Devils for EURO 2020 has been announced |work=[[Royal Belgian Football Association]] |date=17 May 2021 |access-date=17 May 2021}}</ref><ref>{{cite news |url=https://www.rbfa.be/en/news/discover-squad-numbers-red-devils-euro2020 |title=Discover the squad numbers of the Red Devils for EURO2020 |work=[[Royal Belgian Football Association]] |date=1 June 2021 |access-date=1 June 2021}}</ref> [[Timothy Castagne]] left the squad on 15 June due to injury.<ref>{{cite news |url=https://www.bbc.co.uk/sport/football/57460381 |title=Euro 2020: Belgium's Timothy Castagne out of tournament with double fracture of eye socket |work=[[BBC Sport]] |date=13 June 2021 |access-date=16 June 2021}}</ref> After the team's round of 16 match, goalkeeper [[Simon Mignolet]] withdrew injured and was replaced by [[Thomas Kaminski]] on 28 June.<ref>{{cite news |url=https://www.rbfa.be/en/news/press-conference-news-injuries |title=The press conference: news on injuries |work=[[Royal Belgian Football Association]] |date=28 June 2021 |access-date=30 June 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Thibaut Courtois]]|sortname=Courtois, Thibaut|age={{birth date and age2|df=y|2021|6|11|1992|5|11}}|caps=84|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Toby Alderweireld]]|sortname=Alderweireld, Toby|age={{birth date and age2|df=y|2021|6|11|1989|3|2}}|caps=109|goals=5|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Thomas Vermaelen]]|sortname=Vermaelen, Thomas|age={{birth date and age2|df=y|2021|6|11|1985|11|14}}|caps=80|goals=2|club=[[Vissel Kobe]]|clubnat=JPN}}
+{{nat fs g player|no=4|pos=DF|name=[[Dedryck Boyata]]|sortname=Boyata, Dedryck|age={{birth date and age2|df=y|2021|6|11|1990|11|28}}|caps=23|goals=0|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Jan Vertonghen]]|sortname=Vertonghen, Jan|age={{birth date and age2|df=y|2021|6|11|1987|4|24}}|caps=127|goals=9|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=6|pos=MF|name=[[Axel Witsel]]|sortname=Witsel, Axel|age={{birth date and age2|df=y|2021|6|11|1989|1|12}}|caps=110|goals=10|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=MF|name=[[Kevin De Bruyne]]|sortname=De Bruyne, Kevin|age={{birth date and age2|df=y|2021|6|11|1991|6|28}}|caps=80|goals=21|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Youri Tielemans]]|sortname=Tielemans, Youri|age={{birth date and age2|df=y|2021|6|11|1997|5|7}}|caps=39|goals=4|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Romelu Lukaku]]|sortname=Lukaku, Romelu|age={{birth date and age2|df=y|2021|6|11|1993|5|13}}|caps=93|goals=60|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=MF|name=[[Eden Hazard]]|sortname=Hazard, Eden|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1991|1|7}}|caps=107|goals=32|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Yannick Carrasco]]|sortname=Carrasco, Yannick|age={{birth date and age2|df=y|2021|6|11|1993|9|4}}|caps=46|goals=6|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Simon Mignolet]]|sortname=Mignolet, Simon|other=until 28 June|age={{birth date and age2|df=y|2021|6|11|1988|3|6}}|caps=31|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=12|pos=GK|name=[[Thomas Kaminski]]|sortname=Kaminski, Thomas|other=from 28 June|age={{birth date and age2|df=y|2021|6|11|1992|10|23}}|caps=0|goals=0|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Matz Sels]]|sortname=Sels, Matz|age={{birth date and age2|df=y|2021|6|11|1992|2|26}}|caps=1|goals=0|club=[[RC Strasbourg Alsace|Strasbourg]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=FW|name=[[Dries Mertens]]|sortname=Mertens, Dries|age={{birth date and age2|df=y|2021|6|11|1987|5|6}}|caps=98|goals=21|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Thomas Meunier]]|sortname=Meunier, Thomas|age={{birth date and age2|df=y|2021|6|11|1991|9|12}}|caps=47|goals=7|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Thorgan Hazard]]|sortname=Hazard, Thorgan|age={{birth date and age2|df=y|2021|6|11|1993|3|29}}|caps=35|goals=6|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Hans Vanaken]]|sortname=Vanaken, Hans|age={{birth date and age2|df=y|2021|6|11|1992|8|24}}|caps=10|goals=2|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=18|pos=DF|name=[[Jason Denayer]]|sortname=Denayer, Jason|age={{birth date and age2|df=y|2021|6|11|1995|6|28}}|caps=25|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=19|pos=MF|name=[[Leander Dendoncker]]|sortname=Dendoncker, Leander|age={{birth date and age2|df=y|2021|6|11|1995|4|15}}|caps=17|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Christian Benteke]]|sortname=Benteke, Christian|age={{birth date and age2|df=y|2021|6|11|1990|12|3}}|caps=39|goals=16|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=DF|name=[[Timothy Castagne]]|sortname=Castagne, Timothy|age={{birth date and age2|df=y|2021|6|11|1995|12|5}}|caps=14|goals=2|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Nacer Chadli]]|sortname=Chadli, Nacer|age={{birth date and age2|df=y|2021|6|11|1989|8|2}}|caps=64|goals=8|club=[[İstanbul Başakşehir F.K.|İstanbul Başakşehir]]|clubnat=TUR}}
+{{nat fs g player|no=23|pos=FW|name=[[Michy Batshuayi]]|sortname=Batshuayi, Michy|age={{birth date and age2|df=y|2021|6|11|1993|10|2}}|caps=34|goals=22|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=FW|name=[[Leandro Trossard]]|sortname=Trossard, Leandro|age={{birth date and age2|df=y|2021|6|11|1994|12|4}}|caps=7|goals=2|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Jérémy Doku]]|sortname=Doku, Jeremy|age={{birth date and age2|df=y|2021|6|11|2002|5|27}}|caps=8|goals=2|club=[[Stade Rennais F.C.|Rennes]]|clubnat=FRA}}
+{{nat fs g player|no=26|pos=MF|name=[[Dennis Praet]]|sortname=Praet, Dennis|age={{birth date and age2|df=y|2021|6|11|1994|5|14}}|caps=11|goals=1|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Denmark===
+Manager: [[Kasper Hjulmand]]
+
+[[Denmark national football team|Denmark]] announced their final squad on 25 May 2021.<ref>{{cite news |url=https://dbu.dk/nyheder/2021/maj/26-spillere-klar-til-em-for-danmark/ |title=26 spillere klar til EM for Danmark |trans-title=26 players ready for the European Championship for Denmark |work=[[Danish Football Association]] |date=25 May 2021 |access-date=25 May 2021 |language=da}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Kasper Schmeichel]]|sortname=Schmeichel, Kasper|age={{birth date and age2|df=y|2021|6|11|1986|11|5}}|caps=65|goals=0|club=[[Leicester City F.C.|Leicester City]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Joachim Andersen (footballer)|Joachim Andersen]]|sortname=Andersen, Joachim|age={{birth date and age2|df=y|2021|6|11|1996|5|31}}|caps=5|goals=0|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Jannik Vestergaard]]|sortname=Vestergaard, Jannik|age={{birth date and age2|df=y|2021|6|11|1992|8|3}}|caps=22|goals=1|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Simon Kjær]]|sortname=Kjaer, Simon|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1989|3|26}}|caps=107|goals=3|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[Joakim Mæhle]]|sortname=Maehle, Joakim|age={{birth date and age2|df=y|2021|6|11|1997|5|20}}|caps=10|goals=2|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=DF|name=[[Andreas Christensen]]|sortname=Christensen, Andreas|age={{birth date and age2|df=y|2021|6|11|1996|4|10}}|caps=41|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Robert Skov]]|sortname=Skov, Robert|age={{birth date and age2|df=y|2021|6|11|1996|5|20}}|caps=10|goals=5|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Thomas Delaney]]|sortname=Delaney, Thomas|age={{birth date and age2|df=y|2021|6|11|1991|9|3}}|caps=54|goals=5|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Martin Braithwaite]]|sortname=Braithwaite, Martin|age={{birth date and age2|df=y|2021|6|11|1991|6|5}}|caps=50|goals=9|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Christian Eriksen]]|sortname=Eriksen, Christian|age={{birth date and age2|df=y|2021|6|11|1992|2|14}}|caps=108|goals=36|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Andreas Skov Olsen]]|sortname=Skov Olsen, Andreas|age={{birth date and age2|df=y|2021|6|11|1999|12|29}}|caps=6|goals=3|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=FW|name=[[Kasper Dolberg]]|sortname=Dolberg, Kasper|age={{birth date and age2|df=y|2021|6|11|1997|10|6}}|caps=26|goals=7|club=[[OGC Nice|Nice]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Mathias Jørgensen]]|sortname=Jorgensen, Mathias|age={{birth date and age2|df=y|2021|6|11|1990|4|23}}|caps=35|goals=2|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=14|pos=FW|name=[[Mikkel Damsgaard]]|sortname=Damsgaard, Mikkel|age={{birth date and age2|df=y|2021|6|11|2000|7|3}}|caps=3|goals=2|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=MF|name=[[Christian Nørgaard]]|sortname=Norgaard, Christian|age={{birth date and age2|df=y|2021|6|11|1994|3|10}}|caps=4|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=GK|name=[[Jonas Lössl]]|sortname=Lossl, Jonas|age={{birth date and age2|df=y|2021|6|11|1989|2|1}}|caps=1|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=17|pos=DF|name=[[Jens Stryger Larsen]]|sortname=Stryger Larsen, Jens|age={{birth date and age2|df=y|2021|6|11|1991|2|21}}|caps=36|goals=2|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Daniel Wass]]|sortname=Wass, Daniel|age={{birth date and age2|df=y|2021|6|11|1989|5|31}}|caps=30|goals=0|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Jonas Wind]]|sortname=Wind, Jonas|age={{birth date and age2|df=y|2021|6|11|1999|2|7}}|caps=7|goals=3|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=20|pos=FW|name=[[Yussuf Poulsen]]|sortname=Poulsen, Yussuf|age={{birth date and age2|df=y|2021|6|11|1994|6|15}}|caps=54|goals=8|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=FW|name=[[Andreas Cornelius]]|sortname=Cornelius, Andreas|age={{birth date and age2|df=y|2021|6|11|1993|3|16}}|caps=28|goals=6|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=GK|name=[[Frederik Rønnow]]|sortname=Ronnow, Frederik|age={{birth date and age2|df=y|2021|6|11|1992|8|4}}|caps=8|goals=0|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=MF|name=[[Pierre-Emile Højbjerg]]|sortname=Hojbjerg, Pierre-Emile|age={{birth date and age2|df=y|2021|6|11|1995|8|5}}|caps=41|goals=4|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Mathias Jensen]]|sortname=Jensen, Mathias|age={{birth date and age2|df=y|2021|6|11|1996|1|1}}|caps=6|goals=1|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Anders Christiansen]]|sortname=Christiansen, Anders|age={{birth date and age2|df=y|2021|6|11|1990|6|8}}|caps=4|goals=0|club=[[Malmö FF]]|clubnat=SWE}}
+{{nat fs g player|no=26|pos=DF|name=[[Nicolai Boilesen]]|sortname=Boilesen, Nicolai|age={{birth date and age2|df=y|2021|6|11|1992|2|16}}|caps=20|goals=1|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs end}}
+
+===Finland===
+Manager: [[Markku Kanerva]]
+
+[[Finland national football team|Finland]] announced a 26-man preliminary squad on 19 May 2021.<ref>{{cite news |url=https://www.palloliitto.fi/jalkapallouutiset/huuhkajien-leiriryhma-julkaistu |title=Huuhkajien leiriryhmä julkaistu |trans-title=Eagle-owls training camp squad published |work=[[Football Association of Finland]] |date=19 May 2021 |access-date=19 May 2021 |language=fi}}</ref> The squad was extended to 28 players on 23 May,<ref>{{cite news |url=https://www.palloliitto.fi/jalkapallouutiset/roope-riski-ja-carljohan-eriksson-huuhkajien-leirijoukkueeseen |title=Roope Riski ja Carljohan Eriksson Huuhkajien leirijoukkueeseen |trans-title=Roope Riski and Carljohan Eriksson to the eagle-owls training camp team |work=[[Football Association of Finland]] |date=23 May 2021 |access-date=24 May 2021 |language=fi}}</ref> and further extended to 29 players on 25 May.<ref>{{cite news |url=https://www.palloliitto.fi/jalkapallouutiset/aapo-halme-huuhkajien-mukaan |title=Aapo Halme Huuhkajien mukaan |trans-title=Aapo Halme with the eagle-owls |work=[[Football Association of Finland]] |date=25 May 2021 |access-date=25 May 2021 |language=fi}}</ref> The final squad was announced on 1 June.<ref>{{cite news |url=https://www.palloliitto.fi/jalkapallouutiset/tassa-huuhkajien-em-kisajoukkue |title=Tässä on Huuhkajien EM-kisajoukkue! |trans-title=Here is the European Championship team! |work=[[Football Association of Finland]] |date=1 June 2021 |access-date=1 June 2021 |language=fi}}</ref> [[Sauli Väisänen]] withdrew injured and was replaced by [[Niko Hämäläinen]] on 3 June.<ref>{{cite news |url=https://www.palloliitto.fi/jalkapallouutiset/sauli-vaisanen-loukkaantumisen-takia-sivuun-huuhkajista-nicholas-hamalainen-em |title=Sauli Väisänen loukkaantumisen takia sivuun Huuhkajista – Nicholas Hämäläinen EM-kisajoukkueeseen |trans-title=Sauli Väisänen sidelined from the eagle owls due to injury – Nicholas Hämäläinen joins for the European Championship |work=[[Football Association of Finland]] |date=3 June 2021 |access-date=8 June 2021 |language=fi}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Lukas Hradecky]]|sortname=Hradecky, Lukas|age={{birth date and age2|df=y|2021|6|11|1989|11|24}}|caps=65|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Paulus Arajuuri]]|sortname=Arajuuri, Paulus|age={{birth date and age2|df=y|2021|6|11|1988|6|15}}|caps=51|goals=3|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=3|pos=DF|name=[[Daniel O'Shaughnessy]]|sortname=Oshaughnessy, Daniel|age={{birth date and age2|df=y|2021|6|11|1994|9|14}}|caps=11|goals=0|club=[[Helsingin Jalkapalloklubi|HJK]]|clubnat=FIN}}
+{{nat fs g player|no=4|pos=DF|name=[[Joona Toivio]]|sortname=Toivio, Joona|age={{birth date and age2|df=y|2021|6|11|1988|3|10}}|caps=73|goals=3|club=[[BK Häcken]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=DF|name=[[Leo Väisänen]]|sortname=Vaisanen, Leo|age={{birth date and age2|df=y|2021|6|11|1997|7|23}}|caps=8|goals=0|club=[[IF Elfsborg]]|clubnat=SWE}}
+{{nat fs g player|no=6|pos=MF|name=[[Glen Kamara]]|sortname=Kamara, Glen|age={{birth date and age2|df=y|2021|6|11|1995|10|28}}|caps=31|goals=1|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=7|pos=MF|name=[[Robert Taylor (footballer, born 1994)|Robert Taylor]]|sortname=Taylor, Robert|age={{birth date and age2|df=y|2021|6|11|1994|10|21}}|caps=19|goals=1|club=[[SK Brann|Brann]]|clubnat=NOR}}
+{{nat fs g player|no=8|pos=MF|name=[[Robin Lod]]|sortname=Lod, Robin|age={{birth date and age2|df=y|2021|6|11|1993|4|17}}|caps=43|goals=4|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=9|pos=MF|name=[[Fredrik Jensen (footballer, born 1997)|Fredrik Jensen]]|sortname=Jensen, Fredrik|age={{birth date and age2|df=y|2021|6|11|1997|9|9}}|caps=18|goals=7|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=FW|name=[[Teemu Pukki]]|sortname=Pukki, Teemu|age={{birth date and age2|df=y|2021|6|11|1990|3|29}}|caps=91|goals=30|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Rasmus Schüller]]|sortname=Schuller, Rasmus|age={{birth date and age2|df=y|2021|6|11|1991|6|18}}|caps=49|goals=0|club=[[Djurgårdens IF Fotboll|Djurgårdens IF]]|clubnat=SWE}}
+{{nat fs g player|no=12|pos=GK|name=[[Jesse Joronen]]|sortname=Joronen, Jesse|age={{birth date and age2|df=y|2021|6|11|1993|3|21}}|caps=14|goals=0|club=[[Brescia Calcio|Brescia]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=MF|name=[[Pyry Soiri]]|sortname=Soiri, Pyry|age={{birth date and age2|df=y|2021|6|11|1994|9|22}}|caps=31|goals=5|club=[[Esbjerg fB|Esbjerg]]|clubnat=DEN}}
+{{nat fs g player|no=14|pos=MF|name=[[Tim Sparv]]|sortname=Sparv, Tim|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1987|2|20}}|caps=81|goals=1|club=[[Athlitiki Enosi Larissa F.C.|AEL]]|clubnat=GRE}}
+{{nat fs g player|no=15|pos=DF|name=[[Niko Hämäläinen]]|sortname=Hamalainen, Niko|age={{birth date and age2|df=y|2021|6|11|1997|3|5}}|caps=7|goals=0|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=DF|name=[[Thomas Lam]]|sortname=Lam, Thomas|age={{birth date and age2|df=y|2021|6|11|1993|12|18}}|caps=26|goals=0|club=[[PEC Zwolle]]|clubnat=NED}}
+{{nat fs g player|no=17|pos=MF|name=[[Nikolai Alho]]|sortname=Alho, Nikolai|age={{birth date and age2|df=y|2021|6|11|1993|3|12}}|caps=12|goals=0|club=[[MTK Budapest FC|MTK Budapest]]|clubnat=HUN}}
+{{nat fs g player|no=18|pos=DF|name=[[Jere Uronen]]|sortname=Uronen, Jere|age={{birth date and age2|df=y|2021|6|11|1994|7|13}}|caps=49|goals=1|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=19|pos=MF|name=[[Joni Kauko]]|sortname=Kauko, Joni|age={{birth date and age2|df=y|2021|6|11|1990|7|12}}|caps=25|goals=0|club=[[Esbjerg fB|Esbjerg]]|clubnat=DEN}}
+{{nat fs g player|no=20|pos=FW|name=[[Joel Pohjanpalo]]|sortname=Pohjanpalo, Joel|age={{birth date and age2|df=y|2021|6|11|1994|9|13}}|caps=42|goals=9|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=FW|name=[[Lassi Lappalainen]]|sortname=Lappalainen, Lassi|age={{birth date and age2|df=y|2021|6|11|1998|8|24}}|caps=8|goals=0|club=[[CF Montréal]]|clubnat=CAN}}
+{{nat fs g player|no=22|pos=DF|name=[[Jukka Raitala]]|sortname=Raitala, Jukka|age={{birth date and age2|df=y|2021|6|11|1988|9|15}}|caps=52|goals=0|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=23|pos=GK|name=[[Anssi Jaakkola]]|sortname=Jaakkola, Anssi|age={{birth date and age2|df=y|2021|6|11|1987|3|13}}|caps=3|goals=0|club=[[Bristol Rovers F.C.|Bristol Rovers]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Onni Valakari]]|sortname=Valakari, Onni|age={{birth date and age2|df=y|2021|6|11|1999|8|18}}|caps=5|goals=1|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=25|pos=DF|name=[[Robert Ivanov]]|sortname=Ivanov, Robert|age={{birth date and age2|df=y|2021|6|11|1994|9|19}}|caps=4|goals=0|club=[[Warta Poznań]]|clubnat=POL}}
+{{nat fs g player|no=26|pos=FW|name=[[Marcus Forss]]|sortname=Forss, Marcus|age={{birth date and age2|df=y|2021|6|11|1999|6|18}}|caps=5|goals=1|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Russia===
+Manager: [[Stanislav Cherchesov]]
+
+[[Russia national football team|Russia]] announced a 30-man preliminary squad on 11 May 2021.<ref>{{cite news |url=https://rfs.ru/news/213625 |title=Расширенный состав сборной России для подготовки к ЕВРО |trans-title=Extended Russian squad to prepare for UEFA Euro |work=[[Russian Football Union]] |date=11 May 2021 |access-date=11 May 2021 |language=ru}}</ref> The final squad was announced on 2 June.<ref>{{cite news |url=https://rfs.ru/news/213785 |title=Состав сборной России на ЕВРО-2020 |trans-title=The squad of the Russian national team at Euro 2020 |work=[[Russian Football Union]] |date=2 June 2021 |access-date=2 June 2021 |language=ru}}</ref> [[Andrei Mostovoy]] withdrew after testing positive for SARS-CoV-2 and was replaced by [[Roman Yevgenyev]] on 11 June.<ref>{{cite tweet |author=Russian Football Union |author-link=Russian Football Union |user=TeamRussia |number=1403270517918994435 |date=11 June 2021 |title=Евгеньев вместо Мостового |trans-title=Yevgenyev instead of Mostovoy |language=ru |access-date=11 June 2021}}</ref> [[Yuri Zhirkov]] left the squad on 15 June due to injury.<ref>{{cite news |url=https://rfs.ru/news/213865 |title="Мы благодарны тем людям, которые верят в нас" |trans-title=We are grateful to those people who believe in us |work=[[Russian Football Union]] |date=15 June 2021 |access-date=16 June 2021 |language=ru}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Anton Shunin]]|sortname=Shunin, Anton|age={{birth date and age2|df=y|2021|6|11|1987|1|27}}|caps=12|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=2|pos=DF|name=[[Mário Fernandes]]|sortname=Fernandes, Mario|age={{birth date and age2|df=y|2021|6|11|1990|9|19}}|caps=29|goals=5|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=3|pos=DF|name=[[Igor Diveyev]]|sortname=Diveyev, Igor|age={{birth date and age2|df=y|2021|6|11|1999|9|27}}|caps=4|goals=0|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=4|pos=DF|name=[[Vyacheslav Karavayev]]|sortname=Karavayev, Vyacheslav|age={{birth date and age2|df=y|2021|6|11|1995|5|20}}|caps=13|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=5|pos=DF|name=[[Andrei Semyonov (footballer, born 1989)|Andrei Semyonov]]|sortname=Semyonov, Andrei|age={{birth date and age2|df=y|2021|6|11|1989|3|24}}|caps=26|goals=0|club=[[FC Akhmat Grozny|Akhmat Grozny]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=MF|name=[[Denis Cheryshev]]|sortname=Cheryshev, Denis|age={{birth date and age2|df=y|2021|6|11|1990|12|26}}|caps=30|goals=12|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=MF|name=[[Magomed Ozdoyev]]|sortname=Ozdoyev, Magomed|age={{birth date and age2|df=y|2021|6|11|1992|11|5}}|caps=32|goals=4|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=8|pos=MF|name=[[Dmitri Barinov]]|sortname=Barinov, Dmitri|age={{birth date and age2|df=y|2021|6|11|1996|9|11}}|caps=5|goals=0|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=9|pos=FW|name=[[Aleksandr Sobolev]]|sortname=Sobolev, Aleksandr|age={{birth date and age2|df=y|2021|6|11|1997|3|7}}|caps=6|goals=3|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=10|pos=FW|name=[[Anton Zabolotny]]|sortname=Zabolotny, Anton|age={{birth date and age2|df=y|2021|6|11|1991|6|13}}|caps=13|goals=1|club=[[PFC Sochi|Sochi]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=MF|name=[[Roman Zobnin]]|sortname=Zobnin, Roman|age={{birth date and age2|df=y|2021|6|11|1994|2|11}}|caps=35|goals=0|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=12|pos=GK|name=[[Yury Dyupin]]|sortname=Dyupin, Yury|age={{birth date and age2|df=y|2021|6|11|1988|3|17}}|caps=0|goals=0|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs g player|no=13|pos=DF|name=[[Fyodor Kudryashov]]|sortname=Kudryashov, Fyodor|age={{birth date and age2|df=y|2021|6|11|1987|4|5}}|caps=44|goals=1|club=[[Antalyaspor]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=DF|name=[[Georgi Dzhikiya]]|sortname=Dzhikiya, Georgi|age={{birth date and age2|df=y|2021|6|11|1993|11|21}}|caps=33|goals=1|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=15|pos=MF|name=[[Aleksei Miranchuk]]|sortname=Miranchuk, Aleksei|age={{birth date and age2|df=y|2021|6|11|1995|10|17}}|caps=33|goals=5|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=GK|name=[[Matvei Safonov]]|sortname=Safonov, Matvei|age={{birth date and age2|df=y|2021|6|11|1999|2|25}}|caps=1|goals=0|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=17|pos=MF|name=[[Aleksandr Golovin (footballer)|Aleksandr Golovin]]|sortname=Golovin, Aleksandr|age={{birth date and age2|df=y|2021|6|11|1996|5|30}}|caps=38|goals=5|club=[[AS Monaco FC|Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=MF|name=[[Yuri Zhirkov]]|sortname=Zhirkov, Yuri|age={{birth date and age2|df=y|2021|6|11|1983|8|20}}|caps=104|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=19|pos=MF|name=[[Rifat Zhemaletdinov]]|sortname=Zhemaletdinov, Rifat|age={{birth date and age2|df=y|2021|6|11|1996|9|20}}|caps=4|goals=0|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=20|pos=MF|name=[[Aleksei Ionov]]|sortname=Ionov, Aleksei|age={{birth date and age2|df=y|2021|6|11|1989|2|18}}|caps=35|goals=4|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=21|pos=MF|name=[[Daniil Fomin]]|sortname=Fomin, Daniil|age={{birth date and age2|df=y|2021|6|11|1997|3|2}}|caps=4|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=22|pos=FW|name=[[Artem Dzyuba]]|sortname=Dzyuba, Artem|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1988|8|22}}|caps=52|goals=29|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=23|pos=MF|name=[[Daler Kuzyayev]]|sortname=Kuzyayev, Daler|age={{birth date and age2|df=y|2021|6|11|1993|1|15}}|caps=34|goals=2|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=24|pos=DF|name=[[Roman Yevgenyev]]|sortname=Yevgenyev, Roman|age={{birth date and age2|df=y|2021|6|11|1999|2|23}}|caps=1|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=MF|name=[[Denis Makarov]]|sortname=Makarov, Denis|age={{birth date and age2|df=y|2021|6|11|1998|2|18}}|caps=0|goals=0|club=[[FC Rubin Kazan|Rubin Kazan]]|clubnat=RUS}}
+{{nat fs g player|no=26|pos=MF|name=[[Maksim Mukhin]]|sortname=Mukhin, Maksim|age={{birth date and age2|df=y|2021|6|11|2001|11|4}}|caps=2|goals=0|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs end}}
+
+==Group C==
+===Austria===
+Manager: {{flagicon|GER}} [[Franco Foda]]
+
+[[Austria national football team|Austria]] announced a 30-man preliminary squad on 19 May 2021.<ref>{{cite news |url=https://www.oefb.at/oefb/News/Vorlaeufiger-OeFB-Kader-fuer-die-EURO-Vorbereitung-nominiert |title=Vorläufiger ÖFB-Kader für die EURO-Vorbereitung nominiert |trans-title=Provisional ÖFB squad nominated for Euro preparation |work=[[Austrian Football Association]] |date=19 May 2021 |access-date=19 May 2021 |language=de}}</ref> The final squad was announced on 24 May.<ref>{{cite news |url=https://www.oefb.at/oefb/News/Franco-Foda-fixiert-26-Spieler-umfassenden-EURO-Kader |title=Franco Foda fixiert 26 Spieler umfassenden EURO-Kader |trans-title=Franco Foda fixes the 26-player Euro squad |work=[[Austrian Football Association]] |date=24 May 2021 |access-date=24 May 2021 |language=de}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alexander Schlager]]|sortname=Schlager, Alexander|age={{birth date and age2|df=y|2021|6|11|1996|2|1}}|caps=6|goals=0|club=[[LASK]]|clubnat=AUT}}
+{{nat fs g player|no=2|pos=DF|name=[[Andreas Ulmer]]|sortname=Ulmer, Andreas|age={{birth date and age2|df=y|2021|6|11|1985|10|30}}|caps=24|goals=0|club=[[FC Red Bull Salzburg|Red Bull Salzburg]]|clubnat=AUT}}
+{{nat fs g player|no=3|pos=DF|name=[[Aleksandar Dragović]]|sortname=Dragovic, Aleksandar|age={{birth date and age2|df=y|2021|6|11|1991|3|6}}|caps=90|goals=2|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Martin Hinteregger]]|sortname=Hinteregger, Martin|age={{birth date and age2|df=y|2021|6|11|1992|9|7}}|caps=55|goals=4|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Stefan Posch]]|sortname=Posch, Stefan|age={{birth date and age2|df=y|2021|6|11|1997|5|14}}|caps=11|goals=1|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Stefan Ilsanker]]|sortname=Ilsanker, Stefan|age={{birth date and age2|df=y|2021|6|11|1989|5|18}}|caps=51|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=FW|name=[[Marko Arnautović]]|sortname=Arnautovic, Marko|age={{birth date and age2|df=y|2021|6|11|1989|4|19}}|caps=88|goals=26|club=[[Shanghai Port F.C.|Shanghai Port]]|clubnat=CHN}}
+{{nat fs g player|no=8|pos=DF|name=[[David Alaba]]|sortname=Alaba, David|age={{birth date and age2|df=y|2021|6|11|1992|6|24}}|caps=81|goals=14|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=MF|name=[[Marcel Sabitzer]]|sortname=Sabitzer, Marcel|age={{birth date and age2|df=y|2021|6|11|1994|3|17}}|caps=50|goals=8|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Florian Grillitsch]]|sortname=Grillitsch, Florian|age={{birth date and age2|df=y|2021|6|11|1995|8|7}}|caps=23|goals=1|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Gregoritsch]]|sortname=Gregoritsch, Michael|age={{birth date and age2|df=y|2021|6|11|1994|4|18}}|caps=26|goals=4|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Pavao Pervan]]|sortname=Pervan, Pavao|age={{birth date and age2|df=y|2021|6|11|1987|11|13}}|caps=7|goals=0|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=GK|name=[[Daniel Bachmann]]|sortname=Bachmann, Daniel|age={{birth date and age2|df=y|2021|6|11|1994|7|9}}|caps=2|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Julian Baumgartlinger]]|sortname=Baumgartlinger, Julian|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1988|1|2}}|caps=83|goals=1|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=DF|name=[[Philipp Lienhart]]|sortname=Lienhart, Philipp|age={{birth date and age2|df=y|2021|6|11|1996|7|11}}|caps=4|goals=0|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=MF|name=[[Christopher Trimmel]]|sortname=Trimmel, Christopher|age={{birth date and age2|df=y|2021|6|11|1987|2|24}}|caps=13|goals=0|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Louis Schaub]]|sortname=Schaub, Louis|age={{birth date and age2|df=y|2021|6|11|1994|12|29}}|caps=21|goals=6|club=[[FC Luzern|Luzern]]|clubnat=SUI}}
+{{nat fs g player|no=18|pos=MF|name=[[Alessandro Schöpf]]|sortname=Schopf, Alessandro|age={{birth date and age2|df=y|2021|6|11|1994|2|7}}|caps=26|goals=5|club=[[FC Schalke 04|Schalke 04]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Christoph Baumgartner]]|sortname=Baumgartner, Christoph|age={{birth date and age2|df=y|2021|6|11|1999|8|1}}|caps=10|goals=3|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=MF|name=[[Karim Onisiwo]]|sortname=Onisiwo, Karim|age={{birth date and age2|df=y|2021|6|11|1992|3|17}}|caps=11|goals=1|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=DF|name=[[Stefan Lainer]]|sortname=Lainer, Stefan|age={{birth date and age2|df=y|2021|6|11|1992|8|27}}|caps=29|goals=1|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=MF|name=[[Valentino Lazaro]]|sortname=Lazaro, Valentino|age={{birth date and age2|df=y|2021|6|11|1996|3|24}}|caps=31|goals=3|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=MF|name=[[Xaver Schlager]]|sortname=Schlager, Xaver|age={{birth date and age2|df=y|2021|6|11|1997|9|28}}|caps=20|goals=1|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=MF|name=[[Konrad Laimer]]|sortname=Laimer, Konrad|age={{birth date and age2|df=y|2021|6|11|1997|5|27}}|caps=9|goals=1|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=25|pos=FW|name=[[Saša Kalajdžić]]|sortname=Kalajdzic, Sasa|age={{birth date and age2|df=y|2021|6|11|1997|7|7}}|caps=7|goals=3|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=DF|name=[[Marco Friedl]]|sortname=Friedl, Marco|age={{birth date and age2|df=y|2021|6|11|1998|3|16}}|caps=3|goals=0|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs end}}
+
+===Netherlands===
+Manager: [[Frank de Boer]]
+
+The [[Netherlands national football team|Netherlands]] announced a 34-man preliminary squad on 14 May 2021.<ref>{{cite news |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/78966/de-boer-maakt-voorlopige-ek-selectie-oranje-bekend |title=De Boer maakt voorlopige EK-selectie Oranje bekend |trans-title=De Boer announces preliminary Oranje European Championship squad |publisher=[[Royal Dutch Football Association]] |date=14 May 2021 |access-date=14 May 2021 |language=nl}}</ref> The final squad was announced on 26 May.<ref>{{cite news |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/79017/frank-de-boer-maakt-ek-selectie-bekend |title=Frank de Boer maakt EK-selectie bekend |trans-title=Frank de Boer announces European Championship squad |publisher=[[Royal Dutch Football Association]] |date=26 May 2021 |access-date=26 May 2021 |language=nl}}</ref><ref>{{cite news |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/79054/rugnummers-nederlands-elftal-tijdens-euro-2020-bekend |title=Rugnummers Nederlands elftal tijdens EURO 2020 bekend |trans-title=Numbers of the Dutch national team for Euro 2020 announced |publisher=[[Royal Dutch Football Association]] |date=2 June 2021 |access-date=2 June 2021 |language=nl}}</ref> [[Jasper Cillessen]] withdrew after testing positive for SARS-CoV-2 and was replaced by [[Marco Bizot]] on 1 June.<ref>{{cite news |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/79050/jasper-cillessen-mist-ek |title=Jasper Cillessen mist EK |trans-title=Jasper Cillessen misses European Championship |publisher=[[Royal Dutch Football Association]] |date=1 June 2021 |access-date=1 June 2021 |language=nl}}</ref> [[Donny van de Beek]] withdrew injured on 8 June and was not replaced, thus reducing the squad to 25 players.<ref>{{cite news |url=https://www.onsoranje.nl/nieuws/nederlands-elftal/79093/donny-van-de-beek-mist-ek |title=Donny van de Beek mist EK |trans-title=Donny van de Beek misses European Championship |publisher=[[Royal Dutch Football Association]] |date=8 June 2021 |access-date=8 June 2021 |language=nl}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Maarten Stekelenburg]]|sortname=Stekelenburg, Maarten|age={{birth date and age2|df=y|2021|6|11|1982|9|22}}|caps=59|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=2|pos=DF|name=[[Joël Veltman]]|sortname=Veltman, Joel|age={{birth date and age2|df=y|2021|6|11|1992|1|15}}|caps=27|goals=2|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Matthijs de Ligt]]|sortname=Ligt, Matthijs de|age={{birth date and age2|df=y|2021|6|11|1999|8|12}}|caps=27|goals=2|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Nathan Aké]]|sortname=Ake, Nathan|age={{birth date and age2|df=y|2021|6|11|1995|2|18}}|caps=20|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Owen Wijndal]]|sortname=Wijndal, Owen|age={{birth date and age2|df=y|2021|6|11|1999|11|28}}|caps=9|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs g player|no=6|pos=DF|name=[[Stefan de Vrij]]|sortname=Vrij, Stefan de|age={{birth date and age2|df=y|2021|6|11|1992|2|5}}|caps=45|goals=3|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=FW|name=[[Steven Berghuis]]|sortname=Berghuis, Steven|age={{birth date and age2|df=y|2021|6|11|1991|12|19}}|caps=26|goals=2|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=8|pos=MF|name=[[Georginio Wijnaldum]]|sortname=Wijnaldum, Georginio|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1990|11|11}}|caps=75|goals=22|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Luuk de Jong]]|sortname=Jong, Luuk de|age={{birth date and age2|df=y|2021|6|11|1990|8|27}}|caps=36|goals=8|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Memphis Depay]]|sortname=Depay, Memphis|age={{birth date and age2|df=y|2021|6|11|1994|2|13}}|caps=64|goals=26|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Quincy Promes]]|sortname=Promes, Quincy|age={{birth date and age2|df=y|2021|6|11|1992|1|4}}|caps=48|goals=7|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=12|pos=DF|name=[[Patrick van Aanholt]]|sortname=Aanholt, Patrick van|age={{birth date and age2|df=y|2021|6|11|1990|8|29}}|caps=15|goals=0|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Tim Krul]]|sortname=Krul, Tim|age={{birth date and age2|df=y|2021|6|11|1988|4|3}}|caps=15|goals=0|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Davy Klaassen]]|sortname=Klaassen, Davy|age={{birth date and age2|df=y|2021|6|11|1993|2|21}}|caps=24|goals=5|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=15|pos=MF|name=[[Marten de Roon]]|sortname=Roon, Marten de|age={{birth date and age2|df=y|2021|6|11|1991|3|29}}|caps=23|goals=0|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Ryan Gravenberch]]|sortname=Gravenberch, Ryan|age={{birth date and age2|df=y|2021|6|11|2002|5|16}}|caps=5|goals=1|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=17|pos=DF|name=[[Daley Blind]]|sortname=Blind, Daley|age={{birth date and age2|df=y|2021|6|11|1990|3|9}}|caps=78|goals=2|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=18|pos=FW|name=[[Donyell Malen]]|sortname=Malen, Donyell|age={{birth date and age2|df=y|2021|6|11|1999|1|19}}|caps=9|goals=2|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=19|pos=FW|name=[[Wout Weghorst]]|sortname=Weghorst, Wout|age={{birth date and age2|df=y|2021|6|11|1992|8|7}}|caps=6|goals=1|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=MF|name=[[Frenkie de Jong]]|sortname=Jong, Frenkie de|age={{birth date and age2|df=y|2021|6|11|1997|5|12}}|caps=27|goals=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=DF|name=[[Denzel Dumfries]]|sortname=Dumfries, Denzel|age={{birth date and age2|df=y|2021|6|11|1996|4|18}}|caps=19|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=23|pos=GK|name=[[Marco Bizot]]|sortname=Bizot, Marco|age={{birth date and age2|df=y|2021|6|11|1991|3|10}}|caps=1|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs g player|no=24|pos=MF|name=[[Teun Koopmeiners]]|sortname=Koopmeiners, Teun|age={{birth date and age2|df=y|2021|6|11|1998|2|28}}|caps=1|goals=0|club=[[AZ Alkmaar|AZ]]|clubnat=NED}}
+{{nat fs g player|no=25|pos=MF|name=[[Jurriën Timber]]|sortname=Timber, Jurrien|age={{birth date and age2|df=y|2021|6|11|2001|6|17}}|caps=2|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=FW|name=[[Cody Gakpo]]|sortname=Gakpo, Cody|age={{birth date and age2|df=y|2021|6|11|1999|5|7}}|caps=0|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs end}}
+
+===North Macedonia===
+Manager: [[Igor Angelovski]]
+
+[[North Macedonia national football team|North Macedonia]] announced their final squad on 20 May 2021.<ref>{{cite news |url=https://ffm.mk/igor-angelovski-go-objavi-spisokot-za-euro-2020 |title=Игор Ангеловски го објави списокот за ЕУРО 2020 |trans-title=Igor Angelovski announced the squad for Euro 2020 |work=[[Football Federation of Macedonia]] |date=20 May 2021 |access-date=20 May 2021 |language=mk}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Stole Dimitrievski]]|sortname=Dimitrievski, Stole|age={{birth date and age2|df=y|2021|6|11|1993|12|25}}|caps=42|goals=0|club=[[Rayo Vallecano]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Egzon Bejtulai]]|sortname=Bejtulai, Egzon|age={{birth date and age2|df=y|2021|6|11|1994|1|7}}|caps=21|goals=0|club=[[KF Shkëndija|Shkëndija]]|clubnat=MKD}}
+{{nat fs g player|no=3|pos=DF|name=[[Gjoko Zajkov]]|sortname=Zajkov, Gjoko|age={{birth date and age2|df=y|2021|6|11|1995|2|10}}|caps=17|goals=1|club=[[R. Charleroi S.C.|Charleroi]]|clubnat=BEL}}
+{{nat fs g player|no=4|pos=DF|name=[[Kire Ristevski]]|sortname=Ristevski, Kire|age={{birth date and age2|df=y|2021|6|11|1990|10|22}}|caps=47|goals=0|club=[[Újpest FC|Újpest]]|clubnat=HUN}}
+{{nat fs g player|no=5|pos=MF|name=[[Arijan Ademi]]|sortname=Ademi, Arijan|age={{birth date and age2|df=y|2021|6|11|1991|5|29}}|caps=21|goals=4|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=6|pos=DF|name=[[Visar Musliu]]|sortname=Musliu, Visar|age={{birth date and age2|df=y|2021|6|11|1994|11|13}}|caps=31|goals=1|club=[[Fehérvár FC|Fehérvár]]|clubnat=HUN}}
+{{nat fs g player|no=7|pos=FW|name=[[Ivan Trichkovski]]|sortname=Trichkovski, Ivan|age={{birth date and age2|df=y|2021|6|11|1987|4|18}}|caps=64|goals=7|club=[[AEK Larnaca FC|AEK Larnaca]]|clubnat=CYP}}
+{{nat fs g player|no=8|pos=MF|name=[[Ezgjan Alioski]]|sortname=Alioski, Ezgjan|age={{birth date and age2|df=y|2021|6|11|1992|2|12}}|caps=44|goals=8|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Aleksandar Trajkovski]]|sortname=Trajkovski, Aleksandar|age={{birth date and age2|df=y|2021|6|11|1992|9|5}}|caps=65|goals=18|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=FW|name=[[Goran Pandev]]|sortname=Pandev, Goran|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1983|7|27}}|caps=119|goals=37|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=MF|name=[[Ferhan Hasani]]|sortname=Hasani, Ferhan|age={{birth date and age2|df=y|2021|6|11|1990|6|18}}|caps=41|goals=2|club=[[FK Partizani Tirana|Partizani]]|clubnat=ALB}}
+{{nat fs g player|no=12|pos=GK|name=[[Risto Jankov]]|sortname=Jankov, Risto|age={{birth date and age2|df=y|2021|6|11|1998|9|5}}|caps=0|goals=0|club=[[FK Rabotnički|Rabotnički]]|clubnat=MKD}}
+{{nat fs g player|no=13|pos=DF|name=[[Stefan Ristovski]]|sortname=Ristovski, Stefan|age={{birth date and age2|df=y|2021|6|11|1992|2|12}}|caps=65|goals=2|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=14|pos=DF|name=[[Darko Velkovski]]|sortname=Velkovski, Darko|age={{birth date and age2|df=y|2021|6|11|1995|6|21}}|caps=27|goals=1|club=[[HNK Rijeka|Rijeka]]|clubnat=CRO}}
+{{nat fs g player|no=15|pos=MF|name=[[Tihomir Kostadinov]]|sortname=Kostadinov, Tihomir|age={{birth date and age2|df=y|2021|6|11|1996|3|4}}|caps=10|goals=0|club=[[MFK Ružomberok|Ružomberok]]|clubnat=SVK}}
+{{nat fs g player|no=16|pos=MF|name=[[Boban Nikolov]]|sortname=Nikolov, Boban|age={{birth date and age2|df=y|2021|6|11|1994|7|28}}|caps=34|goals=2|club=[[U.S. Lecce|Lecce]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=MF|name=[[Enis Bardhi]]|sortname=Bardhi, Enis|age={{birth date and age2|df=y|2021|6|11|1995|7|2}}|caps=34|goals=6|club=[[Levante UD|Levante]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=FW|name=[[Vlatko Stojanovski]]|sortname=Stojanovski, Vlatko|age={{birth date and age2|df=y|2021|6|11|1997|4|23}}|caps=8|goals=2|club=[[FC Chambly|Chambly]]|clubnat=FRA}}
+{{nat fs g player|no=19|pos=FW|name=[[Krste Velkoski]]|sortname=Velkoski, Krste|age={{birth date and age2|df=y|2021|6|11|1988|2|20}}|caps=16|goals=0|club=[[FK Sarajevo|Sarajevo]]|clubnat=BIH}}
+{{nat fs g player|no=20|pos=MF|name=[[Stefan Spirovski]]|sortname=Spirovski, Stefan|age={{birth date and age2|df=y|2021|6|11|1990|8|23}}|caps=40|goals=1|club=[[AEK Larnaca FC|AEK Larnaca]]|clubnat=CYP}}
+{{nat fs g player|no=21|pos=MF|name=[[Eljif Elmas]]|sortname=Elmas, Eljif|age={{birth date and age2|df=y|2021|6|11|1999|9|24}}|caps=27|goals=7|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=GK|name=[[Damjan Shishkovski]]|sortname=Shishkovski, Damjan|age={{birth date and age2|df=y|2021|6|11|1995|3|18}}|caps=6|goals=0|club=[[Doxa Katokopias FC|Doxa Katokopias]]|clubnat=CYP}}
+{{nat fs g player|no=23|pos=FW|name=[[Marjan Radeski]]|sortname=Radeski, Marjan|age={{birth date and age2|df=y|2021|6|11|1995|2|10}}|caps=17|goals=1|club=[[Akademija Pandev]]|clubnat=MKD}}
+{{nat fs g player|no=24|pos=FW|name=[[Daniel Avramovski]]|sortname=Avramovski, Daniel|age={{birth date and age2|df=y|2021|6|11|1995|2|20}}|caps=6|goals=0|club=[[Kayserispor]]|clubnat=TUR}}
+{{nat fs g player|no=25|pos=MF|name=[[Darko Churlinov]]|sortname=Churlinov, Darko|age={{birth date and age2|df=y|2021|6|11|2000|7|11}}|caps=3|goals=1|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=MF|name=[[Milan Ristovski]]|sortname=Ristovski, Milan|age={{birth date and age2|df=y|2021|6|11|1998|4|8}}|caps=1|goals=1|club=[[FC Spartak Trnava|Spartak Trnava]]|clubnat=SVK}}
+{{nat fs end}}
+
+===Ukraine===
+Manager: [[Andriy Shevchenko]]
+
+[[Ukraine national football team|Ukraine]] announced a 35-man preliminary squad on 30 April 2021.<ref>{{cite news |url=https://en.uaf.ua/article/41986 |title=Andriy Shevchenko named the expanded list of players of the national team of Ukraine to participate in the training camp before Euro 2020 |work=[[Ukrainian Association of Football]] |date=30 April 2021 |access-date=1 May 2021}}</ref> The squad was extended to 36 players on 1 May,<ref>{{cite news |url=https://en.uaf.ua/article/41993 |title=Andriy Shevchenko called Yevhen Konoplyanka to the national team of Ukraine |work=[[Ukrainian Association of Football]] |date=1 May 2021 |access-date=1 May 2021}}</ref> then reduced to 34 players on 15 May as [[Oleksandr Andriyevskyi]] and [[Volodymyr Shepelyev]] withdrew injured.<ref>{{cite news |url=https://en.uaf.ua/article/42104 |title=The national team of Ukraine gathered in Kharkiv to prepare for Euro 2020 and held the first training session |work=[[Ukrainian Association of Football]] |date=15 May 2021 |access-date=19 May 2021}}</ref> The squad was further reduced to 33 players on 20 May as [[Vitaliy Buyalskyi]] withdrew injured,<ref>{{cite news |url=https://en.uaf.ua/article/42164 |title=Vitaliy Buyalsky will not help the national team at the Euros |work=[[Ukrainian Association of Football]] |date=20 May 2021 |access-date=23 May 2021}}</ref> then extended to 34 players on 26 May.<ref>{{cite news |url=https://en.uaf.ua/article/42232 |title=Andriy Shevchenko called up Roman Bezus to the national team of Ukraine |work=[[Ukrainian Association of Football]] |date=26 May 2021 |access-date=26 May 2021}}</ref> The squad was further reduced to 32 players on 28 May as [[Yevhen Konoplyanka]] and [[Viktor Kovalenko (footballer)|Viktor Kovalenko]] withdrew injured.<ref>{{cite news |url=https://en.uaf.ua/article/42254 |title=News from the camp of the national team of Ukraine: the beginning of the final stage of preparation for Euro 2020 and the final loss of Konoplyanka |work=[[Ukrainian Association of Football]] |date=28 May 2021 |access-date=28 May 2021}}</ref> The final squad was announced on 1 June.<ref>{{cite news |url=https://en.uaf.ua/article/42294 |title=Officially. Andriy Shevchenko announced the application of the national team of Ukraine for Euro 2020 |work=[[Ukrainian Association of Football]] |date=1 June 2021 |access-date=1 June 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Heorhiy Bushchan]]|sortname=Bushchan, Heorhiy|age={{birth date and age2|df=y|2021|6|11|1994|5|31}}|caps=6|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=2|pos=DF|name=[[Eduard Sobol]]|sortname=Sobol, Eduard|age={{birth date and age2|df=y|2021|6|11|1995|4|20}}|caps=20|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=3|pos=MF|name=[[Heorhiy Sudakov]]|sortname=Sudakov, Heorhiy|age={{birth date and age2|df=y|2021|6|11|2002|9|1}}|caps=3|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=4|pos=DF|name=[[Serhiy Kryvtsov]]|sortname=Kryvtsov, Serhiy|age={{birth date and age2|df=y|2021|6|11|1991|3|15}}|caps=23|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=5|pos=MF|name=[[Serhiy Sydorchuk]]|sortname=Sydorchuk, Serhiy|age={{birth date and age2|df=y|2021|6|11|1991|5|2}}|caps=36|goals=3|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=6|pos=MF|name=[[Taras Stepanenko]]|sortname=Stepanenko, Taras|age={{birth date and age2|df=y|2021|6|11|1989|8|8}}|caps=62|goals=3|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=7|pos=FW|name=[[Andriy Yarmolenko]]|sortname=Yarmolenko, Andriy|age={{birth date and age2|df=y|2021|6|11|1989|10|23}}|caps=94|goals=40|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Ruslan Malinovskyi]]|sortname=Malinovskyi, Ruslan|age={{birth date and age2|df=y|2021|6|11|1993|5|4}}|caps=37|goals=6|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Roman Yaremchuk]]|sortname=Yaremchuk, Roman|age={{birth date and age2|df=y|2021|6|11|1995|11|27}}|caps=24|goals=8|club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs g player|no=10|pos=MF|name=[[Mykola Shaparenko]]|sortname=Shaparenko, Mykola|age={{birth date and age2|df=y|2021|6|11|1998|10|4}}|caps=12|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=11|pos=MF|name=[[Marlos]]|sortname=Marlos|age={{birth date and age2|df=y|2021|6|11|1988|6|7}}|caps=25|goals=1|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=12|pos=GK|name=[[Andriy Pyatov]]|sortname=Pyatov, Andriy|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1984|6|28}}|caps=97|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=13|pos=DF|name=[[Illya Zabarnyi]]|sortname=Zabarnyi, Illya|age={{birth date and age2|df=y|2021|6|11|2002|9|1}}|caps=8|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=14|pos=MF|name=[[Yevhenii Makarenko]]|sortname=Makarenko, Yevhenii|age={{birth date and age2|df=y|2021|6|11|1991|5|21}}|caps=12|goals=0|club=[[K.V. Kortrijk|Kortrijk]]|clubnat=BEL}}
+{{nat fs g player|no=15|pos=MF|name=[[Viktor Tsyhankov]]|sortname=Tsyhankov, Viktor|age={{birth date and age2|df=y|2021|6|11|1997|11|15}}|caps=26|goals=6|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=16|pos=DF|name=[[Vitaliy Mykolenko]]|sortname=Mykolenko, Vitaliy|age={{birth date and age2|df=y|2021|6|11|1999|5|29}}|caps=15|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=17|pos=DF|name=[[Oleksandr Zinchenko (footballer)|Oleksandr Zinchenko]]|sortname=Zinchenko, Oleksandr|age={{birth date and age2|df=y|2021|6|11|1996|12|15}}|caps=39|goals=6|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Roman Bezus]]|sortname=Bezus, Roman|age={{birth date and age2|df=y|2021|6|11|1990|9|26}}|caps=23|goals=5|club=[[K.A.A. Gent|Gent]]|clubnat=BEL}}
+{{nat fs g player|no=19|pos=FW|name=[[Artem Besedin]]|sortname=Besedin, Artem|age={{birth date and age2|df=y|2021|6|11|1996|3|31}}|caps=16|goals=2|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=20|pos=FW|name=[[Oleksandr Zubkov]]|sortname=Zubkov, Oleksandr|age={{birth date and age2|df=y|2021|6|11|1996|8|3}}|caps=11|goals=1|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=21|pos=DF|name=[[Oleksandr Karavayev]]|sortname=Karavayev, Oleksandr|age={{birth date and age2|df=y|2021|6|11|1992|6|2}}|caps=33|goals=1|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=22|pos=DF|name=[[Mykola Matviyenko]]|sortname=Matviyenko, Mykola|age={{birth date and age2|df=y|2021|6|11|1996|5|2}}|caps=36|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=23|pos=GK|name=[[Anatoliy Trubin]]|sortname=Trubin, Anatoliy|age={{birth date and age2|df=y|2021|6|11|2001|8|1}}|caps=2|goals=0|club=[[FC Shakhtar Donetsk|Shakhtar Donetsk]]|clubnat=UKR}}
+{{nat fs g player|no=24|pos=DF|name=[[Oleksandr Tymchyk]]|sortname=Tymchyk, Oleksandr|age={{birth date and age2|df=y|2021|6|11|1997|1|20}}|caps=4|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=25|pos=DF|name=[[Denys Popov]]|sortname=Popov, Denys|age={{birth date and age2|df=y|2021|6|11|1999|2|17}}|caps=1|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=26|pos=FW|name=[[Artem Dovbyk]]|sortname=Dovbyk, Artem|age={{birth date and age2|df=y|2021|6|11|1997|6|21}}|caps=2|goals=0|club=[[SC Dnipro-1|Dnipro-1]]|clubnat=UKR}}
+{{nat fs end}}
+
+==Group D==
+===Croatia===
+Manager: [[Zlatko Dalić]]
+
+[[Croatia national football team|Croatia]] announced their final squad on 17 May 2021.<ref>{{cite news |url=https://hns-cff.hr/news/22677/izbornik-dalic-objavio-popis-kandidata-za-euro-2020/ |title=Izbornik Dalić objavio popis kandidata za EURO 2020! |trans-title=The selector Dalić published the list of candidates for Euro 2020! |work=[[Croatian Football Federation]] |date=17 May 2021 |access-date=17 May 2021 |language=hr}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Dominik Livaković]]|sortname=Livakovic, Dominik|age={{birth date and age2|df=y|2021|6|11|1995|1|9}}|caps=21|goals=0|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=2|pos=DF|name=[[Šime Vrsaljko]]|sortname=Vrsaljko, Sime|age={{birth date and age2|df=y|2021|6|11|1992|1|10}}|caps=49|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Borna Barišić]]|sortname=Barisic, Borna|age={{birth date and age2|df=y|2021|6|11|1992|11|10}}|caps=20|goals=1|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=4|pos=MF|name=[[Ivan Perišić]]|sortname=Perisic, Ivan|age={{birth date and age2|df=y|2021|6|11|1989|2|2}}|caps=101|goals=28|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=5|pos=DF|name=[[Duje Ćaleta-Car]]|sortname=Caleta-Car, Duje|age={{birth date and age2|df=y|2021|6|11|1996|9|17}}|caps=14|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Dejan Lovren]]|sortname=Lovren, Dejan|age={{birth date and age2|df=y|2021|6|11|1989|7|5}}|caps=64|goals=4|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=7|pos=FW|name=[[Josip Brekalo]]|sortname=Brekalo, Josip|age={{birth date and age2|df=y|2021|6|11|1998|6|23}}|caps=24|goals=4|club=[[VfL Wolfsburg]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name=[[Mateo Kovačić]]|sortname=Kovacic, Mateo|age={{birth date and age2|df=y|2021|6|11|1994|5|6}}|caps=67|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Andrej Kramarić]]|sortname=Kramaric, Andrej|age={{birth date and age2|df=y|2021|6|11|1991|6|19}}|caps=54|goals=14|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Luka Modrić]]|sortname=Modric, Luka|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1985|9|9}}|caps=138|goals=17|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Marcelo Brozović]]|sortname=Brozovic, Marcelo|age={{birth date and age2|df=y|2021|6|11|1992|11|16}}|caps=59|goals=6|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=GK|name=[[Lovre Kalinić]]|sortname=Kalinic, Lovre|age={{birth date and age2|df=y|2021|6|11|1990|4|3}}|caps=19|goals=0|club=[[HNK Hajduk Split|Hajduk Split]]|clubnat=CRO}}
+{{nat fs g player|no=13|pos=MF|name=[[Nikola Vlašić]]|sortname=Vlasic, Nikola|age={{birth date and age2|df=y|2021|6|11|1997|10|4}}|caps=22|goals=5|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=FW|name=[[Ante Budimir]]|sortname=Budimir, Ante|age={{birth date and age2|df=y|2021|6|11|1991|7|22}}|caps=7|goals=1|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Mario Pašalić]]|sortname=Pasalic, Mario|age={{birth date and age2|df=y|2021|6|11|1995|2|9}}|caps=25|goals=3|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=DF|name=[[Mile Škorić]]|sortname=Skoric, Mile|age={{birth date and age2|df=y|2021|6|11|1991|6|19}}|caps=5|goals=0|club=[[NK Osijek|Osijek]]|clubnat=CRO}}
+{{nat fs g player|no=17|pos=FW|name=[[Ante Rebić]]|sortname=Rebic, Ante|age={{birth date and age2|df=y|2021|6|11|1993|9|21}}|caps=38|goals=3|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Mislav Oršić]]|sortname=Orsic, Mislav|age={{birth date and age2|df=y|2021|6|11|1992|12|29}}|caps=9|goals=0|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=19|pos=MF|name=[[Milan Badelj]]|sortname=Badelj, Milan|age={{birth date and age2|df=y|2021|6|11|1989|2|25}}|caps=55|goals=2|club=[[Genoa C.F.C.|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=FW|name=[[Bruno Petković]]|sortname=Petkovic, Bruno|age={{birth date and age2|df=y|2021|6|11|1994|9|16}}|caps=15|goals=6|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=21|pos=DF|name=[[Domagoj Vida]]|sortname=Vida, Domagoj|age={{birth date and age2|df=y|2021|6|11|1989|4|29}}|caps=88|goals=4|club=[[Beşiktaş J.K.|Beşiktaş]]|clubnat=TUR}}
+{{nat fs g player|no=22|pos=DF|name=[[Josip Juranović]]|sortname=Juranovic, Josip|age={{birth date and age2|df=y|2021|6|11|1995|8|16}}|caps=8|goals=0|club=[[Legia Warsaw]]|clubnat=POL}}
+{{nat fs g player|no=23|pos=GK|name=[[Simon Sluga]]|sortname=Sluga, Simon|age={{birth date and age2|df=y|2021|6|11|1993|3|17}}|caps=3|goals=0|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Domagoj Bradarić]]|sortname=Bradaric, Domagoj|age={{birth date and age2|df=y|2021|6|11|1999|12|10}}|caps=4|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Joško Gvardiol]]|sortname=Gvardiol, Josko|age={{birth date and age2|df=y|2021|6|11|2002|1|23}}|caps=1|goals=0|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs g player|no=26|pos=MF|name=[[Luka Ivanušec]]|sortname=Ivanusec, Luka|age={{birth date and age2|df=y|2021|6|11|1998|11|26}}|caps=2|goals=1|club=[[GNK Dinamo Zagreb|Dinamo Zagreb]]|clubnat=CRO}}
+{{nat fs end}}
+
+===Czech Republic===
+Manager: [[Jaroslav Šilhavý]]
+
+The [[Czech Republic national football team|Czech Republic]] announced 25 players of their final squad on 25 May 2021.<ref>{{cite news |url=https://repre.fotbal.cz/ceska-reprezentace-oznamila-nominaci-na-uefa-euro-2020/a14226 |title=Česká reprezentace oznámila nominaci na UEFA EURO 2020 |trans-title=The Czech national team announced the squad for UEFA Euro 2020 |work=[[Football Association of the Czech Republic]] |date=25 May 2021 |access-date=25 May 2021 |language=cs}}</ref> [[Michal Sadílek]] was announced as the final player in the squad on 27 May, after the confirmation of [[Ondřej Kúdela]]'s ten-match ban.<ref>{{cite news |url=https://repre.fotbal.cz/reprezentace-je-kompletni-nominaci-na-euro-2020-doplnil-sadilek/a14243 |title=Reprezentace je kompletní: nominaci na EURO 2020 doplnil Sadílek |trans-title=The team is complete: Sadílek added to the squad for Euro 2020 |work=[[Football Association of the Czech Republic]] |date=27 May 2021 |access-date=27 May 2021 |language=cs}}</ref> [[Jiří Pavlenka]] withdrew injured and was replaced by [[Tomáš Koubek]] on 12 June.<ref>{{cite news |url=https://www.fotbal.cz/euro2020/zmena-v-nominaci-na-euro-zraneneho-pavlenku-nahradi-koubek/a14367 |title=Změna v nominaci na EURO: zraněného Pavlenku nahradí Koubek |trans-title=Change in Euro squad: the injured Pavlenka will be replaced by Koubek |work=[[Football Association of the Czech Republic]] |date=12 June 2021 |access-date=12 June 2021 |language=cs}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Tomáš Vaclík]]|sortname=Vaclik, Tomas|age={{birth date and age2|df=y|2021|6|11|1989|3|29}}|caps=37|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Pavel Kadeřábek]]|sortname=Kaderabek, Pavel|age={{birth date and age2|df=y|2021|6|11|1992|4|25}}|caps=47|goals=3|club=[[TSG 1899 Hoffenheim|1899 Hoffenheim]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Ondřej Čelůstka]]|sortname=Celustka, Ondrej|age={{birth date and age2|df=y|2021|6|11|1989|6|18}}|caps=26|goals=3|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=4|pos=DF|name=[[Jakub Brabec]]|sortname=Brabec, Jakub|age={{birth date and age2|df=y|2021|6|11|1992|8|6}}|caps=21|goals=1|club=[[FC Viktoria Plzeň|Viktoria Plzeň]]|clubnat=CZE}}
+{{nat fs g player|no=5|pos=DF|name=[[Vladimír Coufal]]|sortname=Coufal, Vladimir|age={{birth date and age2|df=y|2021|6|11|1992|8|22}}|caps=16|goals=1|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Tomáš Kalas]]|sortname=Kalas, Tomas|age={{birth date and age2|df=y|2021|6|11|1993|5|15}}|caps=23|goals=2|club=[[Bristol City F.C.|Bristol City]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Antonín Barák]]|sortname=Barak, Antonin|age={{birth date and age2|df=y|2021|6|11|1994|12|3}}|caps=20|goals=6|club=[[Hellas Verona F.C.|Hellas Verona]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Vladimír Darida]]|sortname=Darida, Vladimir|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1990|8|8}}|caps=72|goals=8|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=DF|name=[[Tomáš Holeš]]|sortname=Holes, Tomas|age={{birth date and age2|df=y|2021|6|11|1993|3|31}}|caps=8|goals=1|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=10|pos=FW|name=[[Patrik Schick]]|sortname=Schick, Patrik|age={{birth date and age2|df=y|2021|6|11|1996|1|24}}|caps=26|goals=11|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Krmenčík]]|sortname=Krmencik, Michael|age={{birth date and age2|df=y|2021|6|11|1993|3|15}}|caps=29|goals=9|club=[[PAOK FC|PAOK]]|clubnat=GRE}}
+{{nat fs g player|no=12|pos=MF|name=[[Lukáš Masopust]]|sortname=Masopust, Lukas|age={{birth date and age2|df=y|2021|6|11|1993|2|12}}|caps=22|goals=2|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=13|pos=MF|name=[[Petr Ševčík]]|sortname=Sevcik, Petr|age={{birth date and age2|df=y|2021|6|11|1994|5|4}}|caps=7|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=14|pos=MF|name=[[Jakub Jankto]]|sortname=Jankto, Jakub|age={{birth date and age2|df=y|2021|6|11|1996|1|19}}|caps=35|goals=4|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=MF|name=[[Tomáš Souček]]|sortname=Soucek, Tomas|age={{birth date and age2|df=y|2021|6|11|1995|2|27}}|caps=35|goals=7|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=GK|name=[[Aleš Mandous]]|sortname=Mandous, Ales|age={{birth date and age2|df=y|2021|6|11|1992|4|21}}|caps=1|goals=0|club=[[SK Sigma Olomouc|Sigma Olomouc]]|clubnat=CZE}}
+{{nat fs g player|no=17|pos=DF|name=[[David Zima]]|sortname=Zima, David|age={{birth date and age2|df=y|2021|6|11|2000|11|8}}|caps=2|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=18|pos=DF|name=[[Jan Bořil]]|sortname=Boril, Jan|age={{birth date and age2|df=y|2021|6|11|1991|1|11}}|caps=23|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=19|pos=FW|name=[[Adam Hložek]]|sortname=Hlozek, Adam|age={{birth date and age2|df=y|2021|6|11|2002|7|25}}|caps=3|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=20|pos=FW|name=[[Matěj Vydra]]|sortname=Vydra, Matej|age={{birth date and age2|df=y|2021|6|11|1992|5|1}}|caps=36|goals=6|club=[[Burnley F.C.|Burnley]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=MF|name=[[Alex Král]]|sortname=Kral, Alex|age={{birth date and age2|df=y|2021|6|11|1998|5|19}}|caps=18|goals=2|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=22|pos=DF|name=[[Aleš Matějů]]|sortname=Mateju, Ales|age={{birth date and age2|df=y|2021|6|11|1996|6|3}}|caps=4|goals=0|club=[[Brescia Calcio|Brescia]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Tomáš Koubek]]|sortname=Koubek, Tomas|age={{birth date and age2|df=y|2021|6|11|1992|8|26}}|caps=11|goals=0|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=FW|name=[[Tomáš Pekhart]]|sortname=Pekhart, Tomas|age={{birth date and age2|df=y|2021|6|11|1989|5|26}}|caps=22|goals=2|club=[[Legia Warsaw]]|clubnat=POL}}
+{{nat fs g player|no=25|pos=MF|name=[[Jakub Pešek]]|sortname=Pesek, Jakub|age={{birth date and age2|df=y|2021|6|11|1993|6|24}}|caps=2|goals=1|club=[[FC Slovan Liberec|Slovan Liberec]]|clubnat=CZE}}
+{{nat fs g player|no=26|pos=MF|name=[[Michal Sadílek]]|sortname=Sadilek, Michal|age={{birth date and age2|df=y|2021|6|11|1999|5|31}}|caps=1|goals=0|club=[[FC Slovan Liberec|Slovan Liberec]]|clubnat=CZE}}
+{{nat fs end}}
+
+===England===
+Manager: [[Gareth Southgate]]
+
+[[England national football team|England]] announced a 33-man preliminary squad on 25 May 2021.<ref>{{cite news |last=Lucas |first=Jim |url=https://www.englandfootball.com/Articles/2021/May/25/20210525-england-provisional-squad-named |title=England provisional squad named for EURO 2020 |work=[[The Football Association]] |date=25 May 2021 |access-date=25 May 2021}}</ref> [[Mason Greenwood]] withdrew injured on 1 June,<ref>{{cite news |url=https://www.manutd.com/en/news/detail/man-utd-striker-mason-greenwood-withdraws-from-england-euro-2020-squad-with-injury |title=Mason withdraws from England Euro 2020 squad |work=[[Manchester United F.C.]] |date=1 June 2021 |access-date=1 June 2021}}</ref> with the final squad announced later that day.<ref>{{cite news |last=Lucas |first=Jim |url=https://www.englandfootball.com/Articles/2021/Jun/01/20210601-england-squad-named-for-uefa-euro-2020 |title=Final England squad named for UEFA EURO 2020 |work=[[The Football Association]] |date=1 June 2021 |access-date=1 June 2021}}</ref><ref>{{cite tweet |author=The Football Association |author-link=The Football Association |user=England |number=1399761179069845508 |date=1 June 2021 |title=Our EURO 2020 squad numbers have been confirmed! |access-date=1 June 2021}}</ref> [[Trent Alexander-Arnold]] withdrew injured on 3 June<ref>{{cite news |last=Walker |first=Andy |url=https://www.englandfootball.com/Articles/2021/Jun/03/20210603-trent-alexander-arnold-withdrawn-from-england-squad |title=Trent Alexander-Arnold withdrawn from squad |work=[[The Football Association]] |date=3 June 2021 |access-date=4 June 2021}}</ref> and was replaced by [[Ben White (footballer)|Ben White]] on 7 June.<ref>{{cite news |last=Walker |first=Andy |url=https://www.englandfootball.com/articles/2021/Jun/07/20210607-england-final-squad-member-confirmed |title=White completes EURO squad |work=[[The Football Association]] |date=7 June 2021 |access-date=7 June 2021}}</ref> After the team's first match, goalkeeper [[Dean Henderson]] withdrew injured and was replaced by [[Aaron Ramsdale]] on 15 June.<ref>{{cite news |last=Walker |first=Andy |url=https://www.englandfootball.com/articles/2021/Jun/15/20210615-aaron-ramsdale-called-into-EURO-squad-to-replace-dean-henderson |title=Ramsdale called into squad |work=[[The Football Association]] |date=15 June 2021 |access-date=15 June 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Jordan Pickford]]|sortname=Pickford, Jordan|age={{birth date and age2|df=y|2021|6|11|1994|3|7}}|caps=31|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Kyle Walker]]|sortname=Walker, Kyle|age={{birth date and age2|df=y|2021|6|11|1990|5|28}}|caps=55|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Luke Shaw]]|sortname=Shaw, Luke|age={{birth date and age2|df=y|2021|6|11|1995|7|12}}|caps=10|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=MF|name=[[Declan Rice]]|sortname=Rice, Declan|age={{birth date and age2|df=y|2021|6|11|1999|1|14}}|caps=17|goals=1|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[John Stones]]|sortname=Stones, John|age={{birth date and age2|df=y|2021|6|11|1994|5|28}}|caps=42|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Harry Maguire]]|sortname=Maguire, Harry|age={{birth date and age2|df=y|2021|6|11|1993|3|5}}|caps=32|goals=3|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Jack Grealish]]|sortname=Grealish, Jack|age={{birth date and age2|df=y|2021|6|11|1995|9|10}}|caps=7|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Jordan Henderson]]|sortname=Henderson, Jordan|age={{birth date and age2|df=y|2021|6|11|1990|6|17}}|caps=59|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Harry Kane]]|sortname=Kane, Harry|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1993|7|28}}|caps=54|goals=34|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Raheem Sterling]]|sortname=Sterling, Raheem|age={{birth date and age2|df=y|2021|6|11|1994|12|8}}|caps=61|goals=14|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Marcus Rashford]]|sortname=Rashford, Marcus|age={{birth date and age2|df=y|2021|6|11|1997|10|31}}|caps=41|goals=12|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Kieran Trippier]]|sortname=Trippier, Kieran|age={{birth date and age2|df=y|2021|6|11|1990|9|19}}|caps=28|goals=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=13|pos=GK|name=[[Dean Henderson]]|sortname=Henderson, Dean|other=until 15 June|age={{birth date and age2|df=y|2021|6|11|1997|3|12}}|caps=1|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Aaron Ramsdale]]|sortname=Ramsdale, Aaron|other=from 15 June|age={{birth date and age2|df=y|2021|6|11|1998|5|14}}|caps=0|goals=0|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Kalvin Phillips]]|sortname=Phillips, Kalvin|age={{birth date and age2|df=y|2021|6|11|1995|12|2}}|caps=8|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Tyrone Mings]]|sortname=Mings, Tyrone|age={{birth date and age2|df=y|2021|6|11|1993|3|13}}|caps=10|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=DF|name=[[Conor Coady]]|sortname=Coady, Conor|age={{birth date and age2|df=y|2021|6|11|1993|2|25}}|caps=5|goals=1|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Jadon Sancho]]|sortname=Sancho, Jadon|age={{birth date and age2|df=y|2021|6|11|2000|3|25}}|caps=19|goals=3|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=FW|name=[[Dominic Calvert-Lewin]]|sortname=Calvert-Lewin, Dominic|age={{birth date and age2|df=y|2021|6|11|1997|3|16}}|caps=9|goals=4|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Mason Mount]]|sortname=Mount, Mason|age={{birth date and age2|df=y|2021|6|11|1999|1|10}}|caps=16|goals=4|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Phil Foden]]|sortname=Foden, Phil|age={{birth date and age2|df=y|2021|6|11|2000|5|28}}|caps=6|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=DF|name=[[Ben Chilwell]]|sortname=Chilwell, Ben|age={{birth date and age2|df=y|2021|6|11|1996|12|21}}|caps=14|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Ben White (footballer)|Ben White]]|sortname=White, Ben|age={{birth date and age2|df=y|2021|6|11|1997|10|8}}|caps=2|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Sam Johnstone]]|sortname=Johnstone, Sam|age={{birth date and age2|df=y|2021|6|11|1993|3|25}}|caps=1|goals=0|club=[[West Bromwich Albion F.C.|West Bromwich Albion]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Reece James (footballer, born 1999)|Reece James]]|sortname=James, Reece|age={{birth date and age2|df=y|2021|6|11|1999|12|8}}|caps=6|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Bukayo Saka]]|sortname=Saka, Bukayo|age={{birth date and age2|df=y|2021|6|11|2001|9|5}}|caps=5|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=MF|name=[[Jude Bellingham]]|sortname=Bellingham, Jude|age={{birth date and age2|df=y|2021|6|11|2003|6|29}}|caps=4|goals=0|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs end}}
+
+===Scotland===
+Manager: [[Steve Clarke]]
+
+[[Scotland national football team|Scotland]] announced their final squad on 19 May 2021.<ref>{{cite news |url=https://www.scottishfa.co.uk/news/gilmour-turnbull-and-patterson-included-for-euro-2020/ |title=Gilmour, Turnbull and Patterson included for EURO 2020 |work=[[Scottish Football Association]] |date=19 May 2021 |access-date=19 May 2021}}</ref><ref>{{cite tweet |author=Scottish Football Association |author-link=Scottish Football Association |user=ScotlandNT |number=1399453674166960135 |date=31 May 2021 |title=Confirmed: Your EURO 2020 squad numbers. |access-date=31 May 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Marshall (Scottish footballer)|David Marshall]]|sortname=Marshall, David|age={{birth date and age2|df=y|2021|6|11|1985|3|5}}|caps=44|goals=0|club=[[Derby County F.C.|Derby County]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Stephen O'Donnell (footballer, born 1992)|Stephen O'Donnell]]|sortname=Odonnell, Stephen|age={{birth date and age2|df=y|2021|6|11|1992|5|11}}|caps=19|goals=0|club=[[Motherwell F.C.|Motherwell]]|clubnat=SCO}}
+{{nat fs g player|no=3|pos=DF|name=[[Andrew Robertson]]|sortname=Robertson, Andrew|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1994|3|11}}|caps=45|goals=3|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=MF|name=[[Scott McTominay]]|sortname=Mctominay, Scott|age={{birth date and age2|df=y|2021|6|11|1996|12|8}}|caps=23|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Grant Hanley]]|sortname=Hanley, Grant|age={{birth date and age2|df=y|2021|6|11|1991|11|20}}|caps=33|goals=2|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Kieran Tierney]]|sortname=Tierney, Kieran|age={{birth date and age2|df=y|2021|6|11|1997|6|5}}|caps=21|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[John McGinn]]|sortname=Mcginn, John|age={{birth date and age2|df=y|2021|6|11|1994|10|18}}|caps=33|goals=10|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Callum McGregor]]|sortname=Mcgregor, Callum|age={{birth date and age2|df=y|2021|6|11|1993|6|14}}|caps=31|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=9|pos=FW|name=[[Lyndon Dykes]]|sortname=Dykes, Lyndon|age={{birth date and age2|df=y|2021|6|11|1995|10|7}}|caps=12|goals=2|club=[[Queens Park Rangers F.C.|Queens Park Rangers]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Ché Adams]]|sortname=Adams, Che|age={{birth date and age2|df=y|2021|6|11|1996|7|13}}|caps=4|goals=2|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ryan Christie]]|sortname=Christie, Ryan|age={{birth date and age2|df=y|2021|6|11|1995|2|22}}|caps=19|goals=4|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=12|pos=GK|name=[[Craig Gordon]]|sortname=Gordon, Craig|age={{birth date and age2|df=y|2021|6|11|1982|12|31}}|caps=57|goals=0|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs g player|no=13|pos=DF|name=[[Greg Taylor (Scottish footballer)|Greg Taylor]]|sortname=Taylor, Greg|age={{birth date and age2|df=y|2021|6|11|1997|11|5}}|caps=5|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=14|pos=MF|name=[[John Fleck (footballer)|John Fleck]]|sortname=Fleck, John|age={{birth date and age2|df=y|2021|6|11|1991|8|24}}|caps=5|goals=0|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Declan Gallagher]]|sortname=Gallagher, Declan|age={{birth date and age2|df=y|2021|6|11|1991|2|13}}|caps=9|goals=0|club=[[Motherwell F.C.|Motherwell]]|clubnat=SCO}}
+{{nat fs g player|no=16|pos=DF|name=[[Liam Cooper]]|sortname=Cooper, Liam|age={{birth date and age2|df=y|2021|6|11|1991|8|30}}|caps=6|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Stuart Armstrong]]|sortname=Armstrong, Stuart|age={{birth date and age2|df=y|2021|6|11|1992|3|30}}|caps=25|goals=2|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[David Turnbull (footballer)|David Turnbull]]|sortname=Turnbull, David|age={{birth date and age2|df=y|2021|6|11|1999|7|10}}|caps=1|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=19|pos=FW|name=[[Kevin Nisbet]]|sortname=Nisbet, Kevin|age={{birth date and age2|df=y|2021|6|11|1997|3|8}}|caps=3|goals=1|club=[[Hibernian F.C.|Hibernian]]|clubnat=SCO}}
+{{nat fs g player|no=20|pos=MF|name=[[Ryan Fraser]]|sortname=Fraser, Ryan|age={{birth date and age2|df=y|2021|6|11|1994|2|24}}|caps=18|goals=4|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=GK|name=[[Jon McLaughlin (footballer)|Jon McLaughlin]]|sortname=Mclaughlin, Jon|age={{birth date and age2|df=y|2021|6|11|1987|9|9}}|caps=2|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=22|pos=DF|name=[[Nathan Patterson (footballer)|Nathan Patterson]]|sortname=Patterson, Nathan|age={{birth date and age2|df=y|2021|6|11|2001|10|16}}|caps=1|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=23|pos=MF|name=[[Billy Gilmour]]|sortname=Gilmour, Billy|age={{birth date and age2|df=y|2021|6|11|2001|6|11}}|caps=2|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Jack Hendry (footballer, born 1995)|Jack Hendry]]|sortname=Hendry, Jack|age={{birth date and age2|df=y|2021|6|11|1995|5|7}}|caps=6|goals=1|club=[[K.V. Oostende|Oostende]]|clubnat=BEL}}
+{{nat fs g player|no=25|pos=MF|name=[[James Forrest (footballer, born 1991)|James Forrest]]|sortname=Forrest, James|age={{birth date and age2|df=y|2021|6|11|1991|7|7}}|caps=37|goals=5|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=26|pos=DF|name=[[Scott McKenna]]|sortname=Mckenna, Scott|age={{birth date and age2|df=y|2021|6|11|1996|11|12}}|caps=21|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs end}}
+
+==Group E==
+===Poland===
+Manager: {{flagicon|POR}} [[Paulo Sousa]]
+
+[[Poland national football team|Poland]] announced their final squad on 17 May 2021.<ref>{{cite news |url=https://pzpn.pl/reprezentacje/reprezentacja-a/aktualnosci/2021-05-17/paulo-sousa-oglosil-powolania-na-uefa-euro-2020 |title=Paulo Sousa ogłosił powołania na UEFA EURO 2020 |trans-title=Paulo Sousa announced appointments for UEFA Euro 2020 |work=[[Polish Football Association]] |date=17 May 2021 |access-date=17 May 2021 |language=pl}}</ref><ref>{{cite news |url=http://www.90minut.pl/news/312/news3120085-ME-Szeroka-kadra-reprezentacji-Polski.html |title=ME: Szeroka kadra reprezentacji Polski |trans-title=European Championship: A broad squad of the Polish national team |website=90minut.pl |date=17 May 2021 |access-date=17 May 2021 |language=pl}}</ref><ref>{{cite news |url=https://www.laczynaspilka.pl/aktualnosci/reprezentacja/znamy-numery-z-jakimi-na-uefa-euro-2020-zagraja-polacy |title=Znamy numery, z jakimi na UEFA EURO 2020 zagrają Polacy! |trans-title=We know the numbers that Poles will play in at UEFA Euro 2020! |work=[[Polish Football Association]] |date=2 June 2021 |access-date=2 June 2021 |language=pl}}</ref> [[Arkadiusz Milik]] withdrew injured on 7 June and was not replaced, thus reducing the squad to 25 players.<ref>{{cite news |url=https://pzpn.pl/reprezentacje/reprezentacja-a/aktualnosci/2021-06-07/arkadiusz-milik-nie-wystapi-w-uefa-euro-2020 |title=Arkadiusz Milik nie wystąpi w UEFA EURO 2020 |trans-title=Arkadiusz Milik will not play at UEFA Euro 2020 |work=[[Polish Football Association]] |date=7 June 2021 |access-date=7 June 2021 |language=pl}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Wojciech Szczęsny]]|sortname=Szczesny, Wojciech|age={{birth date and age2|df=y|2021|6|11|1990|4|18}}|caps=53|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=2|pos=DF|name=[[Kamil Piątkowski]]|sortname=Piatkowski, Kamil|age={{birth date and age2|df=y|2021|6|11|2000|6|21}}|caps=2|goals=0|club=[[Raków Częstochowa]]|clubnat=POL}}
+{{nat fs g player|no=3|pos=MF|name=[[Paweł Dawidowicz]]|sortname=Dawidowicz, Pawel|age={{birth date and age2|df=y|2021|6|11|1995|5|20}}|caps=3|goals=0|club=[[Hellas Verona F.C.|Hellas Verona]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Tomasz Kędziora]]|sortname=Kedziora, Tomasz|age={{birth date and age2|df=y|2021|6|11|1994|6|11}}|caps=23|goals=0|club=[[FC Dynamo Kyiv|Dynamo Kyiv]]|clubnat=UKR}}
+{{nat fs g player|no=5|pos=DF|name=[[Jan Bednarek]]|sortname=Bednarek, Jan|age={{birth date and age2|df=y|2021|6|11|1996|4|12}}|caps=30|goals=1|club=[[Southampton F.C.|Southampton]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name=[[Kacper Kozłowski (footballer)|Kacper Kozłowski]]|sortname=Kozlowski, Kacper|age={{birth date and age2|df=y|2021|6|11|2003|10|16}}|caps=3|goals=0|club=[[Pogoń Szczecin]]|clubnat=POL}}
+{{nat fs g player|no=8|pos=MF|name=[[Karol Linetty]]|sortname=Linetty, Karol|age={{birth date and age2|df=y|2021|6|11|1995|2|2}}|caps=32|goals=2|club=[[Torino F.C.|Torino]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Robert Lewandowski]]|sortname=Lewandowski, Robert|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1988|8|21}}|caps=119|goals=66|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Grzegorz Krychowiak]]|sortname=Krychowiak, Grzegorz|age={{birth date and age2|df=y|2021|6|11|1990|1|29}}|caps=80|goals=4|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=11|pos=FW|name=[[Karol Świderski]]|sortname=Swiderski, Karol|age={{birth date and age2|df=y|2021|6|11|1997|1|23}}|caps=4|goals=2|club=[[PAOK FC|PAOK]]|clubnat=GRE}}
+{{nat fs g player|no=12|pos=GK|name=[[Łukasz Skorupski]]|sortname=Skorupski, Lukasz|age={{birth date and age2|df=y|2021|6|11|1991|5|5}}|caps=4|goals=0|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=13|pos=DF|name=[[Maciej Rybus]]|sortname=Rybus, Maciej|age={{birth date and age2|df=y|2021|6|11|1989|8|19}}|caps=62|goals=2|club=[[FC Lokomotiv Moscow|Lokomotiv Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=14|pos=MF|name=[[Mateusz Klich]]|sortname=Klich, Mateusz|age={{birth date and age2|df=y|2021|6|11|1990|6|13}}|caps=31|goals=2|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=DF|name=[[Kamil Glik]]|sortname=Glik, Kamil|age={{birth date and age2|df=y|2021|6|11|1988|2|3}}|caps=83|goals=6|club=[[Benevento Calcio|Benevento]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Jakub Moder]]|sortname=Moder, Jakub|age={{birth date and age2|df=y|2021|6|11|1999|4|7}}|caps=10|goals=2|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Przemysław Płacheta]]|sortname=Placheta, Przemyslaw|age={{birth date and age2|df=y|2021|6|11|1998|3|23}}|caps=4|goals=0|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=DF|name=[[Bartosz Bereszyński]]|sortname=Bereszynski, Bartosz|age={{birth date and age2|df=y|2021|6|11|1992|7|12}}|caps=32|goals=0|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=MF|name=[[Przemysław Frankowski]]|sortname=Frankowski, Przemyslaw|age={{birth date and age2|df=y|2021|6|11|1995|4|12}}|caps=12|goals=1|club=[[Chicago Fire FC]]|clubnat=USA}}
+{{nat fs g player|no=20|pos=MF|name=[[Piotr Zieliński]]|sortname=Zielinski, Piotr|age={{birth date and age2|df=y|2021|6|11|1994|5|20}}|caps=60|goals=7|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[Kamil Jóźwiak]]|sortname=Jozwiak, Kamil|age={{birth date and age2|df=y|2021|6|11|1998|4|22}}|caps=14|goals=2|club=[[Derby County F.C.|Derby County]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=GK|name=[[Łukasz Fabiański]]|sortname=Fabianski, Lukasz|age={{birth date and age2|df=y|2021|6|11|1985|4|18}}|caps=56|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=FW|name=[[Dawid Kownacki]]|sortname=Kownacki, Dawid|age={{birth date and age2|df=y|2021|6|11|1997|3|14}}|caps=7|goals=1|club=[[Fortuna Düsseldorf]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=FW|name=[[Jakub Świerczok]]|sortname=Swierczok, Jakub|age={{birth date and age2|df=y|2021|6|11|1992|12|28}}|caps=5|goals=1|club=[[Piast Gliwice]]|clubnat=POL}}
+{{nat fs g player|no=25|pos=DF|name=[[Michał Helik]]|sortname=Helik, Michal|age={{birth date and age2|df=y|2021|6|11|1995|9|9}}|caps=3|goals=0|club=[[Barnsley F.C.|Barnsley]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=DF|name=[[Tymoteusz Puchacz]]|sortname=Puchacz, Tymoteusz|age={{birth date and age2|df=y|2021|6|11|1999|1|23}}|caps=2|goals=0|club=[[Lech Poznań]]|clubnat=POL}}
+{{nat fs end}}
+
+===Slovakia===
+Manager: [[Štefan Tarkovič]]
+
+[[Slovakia national football team|Slovakia]] announced a 24-man preliminary squad on 18 May 2021.<ref>{{cite news |url=https://www.futbalsfz.sk/muzi-a-nominacia-na-treningovy-kemp-je-zaciatok-cesty |title=Muži A – Nominácia na tréningový kemp je začiatok cesty |trans-title=Men A – The nomination for the training camp is the beginning of the journey |work=[[Slovak Football Association]] |date=18 May 2021 |access-date=18 May 2021 |language=sk}}</ref> The final squad was announced on 2 June.<ref>{{cite news |url=https://www.futbalsfz.sk/muzi-a-konecna-nominacia-na-euro-2020-trener-tarkovic-za-menami-si-stojim |title=Muži A – Konečná nominácia na Euro 2020, tréner Tarkovič: "Za menami si stojím!" |trans-title=Men A – Final nomination for Euro 2020, coach Tarkovič: "I stand behind the names!" |work=[[Slovak Football Association]] |date=2 June 2021 |access-date=2 June 2021 |language=sk}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Martin Dúbravka]]|sortname=Dubravka, Martin|age={{birth date and age2|df=y|2021|6|11|1989|1|15}}|caps=25|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Peter Pekarík]]|sortname=Pekarik, Peter|age={{birth date and age2|df=y|2021|6|11|1986|10|30}}|caps=101|goals=2|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Denis Vavro]]|sortname=Vavro, Denis|age={{birth date and age2|df=y|2021|6|11|1996|4|10}}|caps=10|goals=0|club=[[SD Huesca|Huesca]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=DF|name=[[Martin Valjent]]|sortname=Valjent, Martin|age={{birth date and age2|df=y|2021|6|11|1995|12|11}}|caps=9|goals=0|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=DF|name=[[Ľubomír Šatka]]|sortname=Satka, Lubomir|age={{birth date and age2|df=y|2021|6|11|1995|12|2}}|caps=14|goals=0|club=[[Lech Poznań]]|clubnat=POL}}
+{{nat fs g player|no=6|pos=MF|name=[[Ján Greguš]]|sortname=Gregus, Jan|age={{birth date and age2|df=y|2021|6|11|1991|1|29}}|caps=35|goals=4|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=7|pos=MF|name=[[Vladimír Weiss (footballer, born 1989)|Vladimír Weiss]]|sortname=Weiss, Vladimir|age={{birth date and age2|df=y|2021|6|11|1989|11|30}}|caps=69|goals=7|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs g player|no=8|pos=MF|name=[[Ondrej Duda]]|sortname=Duda, Ondrej|age={{birth date and age2|df=y|2021|6|11|1994|12|5}}|caps=45|goals=5|club=[[1. FC Köln]]|clubnat=GER}}
+{{nat fs g player|no=9|pos=FW|name=[[Róbert Boženík]]|sortname=Bozenik, Robert|age={{birth date and age2|df=y|2021|6|11|1999|11|18}}|caps=16|goals=4|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=MF|name=[[Tomáš Suslov]]|sortname=Suslov, Tomas|age={{birth date and age2|df=y|2021|6|11|2002|6|7}}|caps=3|goals=0|club=[[FC Groningen|Groningen]]|clubnat=NED}}
+{{nat fs g player|no=11|pos=MF|name=[[László Bénes]]|sortname=Benes, Laszlo|age={{birth date and age2|df=y|2021|6|11|1997|9|9}}|caps=5|goals=1|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=GK|name=[[Dušan Kuciak]]|sortname=Kuciak, Dusan|age={{birth date and age2|df=y|2021|6|11|1985|5|21}}|caps=14|goals=0|club=[[Lechia Gdańsk]]|clubnat=POL}}
+{{nat fs g player|no=13|pos=MF|name=[[Patrik Hrošovský]]|sortname=Hrosovsky, Patrik|age={{birth date and age2|df=y|2021|6|11|1992|4|22}}|caps=36|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=14|pos=DF|name=[[Milan Škriniar]]|sortname=Skriniar, Milan|age={{birth date and age2|df=y|2021|6|11|1995|2|11}}|caps=40|goals=2|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Tomáš Hubočan]]|sortname=Hubocan, Tomas|age={{birth date and age2|df=y|2021|6|11|1985|9|17}}|caps=70|goals=0|club=[[AC Omonia|Omonia]]|clubnat=CYP}}
+{{nat fs g player|no=16|pos=DF|name=[[Dávid Hancko]]|sortname=Hancko, David|age={{birth date and age2|df=y|2021|6|11|1997|12|13}}|caps=14|goals=1|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=17|pos=MF|name=[[Marek Hamšík]]|sortname=Hamsik, Marek|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1987|7|27}}|caps=126|goals=26|club=[[IFK Göteborg]]|clubnat=SWE}}
+{{nat fs g player|no=18|pos=MF|name=[[Lukáš Haraslín]]|sortname=Haraslin, Lukas|age={{birth date and age2|df=y|2021|6|11|1996|5|26}}|caps=15|goals=1|club=[[U.S. Sassuolo Calcio|Sassuolo]]|clubnat=ITA}}
+{{nat fs g player|no=19|pos=MF|name=[[Juraj Kucka]]|sortname=Kucka, Juraj|age={{birth date and age2|df=y|2021|6|11|1987|2|26}}|caps=83|goals=10|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=FW|name=[[Róbert Mak]]|sortname=Mak, Robert|age={{birth date and age2|df=y|2021|6|11|1991|3|8}}|caps=66|goals=14|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=21|pos=FW|name=[[Michal Ďuriš]]|sortname=Duris, Michal|age={{birth date and age2|df=y|2021|6|11|1988|6|1}}|caps=56|goals=7|club=[[AC Omonia|Omonia]]|clubnat=CYP}}
+{{nat fs g player|no=22|pos=MF|name=[[Stanislav Lobotka]]|sortname=Lobotka, Stanislav|age={{birth date and age2|df=y|2021|6|11|1994|11|25}}|caps=28|goals=3|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Marek Rodák]]|sortname=Rodak, Marek|age={{birth date and age2|df=y|2021|6|11|1996|12|13}}|caps=6|goals=0|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Martin Koscelník]]|sortname=Koscelnik, Martin|age={{birth date and age2|df=y|2021|6|11|1995|3|2}}|caps=5|goals=0|club=[[FC Slovan Liberec|Slovan Liberec]]|clubnat=CZE}}
+{{nat fs g player|no=25|pos=MF|name=[[Jakub Hromada]]|sortname=Hromada, Jakub|age={{birth date and age2|df=y|2021|6|11|1996|5|25}}|caps=2|goals=0|club=[[SK Slavia Prague|Slavia Prague]]|clubnat=CZE}}
+{{nat fs g player|no=26|pos=FW|name=[[Ivan Schranz]]|sortname=Schranz, Ivan|age={{birth date and age2|df=y|2021|6|11|1993|9|13}}|caps=8|goals=1|club=[[FK Jablonec|Jablonec]]|clubnat=CZE}}
+{{nat fs end}}
+
+===Spain===
+Manager: [[Luis Enrique]]
+
+[[Spain national football team|Spain]] announced their final squad, containing 24 players rather than the allowed 26, on 24 May 2021.<ref>{{cite news |url=https://sefutbol.com/oficial-convocatoria-seleccion-espanola-euro-2020 |title=Oficial {{!}} Convocatoria de la Selección española para la EURO 2020 |trans-title=Official {{!}} Call for the Spanish national team for Euro 2020 |work=[[Royal Spanish Football Federation]] |date=24 May 2021 |access-date=24 May 2021 |language=es |archive-date=24 May 2021 |archive-url=https://web.archive.org/web/20210524124747/https://sefutbol.com/oficial-convocatoria-seleccion-espanola-euro-2020 |url-status=dead }}</ref><ref>{{cite tweet |author=Royal Spanish Football Federation |author-link=Royal Spanish Football Federation |user=SeFutbol |number=1399812231966117893 |date=1 June 2021 |title=Oficial {{!}} ¡¡Estos los dorsales de la SeFutbol para la EURO 2020!! |trans-title=Official {{!}} These are the national team numbers for EURO 2020!! |language=es |access-date=1 June 2021}}</ref> With the omission of [[Sergio Ramos]], there were no [[Real Madrid CF|Real Madrid]] players in the Spain squad for the first time in a major tournament.<ref>{{cite news |title=Euro 2020: Sergio Ramos left out of Spain squad |url=https://www.bbc.co.uk/sport/football/57228226 |website=BBC Sport |date=24 May 2021 |accessdate=27 September 2021}}</ref> [[Sergio Busquets]] tested positive for SARS-CoV-2 on 6 June, and was isolated while remaining in the squad.<ref>{{cite news |url=https://sefutbol.com/comunicado-oficial-rfef-positivo-sergio-busquets |title=Comunicado oficial de la RFEF {{!}} Positivo de Sergio Busquets |trans-title=Official statement of the RFEF {{!}} Positive by Sergio Busquets |work=[[Royal Spanish Football Federation]] |date=6 June 2021 |access-date=10 June 2021 |language=es |archive-date=9 June 2021 |archive-url=https://web.archive.org/web/20210609200843/https://www.sefutbol.com/comunicado-oficial-rfef-positivo-sergio-busquets |url-status=dead }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David de Gea]]|sortname=Gea, David de|age={{birth date and age2|df=y|2021|6|11|1990|11|7}}|caps=45|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[César Azpilicueta]]|sortname=Azpilicueta, Cesar|age={{birth date and age2|df=y|2021|6|11|1989|8|28}}|caps=25|goals=0|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Diego Llorente]]|sortname=Llorente, Diego|age={{birth date and age2|df=y|2021|6|11|1993|8|16}}|caps=8|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Pau Torres]]|sortname=Torres, Pau|age={{birth date and age2|df=y|2021|6|11|1997|1|16}}|caps=8|goals=1|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=MF|name=[[Sergio Busquets]]|sortname=Busquets, Sergio|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1988|7|16}}|caps=123|goals=2|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=6|pos=MF|name=[[Marcos Llorente]]|sortname=Llorente, Marcos|age={{birth date and age2|df=y|2021|6|11|1995|1|30}}|caps=5|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=FW|name=[[Álvaro Morata]]|sortname=Morata, Alvaro|age={{birth date and age2|df=y|2021|6|11|1992|10|23}}|caps=40|goals=19|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Koke (footballer, born 1992)|Koke]]|sortname=Koke|age={{birth date and age2|df=y|2021|6|11|1992|1|8}}|caps=50|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Gerard Moreno]]|sortname=Moreno, Gerard|age={{birth date and age2|df=y|2021|6|11|1992|4|7}}|caps=11|goals=5|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Thiago Alcântara|Thiago]]|sortname=Thiago|age={{birth date and age2|df=y|2021|6|11|1991|4|11}}|caps=42|goals=2|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ferran Torres]]|sortname=Torres, Ferran|age={{birth date and age2|df=y|2021|6|11|2000|2|29}}|caps=11|goals=6|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=DF|name=[[Eric García (footballer, born 2001)|Eric García]]|sortname=Garcia, Eric|age={{birth date and age2|df=y|2021|6|11|2001|1|9}}|caps=8|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Robert Sánchez]]|sortname=Sanchez, Robert|age={{birth date and age2|df=y|2021|6|11|1997|11|18}}|caps=0|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=DF|name=[[José Gayà]]|sortname=Gaya, Jose|age={{birth date and age2|df=y|2021|6|11|1995|5|25}}|caps=14|goals=2|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=MF|name=[[Rodri (footballer, born 1996)|Rodri]]|sortname=Rodri|age={{birth date and age2|df=y|2021|6|11|1996|6|22}}|caps=20|goals=1|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Fabián Ruiz]]|sortname=Ruiz, Fabian|age={{birth date and age2|df=y|2021|6|11|1996|4|3}}|caps=12|goals=1|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=DF|name=[[Jordi Alba]]|sortname=Alba, Jordi|age={{birth date and age2|df=y|2021|6|11|1989|3|21}}|caps=72|goals=8|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=MF|name=[[Dani Olmo]]|sortname=Olmo, Dani|age={{birth date and age2|df=y|2021|6|11|1998|5|7}}|caps=11|goals=3|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=MF|name=[[Adama Traoré (footballer, born 1996)|Adama Traoré]]|sortname=Traore, Adama|age={{birth date and age2|df=y|2021|6|11|1996|1|25}}|caps=5|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=FW|name=[[Mikel Oyarzabal]]|sortname=Oyarzabal, Mikel|age={{birth date and age2|df=y|2021|6|11|1997|4|21}}|caps=13|goals=4|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=MF|name=[[Pablo Sarabia]]|sortname=Sarabia, Pablo|age={{birth date and age2|df=y|2021|6|11|1992|5|11}}|caps=4|goals=1|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Unai Simón]]|sortname=Simon, Unai|age={{birth date and age2|df=y|2021|6|11|1997|6|11}}|caps=7|goals=0|club=[[Athletic Bilbao]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=DF|name=[[Aymeric Laporte]]|sortname=Laporte, Aymeric|age={{birth date and age2|df=y|2021|6|11|1994|5|27}}|caps=1|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=FW|name=[[Pedri]]|sortname=Pedri|age={{birth date and age2|df=y|2021|6|11|2002|11|25}}|caps=4|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Sweden===
+Manager: [[Janne Andersson]]
+
+[[Sweden national football team|Sweden]] announced their final squad on 18 May 2021.<ref>{{cite news |url=https://www.svenskfotboll.se/nyheter/landslag/2021/05/granqvist-och-larsson-med-i-jannes-em-trupp/ |title=Granqvist och Larsson med i Jannes EM-trupp |trans-title=Granqvist and Larsson join Janne's European Championship squad |work=[[Swedish Football Association]] |date=18 May 2021 |access-date=18 May 2021 |language=sv}}</ref> [[Martin Olsson]] withdrew injured and was replaced by [[Pierre Bengtsson]] on 31 May.<ref>{{cite news |url=https://www.svenskfotboll.se/nyheter/landslag/2021/05/bengtsson2/ |title=Bengtsson fortsatt del av EM-truppen |trans-title=Bengtsson is still part of the European Championship squad |work=[[Swedish Football Association]] |date=31 May 2021 |access-date=31 May 2021 |language=sv}}</ref> [[Dejan Kulusevski]] and [[Mattias Svanberg]] tested positive for SARS-CoV-2 on 8 June, and were isolated while remaining in the squad.<ref>{{cite news |url=https://www.svenskfotboll.se/nyheter/landslag/2021/06/kulusevski-inte-med-till-goteborg/ |title=Kulusevski inte med till Göteborg |trans-title=Kulusevski not coming to Gothenburg |work=[[Swedish Football Association]] |date=8 June 2021 |access-date=10 June 2021 |language=sv}}</ref><ref>{{cite news |url=https://www.svenskfotboll.se/nyheter/landslag/2021/06/atgarder/ |title=Landslagets åtgärder efter Covid-fallen |trans-title=Action by the national team after the COVID cases |work=[[Swedish Football Association]] |date=8 June 2021 |access-date=10 June 2021 |language=sv}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Robin Olsen]]|sortname=Olsen, Robin|age={{birth date and age2|df=y|2021|6|11|1990|1|8}}|caps=44|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Mikael Lustig]]|sortname=Lustig, Mikael|age={{birth date and age2|df=y|2021|6|11|1986|12|13}}|caps=90|goals=6|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs g player|no=3|pos=DF|name=[[Victor Lindelöf]]|sortname=Lindelof, Victor|age={{birth date and age2|df=y|2021|6|11|1994|7|17}}|caps=41|goals=3|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Andreas Granqvist]]|sortname=Granqvist, Andreas|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1985|4|16}}|caps=88|goals=9|club=[[Helsingborgs IF]]|clubnat=SWE}}
+{{nat fs g player|no=5|pos=DF|name=[[Pierre Bengtsson]]|sortname=Bengtsson, Pierre|age={{birth date and age2|df=y|2021|6|11|1988|4|12}}|caps=38|goals=0|club=[[Vejle Boldklub|Vejle]]|clubnat=DEN}}
+{{nat fs g player|no=6|pos=DF|name=[[Ludwig Augustinsson]]|sortname=Augustinsson, Ludwig|age={{birth date and age2|df=y|2021|6|11|1994|4|21}}|caps=32|goals=2|club=[[SV Werder Bremen|Werder Bremen]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=MF|name=[[Sebastian Larsson]]|sortname=Larsson, Sebastian|age={{birth date and age2|df=y|2021|6|11|1985|6|6}}|caps=129|goals=10|club=[[AIK Fotboll|AIK]]|clubnat=SWE}}
+{{nat fs g player|no=8|pos=MF|name=[[Albin Ekdal]]|sortname=Ekdal, Albin|age={{birth date and age2|df=y|2021|6|11|1989|7|28}}|caps=57|goals=0|club=[[U.C. Sampdoria|Sampdoria]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Marcus Berg]]|sortname=Berg, Marcus|age={{birth date and age2|df=y|2021|6|11|1986|8|17}}|caps=86|goals=24|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=10|pos=MF|name=[[Emil Forsberg]]|sortname=Forsberg, Emil|age={{birth date and age2|df=y|2021|6|11|1991|10|23}}|caps=58|goals=9|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Alexander Isak]]|sortname=Isak, Alexander|age={{birth date and age2|df=y|2021|6|11|1999|9|21}}|caps=22|goals=6|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Karl-Johan Johnsson]]|sortname=Johnsson, Karl-Johan|age={{birth date and age2|df=y|2021|6|11|1990|1|28}}|caps=9|goals=0|club=[[F.C. Copenhagen|Copenhagen]]|clubnat=DEN}}
+{{nat fs g player|no=13|pos=MF|name=[[Gustav Svensson]]|sortname=Svensson, Gustav|age={{birth date and age2|df=y|2021|6|11|1987|2|7}}|caps=31|goals=0|club=[[Guangzhou City F.C.|Guangzhou City]]|clubnat=CHN}}
+{{nat fs g player|no=14|pos=DF|name=[[Filip Helander]]|sortname=Helander, Filip|age={{birth date and age2|df=y|2021|6|11|1993|4|22}}|caps=15|goals=0|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=15|pos=MF|name=[[Ken Sema]]|sortname=Sema, Ken|age={{birth date and age2|df=y|2021|6|11|1993|9|30}}|caps=12|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=DF|name=[[Emil Krafth]]|sortname=Krafth, Emil|age={{birth date and age2|df=y|2021|6|11|1994|8|2}}|caps=28|goals=0|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=MF|name=[[Viktor Claesson]]|sortname=Claesson, Viktor|age={{birth date and age2|df=y|2021|6|11|1992|1|2}}|caps=46|goals=9|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=18|pos=DF|name=[[Pontus Jansson]]|sortname=Jansson, Pontus|age={{birth date and age2|df=y|2021|6|11|1991|2|13}}|caps=27|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Mattias Svanberg]]|sortname=Svanberg, Mattias|age={{birth date and age2|df=y|2021|6|11|1999|1|5}}|caps=9|goals=1|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=20|pos=MF|name=[[Kristoffer Olsson]]|sortname=Olsson, Kristoffer|age={{birth date and age2|df=y|2021|6|11|1995|6|30}}|caps=25|goals=0|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=21|pos=MF|name=[[Dejan Kulusevski]]|sortname=Kulusevski, Dejan|age={{birth date and age2|df=y|2021|6|11|2000|4|25}}|caps=13|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=MF|name=[[Robin Quaison]]|sortname=Quaison, Robin|age={{birth date and age2|df=y|2021|6|11|1993|10|9}}|caps=26|goals=9|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=GK|name=[[Kristoffer Nordfeldt]]|sortname=Nordfeldt, Kristoffer|age={{birth date and age2|df=y|2021|6|11|1989|6|23}}|caps=14|goals=0|club=[[Gençlerbirliği S.K.|Gençlerbirliği]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=DF|name=[[Marcus Danielson]]|sortname=Danielson, Marcus|age={{birth date and age2|df=y|2021|6|11|1989|4|8}}|caps=9|goals=3|club=[[Dalian Professional F.C.|Dalian Professional]]|clubnat=CHN}}
+{{nat fs g player|no=25|pos=FW|name=[[Jordan Larsson]]|sortname=Larsson, Jordan|age={{birth date and age2|df=y|2021|6|11|1997|6|20}}|caps=6|goals=1|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=26|pos=MF|name=[[Jens Cajuste]]|sortname=Cajuste, Jens|age={{birth date and age2|df=y|2021|6|11|1999|8|10}}|caps=4|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs end}}
+
+==Group F==
+===France===
+Manager: [[Didier Deschamps]]
+
+[[France national football team|France]] announced their final squad on 18 May 2021.<ref>{{cite news |last=Orsini |first=Vincent |url=https://www.fff.fr/article/2859-la-liste-des-vingt-six-pour-l-uefa-euro-2020.html |title=La liste des vingt-six pour l'UEFA Euro 2020 |trans-title=The list of 26 for UEFA Euro 2020 |work=[[French Football Federation]] |date=18 May 2021 |access-date=18 May 2021 |language=fr}}</ref><ref>{{cite web |url=https://media.fff.fr/uploads/files/a6cb5afe2e3725239d5e57cc17459e3c.pdf |title=Euro 2020 – La liste des 26 |trans-title=Euro 2020 – The list of 26 |work=[[French Football Federation]] |date=18 May 2021 |access-date=18 May 2021 |language=fr |archive-url=https://web.archive.org/web/20210518183446/https://media.fff.fr/uploads/files/a6cb5afe2e3725239d5e57cc17459e3c.pdf |archive-date=18 May 2021 |url-status=live}}</ref><ref>{{cite tweet |author=French Football Federation |author-link=French Football Federation |user=equipedefrance |number=1395757867995734016 |date=21 May 2021 |title=26 joueurs, 26 maillots, 26 numéros, 1 équipe |trans-title=26 players, 26 jerseys, 26 numbers, 1 team |language=fr |access-date=21 May 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hugo Lloris]]|sortname=Lloris, Hugo|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1986|12|26}}|caps=125|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Benjamin Pavard]]|sortname=Pavard, Benjamin|age={{birth date and age2|df=y|2021|6|11|1996|3|28}}|caps=35|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=3|pos=DF|name=[[Presnel Kimpembe]]|sortname=Kimpembe, Presnel|age={{birth date and age2|df=y|2021|6|11|1995|8|13}}|caps=17|goals=0|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Raphaël Varane]]|sortname=Varane, Raphael|age={{birth date and age2|df=y|2021|6|11|1993|4|25}}|caps=75|goals=5|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=DF|name=[[Clément Lenglet]]|sortname=Lenglet, Clement|age={{birth date and age2|df=y|2021|6|11|1995|6|17}}|caps=12|goals=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=6|pos=MF|name=[[Paul Pogba]]|sortname=Pogba, Paul|age={{birth date and age2|df=y|2021|6|11|1993|3|15}}|caps=80|goals=10|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=FW|name=[[Antoine Griezmann]]|sortname=Griezmann, Antoine|age={{birth date and age2|df=y|2021|6|11|1991|3|21}}|caps=91|goals=37|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Thomas Lemar]]|sortname=Lemar, Thomas|age={{birth date and age2|df=y|2021|6|11|1995|11|12}}|caps=25|goals=4|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Olivier Giroud]]|sortname=Giroud, Olivier|age={{birth date and age2|df=y|2021|6|11|1986|9|30}}|caps=108|goals=46|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Kylian Mbappé]]|sortname=Mbappe, Kylian|age={{birth date and age2|df=y|2021|6|11|1998|12|20}}|caps=44|goals=17|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Ousmane Dembélé]]|sortname=Dembele, Ousmane|age={{birth date and age2|df=y|2021|6|11|1997|5|15}}|caps=25|goals=4|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=MF|name=[[Corentin Tolisso]]|sortname=Tolisso, Corentin|age={{birth date and age2|df=y|2021|6|11|1994|8|3}}|caps=25|goals=2|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=13|pos=MF|name=[[N'Golo Kanté]]|sortname=Kante, Ngolo|age={{birth date and age2|df=y|2021|6|11|1991|3|29}}|caps=46|goals=2|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Adrien Rabiot]]|sortname=Rabiot, Adrien|age={{birth date and age2|df=y|2021|6|11|1995|4|3}}|caps=15|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Kurt Zouma]]|sortname=Zouma, Kurt|age={{birth date and age2|df=y|2021|6|11|1994|10|27}}|caps=8|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=GK|name=[[Steve Mandanda]]|sortname=Mandanda, Steve|age={{birth date and age2|df=y|2021|6|11|1985|3|28}}|caps=34|goals=0|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Moussa Sissoko]]|sortname=Sissoko, Moussa|age={{birth date and age2|df=y|2021|6|11|1989|8|16}}|caps=69|goals=2|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=DF|name=[[Lucas Digne]]|sortname=Digne, Lucas|age={{birth date and age2|df=y|2021|6|11|1993|7|20}}|caps=38|goals=0|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Karim Benzema]]|sortname=Benzema, Karim|age={{birth date and age2|df=y|2021|6|11|1987|12|19}}|caps=83|goals=27|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=20|pos=MF|name=[[Kingsley Coman]]|sortname=Coman, Kingsley|age={{birth date and age2|df=y|2021|6|11|1996|6|13}}|caps=30|goals=5|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=DF|name=[[Lucas Hernandez]]|sortname=Hernandez, Lucas|age={{birth date and age2|df=y|2021|6|11|1996|2|14}}|caps=26|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=22|pos=FW|name=[[Wissam Ben Yedder]]|sortname=Ben Yedder, Wissam|age={{birth date and age2|df=y|2021|6|11|1990|8|12}}|caps=14|goals=2|club=[[AS Monaco FC|Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Mike Maignan]]|sortname=Maignan, Mike|age={{birth date and age2|df=y|2021|6|11|1995|7|3}}|caps=1|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Léo Dubois]]|sortname=Dubois, Leo|age={{birth date and age2|df=y|2021|6|11|1994|9|14}}|caps=7|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jules Koundé]]|sortname=Kounde, Jules|age={{birth date and age2|df=y|2021|6|11|1998|11|12}}|caps=1|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=26|pos=FW|name=[[Marcus Thuram]]|sortname=Thuram, Marcus|age={{birth date and age2|df=y|2021|6|11|1997|8|6}}|caps=3|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs end}}
+
+===Germany===
+Manager: [[Joachim Löw]]
+
+[[Germany national football team|Germany]] announced their final squad on 19 May 2021.<ref>{{cite web |url=https://www.dfb.de/die-mannschaft/team/ |title=Der Kader für die Europameisterschaft vom 11. Juni bis 11. Juli 2021 |trans-title=The squad for the European Championship from 11 June to 11 July 2021 |work=[[German Football Association]] |date=19 May 2021 |access-date=19 May 2021 |language=de}}</ref><ref>{{cite tweet |author=German Football Association |author-link=German Football Association |user=DFB_Team |number=1396740764089061377 |date=24 May 2021 |title=26 für Deutschland |trans-title=26 for Germany |language=de |access-date=24 May 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Manuel Neuer]]|sortname=Neuer, Manuel|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1986|3|27}}|caps=100|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Antonio Rüdiger]]|sortname=Rudiger, Antonio|age={{birth date and age2|df=y|2021|6|11|1993|3|3}}|caps=41|goals=1|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Marcel Halstenberg]]|sortname=Halstenberg, Marcel|age={{birth date and age2|df=y|2021|6|11|1991|9|27}}|caps=8|goals=1|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Matthias Ginter]]|sortname=Ginter, Matthias|age={{birth date and age2|df=y|2021|6|11|1994|1|19}}|caps=40|goals=2|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=5|pos=DF|name=[[Mats Hummels]]|sortname=Hummels, Mats|age={{birth date and age2|df=y|2021|6|11|1988|12|16}}|caps=72|goals=5|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=MF|name=[[Joshua Kimmich]]|sortname=Kimmich, Joshua|age={{birth date and age2|df=y|2021|6|11|1995|2|8}}|caps=55|goals=3|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=FW|name=[[Kai Havertz]]|sortname=Havertz, Kai|age={{birth date and age2|df=y|2021|6|11|1999|6|11}}|caps=14|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Toni Kroos]]|sortname=Kroos, Toni|age={{birth date and age2|df=y|2021|6|11|1990|1|4}}|caps=102|goals=17|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Kevin Volland]]|sortname=Volland, Kevin|age={{birth date and age2|df=y|2021|6|11|1992|7|30}}|caps=11|goals=1|club=[[AS Monaco FC|Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=10|pos=MF|name=[[Serge Gnabry]]|sortname=Gnabry, Serge|age={{birth date and age2|df=y|2021|6|11|1995|7|14}}|caps=22|goals=16|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Timo Werner]]|sortname=Werner, Timo|age={{birth date and age2|df=y|2021|6|11|1996|3|6}}|caps=39|goals=16|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Bernd Leno]]|sortname=Leno, Bernd|age={{birth date and age2|df=y|2021|6|11|1992|3|4}}|caps=8|goals=0|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=MF|name=[[Jonas Hofmann]]|sortname=Hofmann, Jonas|age={{birth date and age2|df=y|2021|6|11|1992|7|14}}|caps=3|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=14|pos=MF|name=[[Jamal Musiala]]|sortname=Musiala, Jamal|age={{birth date and age2|df=y|2021|6|11|2003|2|26}}|caps=3|goals=0|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=DF|name=[[Niklas Süle]]|sortname=Sule, Niklas|age={{birth date and age2|df=y|2021|6|11|1995|9|3}}|caps=31|goals=1|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=DF|name=[[Lukas Klostermann]]|sortname=Klostermann, Lukas|age={{birth date and age2|df=y|2021|6|11|1996|6|3}}|caps=13|goals=0|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=17|pos=MF|name=[[Florian Neuhaus]]|sortname=Neuhaus, Florian|age={{birth date and age2|df=y|2021|6|11|1997|3|16}}|caps=6|goals=2|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=18|pos=MF|name=[[Leon Goretzka]]|sortname=Goretzka, Leon|age={{birth date and age2|df=y|2021|6|11|1995|2|6}}|caps=32|goals=13|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=19|pos=MF|name=[[Leroy Sané]]|sortname=Sane, Leroy|age={{birth date and age2|df=y|2021|6|11|1996|1|11}}|caps=30|goals=7|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=DF|name=[[Robin Gosens]]|sortname=Gosens, Robin|age={{birth date and age2|df=y|2021|6|11|1994|7|5}}|caps=7|goals=1|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=MF|name=[[İlkay Gündoğan]]|sortname=Gundogan, Ilkay|age={{birth date and age2|df=y|2021|6|11|1990|10|24}}|caps=46|goals=11|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=GK|name=[[Kevin Trapp]]|sortname=Trapp, Kevin|age={{birth date and age2|df=y|2021|6|11|1990|7|8}}|caps=5|goals=0|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=DF|name=[[Emre Can]]|sortname=Can, Emre|age={{birth date and age2|df=y|2021|6|11|1994|1|12}}|caps=34|goals=1|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=24|pos=DF|name=[[Robin Koch]]|sortname=Koch, Robin|age={{birth date and age2|df=y|2021|6|11|1996|7|17}}|caps=8|goals=0|club=[[Leeds United F.C.|Leeds United]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=FW|name=[[Thomas Müller]]|sortname=Muller, Thomas|age={{birth date and age2|df=y|2021|6|11|1989|9|13}}|caps=102|goals=39|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=26|pos=DF|name=[[Christian Günter]]|sortname=Gunter, Christian|age={{birth date and age2|df=y|2021|6|11|1993|2|28}}|caps=3|goals=0|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs end}}
+
+===Hungary===
+Manager: {{flagicon|ITA}} [[Marco Rossi (footballer, born 1964)|Marco Rossi]]
+
+[[Hungary national football team|Hungary]] announced a 30-man preliminary squad on 6 May 2021.<ref>{{cite news |url=https://en.mlsz.hu/hir/prolific-hahn-joins-euro-qualifying-heroes-in-rossis-latest-squad |title=Prolific Hahn joins Euro qualifying heroes in Rossi's latest squad |work=[[Hungarian Football Federation]] |date=6 May 2021 |access-date=6 May 2021}}</ref> The squad was reduced to 29 players on 23 May as [[Szilveszter Hangya]] withdrew injured.<ref>{{cite tweet |author=Hungarian Football Federation |author-link=Hungarian Football Federation |user=MLSZhivatalos |number=1396405311481724933 |date=23 May 2021 |title=Hangya Szilveszter bokasérülés miatt nem lehet ott az Európa-bajnokságon. A MOL Fehérvár FC játékosa már elhagyta a válogatott keretét, helyére nem hív be más játékost Marco Rossi szövetségi kapitány. |trans-title=Szilveszter Hangya will not be at the European Championship due to an ankle injury. The MOL Fehérvár FC player has left the national team training camp, he will not replaced by the national coach Marco Rossi. |language=hu |access-date=24 May 2021}}</ref> [[Dominik Szoboszlai]] withdrew injured on 1 June, with the final squad announced later that day.<ref>{{cite news |url=https://en.mlsz.hu/hir/rossi-announces-26-man-squad-for-european-championship |title=Rossi announces 26-man squad for European Championship |work=[[Hungarian Football Federation]] |date=1 June 2021 |access-date=1 June 2021}}</ref> [[Dániel Gazdag]] left the squad on 16 June due to injury.<ref>{{cite tweet |author=Hungarian Football Federation |author-link=Hungarian Football Federation |user=MLSZhivatalos |number=1405107053635555332 |date=16 June 2021 |title=Gazdag Dániel sérülése sajnos a játékos és az egészségügyi stáb erőfeszítései ellenére sem jött rendbe, így a Philadelphia Union labdarúgója távozott a férfi A-válogatott keretéből és visszatér klubjához. Mihamarabbi gyógyulást kívánunk! |trans-title=Despite the efforts of the player and the medical staff, Dániel Gazdag has unfortunately not recovered from his injury and the Philadelphia Union footballer has left the national team and will return to his club. We wish him a speedy recovery! |language=hu |access-date=16 June 2021}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Péter Gulácsi]]|sortname=Gulacsi, Peter|age={{birth date and age2|df=y|2021|6|11|1990|5|6}}|caps=39|goals=0|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=2|pos=DF|name=[[Ádám Lang]]|sortname=Lang, Adam|age={{birth date and age2|df=y|2021|6|11|1993|1|17}}|caps=39|goals=1|club=[[AC Omonia|Omonia]]|clubnat=CYP}}
+{{nat fs g player|no=3|pos=DF|name=[[Ákos Kecskés]]|sortname=Kecskes, Akos|age={{birth date and age2|df=y|2021|6|11|1996|1|4}}|caps=2|goals=0|club=[[FC Lugano|Lugano]]|clubnat=SUI}}
+{{nat fs g player|no=4|pos=DF|name=[[Attila Szalai]]|sortname=Szalai, Attila|age={{birth date and age2|df=y|2021|6|11|1998|1|20}}|caps=13|goals=0|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=5|pos=DF|name=[[Attila Fiola]]|sortname=Fiola, Attila|age={{birth date and age2|df=y|2021|6|11|1990|2|17}}|caps=35|goals=1|club=[[Fehérvár FC|Fehérvár]]|clubnat=HUN}}
+{{nat fs g player|no=6|pos=DF|name=[[Willi Orbán]]|sortname=Orban, Willi|age={{birth date and age2|df=y|2021|6|11|1992|11|3}}|caps=22|goals=5|club=[[RB Leipzig]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=DF|name=[[Loïc Négo]]|sortname=Nego, Loic|age={{birth date and age2|df=y|2021|6|11|1991|1|15}}|caps=11|goals=2|club=[[Fehérvár FC|Fehérvár]]|clubnat=HUN}}
+{{nat fs g player|no=8|pos=MF|name=[[Ádám Nagy]]|sortname=Nagy, Adam|age={{birth date and age2|df=y|2021|6|11|1995|6|17}}|caps=48|goals=1|club=[[Bristol City F.C.|Bristol City]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Ádám Szalai]]|sortname=Szalai, Adam|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1987|12|9}}|caps=71|goals=23|club=[[1. FSV Mainz 05|Mainz 05]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Tamás Cseri]]|sortname=Cseri, Tamas|age={{birth date and age2|df=y|2021|6|11|1988|1|15}}|caps=3|goals=0|club=[[Mezőkövesdi SE|Mezőkövesd]]|clubnat=HUN}}
+{{nat fs g player|no=11|pos=FW|name=[[Filip Holender]]|sortname=Holender, Filip|age={{birth date and age2|df=y|2021|6|11|1994|7|27}}|caps=15|goals=1|club=[[FK Partizan|Partizan]]|clubnat=SRB}}
+{{nat fs g player|no=12|pos=GK|name=[[Dénes Dibusz]]|sortname=Dibusz, Denes|age={{birth date and age2|df=y|2021|6|11|1990|11|16}}|caps=15|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=13|pos=MF|name=[[András Schäfer]]|sortname=Schafer, Andras|age={{birth date and age2|df=y|2021|6|11|1999|4|13}}|caps=6|goals=1|club=[[FC DAC 1904 Dunajská Streda|Dunajská Streda]]|clubnat=SVK}}
+{{nat fs g player|no=14|pos=DF|name=[[Gergő Lovrencsics]]|sortname=Lovrencsics, Gergo|age={{birth date and age2|df=y|2021|6|11|1988|9|1}}|caps=41|goals=1|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=15|pos=MF|name=[[László Kleinheisler]]|sortname=Kleinheisler, Laszlo|age={{birth date and age2|df=y|2021|6|11|1994|4|8}}|caps=34|goals=3|club=[[NK Osijek|Osijek]]|clubnat=CRO}}
+{{nat fs g player|no=16|pos=MF|name=[[Dániel Gazdag]]|sortname=Gazdag, Daniel|age={{birth date and age2|df=y|2021|6|11|1996|3|2}}|caps=6|goals=1|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name=[[Roland Varga]]|sortname=Varga, Roland|age={{birth date and age2|df=y|2021|6|11|1990|1|23}}|caps=22|goals=3|club=[[MTK Budapest FC|MTK Budapest]]|clubnat=HUN}}
+{{nat fs g player|no=18|pos=MF|name=[[Dávid Sigér]]|sortname=Siger, David|age={{birth date and age2|df=y|2021|6|11|1990|11|30}}|caps=13|goals=1|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=19|pos=MF|name=[[Kevin Varga]]|sortname=Varga, Kevin|age={{birth date and age2|df=y|2021|6|11|1996|3|30}}|caps=8|goals=1|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=20|pos=FW|name=[[Roland Sallai]]|sortname=Sallai, Roland|age={{birth date and age2|df=y|2021|6|11|1997|5|22}}|caps=22|goals=4|club=[[SC Freiburg]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=DF|name=[[Endre Botka]]|sortname=Botka, Endre|age={{birth date and age2|df=y|2021|6|11|1994|8|25}}|caps=10|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=22|pos=GK|name=[[Ádám Bogdán]]|sortname=Bogdan, Adam|age={{birth date and age2|df=y|2021|6|11|1987|9|27}}|caps=21|goals=0|club=[[Ferencvárosi TC|Ferencváros]]|clubnat=HUN}}
+{{nat fs g player|no=23|pos=FW|name=[[Nemanja Nikolić (footballer, born 1987)|Nemanja Nikolić]]|sortname=Nikolic, Nemanja|age={{birth date and age2|df=y|2021|6|11|1987|12|31}}|caps=38|goals=8|club=[[Fehérvár FC|Fehérvár]]|clubnat=HUN}}
+{{nat fs g player|no=24|pos=FW|name=[[Szabolcs Schön]]|sortname=Schon, Szabolcs|age={{birth date and age2|df=y|2021|6|11|2000|9|27}}|caps=1|goals=0|club=[[FC Dallas]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=FW|name=[[János Hahn]]|sortname=Hahn, Janos|age={{birth date and age2|df=y|2021|6|11|1995|3|15}}|caps=2|goals=0|club=[[Paksi FC|Paks]]|clubnat=HUN}}
+{{nat fs g player|no=26|pos=DF|name=[[Bendegúz Bolla]]|sortname=Bolla, Bendeguz|age={{birth date and age2|df=y|2021|6|11|1999|11|22}}|caps=2|goals=0|club=[[Fehérvár FC|Fehérvár]]|clubnat=HUN}}
+{{nat fs end}}
+
+===Portugal===
+Manager: [[Fernando Santos (footballer, born 1954)|Fernando Santos]]
+
+[[Portugal national football team|Portugal]] announced their final squad on 20 May 2021.<ref>{{cite news |url=https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/29632 |title=EURO 2020: os 26 de Portugal |trans-title=Euro 2020: Portugal's 26 |work=[[Portuguese Football Federation]] |date=20 May 2021 |access-date=20 May 2021 |language=pt}}</ref> [[João Cancelo]] withdrew after testing positive for SARS-CoV-2 and was replaced by [[Diogo Dalot]] on 13 June.<ref>{{cite news |url=https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/29960 |title=Diogo Dalot substitui João Cancelo |trans-title=Diogo Dalot replaces João Cancelo |work=[[Portuguese Football Federation]] |date=13 June 2021 |access-date=13 June 2021 |language=pt}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Rui Patrício]]|sortname=Patricio, Rui|age={{birth date and age2|df=y|2021|6|11|1988|2|15}}|caps=93|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Nélson Semedo]]|sortname=Semedo, Nelson|age={{birth date and age2|df=y|2021|6|11|1993|11|16}}|caps=18|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=3|pos=DF|name=[[Pepe (footballer, born 1983)|Pepe]]|sortname=Pepe|age={{birth date and age2|df=y|2021|6|11|1983|2|26}}|caps=115|goals=7|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=4|pos=DF|name=[[Rúben Dias]]|sortname=Dias, Ruben|age={{birth date and age2|df=y|2021|6|11|1997|5|14}}|caps=28|goals=2|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Raphaël Guerreiro]]|sortname=Guerreiro, Raphael|age={{birth date and age2|df=y|2021|6|11|1993|12|22}}|caps=46|goals=2|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=6|pos=DF|name=[[José Fonte]]|sortname=Fonte, Jose|age={{birth date and age2|df=y|2021|6|11|1983|12|22}}|caps=46|goals=0|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=FW|name=[[Cristiano Ronaldo]]|sortname=Ronaldo, Cristiano|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|11|1985|2|5}}|caps=175|goals=104|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[João Moutinho]]|sortname=Moutinho, Joao|age={{birth date and age2|df=y|2021|6|11|1986|9|8}}|caps=131|goals=7|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[André Silva (footballer, born 1995)|André Silva]]|sortname=Silva, Andre|age={{birth date and age2|df=y|2021|6|11|1995|11|6}}|caps=39|goals=16|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=10|pos=MF|name=[[Bernardo Silva]]|sortname=Silva, Bernardo|age={{birth date and age2|df=y|2021|6|11|1994|8|10}}|caps=55|goals=7|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Bruno Fernandes]]|sortname=Fernandes, Bruno|age={{birth date and age2|df=y|2021|6|11|1994|9|8}}|caps=29|goals=4|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=12|pos=GK|name=[[Anthony Lopes]]|sortname=Lopes, Anthony|age={{birth date and age2|df=y|2021|6|11|1990|10|1}}|caps=13|goals=0|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=13|pos=MF|name=[[Danilo Pereira]]|sortname=Pereira, Danilo|age={{birth date and age2|df=y|2021|6|11|1991|9|9}}|caps=47|goals=2|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=14|pos=MF|name=[[William Carvalho]]|sortname=Carvalho, William|age={{birth date and age2|df=y|2021|6|11|1992|4|7}}|caps=66|goals=4|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=FW|name=[[Rafa Silva]]|sortname=Silva, Rafa|age={{birth date and age2|df=y|2021|6|11|1993|5|17}}|caps=21|goals=0|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=16|pos=MF|name=[[Renato Sanches]]|sortname=Sanches, Renato|age={{birth date and age2|df=y|2021|6|11|1997|8|18}}|caps=26|goals=2|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=17|pos=MF|name=[[Gonçalo Guedes]]|sortname=Guedes, Goncalo|age={{birth date and age2|df=y|2021|6|11|1996|11|29}}|caps=23|goals=6|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=MF|name=[[Rúben Neves]]|sortname=Neves, Ruben|age={{birth date and age2|df=y|2021|6|11|1997|3|13}}|caps=21|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Pedro Gonçalves]]|sortname=Goncalves, Pedro|age={{birth date and age2|df=y|2021|6|11|1998|6|28}}|caps=2|goals=0|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=DF|name=[[Diogo Dalot]]|sortname=Dalot, Diogo|age={{birth date and age2|df=y|2021|6|11|1999|3|18}}|caps=0|goals=0|club=[[A.C. Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=21|pos=FW|name=[[Diogo Jota]]|sortname=Jota, Diogo|age={{birth date and age2|df=y|2021|6|11|1996|12|4}}|caps=14|goals=6|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=GK|name=[[Rui Silva (footballer, born 1994)|Rui Silva]]|sortname=Silva, Rui|age={{birth date and age2|df=y|2021|6|11|1994|2|7}}|caps=1|goals=0|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs g player|no=23|pos=FW|name=[[João Félix]]|sortname=Felix, Joao|age={{birth date and age2|df=y|2021|6|11|1999|11|10}}|caps=17|goals=3|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=MF|name=[[Sérgio Oliveira]]|sortname=Oliveira, Sergio|age={{birth date and age2|df=y|2021|6|11|1992|6|2}}|caps=11|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=25|pos=DF|name=[[Nuno Mendes (footballer, born 2002)|Nuno Mendes]]|sortname=Mendes, Nuno|age={{birth date and age2|df=y|2021|6|11|2002|6|19}}|caps=5|goals=0|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=26|pos=MF|name=[[João Palhinha]]|sortname=Palhinha, Joao|age={{birth date and age2|df=y|2021|6|11|1995|7|9}}|caps=4|goals=1|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs end}}
