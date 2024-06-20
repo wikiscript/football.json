@@ -1,0 +1,365 @@
+<!-- 
+     source:   en.wikipedia.org/wiki/2021_Copa_América_squads
+     added:  Jun/20 2024
+  -->
+
+The age listed for each player is as of 13 June 2021, the first day of the tournament. The numbers of caps and goals listed for each player do not include any matches played after the start of the tournament. A flag is included for coaches who are of a different nationality than their own national team.
+
+==Group A==
+===Argentina===
+Head coach: [[Lionel Scaloni]]
+
+[[Argentina national football team|Argentina]] announced their final squad of 28 players on 11 June 2021.<ref>{{cite news|url=https://www.afa.com.ar/es/posts/lista-de-convocados-por-el-entrenador-lionel-scaloni-para-disputar-la-copaamerica-2021|title=Lista de convocados por el entrenador Lionel Scaloni para disputar la Copa América 2021|publisher=[[Argentine Football Association]]|date=11 June 2021|access-date=11 June 2021|language=es}}</ref> A provisional list was not revealed.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Franco Armani]]|age={{birth date and age2|df=y|2021|6|13|1986|10|16}}|caps=15|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=2|pos=DF|name=[[Lucas Martínez Quarta]]|age={{birth date and age2|df=y|2021|6|13|1996|5|10}}|caps=6|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Nicolás Tagliafico]]|age={{birth date and age2|df=y|2021|6|13|1992|8|31}}|caps=29|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=4|pos=DF|name=[[Gonzalo Montiel]]|age={{birth date and age2|df=y|2021|6|13|1997|1|1}}|caps=7|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=5|pos=MF|name=[[Leandro Paredes]]|age={{birth date and age2|df=y|2021|6|13|1994|6|29}}|caps=30|goals=4|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Germán Pezzella]]|age={{birth date and age2|df=y|2021|6|13|1991|6|27}}|caps=17|goals=2|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=MF|name=[[Rodrigo De Paul]]|age={{birth date and age2|df=y|2021|6|13|1994|5|24}}|caps=23|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=DF|name=[[Marcos Acuña]]|age={{birth date and age2|df=y|2021|6|13|1991|10|28}}|caps=29|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Sergio Agüero]]|age={{birth date and age2|df=y|2021|6|13|1988|6|2}}|caps=97|goals=41|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Lionel Messi]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|13|1987|6|24}}|caps=144|goals=72|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=MF|name=[[Ángel Di María]]|age={{birth date and age2|df=y|2021|6|13|1988|2|14}}|caps=105|goals=20|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Agustín Marchesín]]|age={{birth date and age2|df=y|2021|6|13|1988|3|16}}|caps=8|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=13|pos=DF|name=[[Cristian Romero (footballer, born 1998)|Cristian Romero]]|age={{birth date and age2|df=y|2021|6|13|1998|4|27}}|caps=2|goals=1|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name=[[Exequiel Palacios]]|age={{birth date and age2|df=y|2021|6|13|1998|10|5}}|caps=8|goals=0|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=15|pos=FW|name=[[Nicolás González (footballer, born 1998)|Nicolás González]]|age={{birth date and age2|df=y|2021|6|13|1998|4|6}}|caps=6|goals=2|club=[[VfB Stuttgart]]|clubnat=GER}}
+{{nat fs g player|no=16|pos=FW|name=[[Joaquín Correa]]|age={{birth date and age2|df=y|2021|6|13|1994|8|13}}|caps=5|goals=2|club=[[S.S. Lazio|Lazio]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=MF|name=[[Nicolás Domínguez]]|age={{birth date and age2|df=y|2021|6|13|1998|6|28}}|caps=8|goals=1|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=MF|name=[[Guido Rodríguez]]|age={{birth date and age2|df=y|2021|6|13|1994|4|12}}|caps=10|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=DF|name=[[Nicolás Otamendi]]|age={{birth date and age2|df=y|2021|6|13|1988|2|12}}|caps=75|goals=4|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=MF|name=[[Giovani Lo Celso]]|age={{birth date and age2|df=y|2021|6|13|1996|4|9}}|caps=24|goals=2|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=FW|name=[[Ángel Correa]]|age={{birth date and age2|df=y|2021|6|13|1995|3|9}}|caps=13|goals=2|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=FW|name=[[Lautaro Martínez]]|age={{birth date and age2|df=y|2021|6|13|1997|8|22}}|caps=23|goals=11|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Emiliano Martínez]]|age={{birth date and age2|df=y|2021|6|13|1992|9|2}}|caps=2|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Papu Gómez|Alejandro "Papu" Gómez]]|age={{birth date and age2|df=y|2021|6|13|1988|2|15}}|caps=5|goals=1|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=25|pos=DF|name=[[Lisandro Martínez]]|age={{birth date and age2|df=y|2021|6|13|1998|1|18}}|caps=2|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=26|pos=DF|name=[[Nahuel Molina]]|age={{birth date and age2|df=y|2021|6|13|1998|4|6}}|caps=1|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs g player|no=27|pos=FW|name=[[Julián Álvarez]]|age={{birth date and age2|df=y|2021|6|13|2000|1|31}}|caps=1|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=28|pos=GK|name=[[Juan Musso]]|age={{birth date and age2|df=y|2021|6|13|1994|5|6}}|caps=1|goals=0|club=[[Udinese Calcio|Udinese]]|clubnat=ITA}}
+{{nat fs end}}
+
+===Bolivia===
+Head coach: {{flagicon|VEN}} [[César Farías]]
+
+[[Bolivia national football team|Bolivia]] announced their final squad of 27 players on 10 June 2021.<ref>{{cite news|url=https://www.facebook.com/LaVerdeOficial/posts/4218671351486825|title=Siguiente desafío, Conmebol #CopaAmérica 2021|publisher=[[Bolivian Football Federation]] Facebook|date=10 June 2021|access-date=10 June 2021|language=es}}</ref> A provisional list was not revealed.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Carlos Lampe]]|age={{Birth date and age2|2021|6|13|1987|3|17|df=y}}|caps=36|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=2|pos=DF|name=[[Jairo Quinteros]]|age={{Birth date and age2|2021|6|13|2001|2|7|df=y}}|caps=1|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=3|pos=DF|name=[[José Sagredo]]|age={{birth date and age2|2021|6|13|1994|3|10|df=y}}|caps=25|goals=0|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=4|pos=DF|name=[[Luis Haquin]]|age={{Birth date and age2|2021|6|13|1997|11|15|df=y}}|caps=18|goals=1|club=[[Deportes Melipilla|Melipilla]]|clubnat=CHL}}
+{{nat fs g player|no=5|pos=DF|name=[[Adrián Jusino]]|age={{Birth date and age2|2021|6|13|1992|7|9|df=y}}|caps=13|goals=0|club=[[Athlitiki Enosi Larissa F.C.|AEL]]|clubnat=GRE}}
+{{nat fs g player|no=6|pos=MF|name=[[Leonel Justiniano]]|age={{Birth date and age2|2021|6|13|1992|7|2|df=y}}|caps=30|goals=1|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=7|pos=MF|name=[[Juan Carlos Arce]]|age={{Birth date and age2|2021|6|13|1985|4|10|df=y}}|caps=76|goals=12|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=8|pos=DF|name=[[Diego Bejarano]]|age={{Birth date and age2|2021|6|13|1991|8|24|df=y}}|caps=30|goals=3|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=9|pos=FW|name=[[Marcelo Martins Moreno|Marcelo Moreno]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2021|6|13|1987|6|18|df=y}}|caps=83|goals=25|club=[[Cruzeiro Esporte Clube|Cruzeiro]]|clubnat=BRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Henry Vaca]]|age={{birth date and age2|2021|6|13|1998|1|27|df=y}}|caps=9|goals=0|club=[[Oriente Petrolero]]|clubnat=BOL}}
+{{nat fs g player|no=11|pos=FW|name=[[Rodrigo Ramallo]]|age={{Birth date and age2|2021|6|13|1990|10|14|df=y}}|caps=20|goals=3|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=12|pos=GK|name=[[Rubén Cordano]]|age={{Birth date and age2|2021|6|13|1998|10|16|df=y}}|caps=1|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=13|pos=MF|name=[[Diego Wayar]]|age={{Birth date and age2|2021|6|13|1993|10|15|df=y}}|caps=22|goals=0|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=14|pos=MF|name=[[Moisés Villarroel (Bolivian footballer)|Moisés Villarroel]]|age={{birth date and age2|2021|6|13|1998|9|7|df=y}}|caps=2|goals=0|club=[[C.D. Jorge Wilstermann|Jorge Wilstermann]]|clubnat=BOL}}
+{{nat fs g player|no=15|pos=MF|name=[[Boris Céspedes]]|age={{Birth date and age2|2021|6|13|1995|6|19|df=y}}|caps=4|goals=1|club=[[Servette FC|Servette]]|clubnat=SWI}}
+{{nat fs g player|no=16|pos=MF|name=[[Erwin Saavedra]]|age={{Birth date and age2|2021|6|13|1996|2|22|df=y}}|caps=25|goals=2|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=17|pos=MF|name=[[Roberto Fernández (Bolivian footballer)|Roberto Fernández]]|age={{birth date and age2|2021|6|13|1999|7|12|df=y}}|caps=7|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=18|pos=FW|name=[[Gilbert Álvarez]]|age={{Birth date and age2|2021|6|13|1992|7|4|df=y}}|caps=28|goals=5|club=[[C.D. Jorge Wilstermann|Jorge Wilstermann]]|clubnat=BOL}}
+{{nat fs g player|no=19|pos=DF|name=[[Enrique Flores]]|age={{Birth date and age2|2021|6|13|1994|2|1|df=y}}|caps=13|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=20|pos=MF|name=[[Ramiro Vaca]]|age={{Birth date and age2|2021|6|13|1999|7|1|df=y}}|caps=8|goals=1|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=21|pos=MF|name=[[Erwin Junior Sánchez|Erwin Sánchez]]|age={{birth date and age2|2021|6|13|1992|7|23|df=y}}|caps=5|goals=0|club=[[Club Blooming|Blooming]]|clubnat=BOL}}
+{{nat fs g player|no=22|pos=MF|name=[[Danny Bejarano]]|age={{Birth date and age2|2021|6|13|1994|1|3|df=y}}|caps=27|goals=0|club=[[PAS Lamia 1964|Lamia]]|clubnat=GRE}}
+{{nat fs g player|no=23|pos=GK|name=[[Javier Rojas (footballer)|Javier Rojas]]|age={{Birth date and age2|2021|6|13|1996|01|14|df=y}}|caps=1|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=24|pos=FW|name=[[Jaume Cuéllar]]|age={{birth date and age2|2021|6|13|2001|8|23|df=y}}|caps=0|goals=0|club=[[S.P.A.L.|SPAL]]|clubnat=ITA}}
+{{nat fs g player|no=25|pos=FW|name=[[Jeyson Chura]]|age={{Birth date and age2|2021|6|13|2002|2|3|df=y}}|caps=0|goals=0|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=26|pos=DF|name=[[Luis René Barboza]]|age={{Birth date and age2|2021|6|13|1993|4|3|df=y}}|caps=0|goals=0|club=[[Club Aurora|Aurora]]|clubnat=BOL}}
+{{nat fs g player|no=27|pos=DF|name=[[Óscar Ribera]]|age={{Birth date and age2|2021|6|13|1992|2|10|df=y}}|caps=13|goals=0|club=[[Club Blooming|Blooming]]|clubnat=BOL}}
+{{nat fs end}}
+
+===Uruguay===
+Head coach: [[Óscar Tabárez]]
+
+[[Uruguay national football team|Uruguay]] announced their final squad of 26 players on 10 June 2021.<ref>{{cite web|url=https://www.auf.org.uy/plantel-de-uruguay-para-la-copa-america/|title=Plantel de Uruguay para la Copa América|publisher=[[Uruguayan Football Association]]|date=10 June 2021|access-date=10 June 2021|language=es}}</ref><ref>{{cite web|url=https://www.auf.org.uy/numeros-de-camisetas-del-plantel-para-la-copa-america/|title=Números de camisetas del plantel para la Copa América|publisher=Uruguayan Football Association|date=10 June 2021|access-date=10 June 2021|language=es}}</ref> A provisional list was not revealed.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Fernando Muslera]]|age={{Birth date and age2|df=yes|2021|6|13|1986|6|16}}|caps=118|goals=0|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=2|pos=DF|name=[[José María Giménez|José Giménez]]|age={{Birth date and age2|df=yes|2021|6|13|1995|1|20}}|caps=62|goals=8|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Diego Godín]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|df=yes|2021|6|13|1986|2|16}}|caps=141|goals=8|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Ronald Araújo]]|age={{Birth date and age2|df=yes|2021|6|13|1999|3|7}}|caps=1|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=MF|name=[[Matías Vecino]]|age={{Birth date and age2|df=yes|2021|6|13|1991|8|24}}|caps=43|goals=3|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=MF|name=[[Rodrigo Bentancur]]|age={{Birth date and age2|df=yes|2021|6|13|1997|6|25}}|caps=34|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=MF|name=[[Nicolás de la Cruz]]|age={{Birth date and age2|df=yes|2021|6|13|1997|6|1}}|caps=5|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=8|pos=MF|name=[[Nahitan Nández]]|age={{Birth date and age2|df=yes|2021|6|13|1995|12|28}}|caps=36|goals=0|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Luis Suárez]]|age={{Birth date and age2|df=yes|2021|6|13|1987|1|24}}|caps=118|goals=63|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=10|pos=MF|name=[[Giorgian de Arrascaeta]]|age={{Birth date and age2|df=yes|2021|6|13|1994|6|1}}|caps=26|goals=3|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=DF|name=[[Camilo Cándido]]|age={{Birth date and age2|df=yes|2021|6|13|1995|6|2}}|caps=0|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs g player|no=12|pos=GK|name=[[Martín Campaña]]|age={{Birth date and age2|df=yes|2021|6|13|1989|5|29}}|caps=9|goals=0|club=[[Al Batin FC|Al-Batin]]|clubnat=KSA}}
+{{nat fs g player|no=13|pos=DF|name=[[Giovanni González]]|age={{Birth date and age2|df=yes|2021|6|13|1994|9|20}}|caps=10|goals=0|club=[[Peñarol]]|clubnat=URU}}
+{{nat fs g player|no=14|pos=MF|name=[[Lucas Torreira]]|age={{Birth date and age2|df=yes|2021|6|13|1996|2|11}}|caps=28|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Federico Valverde]]|age={{Birth date and age2|df=yes|2021|6|13|1998|7|22}}|caps=24|goals=2|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=MF|name=[[Brian Rodríguez]]|age={{Birth date and age2|df=yes|2021|6|13|2000|5|20}}|caps=10|goals=3|club=[[UD Almería|Almería]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=DF|name=[[Matías Viña]]|age={{Birth date and age2|df=yes|2021|6|13|1997|11|9}}|caps=11|goals=0|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Maxi Gómez]]|age={{Birth date and age2|df=yes|2021|6|13|1996|8|14}}|caps=19|goals=3|club=[[Valencia CF|Valencia]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=DF|name=[[Sebastián Coates]]|age={{Birth date and age2|df=yes|2021|6|13|1990|10|7}}|caps=40|goals=1|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=FW|name=[[Jonathan Rodríguez (footballer, born 1993)|Jonathan Rodríguez]]|age={{Birth date and age2|df=yes|2021|6|13|1993|7|6}}|caps=26|goals=3|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=FW|name=[[Edinson Cavani]]|age={{Birth date and age2|df=yes|2021|6|13|1987|2|14}}|caps=118|goals=51|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=DF|name=[[Martín Cáceres]]|age={{Birth date and age2|df=yes|2021|6|13|1987|4|7}}|caps=104|goals=4|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Sergio Rochet]]|age={{Birth date and age2|df=yes|2021|6|13|1993|3|23}}|caps=0|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs g player|no=24|pos=MF|name=[[Fernando Gorriarán]]|age={{Birth date and age2|df=yes|2021|6|13|1994|11|27}}|caps=1|goals=0|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=25|pos=FW|name=[[Facundo Torres]]|age={{Birth date and age2|df=yes|2021|6|13|2000|4|13}}|caps=2|goals=0|club=[[Peñarol]]|clubnat=URU}}
+{{nat fs g player|no=26|pos=FW|name=[[Brian Ocampo]]|age={{Birth date and age2|df=yes|2021|6|13|1999|6|25}}|caps=0|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs end}}
+
+===Chile===
+Head coach: {{flagicon|URU}} [[Martín Lasarte]]
+
+[[Chile national football team|Chile]] announced their final squad of 28 players on 10 June 2021.<ref>{{cite news|url=https://www.laroja.cl/new/nomina-de-la-roja-para-la-copa-america|title=Nómina de La Roja para la Copa América|publisher=[[Football Federation of Chile]]|website=www.laroja.cl/|date=10 June 2021|access-date=10 June 2021|language=es}}</ref> A provisional list was not revealed. After the team's last group stage match, defender [[Guillermo Maripán]] withdrew injured and was replaced by [[Diego Valencia]] on 27 June.<ref>{{cite news|url=https://www.laroja.cl/item/parte-medico-seleccion-chilena-copa-america-2021|title=Parte médico Selección Chilena Copa América 2021|publisher=Football Federation of Chile|website=www.laroja.cl/|date=26 June 2021|access-date=29 June 2021|language=es}}</ref><ref>{{cite news|url=https://www.laroja.cl/new/jugador-convocado-a-la-seleccion-chilena2021-06-27t22-35|title=Jugador convocado a la Selección Chilena|publisher=Football Federation of Chile|website=www.laroja.cl/|date=27 June 2021|access-date=27 June 2021|language=es}}</ref><ref>{{cite news|url=https://www.latercera.com/el-deportivo/noticia/lasarte-convoca-a-diego-valencia-para-la-fase-final-de-la-copa-america/RVDU5FB2NZGJJCMDBAFUEOMNZQ/|title=Lasarte convoca a Diego Valencia para la fase final de la Copa América|publisher=[[La Tercera]]|first=Carlos|last=González Lucay|date=27 June 2021|access-date=29 June 2021|language=es}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Claudio Bravo]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=yes|2021|6|13|1983|4|13}}|caps=128|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Eugenio Mena]]|age={{birth date and age2|df=yes|2021|6|13|1988|7|18}}|caps=58|goals=3|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG}}
+{{nat fs g player|no=3|pos=DF|name=[[Guillermo Maripán]]|other=until 26 June|age={{birth date and age2|df=yes|2021|6|13|1994|5|6}}|caps=28|goals=2|club=[[AS Monaco FC|Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=FW|name=[[Diego Valencia]]|other=from 27 June|age={{birth date and age2|df=yes|2021|6|13|2000|1|14}}|caps=0|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs g player|no=4|pos=DF|name=[[Mauricio Isla]]|age={{birth date and age2|df=yes|2021|6|13|1988|6|12}}|caps=120|goals=4|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Enzo Roco]]|age={{birth date and age2|df=yes|2021|6|13|1992|8|16}}|caps=25|goals=1|club=[[Fatih Karagümrük S.K.|Fatih Karagümrük]]|clubnat=TUR}}
+{{nat fs g player|no=6|pos=DF|name=[[Francisco Sierralta]]|age={{birth date and age2|df=yes|2021|6|13|1997|5|6}}|caps=5|goals=0|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[César Pinares]]|age={{birth date and age2|2021|6|13|df=yes|1991|5|23}}|caps=15|goals=1|club=[[Grêmio Foot-Ball Porto Alegrense|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|no=8|pos=MF|name=[[Arturo Vidal]]|age={{birth date and age2|2021|6|13|df=yes|1987|5|22}}|caps=119|goals=32|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Jean Meneses]]|age={{birth date and age2|df=yes|2021|6|13|1993|3|16}}|caps=7|goals=2|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=10|pos=FW|name=[[Alexis Sánchez]]|age={{birth date and age2|2021|6|13|df=yes|1988|12|19}}|caps=138|goals=46|club=[[Inter Milan|Internazionale]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Eduardo Vargas]]|age={{birth date and age2|2021|6|13|df=yes|1989|11|20}}|caps=95|goals=38|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Gabriel Arias (footballer)|Gabriel Arias]]|age={{birth date and age2|df=yes|2021|6|13|1987|9|13}}|caps=13|goals=0|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG}}
+{{nat fs g player|no=13|pos=MF|name=[[Erick Pulgar]]|age={{birth date and age2|2021|6|13|df=yes|1994|1|15}}|caps=28|goals=2|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=MF|name=[[Pablo Galdames (footballer, born 1996)|Pablo Galdames]]|age={{birth date and age2|2021|6|13|df=yes|1996|12|30}}|caps=4|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG}}
+{{nat fs g player|no=15|pos=DF|name=[[Daniel González (footballer, born 2002)|Daniel González]]|age={{birth date and age2|df=yes|2021|6|13|2002|2|20}}|caps=1|goals=0|club=[[Santiago Wanderers]]|clubnat=CHI}}
+{{nat fs g player|no=16|pos=FW|name=[[Felipe Mora]]|age={{birth date and age2|df=yes|2021|6|13|1993|8|2}}|caps=8|goals=1|club=[[Portland Timbers]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=DF|name=[[Gary Medel]]|age={{birth date and age2|df=yes|2021|6|13|1987|8|3}}|caps=129|goals=7|club=[[Bologna F.C. 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=18|pos=DF|name=[[Sebastián Vegas]]|age={{birth date and age2|df=yes|2021|6|13|1996|12|4}}|caps=12|goals=1|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=19|pos=MF|name=[[Tomás Alarcón]]|age={{birth date and age2|df=yes|2021|6|13|1999|1|19}}|caps=3|goals=0|club=[[O'Higgins F.C.|O'Higgins]]|clubnat=CHI}}
+{{nat fs g player|no=20|pos=MF|name=[[Charles Aránguiz]]|age={{birth date and age2|2021|6|13|df=yes|1989|4|17}}|caps=82|goals=7|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=21|pos=FW|name=[[Carlos Palacios (Chilean footballer)|Carlos Palacios]]|age={{birth date and age2|df=yes|2021|6|13|2000|7|20}}|caps=3|goals=0|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=FW|name=[[Ben Brereton Díaz|Ben Brereton]]|age={{birth date and age2|df=yes|2021|6|13|1999|4|18}}|caps=0|goals=0|club=[[Blackburn Rovers F.C.|Blackburn Rovers]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Gabriel Castellón]]|age={{birth date and age2|df=yes|2021|6|13|1993|9|8}}|caps=0|goals=0|club=[[C.D. Huachipato|Huachipato]]|clubnat=CHI}}
+{{nat fs g player|no=24|pos=FW|name=[[Luciano Arriagada]]|age={{birth date and age2|df=yes|2021|6|13|2002|4|20}}|caps=0|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=25|pos=MF|name=[[Marcelino Núñez]]|age={{birth date and age2|2021|6|13|df=yes|2000|3|1}}|caps=0|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs g player|no=26|pos=FW|name=[[Clemente Montes]]|age={{birth date and age2|df=yes|2021|6|13|2001|4|25}}|caps=1|goals=0|club=[[Club Deportivo Universidad Católica|Universidad Católica]]|clubnat=CHI}}
+{{nat fs g player|no=27|pos=MF|name=[[Pablo Aránguiz]]|age={{birth date and age2|2021|6|13|df=yes|1997|3|17}}|caps=0|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs g player|no=28|pos=MF|name=[[Claudio Baeza]]|age={{birth date and age2|2021|6|13|df=yes|1993|12|23}}|caps=8|goals=0|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Paraguay===
+Head coach: {{flagicon|ARG}} [[Eduardo Berizzo]]
+
+[[Paraguay national football team|Paraguay]] announced their final squad of 28 players on 10 June 2021.<ref>{{cite web|url=https://www.apf.org.py/n/los-convocados-para-la-conmebol-copa-america-2021|title=Los convocados para la Conmebol Copa América 2021|publisher=[[Paraguayan Football Association]]|date=10 June 2021|access-date=10 June 2021|language=es}}</ref> A provisional list was not revealed.
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Antony Silva]]|age={{birth date and age2|df=yes|2021|6|23|1984|2|27}}|caps=34|goals=0|club=[[Club Puebla|Puebla]]|clubnat=MEX}}
+{{nat fs g player|no=2|pos=DF|name=[[Robert Rojas]]|age={{birth date and age2|df=yes|2021|6|23|1996|4|30}}|caps=7|goals=1|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=3|pos=DF|name=[[Omar Alderete]]|age={{birth date and age2|df=yes|2021|6|23|1996|12|26}}|caps=5|goals=0|club=[[Hertha BSC]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Fabián Balbuena]]|age={{birth date and age2|df=yes|2021|6|23|1991|8|23}}|caps=18|goals=0|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=MF|name=[[Gastón Giménez (footballer, born 1991)|Gastón Giménez]]|age={{birth date and age2|df=yes|2021|6|23|1991|7|27}}|caps=6|goals=1|club=[[Chicago Fire FC|Chicago Fire]]|clubnat=USA}}
+{{nat fs g player|no=6|pos=DF|name=[[Júnior Alonso]]|age={{birth date and age2|df=yes|2021|6|23|1993|2|9}}|caps=33|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=7|pos=FW|name=[[Carlos González (footballer, born 1993)|Carlos González]]|age={{birth date and age2|df=yes|2021|6|23|1993|2|3}}|caps=1|goals=0|club=[[Tigres UANL|UANL]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Richard Sánchez (Paraguayan footballer)|Richard Sánchez]]|age={{birth date and age2|df=yes|2021|6|23|1996|3|29}}|caps=15|goals=1|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=9|pos=FW|name=[[Gabriel Ávalos]]|age={{birth date and age2|df=yes|2021|6|23|1990|10|12}}|caps=2|goals=0|club=[[Argentinos Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=10|pos=MF|name=[[Miguel Almirón]]|age={{birth date and age2|df=yes|2021|6|23|1994|2|10}}|caps=31|goals=2|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Ángel Romero (footballer)|Ángel Romero]]|age={{birth date and age2|df=yes|2021|6|23|1992|7|4}}|caps=26|goals=6|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs g player|no=12|pos=GK|name=[[Alfredo Aguilar]]|age={{birth date and age2|df=yes|2021|6|23|1988|7|18}}|caps=2|goals=0|club=[[Club Olimpia|Olimpia]]|clubnat=PAR}}
+{{nat fs g player|no=13|pos=DF|name=[[Alberto Espínola]]|age={{birth date and age2|df=yes|2021|6|23|1991|2|8}}|caps=4|goals=0|club=[[Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=14|pos=MF|name=[[Andrés Cubas]]|age={{birth date and age2|df=yes|2021|6|23|1996|5|22}}|caps=3|goals=0|club=[[Nîmes Olympique|Nîmes]]|clubnat=FRA}}
+{{nat fs g player|no=15|pos=DF|name=[[Gustavo Gómez]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=yes|2021|6|23|1993|5|6}}|caps=47|goals=3|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=MF|name=[[Ángel Cardozo Lucena]]|age={{birth date and age2|df=yes|2021|6|23|1994|10|19}}|caps=6|goals=0|club=[[Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=17|pos=MF|name=[[Kaku (footballer)|Kaku]]|age={{birth date and age2|df=yes|2021|6|23|1995|1|11}}|caps=6|goals=3|club=[[Al Taawoun FC|Al-Taawoun]]|clubnat=KSA}}
+{{nat fs g player|no=18|pos=FW|name=[[Braian Samudio]]|age={{birth date and age2|df=yes|2021|6|23|1995|12|23}}|caps=5|goals=0|club=[[Çaykur Rizespor]]|clubnat=TUR}}
+{{nat fs g player|no=19|pos=DF|name=[[Santiago Arzamendia]]|age={{birth date and age2|df=yes|2021|6|23|1998|5|5}}|caps=10|goals=0|club=[[Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=20|pos=FW|name=[[Antonio Bareiro]]|age={{birth date and age2|df=yes|2021|6|23|1989|4|24}}|caps=6|goals=1|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs g player|no=21|pos=MF|name=[[Óscar Romero (footballer)|Óscar Romero]]|age={{birth date and age2|df=yes|2021|6|23|1992|7|4}}|caps=48|goals=4|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs g player|no=22|pos=GK|name=[[Gerardo Ortiz (footballer)|Gerardo Ortiz]]|age={{birth date and age2|df=yes|2021|6|23|1989|3|25}}|caps=0|goals=0|club=[[Once Caldas]]|clubnat=COL}}
+{{nat fs g player|no=23|pos=MF|name=[[Mathías Villasanti]]|age={{birth date and age2|df=yes|2021|6|23|1997|1|24}}|caps=10|goals=0|club=[[Cerro Porteño]]|clubnat=PAR}}
+{{nat fs g player|no=24|pos=DF|name=[[David Martínez (footballer, born 1998)|David Martínez]]|age={{birth date and age2|df=yes|2021|6|23|1998|1|21}}|caps=0|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=25|pos=MF|name=[[Braian Ojeda]]|age={{birth date and age2|df=yes|2021|6|23|2000|6|27}}|caps=0|goals=0|club=[[Club Olimpia|Olimpia]]|clubnat=PAR}}
+{{nat fs g player|no=26|pos=MF|name=[[Robert Piris Da Motta]]|age={{birth date and age2|df=yes|2021|6|23|1994|7|26}}|caps=6|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=27|pos=MF|name=[[Jorge Morel (footballer)|Jorge Morel]]|age={{birth date and age2|df=yes|2021|6|23|1998|1|22}}|caps=4|goals=0|club=[[Club Guaraní|Guaraní]]|clubnat=PAR}}
+{{nat fs g player|no=28|pos=FW|name=[[Julio Enciso (footballer, born 2004)|Julio Enciso]]|age={{birth date and age2|df=yes|2021|6|23|2004|1|23}}|caps=0|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs end}}
+
+==Group B==
+===Brazil===
+Head coach: [[Tite (football manager)|Tite]]
+
+[[Brazil national football team|Brazil]] announced their final squad of 24 players on 9 June 2021.<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/selecao-brasileira-e-convocada-para-a-copa-america-2021|title=Tite define convocados da Seleção Brasileira para a Copa América 2021|publisher=[[Brazilian Football Confederation]]|date=9 June 2021|access-date=9 June 2021|language=pt}}</ref> A provisional list was not revealed. After the team's second group stage match, defender [[Felipe (footballer, born 1989)|Felipe]] withdrew injured and was replaced by [[Léo Ortiz]] on 26 June.<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/zagueiro-leo-ortiz-e-convocado-para-a-copa-america|title=Zagueiro Léo Ortiz é convocado para a Copa América|publisher=Brazilian Football Confederation|date=26 June 2021|access-date=2 July 2021|language=pt}}</ref>
+
+{{nat fs g start}}{{nat fs g player|no=1|pos=GK|name=[[Alisson Becker|Alisson]]|age={{birth date and age2|df=y|2021|6|13|1992|10|2}}|caps=45|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Danilo (footballer, born July 1991)|Danilo]]|age={{birth date and age2|df=y|2021|6|13|1991|7|15}}|caps=31|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Thiago Silva]]|age={{birth date and age2|df=y|2021|6|13|1984|9|22}}|caps=93|goals=7|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=4|pos=DF|name=[[Marquinhos]]|age={{birth date and age2|df=y|2021|6|13|1994|5|14}}|caps=53|goals=2|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=5|pos=MF|name=[[Casemiro]]|age={{birth date and age2|df=y|2021|6|13|1992|2|23}}|caps=50|goals=3|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=6|pos=DF|name=[[Alex Sandro]]|age={{birth date and age2|df=y|2021|6|13|1991|1|26}}|caps=25|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=7|pos=FW|name=[[Richarlison]]|age={{birth date and age2|df=y|2021|6|13|1997|5|10}}|caps=25|goals=9|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Fred (footballer, born 1993)|Fred]]|age={{birth date and age2|df=y|2021|6|13|1993|3|5}}|caps=13|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Gabriel Jesus]]||age={{birth date and age2|df=y|2021|6|13|1997|4|3}}|caps=43|goals=18|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=FW|name=[[Neymar]]|age={{birth date and age2|df=y|2021|6|13|1992|2|5}}|caps=105|goals=66|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Éverton Ribeiro]]|age={{birth date and age2|df=y|2021|6|13|1989|4|10}}|caps=10|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Weverton (footballer, born 1987)|Weverton]]|age={{birth date and age2|df=y|2021|6|13|1987|12|13}}|caps=4|goals=0|club=[[Sociedade Esportiva Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Emerson Royal]]|age={{birth date and age2|df=y|2021|6|13|1999|1|14}}|caps=1|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=DF|name=[[Éder Militão]]|age={{birth date and age2|df=y|2021|6|13|1998|1|18}}|caps=10|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name=[[Fabinho (footballer, born 1993)|Fabinho]]|age={{birth date and age2|df=y|2021|6|13|1993|10|23}}|caps=13|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=DF|name=[[Renan Lodi]]|age={{birth date and age2|df=y|2021|6|13|1998|4|8}}|caps=8|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=17|pos=MF|name=[[Lucas Paquetá]]|age={{birth date and age2|df=y|2021|6|13|1997|8|27}}|caps=15|goals=3|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Vinícius Júnior]]|age={{birth date and age2|df=y|2021|6|13|2000|7|12}}|caps=1|goals=0|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=FW|name=[[Everton Soares|Everton]]|age={{birth date and age2|df=y|2021|6|13|1996|3|22}}|caps=19|goals=3|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=FW|name=[[Roberto Firmino]]|age={{birth date and age2|df=y|2021|6|13|1991|10|2}}|caps=50|goals=16|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=FW|name=[[Gabriel Barbosa]]|age={{birth date and age2|df=y|2021|6|13|1996|8|30}}|caps=7|goals=2|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=DF|name=[[Felipe (footballer, born 1989)|Felipe]]|other=until 26 June|age={{birth date and age2|df=y|2021|6|13|1989|5|16}}|caps=2|goals=0|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=22|pos=DF|name=[[Léo Ortiz]]|other=from 26 June|age={{birth date and age2|df=y|2021|6|13|1996|1|3}}|caps=0|goals=0|club=[[Red Bull Bragantino]]|clubnat=BRA}}
+{{nat fs g player|no=23|pos=GK|name=[[Ederson (footballer, born 1993)|Ederson]]|age={{birth date and age2|df=y|2021|6|13|1993|8|17}}|caps=12|goals=0|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{nat fs g player|no=25|pos=MF|name=[[Douglas Luiz]]|age={{birth date and age2|df=y|2021|6|13|1998|5|9}}|caps=6|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Colombia===
+Head coach: [[Reinaldo Rueda]]
+
+[[Colombia national football team|Colombia]] announced their final squad of 28 players on 10 June 2021.<ref>{{cite web|url=https://fcf.com.co/index.php/2021/06/10/convocatoria-seleccion-colombia-masculina-de-mayores-para-conmebol-copa-america-2021/|title=Convocatoria Selección Colombia Masculina de Mayores para CONMEBOL Copa América 2021|publisher=[[Colombian Football Federation]]|date=10 June 2021|access-date=10 June 2021|language=es|archive-date=13 July 2021|archive-url=https://web.archive.org/web/20210713103051/https://fcf.com.co/index.php/2021/06/10/convocatoria-seleccion-colombia-masculina-de-mayores-para-conmebol-copa-america-2021/|url-status=dead}}</ref> A provisional list was not revealed. After the team's first match, [[Yairo Moreno]] left the squad on 13 June due to injury.<ref name="changes"/> [[Juan Ferney Otero]] tested positive for SARS-CoV-2 and was replaced by [[Frank Fabra]] on 15 June.<ref>{{cite web|url=https://fcf.com.co/index.php/2021/06/11/jugador-desconvocado-de-la-seleccion-colombia-masculina-de-mayores-2/|title=Jugador desconvocado de la Selección Colombia Masculina de Mayores|publisher=Colombian Football Federation|date=11 June 2021|access-date=11 June 2021|language=es|archive-date=22 June 2021|archive-url=https://web.archive.org/web/20210622122024/https://fcf.com.co/index.php/2021/06/11/jugador-desconvocado-de-la-seleccion-colombia-masculina-de-mayores-2/|url-status=dead}}</ref><ref name="changes">{{cite web|url=https://fcf.com.co/index.php/2021/06/15/cambios-en-la-convocatoria-de-la-seleccion-colombia-masculina-de-mayores/|title=Cambios en la convocatoria de la Selección Colombia masculina de mayores|publisher=Colombian Football Federation|date=15 June 2021|access-date=15 June 2021|language=es|archive-date=27 June 2021|archive-url=https://web.archive.org/web/20210627182323/https://fcf.com.co/index.php/2021/06/15/cambios-en-la-convocatoria-de-la-seleccion-colombia-masculina-de-mayores/|url-status=dead}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Ospina]]|age={{Birth date and age2|df=yes|2021|6|13|1988|8|31}}|caps=107|goals=0|club=[[S.S.C. Napoli|Napoli]]|clubnat=ITA|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=2|pos=DF|name=[[Stefan Medina]]|age={{Birth date and age2|df=yes|2021|6|13|1992|6|14}}|caps=23|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=3|pos=DF|name=[[Óscar Murillo]]|age={{Birth date and age2|df=yes|2021|6|13|1988|4|18}}|caps=17|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|no=4|pos=DF|name=[[Carlos Cuesta (footballer)|Carlos Cuesta]]|age={{Birth date and age2|df=yes|2021|6|13|1999|3|9}}|caps=0|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=5|pos=MF|name=[[Wilmar Barrios]]|age={{Birth date and age2|df=yes|2021|6|13|1993|10|16}}|caps=35|goals=0|club=[[FC Zenit Saint Petersburg|Zenit Saint Petersburg]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=DF|name=[[William Tesillo]]|age={{Birth date and age2|df=yes|2021|6|13|1990|2|2}}|caps=15|goals=1|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=7|pos=FW|name=[[Duván Zapata]]|age={{Birth date and age2|df=yes|2021|6|13|1991|4|1}}|caps=22|goals=4|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=8|pos=MF|name=[[Gustavo Cuéllar]]|age={{Birth date and age2|df=yes|2021|6|13|1992|10|14}}|caps=9|goals=1|club=[[Al Hilal SFC|Al-Hilal Saudi]]|clubnat=KSA}}
+{{nat fs g player|no=9|pos=FW|name=[[Luis Muriel]]|age={{Birth date and age2|df=yes|2021|6|13|1991|4|16}}|caps=38|goals=8|club=[[Atalanta B.C.|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=MF|name=[[Edwin Cardona]]|age={{Birth date and age2|df=yes|2021|6|13|1992|12|8}}|caps=41|goals=5|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=11|pos=MF|name=[[Juan Cuadrado]]|age={{Birth date and age2|df=yes|2021|6|13|1988|5|26}}|caps=96|goals=8|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=12|pos=GK|name=[[Camilo Vargas]]|age={{Birth date and age2|df=yes|2021|6|13|1989|3|9}}|caps=9|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=13|pos=DF|name=[[Yerry Mina]]|age={{Birth date and age2|df=yes|2021|6|13|1994|9|23}}|caps=28|goals=7|club=[[Everton F.C.|Everton]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=FW|name=[[Luis Díaz (footballer, born 1997)|Luis Díaz]]|age={{Birth date and age2|df=yes|2021|6|13|1997|1|13}}|caps=18|goals=2|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=15|pos=MF|name=[[Mateus Uribe]]|age={{Birth date and age2|df=yes|2021|6|13|1991|3|21}}|caps=30|goals=4|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=16|pos=DF|name=[[Daniel Muñoz (footballer)|Daniel Muñoz]]|age={{Birth date and age2|df=yes|2021|6|13|1996|5|25}}|caps=1|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=17|pos=MF|name=[[Yairo Moreno]]|age={{Birth date and age2|df=yes|2021|6|13|1995|4|4}}|caps=8|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|no=18|pos=FW|name=[[Rafael Santos Borré]]|age={{Birth date and age2|df=yes|2021|6|13|1995|9|15}}|caps=3|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=19|pos=FW|name=[[Miguel Borja]]|age={{Birth date and age2|df=yes|2021|6|13|1993|1|26}}|caps=12|goals=4|club=[[Atlético Junior|Junior]]|clubnat=COL}}
+{{nat fs g player|no=20|pos=FW|name=[[Alfredo Morelos]]|age={{Birth date and age2|df=yes|2021|6|13|1996|6|21}}|caps=10|goals=1|club=[[Rangers F.C.|Rangers]]|clubnat=SCO}}
+{{nat fs g player|no=21|pos=MF|name=[[Sebastián Pérez (footballer, born 1993)|Sebastián Pérez]]|age={{Birth date and age2|df=yes|2021|6|13|1993|3|29}}|caps=8|goals=1|club=[[Boavista F.C.|Boavista]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=GK|name=[[Aldair Quintana]]|age={{Birth date and age2|df=yes|2021|6|13|1994|7|11}}|caps=0|goals=0|club=[[Atlético Nacional]]|clubnat=COL}}
+{{nat fs g player|no=23|pos=DF|name=[[Davinson Sánchez]]|age={{Birth date and age2|df=yes|2021|6|13|1996|6|12}}|caps=34|goals=0|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Jhon Lucumí]]|age={{Birth date and age2|df=yes|2021|6|13|1998|6|26}}|caps=4|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=25|pos=MF|name=[[Baldomero Perlaza]]|age={{Birth date and age2|df=yes|2021|6|13|1992|6|25}}|caps=0|goals=0|club=[[Atlético Nacional]]|clubnat=COL}}
+{{nat fs g player|no=26|pos=DF|name=[[Frank Fabra]]|age={{Birth date and age2|df=yes|2021|6|13|1991|2|22}}|caps=22|goals=1|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=27|pos=MF|name=[[Jaminton Campaz]]|age={{Birth date and age2|df=yes|2021|6|13|2000|5|24}}|caps=0|goals=0|club=[[Deportes Tolima]]|clubnat=COL}}
+{{nat fs g player|no=28|pos=FW|name=[[Yimmi Chará]]|age={{Birth date and age2|df=yes|2021|6|13|1991|4|2}}|caps=10|goals=1|club=[[Portland Timbers]]|clubnat=USA}}
+{{nat fs end}}
+
+===Venezuela===
+Head coach: {{flagicon|POR}} [[José Peseiro]]
+
+[[Venezuela national football team|Venezuela]]'s 49-man provisional list was announced on 12 and 13 May 2021.<ref>{{cite web|url=http://www.federacionvenezolanadefutbol.org/la-vinotinto-definio-su-lista-preliminar-para-la-conmebol-copa-america-2021/|title=La Vinotinto definió su Lista Preliminar para la CONMEBOL Copa América 2021|publisher=[[Venezuelan Football Federation]]|date=12 May 2021|language=es}}</ref><ref>{{cite web|url=http://www.federacionvenezolanadefutbol.org/cuerpo-tecnico-de-la-vinotinto-amplio-lista-preliminar-para-copa-america-con-jugadores-de-la-liga-futve/|title=Cuerpo Técnico de La Vinotinto amplió Lista Preliminar para Copa América con jugadores de la Liga Futve|publisher=Venezuelan Football Federation|date=13 May 2021|language=es}}</ref> The final squad of 28 players was announced on 10 June 2021.<ref>{{cite web|url=http://www.federacionvenezolanadefutbol.org/la-vinotinto-tiene-sus-28-guerreros-para-la-conmebol-copa-america-2021/|title=La Vinotinto tiene sus 28 guerreros para la CONMEBOL Copa América 2021|publisher=Venezuelan Football Federation|date=10 June 2021|language=es}}</ref> On 12 June 2021, CONMEBOL and the [[Venezuelan Football Federation]] reported that eleven members of its delegation, eight of them footballers, had tested positive for SARS-CoV-2.<ref>{{cite web|url=https://www.conmebol.com/es/comunicado-conmebol-4|title=Comunicado CONMEBOL|publisher=CONMEBOL|date=12 June 2021|language=es}}</ref><ref>{{cite web|url=https://www.conmebol.com/sites/default/files/cmua.055-2021_casos_positivos_venezuela_11_junio_ca_bra_2021__0.pdf|title=CMUA.055-2021|publisher=CONMEBOL|date=12 June 2021|access-date=12 June 2021|language=es|archive-date=13 June 2021|archive-url=https://web.archive.org/web/20210613110851/https://www.conmebol.com/sites/default/files/cmua.055-2021_casos_positivos_venezuela_11_junio_ca_bra_2021__0.pdf|url-status=dead}}</ref> Consequently, fifteen additional players were called up to join the squad.<ref>{{cite web|url=http://www.federacionvenezolanadefutbol.org/comunicado-120621/|title=COMUNICADO|publisher=Venezuelan Football Federation|date=12 June 2021|access-date=12 June 2021|language=es}}</ref> Midfielder and captain [[Tomás Rincón]] and goalkeeper [[Rafael Romo]] tested positive for SARS-CoV-2 and were replaced by [[Francisco La Mantía]] and [[Luis Romero (Venezuelan footballer)|Luis Romero]] respectively on 12 June.<ref>{{cite web|url=https://primicia.com.ve/deportes/otra-baja-de-venezuela-para-la-copa-america-tomas-rincon-positivo-por-covid-19/|title=Otra baja de Venezuela para la Copa América: Tomás Rincón positivo por COVID-19|publisher=Primicia|first=Fabiana|last=Dos Reis|date=12 June 2021|access-date=12 June 2021|language=es }}</ref> After the team's first match, defender [[Jhon Chancellor]] and midfielder [[Jhon Murillo]] tested positive for SARS-CoV-2 and were replaced by [[José Manuel Velázquez]] and [[Jan Carlos Hurtado]] respectively.<ref>{{Cite web | url=https://juanfutbol.com/articulo/cperez/venezuela-anuncia-nuevos-casos-de-covid19-en-su-plantilla | title=Venezuela anuncia nuevos casos de Covid-19 en su plantilla }}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|pos=GK|no=1|name=[[Wuilker Faríñez]]|age={{birth date and age2|df=y|2021|6|13|1998|2|15}}|caps=26|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs g player|pos=DF|no=2|name=[[Nahuel Ferraresi]]|age={{birth date and age2|df=y|2021|6|13|1998|11|19}}|caps=4|goals=0|club=[[Moreirense F.C.|Moreirense]]|clubnat=POR}}
+{{nat fs g player|pos=DF|no=3|name=[[Mikel Villanueva]]|age={{birth date and age2|df=y|2021|6|13|1993|4|14}}|caps=27|goals=2|club=[[C.D. Santa Clara|Santa Clara]]|clubnat=PRT}}
+{{nat fs g player|pos=DF|no=4|name=[[Jhon Chancellor]]|other=until 16 June|age={{birth date and age2|df=y|2021|6|13|1992|1|2}}|caps=20|goals=1|club=[[Brescia Calcio|Brescia]]|clubnat=ITA}}
+{{nat fs g player|pos=DF|no=4|name=[[José Manuel Velázquez]]|other=from 17 June|age={{birth date and age2|df=y|2021|6|13|1990|9|8}}|caps=25|goals=3|club=[[F.C. Arouca|Arouca]]|clubnat=POR}}
+{{nat fs g player|pos=MF|no=5|name=[[Júnior Moreno]]|age={{birth date and age2|df=y|2021|6|13|1993|7|20}}|caps=24|goals=1|club=[[D.C. United]]|clubnat=USA}}
+{{nat fs g player|pos=MF|no=6|name=[[Yangel Herrera]]|age={{birth date and age2|df=y|2021|6|13|1998|1|7}}|caps=21|goals=2|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs g player|pos=MF|no=7|name=[[Jefferson Savarino]]|age={{birth date and age2|df=y|2021|6|13|1996|11|11}}|caps=18|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|pos=DF|no=8|name=[[Francisco La Mantía]]|age={{birth date and age2|df=y|2021|6|13|1996|2|24}}|caps=1|goals=0|club=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|clubnat=VEN}}
+{{nat fs g player|pos=FW|no=9|name=[[Fernando Aristeguieta]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|df=y|2021|6|13|1992|4|9}}|caps=21|goals=1|club=[[Mazatlán F.C.|Mazatlán]]|clubnat=MEX}}
+{{nat fs g player|pos=MF|no=10|name=[[Yeferson Soteldo]]|age={{birth date and age2|df=y|2021|6|13|1997|6|30}}|caps=18|goals=1|club=[[Toronto FC]]|clubnat=CAN}}
+{{nat fs g player|pos=FW|no=11|name=[[Sergio Córdova]]|age={{birth date and age2|df=y|2021|6|13|1997|8|9}}|caps=10|goals=0|club=[[Arminia Bielefeld]]|clubnat=GER}}
+{{nat fs g player|pos=GK|no=12|name=[[Joel Graterol]]|age={{birth date and age2|df=y|2021|6|13|1997|2|13}}|caps=2|goals=0|club=[[América de Cali]]|clubnat=COL}}
+{{nat fs g player|pos=MF|no=13|name=[[José Andrés Martínez]]|age={{birth date and age2|df=y|2021|6|13|1994|9|7}}|caps=1|goals=0|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|pos=DF|no=14|name=[[Luis Mago]]|age={{birth date and age2|df=y|2021|6|13|1994|9|15}}|caps=12|goals=2|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs g player|pos=MF|no=15|name=[[Jhon Murillo]]|other=until 16 June|age={{birth date and age2|df=y|2021|6|13|1995|11|21}}|caps=31|goals=4|club=[[C.D. Tondela|Tondela]]|clubnat=POR}}
+{{nat fs g player|pos=FW|no=15|name=[[Jan Carlos Hurtado]]|other=from 17 June|age={{birth date and age2|df=y|2021|6|13|2000|3|5}}|caps=3|goals=0|club=[[Red Bull Bragantino]]|clubnat=BRA}}
+{{nat fs g player|pos=DF|no=16|name=[[Roberto Rosales]]|age={{birth date and age2|df=y|2021|6|13|1988|11|20}}|caps=86|goals=1|club=[[CD Leganés|Leganés]]|clubnat=ESP}}
+{{nat fs g player|pos=FW|no=17|name=[[Josef Martínez]]|age={{birth date and age2|df=y|2021|6|13|1993|5|19}}|caps=53|goals=11|club=[[Atlanta United FC]]|clubnat=USA}}
+{{nat fs g player|pos=MF|no=18|name=[[Rómulo Otero]]|age={{birth date and age2|df=y|2021|6|13|1992|11|9}}|caps=39|goals=6|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|pos=FW|no=19|name=[[Jhonder Cádiz]]|age={{birth date and age2|df=y|2021|6|13|1995|7|29}}|caps=4|goals=0|club=[[Nashville SC]]|clubnat=USA}}
+{{nat fs g player|pos=DF|no=20|name=[[Ronald Hernández]]|age={{birth date and age2|df=y|2021|6|13|1997|9|21}}|caps=17|goals=0|club=[[Atlanta United FC]]|clubnat=USA}}
+{{nat fs g player|pos=DF|no=21|name=[[Alexander González (footballer, born 1992)|Alexander González]]|age={{birth date and age2|df=y|2021|6|13|1992|9|13}}|caps=50|goals=1|club=[[Málaga CF|Málaga]]|clubnat=ESP}}
+{{nat fs g player|pos=GK|no=22|name=[[Luis Romero (Venezuelan footballer)|Luis Romero]]|age={{birth date and age2|df=y|2021|6|13|1990|11|16}}|caps=0|goals=0|club=[[Portuguesa F.C.|Portuguesa]]|clubnat=VEN}}
+{{nat fs g player|pos=MF|no=23|name=[[Cristian Cásseres Jr.]]|age={{birth date and age2|df=y|2021|6|13|2000|1|20}}|caps=6|goals=0|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs g player|pos=MF|no=24|name=[[Bernaldo Manzano]]|age={{birth date and age2|df=y|2021|6|13|1990|7|2}}|caps=3|goals=0|club=[[Asociación Civil Deportivo Lara|Deportivo Lara]]|clubnat=VEN}}
+{{nat fs g player|pos=MF|no=25|name=[[Richard Celis]]|age={{birth date and age2|df=y|2021|6|13|1996|4|23}}|caps=1|goals=0|club=[[Caracas F.C.|Caracas]]|clubnat=VEN}}
+{{nat fs g player|pos=MF|no=26|name=[[Edson Castillo]]|age={{birth date and age2|df=y|2021|6|13|1994|5|18}}|caps=0|goals=0|club=[[Caracas F.C.|Caracas]]|clubnat=VEN}}
+{{nat fs g player|pos=DF|no=27|name=[[Yohán Cumana]]|age={{birth date and age2|df=y|2021|6|13|1996|3|8}}|caps=0|goals=0|club=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|clubnat=VEN}}
+{{nat fs g player|pos=DF|no=28|name=[[Adrián Martínez (Venezuelan footballer)|Adrián Martínez]]|age={{birth date and age2|df=y|2021|6|13|1993|7|14}}|caps=0|goals=0|club=[[Deportivo La Guaira F.C.|Deportivo La Guaira]]|clubnat=VEN}}
+{{nat fs end}}
+
+===Ecuador===
+Head coach: {{flagicon|ARG}} [[Gustavo Alfaro]]
+
+[[Ecuador national football team|Ecuador]] announced their final squad of 28 players on 9 June 2021.<ref>{{cite tweet|author=[[Ecuadorian Football Federation]]|user=LaTri|number=1402825519754797058|title=¡Y los convocados son! Estos son los elegidos por el DT #GustavoAlfaro para encarar un desafío continental: la @CopaAmerica.|date=9 June 2021|access-date=9 June 2021|language=es}}</ref> A provisional list was not revealed. After the team's last group stage match, midfielder [[Damián Díaz]] withdrew after testing positive for SARS-CoV-2 and was replaced by [[Carlos Gruezo (footballer, born 1995)|Carlos Gruezo]] on 29 June.<ref>{{cite tweet|author=Ecuadorian Football Federation|user=LaTri|number=1409203439192715272|title=#ComunicadoOficial|date=27 June 2021|access-date=29 June 2021|language=es}}</ref><ref>{{cite tweet|author=Ecuadorian Football Federation|user=LaTri|number=1409954307601047555|title=Carlos Gruezo se unió a la concentración en Goiânia y está a órdenes del cuerpo técnico; lo hace, en lugar de Damián Díaz, debido a la inhabilitación de CONMEBOL y el CIEVS, tema que fue informado en días previos|date=29 June 2021|access-date=29 June 2021|language=es}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hernán Galíndez]]|age={{birth date and age2|df=yes|2021|6|13|1987|3|30}}|caps=0|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=2|pos=DF|name=[[Félix Torres (footballer, born 1997)|Félix Torres]]|age={{birth date and age2|df=yes|2021|6|13|1997|1|11}}|caps=4|goals=0|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=3|pos=DF|name=[[Piero Hincapié]]|age={{Birth date and age2|2021|6|13|2002|1|9|df=y}}|caps=0|goals=0|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG}}
+{{nat fs g player|no=4|pos=DF|name=[[Robert Arboleda]]|age={{birth date and age2|2021|6|13|df=yes|1991|10|22}}|caps=22|goals=2|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=5|pos=MF|name=[[Dixon Arroyo]]|age={{birth date and age2|df=yes|2021|6|13|1992|6|1}}|caps=1|goals=0|club=[[C.S. Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs g player|no=6|pos=MF|name=[[Christian Noboa]]|age={{birth date and age2|df=yes|2021|6|13|1985|4|9}}|caps=78|goals=4|club=[[PFC Sochi|Sochi]]|clubnat=RUS}}
+{{nat fs g player|no=7|pos=DF|name=[[Pervis Estupiñán]]|age={{birth date and age2|2021|6|13|df=yes|1998|1|21}}|caps=7|goals=1|club=[[Villarreal CF|Villarreal]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Fidel Martínez]]|age={{birth date and age2|df=yes|2021|6|13|1990|2|15}}|caps=33|goals=8|club=[[Club Tijuana|Tijuana]]|clubnat=MEX}}
+{{nat fs g player|no=9|pos=FW|name=[[Leonardo Campana]]|age={{birth date and age2|df=yes|2021|6|13|2000|7|24}}|caps=6|goals=0|club=[[F.C. Famalicão|Famalicão]]|clubnat=POR}}
+{{nat fs g player|no=10|pos=MF|name=[[Damián Díaz]]|other=until 29 June|age={{birth date and age2|df=yes|2021|6|13|1986|5|1}}|caps=2|goals=0|club=[[Barcelona S.C.|Barcelona]]|clubnat=ECU}}
+{{nat fs g player|no=10|pos=MF|name=[[Carlos Gruezo (footballer, born 1995)|Carlos Gruezo]]|other=from 29 June|age={{birth date and age2|df=yes|2021|6|13|1995|4|19}}|caps=29|goals=1|club=[[FC Augsburg]]|clubnat=GER}}
+{{nat fs g player|no=11|pos=FW|name=[[Michael Estrada]]|age={{birth date and age2|df=yes|2021|6|13|1996|4|7}}|caps=15|goals=4|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=12|pos=GK|name=[[Pedro Ortíz (footballer, born 1990)|Pedro Ortíz]]|age={{Birth date and age2|2021|6|13|1990|2|19|df=y}}|caps=2|goals=0|club=[[C.S. Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs g player|no=13|pos=FW|name=[[Enner Valencia]]|age={{birth date and age2|df=yes|2021|6|13|1989|11|4}}|caps=57|goals=31|club=[[Fenerbahçe S.K. (football)|Fenerbahçe]]|clubnat=TUR}}
+{{nat fs g player|no=14|pos=DF|name=[[Xavier Arreaga]]|age={{birth date and age2|2021|6|13|df=yes|1994|9|28}}|caps=12|goals=1|club=[[Seattle Sounders FC]]|clubnat=USA}}
+{{nat fs g player|no=15|pos=FW|name=[[Ángel Mena]]|age={{birth date and age2|df=yes|2021|6|13|1988|1|21}}|caps=27|goals=6|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=DF|name=[[Mario Pineida]]|age={{birth date and age2|df=yes|2021|6|13|1992|7|6}}|caps=9|goals=0|club=[[Barcelona S.C.|Barcelona]]|clubnat=ECU}}
+{{nat fs g player|no=17|pos=DF|name=[[Ángelo Preciado]]|age={{birth date and age2|2021|6|13|df=yes|1998|2|18}}|caps=8|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=18|pos=MF|name=[[Ayrton Preciado]]|age={{birth date and age2|df=yes|2021|6|13|1994|7|17}}|caps=17|goals=1|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=19|pos=MF|name=[[Gonzalo Plata]]|age={{birth date and age2|df=yes|2021|6|13|2000|1|11}}|caps=10|goals=4|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=MF|name=[[Sebas Méndez]]|age={{birth date and age2|df=yes|2021|6|13|1997|4|26}}|caps=18|goals=0|club=[[Orlando City SC]]|clubnat=USA}}
+{{nat fs g player|no=21|pos=MF|name=[[Alan Franco (footballer, born 1998)|Alan Franco]]|age={{birth date and age2|df=yes|2021|6|13|1998|8|21}}|caps=9|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=GK|name=[[Alexander Domínguez]]|age={{birth date and age2|df=yes|2021|6|13|1987|6|5}}|caps=59|goals=0|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=23|pos=MF|name=[[Moisés Caicedo]]|age={{birth date and age2|df=yes|2021|6|13|2001|11|2}}|caps=5|goals=1|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[Fernando León (footballer)|Fernando León]]|age={{birth date and age2|df=yes|2021|6|13|1993|4|11}}|caps=3|goals=0|club=[[Barcelona S.C.|Barcelona]]|clubnat=ECU}}
+{{nat fs g player|no=25|pos=MF|name=[[José Carabalí (footballer)|José Carabalí]]|age={{birth date and age2|df=yes|2021|6|13|1997|5|19}}|caps=2|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=26|pos=FW|name=[[Jordy Caicedo]]|age={{birth date and age2|df=yes|2021|6|13|1997|11|18}}|caps=2|goals=0|club=[[PFC CSKA Sofia|CSKA Sofia]]|clubnat=BUL}}
+{{nat fs g player|no=27|pos=DF|name=[[Diego Palacios]]|age={{birth date and age2|df=yes|2021|6|13|1999|7|12}}|caps=6|goals=0|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|no=28|pos=DF|name=[[José Hurtado (footballer)|José Hurtado]]|age={{birth date and age2|df=yes|2021|6|13|2001|12|23}}|caps=0|goals=0|club=[[C.S.D. Independiente del Valle|Independiente del Valle]]|clubnat=ECU}}
+{{nat fs end}}
+
+===Peru===
+Head coach: {{flagicon|ARG}} [[Ricardo Gareca]]
+
+[[Peru national football team|Peru]]'s 50-man provisional list was announced on 27 April 2021,<ref>{{cite tweet|author=[[Peruvian Football Federation]]|user=SeleccionPeru|number=1387157585560805379|title=Anunciamos la lista provisional de futbolistas convocados por el profesor Ricardo Gareca para la @CopaAmerica 2021.|date=27 April 2021|language=es}}</ref> and was expanded to 60 players on 1 June 2021.<ref>{{cite tweet|author=Peruvian Football Federation|user=SeleccionPeru|number=1399865709010751489|title=Anunciamos la ampliación a la lista provisional de jugadores convocados a la @CopaAmerica 2021, sumando así una nómina total de 60 futbolistas.|date=1 June 2021|language=es}}</ref> The final squad of 26 players was announced on 10 June 2021.<ref>{{cite tweet|author=Peruvian Football Federation|user=SeleccionPeru|number=1403025413362814976|title=¡Un mismo objetivo! Estos son los futbolistas convocados por el profesor Ricardo Gareca para disputar la @CopaAmerica 2021.|date=10 June 2021|access-date=10 June 2021|language=es}}</ref>
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Pedro Gallese]]|age={{birth date and age2|df=y|2021|6|13|1990|2|23}}|caps=68|goals=0|club=[[Orlando City SC]]|clubnat=USA|other=[[Captain (association football)|captain]]}}
+{{nat fs g player|no=2|pos=DF|name=[[Luis Abram]]|age={{birth date and age2|df=y|2021|6|13|1996|2|27}}|caps=26|goals=1|club=[[Club Atlético Vélez Sarsfield|Vélez Sarsfield]]|clubnat=ARG}}
+{{nat fs g player|no=3|pos=DF|name=[[Aldo Corzo]]|age={{birth date and age2|df=y|2021|6|13|1989|5|20}}|caps=31|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=4|pos=DF|name=[[Anderson Santamaría]]|age={{birth date and age2|df=y|2021|6|13|1992|1|10}}|caps=17|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=5|pos=DF|name=[[Miguel Araujo]]|age={{birth date and age2|df=y|2021|6|13|1994|10|24}}|caps=19|goals=0|club=[[FC Emmen|Emmen]]|clubnat=NED}}
+{{nat fs g player|no=6|pos=DF|name=[[Miguel Trauco]]|age={{birth date and age2|df=y|2021|6|13|1992|8|25}}|caps=52|goals=0|club=[[AS Saint-Étienne|Saint-Étienne]]|clubnat=FRA}}
+{{nat fs g player|no=7|pos=MF|name=[[Gerald Távara]]|age={{birth date and age2|df=y|2021|6|13|1999|3|25}}|caps=0|goals=0|club=[[Sporting Cristal]]|clubnat=PER}}
+{{nat fs g player|no=8|pos=MF|name=[[Sergio Peña (Peruvian footballer)|Sergio Peña]]|age={{birth date and age2|df=y|2021|6|13|1995|9|28}}|caps=10|goals=0|club=[[FC Emmen|Emmen]]|clubnat=NED}}
+{{nat fs g player|no=9|pos=FW|name=[[Gianluca Lapadula]]|age={{birth date and age2|df=y|2021|6|13|1990|2|7}}|caps=4|goals=0|club=[[Benevento Calcio|Benevento]]|clubnat=ITA}}
+{{nat fs g player|no=10|pos=MF|name=[[Christian Cueva]]|age={{birth date and age2|df=y|2021|6|13|1991|11|23}}|caps=72|goals=11|club=[[Al Fateh SC|Al-Fateh]]|clubnat=KSA}}
+{{nat fs g player|no=11|pos=FW|name=[[Alex Valera]]|age={{birth date and age2|df=y|2021|6|13|1996|5|16}}|caps=0|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=12|pos=GK|name=[[Carlos Cáceda]]|age={{birth date and age2|df=y|2021|6|13|1991|9|27}}|caps=6|goals=0|club=[[FBC Melgar|Melgar]]|clubnat=PER}}
+{{nat fs g player|no=13|pos=MF|name=[[Renato Tapia]]|age={{birth date and age2|df=y|2021|6|13|1995|7|28}}|caps=58|goals=4|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=MF|name=[[Wilder Cartagena]]|age={{birth date and age2|df=y|2021|6|13|1994|9|23}}|caps=6|goals=0|club=[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|clubnat=ARG}}
+{{nat fs g player|no=15|pos=DF|name=[[Christian Ramos]]|age={{birth date and age2|df=y|2021|6|13|1988|11|4}}|caps=77|goals=3|club=[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|clubnat=PER}}
+{{nat fs g player|no=16|pos=DF|name=[[Marcos López]]|age={{birth date and age2|df=y|2021|6|13|1999|11|20}}|caps=6|goals=0|club=[[San Jose Earthquakes]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=FW|name=[[Luis Iberico]]|age={{birth date and age2|df=y|2021|6|13|1998|2|6}}|caps=1|goals=0|club=[[FBC Melgar|Melgar]]|clubnat=PER}}
+{{nat fs g player|no=18|pos=FW|name=[[André Carrillo]]|age={{birth date and age2|df=y|2021|6|13|1991|6|14}}|caps=70|goals=9|club=[[Al Hilal SFC|Al-Hilal]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=MF|name=[[Yoshimar Yotún]]|age={{birth date and age2|df=y|2021|6|13|1990|4|7}}|caps=98|goals=3|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=FW|name=[[Santiago Ormeño]]|age={{birth date and age2|df=y|2021|6|13|1994|2|4}}|caps=0|goals=0|club=[[Club Puebla|Puebla]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=GK|name=[[José Carvallo]]|age={{birth date and age2|df=y|2021|6|13|1986|3|1}}|caps=7|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=22|pos=DF|name=[[Alexander Callens]]|age={{birth date and age2|df=y|2021|6|13|1992|5|4}}|caps=13|goals=1|club=[[New York City FC]]|clubnat=USA}}
+{{nat fs g player|no=23|pos=MF|name=[[Alexis Arias (footballer)|Alexis Arias]]|age={{birth date and age2|df=y|2021|6|13|1995|12|13}}|caps=2|goals=0|club=[[FBC Melgar|Melgar]]|clubnat=PER}}
+{{nat fs g player|no=24|pos=MF|name=[[Raziel García]]|age={{birth date and age2|df=y|2021|6|13|1994|2|15}}|caps=0|goals=0|club=[[Cienciano]]|clubnat=PER}}
+{{nat fs g player|no=25|pos=DF|name=[[Renzo Garcés]]|age={{birth date and age2|df=y|2021|6|13|1996|6|12}}|caps=0|goals=0|club=[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|clubnat=PER}}
+{{nat fs g player|no=26|pos=DF|name=[[Jhilmar Lora]]|age={{birth date and age2|df=y|2021|6|13|2000|10|24}}|caps=0|goals=0|club=[[Sporting Cristal]]|clubnat=PER}}
+{{nat fs end}}
+
+

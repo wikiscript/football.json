@@ -1,0 +1,557 @@
+<!-- 
+     source:   en.wikipedia.org/wiki/2024_Copa_América_squads
+     added:  Jun/20 2024
+  -->
+
+The age listed for each player is as of June 20, 2024, the first day of the tournament. The numbers of caps and goals listed for each player do not include any matches played after the start of the tournament. The club listed is the club for which the player last played a competitive match prior to the tournament.{{refn|group=note|This is the club a player was last able to play for during the previous season in the event a player did not play a competitive match.}} The nationality for each club reflects the national association (not the league) to which the club is affiliated. A flag is included for coaches who are of a different nationality to their national team.
+
+==Group A==
+
+===Argentina===
+[[Argentina national football team|Argentina]] announced their 26-man final squad on June 15, 2024.<ref>{{cite web|url=https://www.afa.com.ar/es/posts/nomina-de-futbolistas-convocados-para-disputar-la-copa-america-2026-en-estados-unidos|title=Nómina de futbolistas convocados por Lionel Scaloni para disputar la Copa América 2024 en Estados Unidos|trans-title=List of footballers called by Lionel Scaloni to compete in the 2024 Copa América in the United States|publisher=[[Argentine Football Association]]|date=15 June 2024|language=es}}</ref>
+
+Head coach: [[Lionel Scaloni]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Franco Armani]]|age={{birth date and age2|2024|6|20|1986|10|16}}|caps=19|goals=0|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=2|pos=DF|name=[[Lucas Martínez Quarta]]|age={{birth date and age2|2024|6|20|1996|5|10}}|caps=14|goals=0|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Nicolás Tagliafico]]|age={{birth date and age2|2024|6|20|1992|8|31}}|caps=57|goals=1|club=[[Olympique Lyonnais|Lyon]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Gonzalo Montiel]]|age={{birth date and age2|2024|6|20|1997|1|1}}|caps=26|goals=1|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=MF|name=[[Leandro Paredes]]|age={{birth date and age2|2024|6|20|1994|6|29}}|caps=62|goals=5|club=[[AS Roma|Roma]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=DF|name=[[Germán Pezzella]]|age={{birth date and age2|2024|6|20|1991|6|27}}|caps=40|goals=3|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=7|pos=MF|name=[[Rodrigo De Paul]]|age={{birth date and age2|2024|6|20|1994|5|24}}|caps=64|goals=2|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=DF|name=[[Marcos Acuña]]|age={{birth date and age2|2024|6|20|1991|10|28}}|caps=57|goals=0|club=[[Sevilla FC|Sevilla]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[Julián Álvarez]]|age={{birth date and age2|2024|6|20|2000|1|31}}|caps=31|goals=7|club=[[Manchester City F.C.|Manchester City]]|clubnat=ENG}}
+{{Nat fs g player|no=10|pos=FW|name=[[Lionel Messi]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1987|6|24}}|caps=182|goals=108|club=[[Inter Miami CF]]|clubnat=USA}}
+{{nat fs g player|no=11|pos=FW|name=[[Ángel Di María]]|age={{birth date and age2|2024|6|20|1988|2|14}}|caps=140|goals=31|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=12|pos=GK|name=[[Gerónimo Rulli]]|age={{birth date and age2|2024|6|20|1992|5|20}}|caps=4|goals=0|club=[[AFC Ajax|Ajax]]|clubnat=NED}}
+{{nat fs g player|no=13|pos=DF|name=[[Cristian Romero (Argentine footballer)|Cristian Romero]]|age={{birth date and age2|2024|6|20|1998|4|27}}|caps=31|goals=3|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{Nat fs g player|no=14|pos=MF|name=[[Exequiel Palacios]]|age={{birth date and age2|2024|6|20|1998|10|5}}|caps=29|goals=0|clubnat=GER|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]}} 
+{{nat fs g player|no=15|pos=FW|name=[[Nicolás González (footballer, born 1998)|Nicolás González]]|age={{birth date and age2|2024|6|20|1998|4|6}}|caps=34|goals=5|club=[[ACF Fiorentina|Fiorentina]]|clubnat=ITA}}
+{{nat fs g player|no=16|pos=MF|name=[[Giovani Lo Celso]]|age={{birth date and age2|2024|6|20|1996|4|9}}|caps=52|goals=3|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=FW|name=[[Alejandro Garnacho]]|age={{birth date and age2|2024|6|20|2004|7|1}}|caps=5|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=18|pos=MF|name=[[Guido Rodríguez]]|age={{birth date and age2|2024|6|20|1994|4|12}}|caps=29|goals=1|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=19|pos=DF|name=[[Nicolás Otamendi]]|age={{birth date and age2|2024|6|20|1988|2|12}}|caps=112|goals=6|club=[[S.L. Benfica|Benfica]]|clubnat=POR}}
+{{nat fs g player|no=20|pos=MF|name=[[Alexis Mac Allister]]|age={{birth date and age2|2024|6|20|1998|12|24}}|caps=26|goals=2|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=21|pos=FW|name=[[Valentín Carboni]]|age={{birth date and age2|2024|6|20|2005|3|5}}|caps=2|goals=0|club=[[AC Monza|Monza]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=FW|name=[[Lautaro Martínez]]|age={{birth date and age2|2024|6|20|1997|8|22}}|caps=58|goals=24|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=23|pos=GK|name=[[Emiliano Martínez]]|age={{birth date and age2|2024|6|20|1992|9|2}}|caps=39|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=MF|name=[[Enzo Fernández]]|age={{birth date and age2|2024|6|20|2001|1|17}}|caps=23|goals=4|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{Nat fs g player|no=25|pos=DF|name=[[Lisandro Martínez]]|age={{birth date and age2|2024|6|20|1998|1|18}}|caps=18|goals=0|club=[[Manchester United F.C.|Manchester United]]|clubnat=ENG}}
+{{nat fs g player|no=26|pos=DF|name=[[Nahuel Molina]]|age={{birth date and age2|2024|6|20|1998|4|6}}|caps=38|goals=1|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Peru===
+[[Peru national football team|Peru]] announced their final 26-man squad on June 15, 2024.<ref>{{cite web|url=https://rpp.pe/futbol/seleccion-peruana/lista-de-convocados-seleccion-peruana-en-copa-america-2024-con-christian-cueva-y-sonne-jorge-fossati-noticia-1562112|title=Lista de convocados de la Selección Peruana para la Copa América 2024: Christian Cueva estará en el torneo|publisher=[[Radio Programas del Perú]]|last=Figueroa|first=Diego|date=15 June 2024|access-date=15 June 2024|language=es}}</ref> Previously, midfielder [[Renato Tapia]] had announced that he would be resigning his spot on the team due to administrative issues.<ref>{{cite web|url=https://www.sport.es/es/noticias/copa-america/renato-tapia-renuncia-copa-america-103663516|title=Renato Tapia renuncia a la Copa América... ¡porque no tiene seguro!|trans-title=Renato Tapia resigns from the Copa América... because he doesn't have insurance!|work=[[Sport (Spanish newspaper)|Sport]]|agency=[[EFE]]|location=Lima|date=12 June 2024|access-date=15 June 2024|language=es}}</ref>
+
+Head coach: {{flagicon|URU}} [[Jorge Fossati]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Pedro Gallese]]|age={{Birth date and age2|2024|6|20|1990|2|23}}|caps=106|goals=0|club=[[Orlando City SC]]|clubnat=USA}}
+{{nat fs g player|no=2|pos=DF|name=[[Luis Abram]]|age={{Birth date and age2|2024|6|20|1996|2|27}}|caps=41|goals=1|club=[[Atlanta United FC]]|clubnat=USA}}
+{{nat fs g player|no=3|pos=DF|name=[[Aldo Corzo]]|age={{Birth date and age2|2024|6|20|1989|5|20}}|caps=51|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=4|pos=DF|name=[[Anderson Santamaría]]|age={{Birth date and age2|2024|6|20|1992|1|10}}|caps=28|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=5|pos=DF|name=[[Carlos Zambrano (footballer)|Carlos Zambrano]]|age={{Birth date and age2|2024|6|20|1989|7|10}}|caps=72|goals=4|club=[[Club Alianza Lima|Alianza Lima]]|clubnat=PER}}
+{{nat fs g player|no=6|pos=DF|name=[[Marcos López]]|age={{Birth date and age2|2024|6|20|1999|11|20}}|caps=35|goals=0|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=7|pos=FW|name=[[Andy Polo]]|age={{Birth date and age2|2024|6|20|1994|9|29}}|caps=45|goals=1|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=8|pos=MF|name=[[Sergio Peña (Peruvian footballer)|Sergio Peña]]|age={{Birth date and age2|2024|6|20|1995|9|28}}|caps=38|goals=4|club=[[Malmö FF]]|clubnat=SWE}}
+{{nat fs g player|no=9|pos=FW|name=[[Paolo Guerrero]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1984|1|1}}|caps=119|goals=39|club=[[Club Deportivo Universidad César Vallejo|Universidad César Vallejo]]|clubnat=PER}}
+{{nat fs g player|no=10|pos=MF|name=[[Christian Cueva]]|age={{Birth date and age2|2024|6|20|1991|11|23}}|caps=98|goals=16|club=''[[Free agent]]''|clubnat=}}
+{{nat fs g player|no=11|pos=FW|name=[[Bryan Reyna]]|age={{Birth date and age2|2024|6|20|1998|8|23}}|caps=10|goals=2|club=[[Club Atlético Belgrano|Belgrano]]|clubnat=ARG}}
+{{nat fs g player|no=12|pos=GK|name=[[Carlos Cáceda]]|age={{Birth date and age2|2024|6|20|1991|9|27}}|caps=8|goals=0|club=[[FBC Melgar|Melgar]]|clubnat=PER}}
+{{nat fs g player|no=13|pos=MF|name=[[Jesús Castillo (Peruvian footballer)|Jesús Castillo]]|age={{Birth date and age2|2024|6|20|2001|6|11}}|caps=9|goals=1|club=[[Gil Vicente F.C.|Gil Vicente]]|clubnat=POR}}
+{{nat fs g player|no=14|pos=FW|name=[[Gianluca Lapadula]]|age={{Birth date and age2|2024|6|20|1990|2|7}}|caps=33|goals=9|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=15|pos=DF|name=[[Miguel Araujo]]|age={{Birth date and age2|2024|6|20|1994|10|24}}|caps=32|goals=0|club=[[Portland Timbers]]|clubnat=USA}}
+{{nat fs g player|no=16|pos=MF|name=[[Wilder Cartagena]]|age={{Birth date and age2|2024|6|20|1994|9|23}}|caps=33|goals=0|club=[[Orlando City SC]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=DF|name=[[Luis Advíncula]]|age={{Birth date and age2|2024|6|20|1990|3|2}}|caps=118|goals=2|club=[[Boca Juniors]]|clubnat=ARG}}
+{{nat fs g player|no=18|pos=FW|name=[[André Carrillo]]|age={{Birth date and age2|2024|6|20|1991|6|14}}|caps=99|goals=11|club=[[Al Qadsiah FC|Al-Qadsiah]]|clubnat=KSA}}
+{{nat fs g player|no=19|pos=DF|name=[[Oliver Sonne]]|age={{Birth date and age2|2024|6|20|2000|11|10}}|caps=3|goals=0|club=[[Silkeborg IF|Silkeborg]]|clubnat=DEN}}
+{{nat fs g player|no=20|pos=FW|name=[[Edison Flores]]|age={{Birth date and age2|2024|6|20|1994|5|15}}|caps=73|goals=16|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=21|pos=GK|name=[[Diego Romero (footballer, born 2001)|Diego Romero]]|age={{Birth date and age2|2024|6|20|2001|8|17}}|caps=0|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=22|pos=DF|name=[[Alexander Callens]]|age={{Birth date and age2|2024|6|20|1992|5|4}}|caps=41|goals=1|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|no=23|pos=MF|name=[[Piero Quispe]]|age={{Birth date and age2|2024|6|20|2001|8|14}}|caps=6|goals=1|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=FW|name=[[José Rivera (Peruvian footballer)|José Rivera]]|age={{Birth date and age2|2024|6|20|1997|5|8}}|caps=3|goals=0|club=[[Club Universitario de Deportes|Universitario]]|clubnat=PER}}
+{{nat fs g player|no=25|pos=FW|name=[[Joao Grimaldo]]|age={{Birth date and age2|2024|6|20|2003|2|20}}|caps=7|goals=1|club=[[Sporting Cristal]]|clubnat=PER}}
+{{nat fs g player|no=26|pos=FW|name=[[Franco Zanelatto]]|age={{Birth date and age2|2024|6|20|2000|5|9}}|caps=4|goals=0|club=[[Club Alianza Lima|Alianza Lima]]|clubnat=PER}}
+{{nat fs end}}
+
+===Chile===
+[[Chile national football team|Chile]] announced their 55-man provisional list on May 5, 2024.<ref>{{cite web|url=https://laroja.cl/new/Lista-Provisional-Conmebol-Copa-America-USA-2024|title=Lista Provisional Conmebol Copa América USA 2024|publisher=[[Football Federation of Chile]]|website=La Roja|date=5 May 2024|access-date=8 May 2024|language=es}}</ref> The final squad of 26 players was announced on June 13.<ref>{{cite web|url=https://laroja.cl/new/nmina-oficial-seleccin-chilena-conmebol-copa-amrica-eeuu-2024|title=Nómina oficial – Selección Chilena – CONMEBOL Copa América EE.UU. 2024|publisher=Football Federation of Chile|website=La Roja|date=13 June 2024|access-date=13 June 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Ricardo Gareca]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Claudio Bravo]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1983|4|13}}|caps=148|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=2|pos=DF|name=[[Gabriel Suazo]]|age={{birth date and age2|2024|6|20|1997|8|9}}|caps=25|goals=0|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Guillermo Maripán]]|age={{birth date and age2|2024|6|20|1994|5|6}}|caps=47|goals=2|club=[[AS Monaco FC|Monaco]]|clubnat=FRA}}
+{{nat fs g player|no=4|pos=DF|name=[[Mauricio Isla]]|age={{birth date and age2|2024|6|20|1988|6|12}}|caps=139|goals=5|club=[[Club Atlético Independiente|Independiente]]|clubnat=ARG}}
+{{nat fs g player|no=5|pos=DF|name=[[Paulo Díaz]]|age={{birth date and age2|2024|6|20|1994|8|25}}|caps=46|goals=1|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=6|pos=DF|name=[[Thomas Galdames]]|age={{birth date and age2|2024|6|20|1998|11|20}}|caps=0|goals=0|club=[[Godoy Cruz Antonio Tomba|Godoy Cruz]]|clubnat=ARG}}
+{{nat fs g player|no=7|pos=MF|name=[[Marcelino Núñez]]|age={{birth date and age2|2024|6|20|2000|3|1}}|caps=25|goals=5|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=FW|name=[[Darío Osorio]]|age={{birth date and age2|2024|6|20|2004|1|24}}|caps=8|goals=1||club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=9|pos=FW|name=[[Víctor Dávila]]|age={{birth date and age2|2024|6|20|1997|11|4}}|caps=11|goals=3|club=[[PFC CSKA Moscow|CSKA Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=10|pos=FW|name=[[Alexis Sánchez]]|age={{birth date and age2|2024|6|20|1988|12|19}}|caps=163|goals=51|club=[[Inter Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name=[[Eduardo Vargas]]|age={{birth date and age2|2024|6|20|1989|11|20}}|caps=109|goals=42|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Gabriel Arias (footballer)|Gabriel Arias]]|age={{birth date and age2|2024|6|20|1987|9|13}}|caps=16|goals=0|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG}}
+{{nat fs g player|no=13|pos=MF|name=[[Erick Pulgar]]|age={{birth date and age2|2024|6|20|1994|1|15}}|caps=49|goals=4|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=FW|name=[[Cristián Zavala]]|age={{birth date and age2|2024|6|20|1999|8|3}}|caps=3|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=15|pos=MF|name=[[Diego Valdés (Chilean footballer)|Diego Valdés]]|age={{birth date and age2|2024|6|20|1994|1|30}}|caps=31|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=DF|name=[[Igor Lichnovsky]]|age={{birth date and age2|2024|6|20|1994|3|7}}|caps=10|goals=0|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=17|pos=MF|name=[[Esteban Pavez]]|age={{birth date and age2|2024|6|20|1990|5|1}}|caps=13|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=18|pos=MF|name=[[Rodrigo Echeverría]]|age={{birth date and age2|2024|6|20|1995|4|17}}|caps=11|goals=1|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=19|pos=FW|name=[[Marcos Bolados]]|age={{birth date and age2|2024|6|20|1996|2|28}}|caps=7|goals=2|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=20|pos=FW|name=[[Maximiliano Guerrero]]|age={{birth date and age2|2024|6|20|2000|1|15}}|caps=1|goals=0|club=[[Club Universidad de Chile|Universidad de Chile]]|clubnat=CHI}}
+{{nat fs g player|no=21|pos=DF|name=[[Matías Catalán]]|age={{birth date and age2|2024|6|20|1992|8|19}}|caps=7|goals=0|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG}}
+{{nat fs g player|no=22|pos=FW|name=[[Ben Brereton Díaz]]|age={{birth date and age2|2024|6|20|1999|4|18}}|caps=30|goals=7|club=[[Sheffield United F.C.|Sheffield United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Brayan Cortés]]|age={{birth date and age2|2024|6|20|1995|3|11}}|caps=16|goals=0|club=[[Colo-Colo]]|clubnat=CHI}}
+{{nat fs g player|no=24|pos=MF|name=[[César Pérez (footballer)|César Pérez]]|age={{birth date and age2|2024|6|20|2002|11|29}}|caps=3|goals=0|club=[[Unión La Calera]]|clubnat=CHI}}
+{{nat fs g player|no=25|pos=DF|name=[[Benjamín Kuscevic]]|age={{birth date and age2|2024|6|20|1996|5|2}}|caps=8|goals=0|club=[[Fortaleza Esporte Clube|Fortaleza]]|clubnat=BRA}}
+{{nat fs g player|no=26|pos=DF|name=[[Nicolás Fernández (footballer, born 1999)|Nicolás Fernández]]|age={{birth date and age2|2024|6|20|1999|8|3}}|caps=2|goals=0|club=[[Audax Italiano]]|clubnat=CHI}}
+{{nat fs end}}
+
+===Canada===
+[[Canada men's national soccer team|Canada]] announced their 26-man final squad on June 15, 2024.<ref>{{cite web|url=https://canadasoccer.com/news/canmnt-announce-2024-copa-america-roster/|title=CANMNT ANNOUNCE 2024 COPA AMÉRICA ROSTER|publisher=[[Canadian Soccer Association]]|location=Ottawa|date=15 June 2024}}</ref> [[Joel Waterman]] replaced [[Junior Hoilett]], who was forced to withdraw from the final squad due to injury.<ref>{{cite web|url= https://x.com/bensteiner00/status/1802182834414866625?s=46q|title= Changes to Canada's Copa America Squad|publisher= Ben Steiner|date=15 June 2024}}</ref>
+
+Head coach: {{flagicon|USA}} [[Jesse Marsch]]
+
+{{nat fs g start}} 
+{{nat fs g player|no=1|pos=GK|name=[[Dayne St. Clair]]|age={{birth date and age2|2024|6|20|1997|5|9}}|caps=5|goals=0|club=[[Minnesota United FC]]|clubnat=USA}} 
+{{nat fs g player|no=2|pos=DF|name=[[Alistair Johnston]]|age={{birth date and age2|2024|6|20|1998|10|8}}|caps=42|goals=1|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}} 
+{{nat fs g player|no=3|pos=DF|name=[[Luc de Fougerolles]]|age={{birth date and age2|2024|6|20|2005|10|12}}|caps=1|goals=0|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}} 
+{{nat fs g player|no=4|pos=DF|name=[[Kamal Miller]]|age={{birth date and age2|2024|6|20|1997|5|16}}|caps=43|goals=0|club=[[Portland Timbers]]|clubnat=USA}} 
+{{nat fs g player|no=5|pos=DF|name=[[Joel Waterman]]|age={{birth date and age2|2024|6|20|1996|1|24}}|caps=3|goals=0|club=[[CF Montréal]] |clubnat=CAN}} 
+{{nat fs g player|no=6|pos=MF|name=[[Samuel Piette]]|age={{birth date and age2|2024|6|20|1994|11|12}}|caps=69|goals=0|club=[[CF Montréal]]|clubnat=CAN}} 
+{{nat fs g player|no=7|pos=MF|name=[[Stephen Eustáquio]]|age={{birth date and age2|2024|6|20|1996|12|21}}|caps=37|goals=4|club=[[FC Porto|Porto]]|clubnat=POR}} 
+{{nat fs g player|no=8|pos=MF|name=[[Ismaël Koné]]|age={{birth date and age2|2024|6|20|2002|6|16}}|caps=19|goals=2|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Cyle Larin]]|age={{birth date and age2|2024|6|20|1995|4|17}}|caps=68|goals=29|club=[[RCD Mallorca|Mallorca]]|clubnat=ESP}} 
+{{nat fs g player|no=10|pos=FW|name=[[Jonathan David]]|age={{birth date and age2|2024|6|20|2000|1|14}}|caps=48|goals=26|club=[[Lille OSC|Lille]]|clubnat=FRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Theo Bair]]|age={{birth date and age2|2024|6|20|1999|8|27}}|caps=2|goals=1|club=[[Motherwell F.C.|Motherwell]]|clubnat=SCO}} 
+{{nat fs g player|no=12|pos=FW|name=[[Jacen Russell-Rowe]]|age={{birth date and age2|2024|6|20|2002|9|13}}|caps=5|goals=0|club=[[Columbus Crew]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name=[[Derek Cornelius]]|age={{birth date and age2|2024|6|20|1997|11|25}}|caps=20|goals=0|club=[[Malmö FF]]|clubnat=SWE}} 
+{{nat fs g player|no=14|pos=FW|name=[[Jacob Shaffelburg]]|age={{birth date and age2|2024|6|20|1999|11|26}}|caps=10|goals=2|club=[[Nashville SC]]|clubnat=USA}} 
+{{nat fs g player|no=15|pos=DF|name=[[Moïse Bombito]]|age={{birth date and age2|2024|6|20|2000|3|30}}|caps=6|goals=0|club=[[Colorado Rapids]]|clubnat=USA}} 
+{{nat fs g player|no=16|pos=GK|name=[[Maxime Crépeau]]|age={{birth date and age2|2024|6|20|1994|4|11}}|caps=17|goals=0|club=[[Portland Timbers]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=FW|name=[[Tajon Buchanan]]|age={{birth date and age2|2024|6|20|1999|2|8}}|caps=38|goals=4|club=[[Inter Milan]]|clubnat=ITA}} 
+{{nat fs g player|no=18|pos=GK|name=[[Tom McGill]]|age={{birth date and age2|2024|6|20|2000|3|25}}|caps=0|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=DF|name=[[Alphonso Davies]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|2000|11|2}}|caps=47|goals=15|club=[[FC Bayern Munich|Bayern Munich]]|clubnat=GER}}
+{{nat fs g player|no=20|pos=DF|name=[[Ali Ahmed (soccer)|Ali Ahmed]]|age={{birth date and age2|2024|6|20|2000|10|10}}|caps=4|goals=0|club=[[Vancouver Whitecaps FC]]|clubnat=CAN}}
+{{nat fs g player|no=21|pos=MF|name=[[Jonathan Osorio]]|age={{birth date and age2|2024|6|20|1992|6|12}}|caps=72|goals=9|club=[[Toronto FC]]|clubnat=CAN}} 
+{{nat fs g player|no=22|pos=DF|name=[[Richie Laryea]]|age={{birth date and age2|2024|6|20|1995|1|7}}|caps=49|goals=1|club=[[Toronto FC]]|clubnat=CAN}} 
+{{nat fs g player|no=23|pos=FW|name=[[Liam Millar]]|age={{birth date and age2|2024|6|20|1999|9|27}}|caps=26|goals=1|club=[[Preston North End F.C.|Preston North End]]|clubnat=ENG}} 
+{{nat fs g player|no=24|pos=MF|name=[[Mathieu Choinière]]|age={{birth date and age2|2024|6|20|1999|2|7}}|caps=3|goals=0|club=[[CF Montréal]]|clubnat=CAN}} 
+{{nat fs g player|no=25|pos=FW|name=[[Tani Oluwaseyi]]|age={{birth date and age2|2024|6|20|2000|5|15}}|caps=1|goals=0|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=26|pos=DF|name=[[Kyle Hiebert]]|age={{birth date and age2|2024|6|20|1997|7|30}}|caps=2|goals=0|club=[[St. Louis City SC]]|clubnat=USA}}
+{{nat fs end}}
+
+==Group B==
+
+===Mexico===
+[[Mexico national football team|Mexico]] announced a reduced provisional list of 31 players on May 10, 2024.<ref>{{cite tweet|user=miseleccionmxEN|number=1789001249020428507|title=One roster, 31 players, 1 goal!|publisher=[[Mexican Football Federation]]|date=10 May 2024|access-date=10 May 2024|url-status=live|archive-url=https://archive.ph/HpM0B|archive-date=14 June 2024}}</ref><ref>{{cite news|url=https://kdhnews.com/sports/soccer/mexico-veterans-ochoa-jim-nez-and-lozano-are-out-of-copa-america-squad/article_c7dae082-fad2-5e10-864f-133e9c302cb9.html|title=Mexico veterans Ochoa, Jiménez and Lozano are out of Copa America squad|publisher=[[Killeen Daily Herald]]|website=kdhnews.com|first=Carlos|last=Rodríguez|agency=[[Associated Press]]|date=10 May 2024|access-date=10 May 2024}}</ref> On June 11, Mexico announced the final five players to be cut, those being [[Alexis Peña (Mexican footballer)|Alexis Peña]], [[Jordan Carrillo]], [[Andrés Montaño (footballer)|Andrés Montaño]], [[Fernando Beltrán]] and [[Víctor Guzmán (footballer, born 2002)|Víctor Guzmán]],<ref>{{cite news|url=https://www.tvazteca.com/aztecadeportes/seleccion-mexicana-jugadores-fuera-convocatoria-copa-america-jaime-lozano|title=¡Oficial! Estos son los cinco jugadores de México que se quedaron fuera de la Copa América|publisher=[[Azteca Deportes]]|date=11 June 2024|access-date=12 June 2024|language=es}}</ref> thus creating their final 26-man squad which was confirmed on June 14.<ref>{{cite news|url=https://miseleccion.mx/noticias/5538/Convocatoria-de-la-Selecci%C3%B3n-Nacional-de-M%C3%A9xico|title=Convocatoria de la Selección Nacional de México|publisher=Mexican Football Federation|date=14 June 2024|access-date=14 June 2024|language=es}}</ref>
+
+Head coach: [[Jaime Lozano]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Julio González (footballer, born 1991)|Julio González]]|age={{birth date and age2|2024|6|20|1991|4|23}}|caps=2|goals=0|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=2|pos=DF|name=[[Jorge Sánchez (footballer, born 1997)|Jorge Sánchez]]|age={{birth date and age2|2024|6|20|1997|12|10}}|caps=41|goals=1|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=3|pos=DF|name=[[César Montes]]|age={{birth date and age2|2024|6|20|1997|2|24}}|caps=44|goals=1|club=[[UD Almería|Almería]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=MF|name=[[Edson Álvarez]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1997|10|24}}|caps=78|goals=5|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name=[[Johan Vásquez (footballer, born 1998)|Johan Vásquez]]|age={{birth date and age2|2024|6|20|1998|10|22}}|caps=23|goals=1|club=[[Genoa CFC|Genoa]]|clubnat=ITA}}
+{{nat fs g player|no=6|pos=DF|name=[[Gerardo Arteaga]]|age={{birth date and age2|2024|6|20|1998|9|7}}|caps=24|goals=1|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=7|pos=MF|name=[[Luis Romo]]|age={{birth date and age2|2024|6|20|1995|6|5}}|caps=46|goals=3|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=8|pos=MF|name=[[Carlos Rodríguez (footballer, born 1997)|Carlos Rodríguez]]|age={{birth date and age2|2024|6|20|1997|1|3}}|caps=50|goals=0|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=9|pos=FW|name=[[Julián Quiñones]]|age={{birth date and age2|2024|6|20|1997|3|24}}|caps=5|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=10|pos=FW|name=[[Alexis Vega (Mexican footballer)|Alexis Vega]]|age={{birth date and age2|2024|6|20|1997|11|25}}|caps=29|goals=6|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=FW|name=[[Santiago Giménez]]|age={{birth date and age2|2024|6|20|2001|4|18}}|caps=27|goals=4|club=[[Feyenoord]]|clubnat=NED}}
+{{nat fs g player|no=12|pos=GK|name=[[Carlos Acevedo]]|age={{birth date and age2|2024|6|20|1996|4|19}}|caps=6|goals=0|club=[[Santos Laguna]]|clubnat=MEX}}
+{{nat fs g player|no=13|pos=DF|name=[[Jesús Orozco (Mexican footballer)|Jesús Orozco]]|age={{birth date and age2|2024|6|20|2002|2|19}}|caps=3|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=14|pos=MF|name=[[Érick Sánchez]]|age={{birth date and age2|2024|6|20|1999|9|27}}|caps=27|goals=3|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|no=15|pos=FW|name=[[Uriel Antuna]]|age={{birth date and age2|2024|6|20|1997|8|21}}|caps=61|goals=13|club=[[Cruz Azul]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=MF|name=[[Jordi Cortizo]]|age={{birth date and age2|2024|6|20|1996|6|30}}|caps=4|goals=0|club=[[C.F. Monterrey|Monterrey]]|clubnat=MEX}}
+{{nat fs g player|no=17|pos=MF|name=[[Orbelín Pineda]]|age={{birth date and age2|2024|6|20|1996|3|24}}|caps=70|goals=10|club=[[AEK Athens F.C.|AEK Athens]]|clubnat=GRE}}
+{{nat fs g player|no=18|pos=FW|name=[[Marcelo Flores]]|age={{birth date and age2|2024|6|20|2003|10|1}}|caps=3|goals=0|club=[[Tigres UANL|UANL]]|clubnat=MEX}}
+{{nat fs g player|no=19|pos=DF|name=[[Israel Reyes]]|age={{birth date and age2|2024|6|20|2000|5|23}}|caps=15|goals=2|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=DF|name=[[Brian García]]|age={{birth date and age2|2024|6|20|1997|10|31}}|caps=2|goals=0|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=FW|name=[[César Huerta]]|age={{birth date and age2|2024|6|20|2000|12|3}}|caps=8|goals=1|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=22|pos=FW|name=[[Guillermo Martínez (footballer)|Guillermo Martínez]]|age={{birth date and age2|2024|6|20|1995|3|15}}|caps=3|goals=2|club=[[Club Universidad Nacional|UNAM]]|clubnat=MEX}}
+{{nat fs g player|no=23|pos=GK|name=[[Raúl Rangel (footballer)|Raúl Rangel]]|other=|age={{birth date and age2|2024|6|20|2000|2|25}}|caps=1|goals=0|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=24|pos=MF|name=[[Luis Chávez (footballer)|Luis Chávez]]|age={{birth date and age2|2024|6|20|1996|1|15}}|caps=31|goals=4|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=MF|name=[[Roberto Alvarado]]|age={{birth date and age2|2024|6|20|1998|9|7}}|caps=44|goals=5|club=[[C.D. Guadalajara|Guadalajara]]|clubnat=MEX}}
+{{nat fs g player|no=26|pos=DF|name=[[Bryan González (Mexican footballer)|Bryan González]]|age={{birth date and age2|2024|6|20|2003|4|10}}|caps=1|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Ecuador===
+[[Ecuador national football team|Ecuador]] announced their 26-man final squad on May 29, 2024.<ref>{{cite web|url=https://www.eluniverso.com/deportes/futbol/ecuador-presenta-lista-oficial-para-la-copa-america-gonzalo-plata-y-robert-arboleda-quedaron-relegados-nota/|title=Ecuador presenta lista oficial para la Copa América: Gonzalo Plata y Robert Arboleda quedaron relegados|trans-title=Ecuador presents official roster for Copa America: Gonzalo Plata and Robert Arboleda left off the list|publisher=[[El Universo]]|date=29 May 2024|language=es}}</ref><ref>{{cite web|url=https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-convocados-copa-america-2.html|title=Selección de Ecuador convocó sus 26 jugadores para la Copa América 2024|trans-title=Ecuador's 26 players called up for the Copa América 2024|publisher=[[El Comercio (Ecuador)|El Comercio]]|first=Alexis|last=Sinchire|date=29 May 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ESP}} [[Félix Sánchez (football manager)|Félix Sánchez]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Hernán Galíndez]]|age={{Birth date and age2|2024|6|20|1987|3|30}}|caps=19|goals=0|club=[[Club Atlético Huracán|Huracán]]|clubnat=ARG}}
+{{nat fs g player|no=2|pos=DF|name=[[Félix Torres (footballer, born 1997)|Félix Torres]]|age={{Birth date and age2|2024|6|20|1997|1|11}}|caps=33|goals=5|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|no=3|pos=DF|name=[[Piero Hincapié]]|age={{Birth date and age2|2024|6|20|2002|1|9}}|caps=33|goals=2|club=[[Bayer 04 Leverkusen|Bayer Leverkusen]]|clubnat=GER}}
+{{nat fs g player|no=4|pos=DF|name=[[Joel Ordóñez]]|age={{Birth date and age2|2024|6|20|2004|4|21}}|caps=2|goals=0|club=[[Club Brugge KV|Club Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=5|pos=MF|name=[[José Cifuentes]]|age={{Birth date and age2|2024|6|20|1999|3|12}}|caps=21|goals=0|club=[[Cruzeiro Esporte Clube|Cruzeiro]]|clubnat=BRA}}
+{{nat fs g player|no=6|pos=DF|name=[[Willian Pacho]]|age={{Birth date and age2|2024|6|20|2001|10|16}}|caps=12|goals=2|club=[[Eintracht Frankfurt]]|clubnat=GER}}
+{{nat fs g player|no=7|pos=DF|name=[[Layan Loor]]|age={{Birth date and age2|2024|6|20|2001|5|23}}|caps=1|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=8|pos=MF|name=[[Carlos Gruezo (footballer, born 1995)|Carlos Gruezo]]|age={{Birth date and age2|2024|6|20|1995|4|19}}|caps=59|goals=1|club=[[San Jose Earthquakes]]|clubnat=USA}}
+{{nat fs g player|no=9|pos=MF|name=[[John Yeboah]]|age={{Birth date and age2|2024|6|20|2000|6|23}}|caps=3|goals=2|club=[[Raków Częstochowa]]|clubnat=POL}}
+{{nat fs g player|no=10|pos=MF|name=[[Kendry Páez]]|age={{Birth date and age2|2024|6|20|2007|5|4}}|caps=9|goals=1|club=[[Independiente del Valle]]|clubnat=ECU}}
+{{nat fs g player|no=11|pos=FW|name=[[Kevin Rodríguez (footballer, born 2000)|Kevin Rodríguez]]|age={{Birth date and age2|2024|6|20|2000|3|4}}|caps=13|goals=1|club=[[Royale Union Saint-Gilloise|Union Saint-Gilloise]]|clubnat=BEL}}
+{{nat fs g player|no=12|pos=GK|name=[[Moisés Ramírez]]|age={{Birth date and age2|2024|6|20|2000|9|9}}|caps=6|goals=0|club=[[Independiente del Valle]]|clubnat=ECU}}
+{{nat fs g player|no=13|pos=FW|name=[[Enner Valencia]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1989|11|4}}|caps=86|goals=41|club=[[SC Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=MF|name=[[Alan Minda]]|age={{Birth date and age2|2024|6|20|2003|5|14}}|caps=4|goals=0|club=[[Cercle Brugge K.S.V.|Cercle Brugge]]|clubnat=BEL}}
+{{nat fs g player|no=15|pos=MF|name=[[Ángel Mena]]|age={{Birth date and age2|2024|6|20|1988|1|21}}|caps=59|goals=8|club=[[Club León|León]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=MF|name=[[Jeremy Sarmiento]]|age={{Birth date and age2|2024|6|20|2002|6|16}}|caps=17|goals=1|club=[[Ipswich Town F.C.|Ipswich Town]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Ángelo Preciado]]|age={{Birth date and age2|2024|6|20|1998|2|18}}|caps=39|goals=0|club=[[AC Sparta Prague|Sparta Prague]]|clubnat=CZE}}
+{{nat fs g player|no=18|pos=MF|name=[[Joao Ortiz (Ecuadorian footballer)|Joao Ortiz]]|age={{Birth date and age2|2024|6|20|1996|5|1}}|caps=9|goals=0|club=[[Independiente del Valle]]|clubnat=ECU}}
+{{nat fs g player|no=19|pos=FW|name=[[Jordy Caicedo]]|age={{Birth date and age2|2024|6|20|1997|11|18}}|caps=14|goals=3|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=20|pos=MF|name=[[Janner Corozo]]|age={{Birth date and age2|2024|6|20|1995|9|8}}|caps=4|goals=1|club=[[Barcelona S.C.|Barcelona]]|clubnat=ECU}}
+{{nat fs g player|no=21|pos=MF|name=[[Alan Franco (footballer, born 1998)|Alan Franco]]|age={{Birth date and age2|2024|6|20|1998|8|21}}|caps=36|goals=1|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=GK|name=[[Alexander Domínguez]]|age={{Birth date and age2|2024|6|20|1987|6|5}}|caps=74|goals=0|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs g player|no=23|pos=MF|name=[[Moisés Caicedo]]|age={{Birth date and age2|2024|6|20|2001|11|2}}|caps=42|goals=3|club=[[Chelsea F.C.|Chelsea]]|clubnat=ENG}}
+{{nat fs g player|no=24|pos=DF|name=[[José Hurtado (footballer)|José Hurtado]]|age={{Birth date and age2|2024|6|20|2001|12|23}}|caps=8|goals=0|club=[[Red Bull Bragantino]]|clubnat=BRA}}
+{{nat fs g player|no=25|pos=DF|name=[[Jackson Porozo]]|age={{Birth date and age2|2024|6|20|2000|8|4}}|caps=8|goals=0|club=[[Kasımpaşa S.K.|Kasımpaşa]]|clubnat=TUR}}
+{{nat fs g player|no=26|pos=DF|name=[[Andrés Micolta]]|age={{Birth date and age2|2024|6|20|1999|7|6}}|caps=1|goals=0|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs end}}
+
+===Venezuela===
+[[Venezuela national football team|Venezuela]] announced their 47-man provisional list on May 13, 2024.<ref>{{cite web|url=https://www.elnacional.com/deportes/fernando-batista-anuncio-lista-de-preseleccionados-para-la-copa-america/|title=Fernando Batista anunció lista de preseleccionados para la Copa América|trans-title=Fernando Batista announced the provisional list for Copa América|work=[[El Nacional (Venezuela)|El Nacional]]|date=13 May 2024|access-date=13 May 2024|language=es}}</ref> On May 28, the provisional list was reduced to 30 players.<ref>{{cite web|url=https://www.eluniversal.com/deportes/182827/la-vinotinto-presenta-su-lista-preliminar-de-30-jugadores-para-la-copa-america|title=La Vinotinto presenta su lista preliminar de 30 jugadores para la Copa América|trans-title=La Vinotinto presents its preliminary list of 30 players for the Copa América|work=[[El Universal (Caracas)|El Universal]]|location=Caracas|date=28 May 2024|access-date=28 May 2024|language=es}}</ref> The final squad of 26 players was announced on June 15.<ref>{{cite web|url=https://www.elnacional.com/deportes/futbol/video-la-vinotinto-presenta-la-lista-definitiva-para-la-copa-america/|title=[VIDEO] La Vinotinto presenta la lista definitiva para la Copa América|trans-title=[VIDEO] La Vinotinto presents the definitive list for the Copa América|work=[[El Nacional (Venezuela)|El Nacional]]|date=15 June 2024|access-date=15 June 2024|language=es}}</ref><ref>{{cite news|url=https://www.fvf.com.ve/articulos/la-vinotinto-confirma-sus-26-jugadores-para-la-conmebol-copa-america-2024|title=La Vinotinto confirma sus 26 jugadores para la CONMEBOL Copa América 2024|trans-title=La Vinotinto confirms their 26 players for The 2024 CONMEBOL Copa America|publisher=[[Venezuelan Football Federation]]|date=16 June 2024|access-date=16 June 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Fernando Batista]]
+
+{{nat fs g start}}
+{{nat fs g player|pos=GK|no=1|name=[[Joel Graterol]]|age={{birth date and age2|2024|6|20|1997|2|13}}|caps=12|goals=0|club=[[América de Cali]]|clubnat=COL}}
+{{nat fs g player|pos=DF|no=2|name=[[Nahuel Ferraresi]]|age={{birth date and age2|2024|6|20|1998|11|19}}|caps=25|goals=1|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|pos=DF|no=3|name=[[Yordan Osorio]]|age={{birth date and age2|2024|6|20|1994|5|10}}|caps=29|goals=0|club=[[Parma Calcio 1913|Parma]]|clubnat=ITA}}
+{{nat fs g player|pos=DF|no=4|name=[[Jon Aramburu]]|age={{birth date and age2|2024|6|20|2002|7|23}}|caps=3|goals=0|club=[[Real Sociedad]]|clubnat=ESP}}
+{{nat fs g player|pos=DF|no=5|name=[[Jhon Chancellor]]|age={{birth date and age2|2024|6|20|1992|1|2}}|caps=37|goals=3|club=[[Metropolitanos F.C.|Metropolitanos]]|clubnat=VEN}}
+{{nat fs g player|pos=MF|no=6|name=[[Yangel Herrera]]|age={{birth date and age2|2024|6|20|1998|1|7}}|caps=34|goals=3|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|pos=MF|no=7|name=[[Jefferson Savarino]]|age={{birth date and age2|2024|6|20|1996|11|11}}|caps=38|goals=3|club=[[Botafogo de Futebol e Regatas|Botafogo]]|clubnat=BRA}}
+{{nat fs g player|pos=MF|no=8|name=[[Tomás Rincón]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1988|1|13}}|caps=132|goals=1|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{nat fs g player|pos=FW|no=9|name=[[Jhonder Cádiz]]|age={{birth date and age2|2024|6|20|1995|7|29}}|caps=7|goals=0|club=[[F.C. Famalicão|Famalicão]]|clubnat=POR}}
+{{nat fs g player|pos=MF|no=10|name=[[Yeferson Soteldo]]|age={{birth date and age2|2024|6|20|1997|6|30}}|caps=38|goals=4|club=[[Grêmio FBPA|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|pos=MF|no=11|name=[[Darwin Machís]]|age={{birth date and age2|2024|6|20|1993|2|7}}|caps=45|goals=11|club=[[Cádiz CF|Cádiz]]|clubnat=ESP}}
+{{nat fs g player|pos=GK|no=12|name=[[José Contreras (footballer, born 1994)|José Contreras]]|age={{birth date and age2|2024|6|20|1994|10|20}}|caps=6|goals=0|club=[[Águilas Doradas]]|clubnat=COL}}
+{{nat fs g player|pos=MF|no=13|name=[[José Andrés Martínez]]|age={{birth date and age2|2024|6|20|1994|9|7}}|caps=28|goals=0|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|pos=DF|no=14|name=[[Christian Makoun]]|age={{birth date and age2|2024|6|20|2000|3|5}}|caps=10|goals=0|club=[[Anorthosis Famagusta FC|Anorthosis Famagusta]]|clubnat=CYP}}
+{{nat fs g player|pos=DF|no=15|name=[[Miguel Navarro (footballer)|Miguel Navarro]]|age={{birth date and age2|2024|6|20|1999|2|26}}|caps=11|goals=0|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG}}
+{{nat fs g player|pos=MF|no=16|name=[[Telasco Segovia]]|age={{birth date and age2|2024|6|20|2003|4|2}}|caps=2|goals=0|club=[[Casa Pia A.C.|Casa Pia]]|clubnat=POR}}
+{{nat fs g player|pos=MF|no=17|name=[[Matías Lacava]]|age={{birth date and age2|2024|6|20|2002|10|24}}|caps=0|goals=0|club=[[F.C. Vizela|Vizela]]|clubnat=POR}}
+{{nat fs g player|pos=MF|no=18|name=[[Cristian Cásseres Jr.]]|age={{birth date and age2|2024|6|20|2000|1|20}}|caps=28|goals=0|club=[[Toulouse FC|Toulouse]]|clubnat=FRA}}
+{{nat fs g player|pos=FW|no=19|name=[[Eric Ramírez (footballer, born 1998)|Eric Ramírez]]|age={{birth date and age2|2024|6|20|1998|11|20}}|caps=9|goals=1|club=[[Atlético Nacional]]|clubnat=COL}}
+{{nat fs g player|pos=DF|no=20|name=[[Wilker Ángel]]|age={{birth date and age2|2024|6|20|1993|3|18}}|caps=36|goals=2|club=[[Criciúma Esporte Clube|Criciúma]]|clubnat=BRA}}
+{{nat fs g player|pos=DF|no=21|name=[[Alexander González (footballer, born 1992)|Alexander González]]|age={{birth date and age2|2024|6|20|1992|11|13}}|caps=68|goals=2|club=[[C.S. Emelec|Emelec]]|clubnat=ECU}}
+{{nat fs g player|pos=GK|no=22|name=[[Rafael Romo]]|age={{birth date and age2|2024|6|20|1990|2|25}}|caps=20|goals=0|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|pos=FW|no=23|name=[[Salomón Rondón]]|age={{birth date and age2|2024|6|20|1989|9|16}}|caps=104|goals=41|club=[[C.F. Pachuca|Pachuca]]|clubnat=MEX}}
+{{nat fs g player|pos=MF|no=24|name=[[Kervin Andrade]]|age={{birth date and age2|2024|6|20|2005|4|13}}|caps=1|goals=0|club=[[Fortaleza Esporte Clube|Fortaleza]]|clubnat=BRA}}
+{{nat fs g player|pos=MF|no=25|name=[[Eduard Bello]]|age={{birth date and age2|2024|6|20|1995|8|20}}|caps=14|goals=2|club=[[Mazatlán F.C.|Mazatlán]]|clubnat=MEX}}
+{{nat fs g player|pos=MF|no=26|name=[[Daniel Pereira (footballer, born 2000)|Daniel Pereira]]|age={{birth date and age2|2024|6|20|2000|7|14}}|caps=4|goals=0|club=[[Austin FC]]|clubnat=USA}}
+{{nat fs end}}
+
+===Jamaica===
+[[Jamaica national football team|Jamaica]] announced their 26-man final squad on June 12, 2024, including forward [[Leon Bailey]].<ref>{{cite web|url=https://www.jamaicaobserver.com/2024/06/12/bailey-included-strong-reggae-boyz-squad-copa-america/|title=Bailey included in Reggae Boyz squad for Copa America|publisher=[[Jamaica Observer]]|first=Vanessa|last=James|date=12 June 2024}}</ref> However, Bailey declined the call-up due to differences with the [[Jamaica Football Federation]], reducing the Jamaica's squad to 25 players.<ref>{{cite web|url=https://sportsmax.tv/football/international/item/148124-leon-bailey-snubs-jamaica-after-being-named-in-reggae-boyz-copa-america-squad|title=Leon Bailey snubs Jamaica after being named in Reggae Boyz Copa America squad|publisher=[[Sports Max]]|date=13 June 2024}}</ref><ref>{{cite web|url=https://www.caribbeannationalweekly.com/sports/reggae-boyz-coach-dismisses-leon-bailey-drama/|title=Reggae Boyz coach dismisses Leon Bailey drama, focuses on Copa America|publisher=[[Caribbean National Weekly]]|first=Ian|last=Burnett|date=15 June 2024}}</ref>
+
+Head coach: {{flagicon|ISL}} [[Heimir Hallgrímsson]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Shaquan Davis (footballer)|Shaquan Davis]]|age={{birth date and age2|2024|6|20|2000|11|11}}|caps=0|goals=0|club=[[Mount Pleasant Football Academy|Mount Pleasant]]|clubnat=JAM}}
+{{nat fs g player|no=2|pos=DF|name=[[Dexter Lembikisa]]|age={{birth date and age2|2024|6|20|2003|11|4}}|caps=17|goals=1|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs g player|no=3|pos=DF|name=[[Michael Hector]]|age={{birth date and age2|2024|6|20|1992|7|19}}|caps=40|goals=0|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Richard King (footballer)|Richard King]]|age={{birth date and age2|2024|6|20|2001|11|27}}|caps=17|goals=0|club=[[Cavalier F.C.|Cavalier]]|clubnat=JAM}}
+{{nat fs g player|no=5|pos=DF|name=[[Ethan Pinnock]]|age={{birth date and age2|2024|6|20|1993|5|29|}}|caps=10|goals=0|club=[[Brentford F.C.|Brentford]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Di'Shon Bernard]]|age={{birth date and age2|2024|6|20|2000|10|14}}|caps=15|goals=1|club=[[Sheffield Wednesday F.C.|Sheffield Wednesday]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=FW|name=[[Demarai Gray]]|age={{birth date and age2|2024|6|20|1996|6|28}}|caps=11|goals=5|club=[[Al-Ettifaq FC|Al-Ettifaq]]|clubnat=KSA}}
+{{nat fs g player|no=8|pos=FW|name=[[Kaheim Dixon]]|age={{birth date and age2|2024|6|20|2004|10|4}}|caps=3|goals=1|club=[[Arnett Gardens FC|Arnett Gardens]]|clubnat=JAM}}
+{{nat fs g player|no=9|pos=FW|name=[[Michail Antonio]]|age={{birth date and age2|2024|6|20|1990|3|28}}|caps=15|goals=3|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=10|pos=MF|name=[[Bobby Decordova-Reid]]|age={{birth date and age2|2024|6|20|1993|2|2}}|caps=31|goals=6|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Shamar Nicholson]]|age={{birth date and age2|2024|6|20|1997|2|16}}|caps=47|goals=19|club=[[Clermont Foot|Clermont]]|clubnat=FRA}}
+{{nat fs g player|no=12|pos=DF|name=[[Wes Harding]]|age={{birth date and age2|2024|6|20|1996|10|20}}|caps=2|goals=0|club=[[Millwall F.C.|Millwall]]|clubnat=ENG}}
+{{nat fs g player|no=13|pos=GK|name=[[Coniah Boyce-Clarke]]|age={{birth date and age2|2024|6|20|2003|3|1}}|caps=1|goals=0|club=[[Reading F.C.|Reading]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name=[[Kasey Palmer]]|age={{birth date and age2|2024|6|20|1996|11|9}}|caps=6|goals=0|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[Joel Latibeaudiere]]|age={{birth date and age2|2024|6|20|2000|1|6}}|caps=14|goals=0|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=MF|name=[[Karoy Anderson]]|age={{birth date and age2|2024|6|20|2004|10|1}}|caps=6|goals=0|club=[[Charlton Athletic F.C.|Charlton Athletic]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Damion Lowe]]|age={{birth date and age2|2024|6|20|1993|5|5}}|caps=61|goals=3|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=18|pos=MF|name=[[Alex Marshall (footballer)|Alex Marshall]]|age={{birth date and age2|2024|6|20|1998|2|24}}|caps=14|goals=0|club=[[Portmore United F.C.|Portmore United]]|clubnat=JAM}}
+{{nat fs g player|no=19|pos=MF|name=[[Kevon Lambert]]|age={{birth date and age2|2024|6|20|1997|3|22}}|caps=27|goals=0|club=[[Real Salt Lake]]|clubnat=USA}}
+{{nat fs g player|no=20|pos=FW|name=[[Renaldo Cephas]]|age={{birth date and age2|2024|6|20|1999|12|8}}|caps=5|goals=0|club=[[MKE Ankaragücü|Ankaragücü]]|clubnat=TUR}}
+{{nat fs g player|no=21|pos=DF|name=[[Jon Bell]]|age={{birth date and age2|2024|6|20|1997|8|26}}|caps=1|goals=0|club=[[Seattle Sounders FC]]|clubnat=USA}}
+{{nat fs g player|no=22|pos=DF|name=[[Greg Leigh]]|age={{birth date and age2|2024|6|20|1994|9|30}}|caps=16|goals=1|club=[[Oxford United F.C.|Oxford United]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Jahmali Waite]]|age={{birth date and age2|2024|6|20|1998|12|24}}|caps=10|goals=0|club=[[El Paso Locomotive FC]]|clubnat=USA}}
+{{nat fs g player|no=24|pos=GK|name=[[Andre Blake]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1990|11|21}}|caps=72|goals=0|club=[[Philadelphia Union]]|clubnat=USA}}
+{{nat fs g player|no=25|pos=DF|name=[[Amari'i Bell]]|age={{birth date and age2|2024|6|20|1994|5|5}}|caps=16|goals=1|club=[[Luton Town F.C.|Luton Town]]|clubnat=ENG}}
+{{nat fs end}}
+
+==Group C==
+
+===United States===
+The [[United States men's national soccer team|United States]] announced their 26-man final squad on June 14, 2024.<ref>{{cite web|url=https://www.ussoccer.com/stories/2024/06/us-mens-national-soccer-team-roster-players-2024-copa-america|title=Berhalter Selects 26-Player Roster to Represent the United States in 2024 Copa América|publisher=[[United States Soccer Federation]]|location=Chicago|date=14 June 2024}}</ref>
+
+Head coach: [[Gregg Berhalter]]
+
+{{nat fs g start|background=#002868}}
+{{nat fs g player|no=1|pos=GK|name={{sortname|Matt|Turner|dab=soccer}}|age={{birth date and age2|2024|6|20|1994|6|24}}|caps=41|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name={{sortname|Cameron|Carter-Vickers}}|age={{birth date and age2|2024|6|20|1997|12|31}}|caps=17|goals=0|club=[[Celtic F.C.|Celtic]]|clubnat=SCO}}
+{{nat fs g player|no=3|pos=DF|name={{sortname|Chris|Richards|dab=soccer}}|age={{birth date and age2|2024|6|20|2000|3|28}}|caps=18|goals=1|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=MF|name={{sortname|Tyler|Adams}}|age={{birth date and age2|2024|6|20|1999|2|14}}|caps=39|goals=2|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=5|pos=DF|name={{sortname|Antonee|Robinson}}|age={{birth date and age2|2024|6|20|1997|8|8}}|caps=43|goals=4|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=MF|name={{sortname|Yunus|Musah}}|age={{birth date and age2|2024|6|20|2002|11|29}}|caps=37|goals=0|club=[[AC Milan|Milan]]|clubnat=ITA}} 
+{{nat fs g player|no=7|pos=MF|name={{sortname|Giovanni|Reyna}}|age={{birth date and age2|2024|6|20|2002|11|13}}|caps=28|goals=8|club=[[Borussia Dortmund]]|clubnat=GER}}
+{{nat fs g player|no=8|pos=MF|name={{sortname|Weston|McKennie}}|age={{birth date and age2|2024|6|20|1998|8|28}}|caps=53|goals=11|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name={{sortname|Ricardo|Pepi}}|age={{birth date and age2|2024|6|20|2003|1|9}}|caps=25|goals=10|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=10|pos=FW|name={{sortname|Christian|Pulisic}}|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1998|9|18}}|caps=68|goals=29|club=[[AC Milan|Milan]]|clubnat=ITA}}
+{{nat fs g player|no=11|pos=FW|name={{sortname|Brenden|Aaronson}}|age={{birth date and age2|2024|6|20|2000|10|22}}|caps=41|goals=8|club=[[1. FC Union Berlin|Union Berlin]]|clubnat=GER}}
+{{nat fs g player|no=12|pos=DF|name={{sortname|Miles|Robinson|dab=soccer}}|age={{birth date and age2|2024|6|20|1997|3|14}}|caps=29|goals=3|club=[[FC Cincinnati]]|clubnat=USA}}
+{{nat fs g player|no=13|pos=DF|name={{sortname|Tim|Ream}}|age={{birth date and age2|2024|6|20|1987|10|5}}|caps=58|goals=1|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=14|pos=MF|name={{sortname|Luca|de la Torre}}|age={{birth date and age2|2024|6|20|1998|5|23}}|caps=21|goals=0|club=[[RC Celta de Vigo|Celta Vigo]]|clubnat=ESP}}
+{{nat fs g player|no=15|pos=MF|name={{sortname|Johnny|Cardoso}}|age={{birth date and age2|2024|6|20|2001|9|20}}|caps=13|goals=0|club=[[Real Betis]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=DF|name={{sortname|Shaq|Moore}}|age={{birth date and age2|2024|6|20|1996|11|2}}|caps=19|goals=1|club=[[Nashville SC]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name={{sortname|Malik|Tillman}}|age={{birth date and age2|2024|6|20|2002|5|28}}|caps=11|goals=0|club=[[PSV Eindhoven]]|clubnat=NED}}
+{{nat fs g player|no=18|pos=GK|name={{sortname|Ethan|Horvath}}|age={{birth date and age2|2024|6|20|1995|6|9}}|caps=9|goals=0|club=[[Cardiff City F.C.|Cardiff City]]|clubnat=WAL}}
+{{nat fs g player|no=19|pos=FW|name={{sortname|Haji|Wright}}|age={{birth date and age2|2024|6|20|1998|3|27}}|caps=10|goals=4|club=[[Coventry City F.C.|Coventry City]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name={{sortname|Folarin|Balogun}}|age={{birth date and age2|2024|6|20|2001|7|3}}|caps=12|goals=3|club=[[AS Monaco FC|Monaco]]{{refn|name=mon|group=note|[[AS Monaco FC|Monaco]] is a Monégasque club playing in the [[French football league system|French soccer league system]].}}|clubnat=FRA}}
+{{nat fs g player|no=21|pos=FW|name={{sortname|Timothy|Weah}}|age={{birth date and age2|2024|6|20|2000|2|22}}|caps=39|goals=6|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=22|pos=DF|name={{sortname|Joe|Scally}}|age={{birth date and age2|2024|6|20|2002|12|31}}|caps=11|goals=0|club=[[Borussia Mönchengladbach]]|clubnat=GER}}
+{{nat fs g player|no=23|pos=DF|name={{sortname|Kristoffer|Lund}}|age={{birth date and age2|2024|6|20|2002|5|14}}|caps=3|goals=0|club=[[Palermo FC|Palermo]]|clubnat=ITA}}
+{{nat fs g player|no=24|pos=DF|name={{sortname|Mark|McKenzie|dab=soccer, born 1999}}|age={{birth date and age2|2024|6|20|1999|2|25}}|caps=13|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}} 
+{{nat fs g player|no=25|pos=GK|name={{sortname|Sean|Johnson|dab=soccer}}|age={{birth date and age2|2024|6|20|1989|5|31}}|caps=13|goals=0|club=[[Toronto FC]]|clubnat=CAN}} 
+{{nat fs g player|no=26|pos=FW|name={{sortname|Josh|Sargent}}|age={{birth date and age2|2024|6|20|2000|2|20}}|caps=23|goals=5|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs end}}
+
+===Uruguay===
+[[Uruguay national football team|Uruguay]] announced their 26-man final squad on June 8, 2024.<ref>{{cite web|url=https://www.elpais.com.uy/ovacion/futbol/la-seleccion-de-uruguay-anuncio-a-sus-futbolistas-convocados-para-la-copa-america-se-develo-el-misterio|title=Se conoció la lista de convocados de Uruguay para la Copa América: Luis Suárez está entre los elegidos de Bielsa|trans-title=Uruguay's squad for Copa América announced: Luis Suárez is among Bielsa's chosen players|work=[[El País (Uruguay)|El País]]|date=8 June 2024|access-date=8 June 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Marcelo Bielsa]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Sergio Rochet]]|age={{Birth date and age2|2024|6|20|1993|3|23}}|caps=19|goals=0|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=2|pos=DF|name=[[José María Giménez|José Giménez]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1995|1|20}}|caps=84|goals=8|club=[[Atlético Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=3|pos=DF|name=[[Sebastián Cáceres]]|age={{Birth date and age2|2024|6|20|1999|8|18}}|caps=12|goals=0|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=4|pos=DF|name=[[Ronald Araújo]]|age={{Birth date and age2|2024|6|20|1999|3|7}}|caps=16|goals=1|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=5|pos=MF|name=[[Manuel Ugarte (footballer)|Manuel Ugarte]]|age={{Birth date and age2|2024|6|20|2001|4|11}}|caps=16|goals=0|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=6|pos=MF|name=[[Rodrigo Bentancur]]|age={{Birth date and age2|2024|6|20|1997|6|25}}|caps=59|goals=1|club=[[Tottenham Hotspur F.C.|Tottenham Hotspur]]|clubnat=ENG}}
+{{nat fs g player|no=7|pos=MF|name=[[Nicolás de la Cruz]]|age={{Birth date and age2|2024|6|20|1997|6|1}}|caps=26|goals=5|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=8|pos=MF|name=[[Nahitan Nández]]|age={{Birth date and age2|2024|6|20|1995|12|28}}|caps=56|goals=0|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=9|pos=FW|name=[[Luis Suárez]]|age={{Birth date and age2|2024|6|20|1987|1|24}}|caps=138|goals=68|club=[[Inter Miami CF]]|clubnat=USA}}
+{{nat fs g player|no=10|pos=MF|name=[[Giorgian de Arrascaeta]]|age={{Birth date and age2|2024|6|20|1994|6|1}}|caps=46|goals=10|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=FW|name=[[Facundo Pellistri]]|age={{Birth date and age2|2024|6|20|2001|12|20}}|caps=20|goals=1|club=[[Granada CF|Granada]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Franco Israel]]|age={{Birth date and age2|2024|6|20|2000|4|22}}|caps=2|goals=0|club=[[Sporting CP]]|clubnat=POR}}
+{{nat fs g player|no=13|pos=DF|name=[[Guillermo Varela]]|age={{Birth date and age2|2024|6|20|1993|3|24}}|caps=15|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=14|pos=FW|name=[[Agustín Canobbio]]|age={{Birth date and age2|2024|6|20|1998|10|1}}|caps=12|goals=1|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA}}
+{{nat fs g player|no=15|pos=MF|name=[[Federico Valverde]]|age={{Birth date and age2|2024|6|20|1998|7|22}}|caps=56|goals=6|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=16|pos=DF|name=[[Mathías Olivera]]|age={{Birth date and age2|2024|6|20|1997|10|31}}|caps=18|goals=1|club=[[SSC Napoli|Napoli]]|clubnat=ITA}}
+{{nat fs g player|no=17|pos=DF|name=[[Matías Viña]]|age={{Birth date and age2|2024|6|20|1997|11|9}}|caps=36|goals=0|club=[[CR Flamengo|Flamengo]]|clubnat=BRA}}
+{{nat fs g player|no=18|pos=FW|name=[[Brian Rodríguez]]|age={{Birth date and age2|2024|6|20|2000|5|20}}|caps=23|goals=4|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=19|pos=FW|name=[[Darwin Núñez]]|age={{Birth date and age2|2024|6|20|1999|6|24}}|caps=23|goals=11|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Maximiliano Araújo]]|age={{Birth date and age2|2024|6|20|2000|2|15}}|caps=8|goals=1|club=[[Deportivo Toluca F.C.|Toluca]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=MF|name=[[Emiliano Martínez (footballer, born 1999)|Emiliano Martínez]]|age={{Birth date and age2|2024|6|20|1999|8|17}}|caps=2|goals=0|club=[[FC Midtjylland|Midtjylland]]|clubnat=DEN}}
+{{nat fs g player|no=22|pos=DF|name=[[Nicolás Marichal]]|age={{Birth date and age2|2024|6|20|2001|3|17}}|caps=1|goals=0|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=23|pos=GK|name=[[Santiago Mele]]|age={{Birth date and age2|2024|6|20|1997|9|6}}|caps=4|goals=0|club=[[Atlético Junior]]|clubnat=COL}}
+{{nat fs g player|no=24|pos=DF|name=[[Lucas Olaza]]|age={{Birth date and age2|2024|6|20|1994|7|21}}|caps=3|goals=0|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=FW|name=[[Cristian Olivera]]|age={{Birth date and age2|2024|6|20|2002|4|17}}|caps=3|goals=0|club=[[Los Angeles FC]]|clubnat=USA}}
+{{nat fs g player|no=26|pos=FW|name=[[Brian Ocampo]]|age={{Birth date and age2|2024|6|20|1999|6|25}}|caps=1|goals=0|club=[[Cádiz CF|Cádiz]]|clubnat=ESP}}
+{{nat fs end}}
+
+===Panama===
+[[Panama national football team|Panama]] announced their 26-man final squad on June 14, 2024.<ref>{{Cite web|url=https://www.fepafut.com/blog/2024/06/14/panama-presenta-sus-26-convocados-para-la-copa-america-usa-2024/|title=Panamá presenta sus 26 convocados para la Copa América USA 2024|publisher=[[Panamanian Football Federation]]|last=Da Silva|first=Alexander|date=June 14, 2024|access-date=June 14, 2024|language=es}}</ref> On June 18, midfielder [[Aníbal Godoy]] was ruled out due to an injury and was replaced by defender [[Harold Cummings]].<ref>{{Cite web|url=https://www.fepafut.com/blog/2024/06/18/comunicado-oficial-10/|title=Comunicado Oficial|publisher=Panamanian Football Federation|date=June 18, 2024|access-date=June 18, 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ESP}} [[Thomas Christiansen]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Luis Mejía]]|age={{Birth date and age2|2024|6|20|1991|3|16}}|caps=51|goals=0|club=[[Club Nacional de Football|Nacional]]|clubnat=URU}}
+{{nat fs g player|no=2|pos=DF|name=[[César Blackman]]|age={{Birth date and age2|2024|6|20|1998|4|2}}|caps=20|goals=0|club=[[ŠK Slovan Bratislava|Slovan Bratislava]]|clubnat=SVK}}
+{{nat fs g player|no=3|pos=DF|name=[[José Córdoba]]|age={{Birth date and age2|2024|6|20|2001|6|3}}|caps=14|goals=0|club=[[Norwich City F.C.|Norwich City]]|clubnat=ENG}}
+{{nat fs g player|no=4|pos=DF|name=[[Eduardo Anderson (footballer)|Eduardo Anderson]]|age={{Birth date and age2|2024|6|20|2001|1|31}}|caps=6|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=5|pos=MF|name=[[Abdiel Ayarza]]|age={{Birth date and age2|2024|6|20|1992|9|12}}|caps=27|goals=4|club=[[Cienciano]]|clubnat=PER}}
+{{nat fs g player|no=6|pos=MF|name=[[Cristian Martínez (Panamanian footballer)|Cristian Martínez]]|age={{Birth date and age2|2024|6|20|1997|2|6}}|caps=39|goals=1|club=[[Al Jandal SC|Al-Jandal]]|clubnat=KSA}}
+{{nat fs g player|no=7|pos=MF|name=[[José Luis Rodríguez (footballer, born 1998)|José Luis Rodríguez]]|age={{Birth date and age2|2024|6|20|1998|6|19}}|caps=47|goals=6|club=[[F.C. Famalicão|Famalicão]]|clubnat=POR}}
+{{nat fs g player|no=8|pos=MF|name=[[Adalberto Carrasquilla]]|age={{Birth date and age2|2024|6|20|1998|11|28}}|caps=53|goals=2|club=[[Houston Dynamo FC]]|clubnat=USA}}
+{{nat fs g player|no=9|pos=FW|name=[[Eduardo Guerrero (footballer)|Eduardo Guerrero]]|age={{Birth date and age2|2024|6|20|2000|2|21}}|caps=9|goals=0|club=[[FC Zorya Luhansk|Zorya Luhansk]]|clubnat=UKR}}
+{{nat fs g player|no=10|pos=MF|name=[[Yoel Bárcenas]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1993|10|23}}|caps=83|goals=7|club=[[Mazatlán F.C.|Mazatlán]]|clubnat=MEX}}
+{{nat fs g player|no=11|pos=FW|name=[[Ismael Díaz (footballer, born 1997)|Ismael Díaz]]|age={{Birth date and age2|2024|6|20|1997|5|12}}|caps=36|goals=9|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=12|pos=GK|name=[[César Samudio]]|age={{Birth date and age2|2024|6|20|1994|3|26}}|caps=3|goals=0|club=[[C.D. Marathón|Marathón]]|clubnat=HON}}
+{{nat fs g player|no=13|pos=MF|name=[[Freddy Góndola]]|age={{Birth date and age2|2024|6|20|1995|9|18}}|caps=18|goals=1|club=[[Maccabi Bnei Reineh F.C.|Maccabi Bnei Reineh]]|clubnat=ISR}}
+{{nat fs g player|no=14|pos=MF|name=[[Jovani Welch]]|age={{Birth date and age2|2024|6|20|1999|12|7}}|caps=15|goals=1|club=[[Académico de Viseu F.C.|Académico de Viseu]]|clubnat=POR}}
+{{nat fs g player|no=15|pos=DF|name=[[Eric Davis (Panamanian footballer)|Eric Davis]]|age={{Birth date and age2|2024|6|20|1991|3|31}}|caps=87|goals=7|club=[[FC Košice (2018)|Košice]]|clubnat=SVK}}
+{{nat fs g player|no=16|pos=MF|name=[[Carlos Harvey]]|age={{Birth date and age2|2024|6|20|2000|2|3}}|caps=5|goals=1|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=FW|name=[[José Fajardo (footballer)|José Fajardo]]|age={{Birth date and age2|2024|6|20|1993|8|18}}|caps=46|goals=9|club=[[C.D. Universidad Católica del Ecuador|Universidad Católica]]|clubnat=ECU}}
+{{nat fs g player|no=18|pos=DF|name=[[Omar Valencia]]|age={{Birth date and age2|2024|6|20|2004|6|8}}|caps=2|goals=0|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs g player|no=19|pos=DF|name=[[Iván Anderson]]|age={{Birth date and age2|2024|6|20|1997|11|24}}|caps=11|goals=1|club=[[Fortaleza C.E.I.F.|Fortaleza]]|clubnat=COL}}
+{{nat fs g player|no=20|pos=DF|name=[[Harold Cummings]]|age= {{Birth date and age2|2024|6|20|1992|3|1}} |caps=85|goals=1|club=[[C.S.D. Xelajú MC|Xelajú]]|clubnat=GUA}}
+{{nat fs g player|no=21|pos=MF|name=[[César Yanis]]|age={{Birth date and age2|2024|6|20|1996|1|28}}|caps=44|goals=3|club=[[A.D. San Carlos|San Carlos]]|clubnat=CRC}}
+{{nat fs g player|no=22|pos=GK|name=[[Orlando Mosquera]]|age={{Birth date and age2|2024|6|20|1994|12|25}}|caps=23|goals=0|club=[[Maccabi Tel Aviv F.C.|Maccabi Tel Aviv]]|clubnat=ISR}}
+{{nat fs g player|no=23|pos=DF|name=[[Michael Amir Murillo]]|age={{Birth date and age2|2024|6|20|1996|2|11}}|caps=68|goals=5|club=[[Olympique de Marseille|Marseille]]|clubnat=FRA}}
+{{nat fs g player|no=24|pos=DF|name=[[Edgardo Fariña]]|age={{Birth date and age2|2024|6|20|2001|9|21}}|caps=3|goals=0|club=[[C.S.D. Municipal|Municipal]]|clubnat=GUA}}
+{{nat fs g player|no=25|pos=DF|name=[[Roderick Miller (footballer)|Roderick Miller]]|age={{Birth date and age2|2024|6|20|1992|4|3}}|caps=38|goals=2|club=[[Turan Tovuz]]|clubnat=AZE}}
+{{nat fs g player|no=26|pos=MF|name=[[Kahiser Lenis]]|age={{Birth date and age2|2024|6|20|2000|7|23}}|caps=3|goals=2|club=[[Jaguares de Córdoba|Jaguares]]|clubnat=COL}}
+{{nat fs end}}
+
+===Bolivia===
+[[Bolivia national football team|Bolivia]] announced a reduced provisional list of 29 players plus 2 invited players on June 2, 2024.<ref>{{cite web|url=https://www.facebook.com/LaVerdeOficial/posts/pfbid0prixxonDJ7zC9FrLWk94TkTZ5X7s7ksWXvvqC2ZYeFHvEGPCDjsju3nHpfryJcg1l|title=¡CONVOCATORIA DE LA SELECCIÓN BOLIVIANA DE FÚTBOL!|publisher=[[Bolivian Football Federation]]|via=[[Facebook]]|date=2 June 2024|access-date=3 June 2024|language=es}}</ref><ref>{{cite web|url=https://www.lostiempos.com/deportes/futbol/20240602/conoce-29-convocados-bolivia-copa-america|title=Conoce a los 29 convocados de Bolivia para la Copa América|trans-title=Meet the 29 called-up players of Bolivia for the Copa América|publisher=[[Los Tiempos]]|date=2 June 2024|access-date=3 June 2024|language=es}}</ref> On June 3, defender [[Efrain Morales]] declined the call-up due to personal issues and was replaced by [[César Romero (footballer, born 2001)|César Romero]].<ref>{{cite web|url=https://www.facebook.com/LaVerdeOficial/posts/pfbid02pPCwNs5rK9cYWnRT6XJmgLoyrp4kcFPmDSWidgiE8sPQW14A78ZivHqQNy1p2AqXl|title=COMUNICADO|publisher=Bolivian Football Federation|via=[[Facebook]]|date=3 June 2024|access-date=8 June 2024|language=es}}</ref> On June 9, it was announced that [[Moisés Paniagua]] would not make the squad due to one of his parents failing to obtain a US visa in time for the competition.<ref>{{cite web|url=https://www.facebook.com/photo.php?fbid=976720067453745|title=ACLARACIÓN|publisher=Bolivian Football Federation|via=[[Facebook]]|date=9 June 2024|access-date=13 June 2024|language=es}}</ref>The final squad was announced on June 17, 2024.
+
+Head coach: {{flagicon|BRA}} [[Antônio Carlos Zago]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Carlos Lampe]]|age={{Birth date and age2|2024|6|20|1987|3|17}}|caps=55|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=2|pos=DF|name=[[Jesús Sagredo]]|age={{birth date and age2|2024|6|20|1994|3|10}}|caps=9|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=3|pos=DF|name=[[Diego Medina (footballer, born 2002)|Diego Medina]]|age={{Birth date and age2|2024|6|20|2002|1|13}}|caps=13|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=4|pos=DF|name=[[Luis Haquín]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1997|11|15}}|caps=34|goals=1|club=[[Associação Atlética Ponte Preta|Ponte Preta]]|clubnat=BRA}}
+{{nat fs g player|no=5|pos=DF|name=[[Adrián Jusino]]|age={{Birth date and age2|2024|6|20|1992|7|9}}|caps=36|goals=0|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=6|pos=MF|name=[[Leonel Justiniano]]|age={{Birth date and age2|2024|6|20|1992|7|2}}|caps=50|goals=2|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=7|pos=MF|name=[[Miguel Terceros]]|age={{Birth date and age2|2024|6|20|2004|4|25}}|caps=12|goals=1|club=[[Santos FC|Santos]]|clubnat=BRA}}
+{{nat fs g player|no=8|pos=FW|name=[[Jaume Cuéllar]]|age={{birth date and age2|2024|6|20|2001|8|23}}|caps=8|goals=0|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=9|pos=FW|name=[[César Menacho (footballer)|César Menacho]]|age={{Birth date and age2|2024|6|20|1999|8|9}}|caps=4|goals=0|club=[[Club Blooming|Blooming]]|clubnat=BOL}}
+{{nat fs g player|no=10|pos=MF|name=[[Ramiro Vaca]]|age={{Birth date and age2|2024|6|20|1999|7|1}}|caps=34|goals=4|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=11|pos=FW|name=[[Carmelo Algarañaz]]|age={{Birth date and age2|2024|6|20|1996|1|27}}|caps=23|goals=2|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=12|pos=GK|name=[[Gustavo Almada]]|age={{Birth date and age2|2024|6|20|1994|4|29}}|caps=0|goals=0|club=[[F.C. Universitario de Vinto|Universitario de Vinto]]|clubnat=BOL}}
+{{nat fs g player|no=13|pos=FW|name=[[Lucas Chávez (Bolivian footballer)|Lucas Chávez]]|age={{Birth date and age2|2024|6|20|2003|4|17}}|caps=3|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=14|pos=MF|name=[[Robson Tomé]]|age={{Birth date and age2|2024|6|20|2002|5|18}}|caps=2|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=15|pos=MF|name=[[Gabriel Villamil]]|age={{Birth date and age2|2024|6|20|2001|6|28}}|caps=17|goals=0|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs g player|no=16|pos=MF|name=[[Boris Céspedes]]|age={{Birth date and age2|2024|6|20|1995|6|19}}|caps=17|goals=1|club=[[Yverdon-Sport FC|Yverdon-Sport]]|clubnat=SUI}}
+{{nat fs g player|no=17|pos=DF|name=[[Roberto Fernández (Bolivian footballer)|Roberto Fernández]]|age={{birth date and age2|2024|6|20|1999|7|12}}|caps=35|goals=1|club=[[FC Baltika Kaliningrad|Baltika Kaliningrad]]|clubnat=RUS}}
+{{nat fs g player|no=18|pos=FW|name=[[Rodrigo Ramallo]]|age={{Birth date and age2|2024|6|20|1990|10|14}}|caps=40|goals=7|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=19|pos=FW|name=[[Bruno Miranda]]|age={{Birth date and age2|2024|6|20|1998|2|10}}|caps=18|goals=2|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=20|pos=MF|name=[[Fernando Saucedo]]|age={{Birth date and age2|2024|6|20|1990|3|15}}|caps=24|goals=1|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=21|pos=DF|name=[[José Sagredo]]|age={{birth date and age2|2024|6|20|1994|3|10}}|caps=54|goals=1|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=22|pos=MF|name=[[Héctor Cuéllar]]|age={{Birth date and age2|2024|6|20|2000|8|16}}|caps=8|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=23|pos=GK|name=[[Guillermo Viscarra]]|age={{Birth date and age2|2024|6|20|1993|2|7}}|caps=21|goals=0|club=[[The Strongest]]|clubnat=BOL}}
+{{nat fs g player|no=24|pos=DF|name=[[Marcelo Suárez (Bolivian footballer)|Marcelo Suárez]]|age={{Birth date and age2|2024|6|20|2001|8|29}}|caps=8|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs g player|no=25|pos=DF|name=[[Yomar Rocha]]|age={{Birth date and age2|2024|6|20|2003|6|21}}|caps=3|goals=0|club=[[Club Bolívar|Bolívar]]|clubnat=BOL}}
+{{nat fs g player|no=26|pos=MF|name=[[Adalid Terrazas]]|age={{Birth date and age2|2024|6|20|2000|8|25}}|caps=0|goals=0|club=[[Club Always Ready|Always Ready]]|clubnat=BOL}}
+{{nat fs end}}
+
+==Group D==
+
+===Brazil===
+[[Brazil national football team|Brazil]] announced their original 23-man final squad on May 10, 2024.<ref>{{cite web |url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/dorival-junior-anuncia-jogadores-para-a-disputa-da-copa-america|title=Dorival Júnior anuncia jogadores para a disputa da Copa América|trans-title=Dorival Júnior announces players for the Copa América contest|publisher=[[Brazilian Football Confederation]]|website=cbf.com.br|date=10 May 2024|access-date=10 May 2024|language=pt-br}}</ref> The final squad was completed by adding three players, after CONMEBOL decided to expand the final lists to 26 players. Additionally, goalkeeper [[Ederson (footballer, born 1993)|Ederson]] was replaced by [[Rafael (footballer, born 1989)|Rafael]] due to injury.<ref>{{cite web|url=https://www.cbf.com.br/selecao-brasileira/noticias/selecao-masculina/dorival-junior-completa-lista-da-copa-america|title=Dorival Júnior completa lista da Copa América|trans-title=Dorival Júnior completes Copa América list|publisher=Brazilian Football Confederation|date=19 May 2024|access-date=20 May 2024|language=pt-br}} </ref>
+
+Head coach: [[Dorival Júnior]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Alisson Becker|Alisson]]|age={{birth date and age2|2024|6|20|1992|10|2}}|caps=65|goals=0|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=2|pos=DF|name=[[Danilo (footballer, born July 1991)|Danilo]]|other=[[Captain (association football)|captain]]|age={{birth date and age2|2024|6|20|1991|7|15}}|caps=57|goals=1|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=3|pos=DF|name=[[Éder Militão]]|age={{birth date and age2|2024|6|20|1998|1|18}}|caps=31|goals=2|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=DF|name=[[Marquinhos]]|age={{birth date and age2|2024|6|20|1994|5|14}}|caps=85|goals=7|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=5|pos=MF|name=[[Bruno Guimarães]]|age={{birth date and age2|2024|6|20|1997|11|16}}|caps=22|goals=1|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=6|pos=DF|name=[[Wendell (footballer, born 1993)|Wendell]]|age={{Birth date and age2|2024|6|20|1993|7|20}}|caps=3|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=7|pos=FW|name=[[Vinícius Júnior]]|age={{birth date and age2|2024|6|20|2000|7|12}}|caps=30|goals=3|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=8|pos=MF|name=[[Lucas Paquetá]]|age={{birth date and age2|2024|6|20|1997|8|27}}|caps=46|goals=10|club=[[West Ham United F.C.|West Ham United]]|clubnat=ENG}}
+{{nat fs g player|no=9|pos=FW|name=[[Endrick (footballer, born 2006)|Endrick]]|age={{birth date and age2|2024|6|20|2006|7|21}}|caps=6|goals=3|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=10|pos=FW|name=[[Rodrygo]]|age={{birth date and age2|2024|6|20|2001|1|9}}|caps=23|goals=6|club=[[Real Madrid CF|Real Madrid]]|clubnat=ESP}}
+{{nat fs g player|no=11|pos=FW|name=[[Raphinha]]|age={{birth date and age2|2024|6|20|1996|12|14}}|caps=23|goals=6|club=[[FC Barcelona|Barcelona]]|clubnat=ESP}}
+{{nat fs g player|no=12|pos=GK|name=[[Bento (footballer)|Bento]]|age={{birth date and age2|2024|6|20|1999|6|10}}|caps=2|goals=0|club=[[Club Athletico Paranaense|Athletico Paranaense]]|clubnat=BRA}}
+{{nat fs g player|no=13|pos=DF|name=[[Yan Couto]]|age={{Birth date and age2|2024|6|20|2002|6|3}}|caps=4|goals=0|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|no=14|pos=DF|name=[[Gabriel Magalhães]]|age={{birth date and age2|2024|6|20|1997|12|19}}|caps=6|goals=1|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[João Gomes (footballer, born 2001)|João Gomes]]|age={{birth date and age2|2024|6|20|2001|2|12}}|caps=4|goals=0|club=[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]|clubnat=ENG}}
+{{nat fs g player|no=16|pos=DF|name=[[Guilherme Arana]]|age={{Birth date and age2|2024|6|20|1997|4|1}}|caps=7|goals=0|club=[[Clube Atlético Mineiro|Atlético Mineiro]]|clubnat=BRA}}
+{{nat fs g player|no=17|pos=DF|name=[[Lucas Beraldo]]|age={{Birth date and age2|2024|6|20|2003|11|24}}|caps=3|goals=0|club=[[Paris Saint-Germain F.C.|Paris Saint-Germain]]|clubnat=FRA}}
+{{nat fs g player|no=18|pos=MF|name=[[Douglas Luiz]]|age={{birth date and age2|2024|6|20|1998|5|9}}|caps=15|goals=0|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=MF|name=[[Andreas Pereira]]|age={{birth date and age2|2024|6|20|1996|1|1}}|caps=5|goals=1|club=[[Fulham F.C.|Fulham]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=FW|name=[[Sávio (footballer, born 2004)|Sávio]]|age={{birth date and age2|2024|6|20|2004|4|10}}|caps=3|goals=0|club=[[Girona FC|Girona]]|clubnat=ESP}}
+{{nat fs g player|no=21|pos=FW|name=[[Evanilson (footballer, born 1999)|Evanilson]]|age={{Birth date and age2|2024|6|20|1999|10|6}}|caps=1|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs g player|no=22|pos=FW|name=[[Gabriel Martinelli]]|age={{birth date and age2|2024|6|20|2001|6|18}}|caps=11|goals=2|club=[[Arsenal F.C.|Arsenal]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=GK|name=[[Rafael (footballer, born 1989)|Rafael]]|age={{birth date and age2|2024|6|20|1989|6|23}}|caps=0|goals=0|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=24|pos=MF|name=[[Éderson (footballer, born 1999)|Éderson]]|age={{birth date and age2|2024|6|20|1999|7|7}}|caps=1|goals=0|club=[[Atalanta BC|Atalanta]]|clubnat=ITA}}
+{{nat fs g player|no=25|pos=DF|name=[[Gleison Bremer|Bremer]]|age={{Birth date and age2|2024|6|20|1997|3|18}}|caps=5|goals=0|club=[[Juventus FC|Juventus]]|clubnat=ITA}}
+{{nat fs g player|no=26|pos=FW|name=[[Pepê (footballer, born 1997)|Pepê]]|age={{birth date and age2|2024|6|20|1997|2|24}}|caps=2|goals=0|club=[[FC Porto|Porto]]|clubnat=POR}}
+{{nat fs end}}
+
+===Colombia===
+[[Colombia national football team|Colombia]] announced their 26-man final squad on June 14, 2024.<ref>{{cite web|url=https://www.fcf.com.co/2024/06/14/convocatoria-de-la-seleccion-masculina-de-mayores-para-la-conmebol-copa-america-usa-2024/|title=Convocatoria de la Selección Masculina de Mayores para la CONMEBOL Copa América USA 2024|publisher=[[Colombian Football Federation]]|date=June 14, 2024|access-date=June 14, 2024|language=es}}</ref><ref>{{cite web|url=https://www.wradio.com.co/2024/06/14/oficial-esta-es-la-lista-de-convocados-de-la-seleccion-colombia-para-la-copa-america/|title=Oficial: esta es la lista de convocados de la Selección Colombia para la Copa América|publisher=[[W Radio (Colombia)|W Radio]]|last=Pérez|first=Omar|date=June 14, 2024|access-date=June 14, 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Néstor Lorenzo]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[David Ospina]]|age={{Birth date and age2|2024|6|20|1988|8|31}}|caps=128|goals=0|club=[[Al Nassr FC|Al Nassr]]|clubnat=KSA}}
+{{nat fs g player|no=2|pos=DF|name=[[Carlos Cuesta (footballer)|Carlos Cuesta]]|age={{Birth date and age2|2024|6|20|1999|3|9}}|caps=14|goals=0|club=[[K.R.C. Genk|Genk]]|clubnat=BEL}}
+{{nat fs g player|no=3|pos=DF|name=[[Jhon Lucumí]]|age={{Birth date and age2|2024|6|20|1998|6|26}}|caps=19|goals=0|club=[[Bologna FC 1909|Bologna]]|clubnat=ITA}}
+{{nat fs g player|no=4|pos=DF|name=[[Santiago Arias]]|age={{Birth date and age2|2024|6|20|1992|1|13}}|caps=57|goals=0|club=[[Esporte Clube Bahia|Bahia]]|clubnat=BRA}}
+{{nat fs g player|no=5|pos=MF|name=[[Kevin Castaño]]|age={{Birth date and age2|2024|6|20|2000|9|29}}|caps=9|goals=0|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=MF|name=[[Richard Ríos]]|age={{Birth date and age2|2024|6|20|2000|6|2}}|caps=7|goals=1|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=7|pos=FW|name=[[Luis Díaz (footballer, born 1997)|Luis Díaz]]|age={{Birth date and age2|2024|6|20|1997|1|13}}|caps=49|goals=12|club=[[Liverpool F.C.|Liverpool]]|clubnat=ENG}}
+{{nat fs g player|no=8|pos=MF|name=[[Jorge Carrascal]]|age={{Birth date and age2|2024|6|20|1998|5|25}}|caps=14|goals=2|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=9|pos=FW|name=[[Miguel Borja]]|age={{Birth date and age2|2024|6|20|1993|1|26}}|caps=28|goals=8|club=[[Club Atlético River Plate|River Plate]]|clubnat=ARG}}
+{{nat fs g player|no=10|pos=MF|name=[[James Rodríguez]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1991|7|12}}|caps=100|goals=27|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=11|pos=MF|name=[[Jhon Arias (footballer)|Jhon Arias]]|age={{Birth date and age2|2024|6|20|1997|9|21}}|caps=15|goals=3|club=[[Fluminense FC|Fluminense]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Camilo Vargas]]|age={{Birth date and age2|2024|6|20|1989|3|9}}|caps=23|goals=0|club=[[Atlas F.C.|Atlas]]|clubnat=MEX}}
+{{nat fs g player|no=13|pos=DF|name=[[Yerry Mina]]|age={{Birth date and age2|2024|6|20|1994|9|24}}|caps=44|goals=7|club=[[Cagliari Calcio|Cagliari]]|clubnat=ITA}}
+{{nat fs g player|no=14|pos=FW|name=[[Jhon Durán]]|age={{Birth date and age2|2024|6|20|2003|12|13}}|caps=9|goals=1|club=[[Aston Villa F.C.|Aston Villa]]|clubnat=ENG}}
+{{nat fs g player|no=15|pos=MF|name=[[Mateus Uribe]]|age={{Birth date and age2|2024|6|20|1991|3|21}}|caps=55|goals=6|club=[[Al Sadd SC|Al Sadd]]|clubnat=QAT}}
+{{nat fs g player|no=16|pos=MF|name=[[Jefferson Lerma]]|age={{Birth date and age2|2024|6|20|1994|10|25}}|caps=43|goals=1|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=17|pos=DF|name=[[Johan Mojica]]|age={{Birth date and age2|2024|6|20|1992|8|21}}|caps=25|goals=1|club=[[CA Osasuna|Osasuna]]|clubnat=ESP}}
+{{nat fs g player|no=18|pos=FW|name=[[Luis Sinisterra]]|age={{Birth date and age2|2024|6|20|1999|6|17}}|caps=13|goals=4|club=[[AFC Bournemouth|Bournemouth]]|clubnat=ENG}}
+{{nat fs g player|no=19|pos=FW|name=[[Rafael Santos Borré]]|age={{Birth date and age2|2024|6|20|1995|9|15}}|caps=33|goals=6|club=[[Sport Club Internacional|Internacional]]|clubnat=BRA}}
+{{nat fs g player|no=20|pos=MF|name=[[Juan Fernando Quintero]]|age={{Birth date and age2|2024|6|20|1993|1|18}}|caps=35|goals=4|club=[[Racing Club de Avellaneda|Racing]]|clubnat=ARG}}
+{{nat fs g player|no=21|pos=DF|name=[[Daniel Muñoz (footballer)|Daniel Muñoz]]|age={{Birth date and age2|2024|6|20|1996|5|26}}|caps=27|goals=1|club=[[Crystal Palace F.C.|Crystal Palace]]|clubnat=ENG}}
+{{nat fs g player|no=22|pos=MF|name=[[Yáser Asprilla]]|age={{Birth date and age2|2024|6|20|2003|11|19}}|caps=5|goals=2|club=[[Watford F.C.|Watford]]|clubnat=ENG}}
+{{nat fs g player|no=23|pos=DF|name=[[Davinson Sánchez]]|age={{Birth date and age2|2024|6|20|1996|6|12}}|caps=59|goals=1|club=[[Galatasaray S.K. (football)|Galatasaray]]|clubnat=TUR}}
+{{nat fs g player|no=24|pos=FW|name=[[Jhon Córdoba]]|age={{Birth date and age2|2024|6|20|1993|5|11}}|caps=4|goals=2|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=25|pos=GK|name=[[Álvaro Montero (Colombian footballer)|Álvaro Montero]]|age={{Birth date and age2|2024|6|20|1995|3|29}}|caps=8|goals=0|club=[[Millonarios F.C.|Millonarios]]|clubnat=COL}}
+{{nat fs g player|no=26|pos=DF|name=[[Deiver Machado]]|age={{Birth date and age2|2024|6|20|1992|9|2}}|caps=10|goals=0|club=[[RC Lens|Lens]]|clubnat=FRA}}
+{{nat fs end}}
+
+===Paraguay===
+[[Paraguay national football team|Paraguay]] announced their 26-man final squad on June 15, 2024.<ref>{{cite web|url=https://www.apf.org.py/estan-los-26-convocados-para-la-conmebol-copa-america-usa-2024-4?nid=19342|title=Están los 26 convocados para la CONMEBOL Copa América USA 2024|publisher=[[Paraguayan Football Association]]|date=June 15, 2024|access-date=June 15, 2024|language=es}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Daniel Garnero]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Carlos Coronel]]|age={{Birth date and age2|2024|6|20|1996|12|29}}|caps=9|goals=0|club=[[New York Red Bulls]]|clubnat=USA}}
+{{nat fs g player|no=2|pos=DF|name=[[Iván Ramírez (footballer, born 1994)|Iván Ramírez]]|age={{Birth date and age2|2024|6|20|1994|12|8}}|caps=6|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs g player|no=3|pos=DF|name=[[Omar Alderete]]|age={{Birth date and age2|2024|6|20|1996|12|26}}|caps=17|goals=0|club=[[Getafe CF|Getafe]]|clubnat=ESP}}
+{{nat fs g player|no=4|pos=DF|name=[[Matías Espinoza]]|age={{Birth date and age2|2024|6|20|1997|9|19}}|caps=4|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs g player|no=5|pos=DF|name=[[Fabián Balbuena]]|age={{Birth date and age2|2024|6|20|1991|8|23}}|caps=39|goals=2|club=[[FC Dynamo Moscow|Dynamo Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=6|pos=DF|name=[[Júnior Alonso]]|age={{Birth date and age2|2024|6|20|1993|2|9}}|caps=54|goals=2|club=[[FC Krasnodar|Krasnodar]]|clubnat=RUS}}
+{{nat fs g player|no=7|pos=FW|name=[[Derlis González]]|age={{Birth date and age2|2024|6|20|1994|3|20}}|caps=51|goals=9|club=[[Club Olimpia|Olimpia]]|clubnat=PAR}}
+{{nat fs g player|no=8|pos=MF|name=[[Damián Bobadilla]]|age={{Birth date and age2|2024|6|20|2001|7|11}}|caps=1|goals=0|club=[[São Paulo FC|São Paulo]]|clubnat=BRA}}
+{{nat fs g player|no=9|pos=FW|name=[[Adam Bareiro]]|age={{Birth date and age2|2024|6|20|1996|7|26}}|caps=6|goals=0|club=[[San Lorenzo de Almagro|San Lorenzo]]|clubnat=ARG}}
+{{nat fs g player|no=10|pos=MF|name=[[Miguel Almirón]]|age={{Birth date and age2|2024|6|20|1994|2|10}}|caps=55|goals=7|club=[[Newcastle United F.C.|Newcastle United]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=FW|name=[[Ángel Romero (footballer)|Ángel Romero]]|age={{Birth date and age2|2024|6|20|1992|7|4}}|caps=43|goals=8|club=[[Sport Club Corinthians Paulista|Corinthians]]|clubnat=BRA}}
+{{nat fs g player|no=12|pos=GK|name=[[Alfredo Aguilar]]|age={{Birth date and age2|2024|6|20|1988|7|18}}|caps=3|goals=0|club=[[Sportivo Luqueño]]|clubnat=PAR}}
+{{nat fs g player|no=13|pos=DF|name=[[Néstor Giménez]]|age={{Birth date and age2|2024|6|20|1997|7|24}}|caps=2|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs g player|no=14|pos=MF|name=[[Andrés Cubas]]|age={{Birth date and age2|2024|6|20|1996|5|22}}|caps=19|goals=0|club=[[Vancouver Whitecaps FC]]|clubnat=CAN}}
+{{nat fs g player|no=15|pos=DF|name=[[Gustavo Gómez]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1993|5|6}}|caps=74|goals=4|club=[[SE Palmeiras|Palmeiras]]|clubnat=BRA}}
+{{nat fs g player|no=16|pos=MF|name=[[Matías Rojas (footballer, born 1995)|Matías Rojas]]|age={{Birth date and age2|2024|6|20|1995|11|3}}|caps=19|goals=1|club=[[Inter Miami CF]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=MF|name=[[Kaku (footballer)|Alejandro Romero Gamarra]]|age={{Birth date and age2|2024|6|20|1995|1|11}}|caps=20|goals=5|club=[[Al Ain FC|Al Ain]]|clubnat=UAE}}
+{{nat fs g player|no=18|pos=FW|name=[[Alex Arce]]|age={{Birth date and age2|2024|6|20|1995|6|16}}|caps=3|goals=0|club=[[L.D.U. Quito|LDU Quito]]|clubnat=ECU}}
+{{nat fs g player|no=19|pos=FW|name=[[Julio Enciso (footballer, born 2004)|Julio Enciso]]|age={{Birth date and age2|2024|6|20|2004|1|23}}|caps=14|goals=0|club=[[Brighton & Hove Albion F.C.|Brighton & Hove Albion]]|clubnat=ENG}}
+{{nat fs g player|no=20|pos=MF|name=[[Richard Sánchez (Paraguayan footballer)|Richard Sánchez]]|age={{Birth date and age2|2024|6|20|1996|3|29}}|caps=34|goals=1|club=[[Club América|América]]|clubnat=MEX}}
+{{nat fs g player|no=21|pos=MF|name=[[Fabrizio Peralta]]|age={{Birth date and age2|2024|6|20|2002|8|2}}|caps=1|goals=0|club=[[Cruzeiro Esporte Clube|Cruzeiro]]|clubnat=BRA}}
+{{nat fs g player|no=22|pos=GK|name=[[Rodrigo Morínigo]]|age={{Birth date and age2|2024|6|20|1998|10|7}}|caps=0|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs g player|no=23|pos=MF|name=[[Mathías Villasanti]]|age={{Birth date and age2|2024|6|20|1997|1|24}}|caps=37|goals=0|club=[[Grêmio FBPA|Grêmio]]|clubnat=BRA}}
+{{nat fs g player|no=24|pos=FW|name=[[Ramón Sosa]]|age={{Birth date and age2|2024|6|20|1999|8|31}}|caps=10|goals=0|club=[[Talleres de Córdoba|Talleres]]|clubnat=ARG}}
+{{nat fs g player|no=25|pos=DF|name=[[Gustavo Velázquez]]|age={{Birth date and age2|2024|6|20|1991|4|17}}|caps=2|goals=1|club=[[Newell's Old Boys]]|clubnat=ARG}}
+{{nat fs g player|no=26|pos=MF|name=[[Hernesto Caballero]]|age={{Birth date and age2|2024|6|20|1991|4|9}}|caps=3|goals=0|club=[[Club Libertad|Libertad]]|clubnat=PAR}}
+{{nat fs end|background=#0B0B3F}}
+
+===Costa Rica===
+[[Costa Rica national football team|Costa Rica]] announced their 26-man final squad on June 11, 2024.<ref>{{Cite web |title=🎮 𝙇𝙊𝙎 𝙀𝙇𝙀𝙂𝙄𝘿𝙊𝙎 👾 🏆 Esta es la convocatoria del profesor Gustavo Alfaro para disputar la @CopaAmerica 🤩🙌 ¡VAMOS SELE! 🇨🇷 #FCRF #LaSele |url=https://x.com/fedefutbolcrc/status/1800593647202705435 |access-date=2024-06-12 |website=X (formerly Twitter) |url-status=live |archive-url=https://archive.ph/RJGM0 |archive-date=2024-06-14}}</ref>
+
+Head coach: {{flagicon|ARG}} [[Gustavo Alfaro]]
+
+{{nat fs g start}}
+{{nat fs g player|no=1|pos=GK|name=[[Kevin Chamorro]]|age={{Birth date and age2|2024|6|20|2000|4|8}}|caps=11|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=2|pos=DF|name=[[Gerald Taylor (footballer)|Gerald Taylor]]|age={{Birth date and age2|2024|6|20|2001|5|28}}|caps=5|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=3|pos=DF|name=[[Jeyland Mitchell]]|age={{Birth date and age2|2024|6|20|2004|9|29}}|caps=4|goals=0|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs g player|no=4|pos=DF|name=[[Juan Pablo Vargas]]|age={{Birth date and age2|2024|6|20|1995|6|6}}|caps=22|goals=3|club=[[Millonarios F.C.|Millonarios]]|clubnat=COL}}
+{{nat fs g player|no=5|pos=DF|name=[[Fernán Faerrón]]|age={{Birth date and age2|2024|6|20|2000|8|22}}|caps=2|goals=0|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=6|pos=DF|name=[[Julio Cascante]]|age={{Birth date and age2|2024|6|20|1993|10|3}}|caps=8|goals=1|club=[[Austin FC]]|clubnat=USA}}
+{{nat fs g player|no=7|pos=FW|name=[[Anthony Contreras]]|age={{Birth date and age2|2024|6|20|2000|1|29}}|caps=27|goals=4|club=[[Pafos FC|Pafos]]|clubnat=CYP}}
+{{nat fs g player|no=8|pos=DF|name=[[Joseph Mora]]|age={{Birth date and age2|2024|6|20|1993|1|15}}|caps=9|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=9|pos=FW|name=[[Manfred Ugalde]]|age={{Birth date and age2|2024|6|20|2002|5|25}}|caps=10|goals=3|club=[[FC Spartak Moscow|Spartak Moscow]]|clubnat=RUS}}
+{{nat fs g player|no=10|pos=MF|name=[[Brandon Aguilera]]|age={{Birth date and age2|2024|6|20|2003|6|28}}|caps=16|goals=0|club=[[Nottingham Forest F.C.|Nottingham Forest]]|clubnat=ENG}}
+{{nat fs g player|no=11|pos=MF|name=[[Ariel Lassiter]]|age={{Birth date and age2|2024|6|20|1994|9|27}}|caps=21|goals=1|club=[[CF Montréal]]|clubnat=CAN}}
+{{nat fs g player|no=12|pos=FW|name=[[Joel Campbell]]|age={{Birth date and age2|2024|6|20|1992|6|26}}|caps=139|goals=27|club=[[Liga Deportiva Alajuelense|Alajuelense]]|clubnat=CRC}}
+{{nat fs g player|no=13|pos=MF|name=[[Jefferson Brenes]]|age={{Birth date and age2|2024|6|20|1997|4|13}}|caps=12|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=14|pos=MF|name=[[Orlando Galo]]|age={{Birth date and age2|2024|6|20|2000|8|11}}|caps=16|goals=3|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=15|pos=DF|name=[[Francisco Calvo]]|other=[[Captain (association football)|captain]]|age={{Birth date and age2|2024|6|20|1992|7|8}}|caps=93|goals=11|club=[[FC Juárez|Juárez]]|clubnat=MEX}}
+{{nat fs g player|no=16|pos=MF|name=[[Alejandro Bran]]|age={{Birth date and age2|2024|6|20|2001|3|5}}|caps=6|goals=0|club=[[Minnesota United FC]]|clubnat=USA}}
+{{nat fs g player|no=17|pos=FW|name=[[Warren Madrigal]]|age={{Birth date and age2|2024|6|20|2004|7|24}}|caps=12|goals=1|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs g player|no=18|pos=GK|name=[[Aarón Cruz]]|age={{Birth date and age2|2024|6|20|1991|5|25}}|caps=4|goals=0|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=19|pos=FW|name=[[Kenneth Vargas]]|age={{Birth date and age2|2024|6|20|2002|4|17}}|caps=6|goals=0|club=[[Heart of Midlothian F.C.|Heart of Midlothian]]|clubnat=SCO}}
+{{nat fs g player|no=20|pos=MF|name=[[Josimar Alcócer]]|age={{Birth date and age2|2024|6|20|2004|7|7}}|caps=11|goals=1|club=[[K.V.C. Westerlo|Westerlo]]|clubnat=BEL}}
+{{nat fs g player|no=21|pos=FW|name=[[Álvaro Zamora]]|age={{Birth date and age2|2024|6|20|2002|3|9}}|caps=11|goals=1|club=[[Aris Thessaloniki F.C.|Aris]]|clubnat=GRE}}
+{{nat fs g player|no=22|pos=DF|name=[[Haxzel Quirós]]|age={{Birth date and age2|2024|6|20|1998|6|3}}|caps=7|goals=0|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=23|pos=GK|name=[[Patrick Sequeira]]|age={{Birth date and age2|2024|6|20|1999|3|1}}|caps=5|goals=0|club=[[UD Ibiza|Ibiza]]|clubnat=ESP}}
+{{nat fs g player|no=24|pos=FW|name=[[Andy Rojas (footballer)|Andy Rojas]]|age={{Birth date and age2|2024|6|20|2005|12|5}}|caps=1|goals=1|club=[[C.S. Herediano|Herediano]]|clubnat=CRC}}
+{{nat fs g player|no=25|pos=DF|name=[[Yeison Molina]]|age={{Birth date and age2|2024|6|20|1996|1|25}}|caps=1|goals=0|club=[[A.D. Guanacasteca|Guanacasteca]]|clubnat=CRC}}
+{{nat fs g player|no=26|pos=DF|name=[[Douglas Sequeira (footballer, born 2003)|Douglas Sequeira]]|age={{Birth date and age2|2024|6|20|2003|9|16}}|caps=0|goals=0|club=[[Deportivo Saprissa|Saprissa]]|clubnat=CRC}}
+{{nat fs end}}
